@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "首页",
+    "categories": "类别",
+    "compare": "比较",
+    "newsletter": "资讯订阅",
+    "legal": "法律条款"
+  },
+  "categories": {
+    "all": "全部",
+    "image": "图像AI",
+    "video": "视频AI",
+    "voice": "语音AI",
+    "music": "音乐AI",
+    "writing": "写作AI",
+    "chat": "聊天AI",
+    "code": "代码AI",
+    "agents": "AI代理",
+    "search": "搜索AI",
+    "productivity": "生产力",
+    "design": "设计",
+    "nocode": "无代码AI"
+  },
+  "hero": {
+    "badge": "{{count}}个可用 · 更新于{{date}}",
+    "title_pre": "精选",
+    "title_highlight": "AI工具折扣",
+    "subtitle": "为您实际使用的AI工具精选的促销代码和独家优惠。复制、保存、使用。",
+    "search_placeholder": "搜索 Midjourney, ChatGPT, Cursor…"
+  },
+  "card": {
+    "get_deal": "获取优惠",
+    "no_code": "无需代码",
+    "verified_today": "今日已验证",
+    "verified": "已验证",
+    "sourced_via": "来源：",
+    "add_compare": "添加至比较",
+    "remove_compare": "从比较中移除"
+  },
+  "empty": {
+    "no_results": "没有找到符合您搜索条件的优惠。"
+  },
+  "footer": {
+    "rights": "部分链接通过 Skimlinks 进行变现。",
+    "legal": "法律条款",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "affiliate": "联盟披露",
+    "disclosure": "披露：GetAIDiscounts.com 是一个由我们的观众支持的独立目录。当您通过我们网站上的链接购买时，我们可能会赚取联盟佣金，而您无需支付额外费用。我们的编辑选择是独立的，不受我们的联盟地位影响。"
+  },
+  "newsletter": {
+    "title": "在您的收件箱中获取AI优惠",
+    "subtitle": "每周一封简短邮件，包含最新验证的AI折扣。",
+    "placeholder": "you@domain.com",
+    "subscribe": "订阅",
+    "success": "您已加入。请检查您的收件箱。",
+    "error": "无法订阅。请重试。"
+  },
+  "compare": {
+    "title": "正在比较{{count}}个工具",
+    "clear": "全部清除",
+    "open": "打开比较"
+  },
+  "cookie": {
+    "text": "我们使用Cookie以确保您获得最佳体验并支持我们的网站。",
+    "accept": "接受"
+  },
+  "lang": {
+    "label": "语言"
+  }
+}

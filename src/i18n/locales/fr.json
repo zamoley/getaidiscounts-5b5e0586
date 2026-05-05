@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "categories": "Catégories",
+    "compare": "Comparer",
+    "newsletter": "Newsletter",
+    "legal": "Légal"
+  },
+  "categories": {
+    "all": "Tout",
+    "image": "IA d'Image",
+    "video": "IA de Vidéo",
+    "voice": "IA de Voix",
+    "music": "IA de Musique",
+    "writing": "IA d'Écriture",
+    "chat": "IA de Chat",
+    "code": "IA de Code",
+    "agents": "Agents IA",
+    "search": "IA de Recherche",
+    "productivity": "Productivité",
+    "design": "Design",
+    "nocode": "IA sans Code"
+  },
+  "hero": {
+    "badge": "{{count}} actives · Mis à jour le {{date}}",
+    "title_pre": "L'annuaire premium des",
+    "title_highlight": "réductions sur les outils d'IA",
+    "subtitle": "Codes promotionnels triés sur le volet et offres exclusives sur les outils d'IA que vous utilisez vraiment. Copiez, économisez, lancez.",
+    "search_placeholder": "Rechercher Midjourney, ChatGPT, Cursor…"
+  },
+  "card": {
+    "get_deal": "Obtenir l'offre",
+    "no_code": "SANS CODE",
+    "verified_today": "Vérifié aujourd'hui",
+    "verified": "Vérifié",
+    "sourced_via": "Source via",
+    "add_compare": "Ajouter au comparateur",
+    "remove_compare": "Retirer du comparateur"
+  },
+  "empty": {
+    "no_results": "Aucune offre ne correspond à votre recherche."
+  },
+  "footer": {
+    "rights": "Certains liens sont monétisés via Skimlinks.",
+    "legal": "Légal",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "affiliate": "Divulgation d'affiliation",
+    "disclosure": "Divulgation : GetAIDiscounts.com est un annuaire indépendant soutenu par notre public. Lorsque vous achetez via des liens sur notre site, nous pouvons gagner une commission d'affiliation sans frais supplémentaires pour vous. Nos choix éditoriaux sont indépendants et ne sont pas influencés par notre statut d'affilié."
+  },
+  "newsletter": {
+    "title": "Recevez les offres IA dans votre boîte de réception",
+    "subtitle": "Un court e-mail par semaine avec les réductions IA vérifiées les plus récentes.",
+    "placeholder": "vous@domaine.fr",
+    "subscribe": "S'abonner",
+    "success": "Vous êtes inscrit. Vérifiez votre boîte de réception.",
+    "error": "Impossible de s'abonner. Réessayez."
+  },
+  "compare": {
+    "title": "Comparaison de {{count}} outils",
+    "clear": "Tout effacer",
+    "open": "Ouvrir la comparaison"
+  },
+  "cookie": {
+    "text": "Nous utilisons des cookies pour vous garantir la meilleure expérience et pour soutenir notre site.",
+    "accept": "Accepter"
+  },
+  "lang": {
+    "label": "Langue"
+  }
+}
