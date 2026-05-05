@@ -7,6 +7,7 @@ import es from "./locales/es.json";
 import de from "./locales/de.json";
 import fr from "./locales/fr.json";
 import uk from "./locales/uk.json";
+import pt from "./locales/pt.json";
 
 export const SUPPORTED_LANGUAGES = [
   { code: "en", label: "English", native: "English" },
