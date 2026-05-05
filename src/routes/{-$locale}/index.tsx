@@ -66,16 +66,19 @@ function Index() {
   const { t } = useTranslation();
   useLocale();
 
-  const categories = useMemo(
-    () => Array.from(new Set(deals.map(d => d.category).filter(Boolean))) as string[],
-    [deals]
-  );
-
   const categoryCounts = useMemo(() => {
     const m = new Map<string, number>();
     for (const d of deals) if (d.category) m.set(d.category, (m.get(d.category) ?? 0) + 1);
     return m;
   }, [deals]);
+
+  const categories = useMemo(() => {
+    const list = Array.from(new Set(deals.map(d => d.category).filter(Boolean))) as string[];
+    return list.sort((a, b) => {
+      const diff = (categoryCounts.get(b) ?? 0) - (categoryCounts.get(a) ?? 0);
+      return diff !== 0 ? diff : a.localeCompare(b);
+    });
+  }, [deals, categoryCounts]);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
