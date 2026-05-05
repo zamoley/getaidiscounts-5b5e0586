@@ -79,13 +79,13 @@ function Index() {
       {/* Filters */}
       <section className="mx-auto max-w-7xl px-6">
         <div className="flex flex-wrap items-stretch justify-center gap-2.5">
-          <CategoryChip active={category === null} onClick={() => setCategory(null)} icon={LayoutGrid} label="All" />
+          <CategoryChip active={category === null} onClick={() => setCategory(null)} emoji="✨" label="All" />
           {categories.map(c => (
             <CategoryChip
               key={c}
               active={category === c}
               onClick={() => setCategory(c)}
-              icon={iconForCategory(c)}
+              emoji={emojiForCategory(c)}
               label={c}
             />
           ))}
@@ -125,40 +125,44 @@ function Index() {
   );
 }
 
-function iconForCategory(c: string): LucideIcon {
+function emojiForCategory(c: string): string {
   const k = c.toLowerCase();
-  if (k.includes("image")) return ImageIcon;
-  if (k.includes("video")) return Video;
-  if (k.includes("voice") || k.includes("audio")) return Mic;
-  if (k.includes("music")) return Music;
-  if (k.includes("writ")) return PenLine;
-  if (k.includes("chat")) return MessageSquare;
-  if (k.includes("code") || k.includes("dev")) return Code2;
-  if (k.includes("agent")) return Bot;
-  if (k.includes("search")) return Globe;
-  if (k.includes("product")) return Briefcase;
-  return Wand2;
+  if (k.includes("image")) return "🎨";
+  if (k.includes("video")) return "🎬";
+  if (k.includes("voice") || k.includes("audio")) return "🎙️";
+  if (k.includes("music")) return "🎵";
+  if (k.includes("writ")) return "✍️";
+  if (k.includes("chat")) return "💬";
+  if (k.includes("code") || k.includes("dev")) return "💻";
+  if (k.includes("agent")) return "🤖";
+  if (k.includes("search")) return "🔎";
+  if (k.includes("product")) return "📊";
+  if (k.includes("design")) return "🖌️";
+  if (k.includes("market")) return "📣";
+  if (k.includes("data")) return "📈";
+  if (k.includes("app") || k.includes("build")) return "🏗️";
+  return "⚡";
 }
 
 function CategoryChip({
-  active, onClick, icon: Icon, label,
+  active, onClick, emoji, label,
 }: {
   active: boolean;
   onClick: () => void;
-  icon: LucideIcon;
+  emoji: string;
   label: string;
 }) {
   return (
     <button
       onClick={onClick}
       aria-pressed={active}
-      className={`group inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-medium transition-all ${
+      className={`group inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold transition-all ${
         active
-          ? "border-electric bg-electric/15 text-electric ring-1 ring-electric/50 shadow-[0_0_24px_-4px_var(--electric)]"
-          : "border-border bg-card/70 text-muted-foreground hover:border-electric/40 hover:text-foreground hover:bg-card"
+          ? "border-electric bg-electric/15 text-electric ring-2 ring-electric/60 shadow-[0_0_28px_-4px_var(--electric)]"
+          : "border-border bg-card/70 text-foreground/80 hover:border-electric/40 hover:text-foreground hover:bg-card"
       }`}
     >
-      <Icon className={`h-4 w-4 transition-transform ${active ? "text-electric" : "text-muted-foreground group-hover:text-electric"}`} />
+      <span className="text-base leading-none" aria-hidden>{emoji}</span>
       <span>{label}</span>
     </button>
   );
