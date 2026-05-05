@@ -47,6 +47,7 @@ function RootShell({ children }: { children: React.ReactNode }) {
       <head><HeadContent /></head>
       <body>
         {children}
+        <Toaster theme="dark" position="top-center" />
         <Scripts />
       </body>
     </html>
