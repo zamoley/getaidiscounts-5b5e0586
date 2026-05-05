@@ -21,7 +21,7 @@ export function LanguageSwitcher() {
     if (segs.length && isLang(segs[0])) segs.shift();
     const rest = "/" + segs.join("/");
     const next = code === "en" ? (rest === "/" ? "/" : rest) : `/${code}${rest === "/" ? "" : rest}`;
-    navigate({ to: next as NavigateOptions["to"], search: (prev) => prev });
+    navigate({ to: next as NavigateOptions["to"], search: true });
   };
 
   return (
