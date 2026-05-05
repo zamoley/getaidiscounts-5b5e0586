@@ -121,9 +121,7 @@ function CompareTable({ deals }: { deals: Deal[] }) {
                 className="border-b border-border px-4 py-3 text-left"
               >
                 <div className="flex items-center gap-2">
-                  <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-electric/30 to-electric/5 text-xs font-bold text-electric">
-                    {d.tool.charAt(0)}
-                  </div>
+                  <ToolLogo tool={d.tool} url={d.url} size={32} />
                   <span className="font-semibold text-foreground">{d.tool}</span>
                 </div>
               </th>
