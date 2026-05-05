@@ -10,14 +10,14 @@ import uk from "./locales/uk.json";
 import pt from "./locales/pt.json";
 
 export const SUPPORTED_LANGUAGES = [
-  { code: "en", label: "English", native: "English" },
-  { code: "zh", label: "Chinese (Simplified)", native: "简体中文" },
-  { code: "ja", label: "Japanese", native: "日本語" },
-  { code: "es", label: "Spanish", native: "Español" },
-  { code: "de", label: "German", native: "Deutsch" },
-  { code: "fr", label: "French", native: "Français" },
-  { code: "uk", label: "Ukrainian", native: "Українська" },
-  { code: "pt", label: "Portuguese", native: "Português" },
+  { code: "en", label: "English", native: "English", flag: "🇺🇸" },
+  { code: "zh", label: "Chinese (Simplified)", native: "简体中文", flag: "🇨🇳" },
+  { code: "ja", label: "Japanese", native: "日本語", flag: "🇯🇵" },
+  { code: "es", label: "Spanish", native: "Español", flag: "🇪🇸" },
+  { code: "de", label: "German", native: "Deutsch", flag: "🇩🇪" },
+  { code: "fr", label: "French", native: "Français", flag: "🇫🇷" },
+  { code: "uk", label: "Ukrainian", native: "Українська", flag: "🇺🇦" },
+  { code: "pt", label: "Portuguese", native: "Português", flag: "🇧🇷" },
 ] as const;
 
 export type LangCode = (typeof SUPPORTED_LANGUAGES)[number]["code"];

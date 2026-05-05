@@ -1,4 +1,4 @@
-import { Globe, Check } from "lucide-react";
+import { Check } from "lucide-react";
 import { useNavigate, useLocation, type NavigateOptions } from "@tanstack/react-router";
 import { SUPPORTED_LANGUAGES, type LangCode } from "@/i18n";
 import { useLocale, isLang } from "@/i18n/use-locale";
@@ -28,9 +28,9 @@ export function LanguageSwitcher() {
     <DropdownMenu>
       <DropdownMenuTrigger
         aria-label="Select language"
-        className="inline-flex h-9 items-center gap-1.5 rounded-full border border-border bg-card/70 px-3 text-xs font-semibold text-foreground/80 transition-all hover:border-electric/50 hover:text-electric focus:outline-none focus-visible:ring-2 focus-visible:ring-electric/60"
+        className="inline-flex h-9 items-center gap-2 rounded-full border border-border bg-card/70 px-3 text-xs font-semibold text-foreground/80 transition-all hover:border-electric/50 hover:text-electric focus:outline-none focus-visible:ring-2 focus-visible:ring-electric/60"
       >
-        <Globe className="h-3.5 w-3.5" />
+        <span className="text-base leading-none" aria-hidden="true">{currentLang?.flag ?? "🌐"}</span>
         <span className="hidden sm:inline">{currentLang?.native ?? "English"}</span>
         <span className="sm:hidden uppercase">{current}</span>
       </DropdownMenuTrigger>
@@ -49,7 +49,10 @@ export function LanguageSwitcher() {
                 active ? "text-electric" : "text-foreground/85"
               } focus:bg-electric/10 focus:text-electric`}
             >
-              <span>{lang.native}</span>
+              <span className="flex items-center gap-2">
+                <span className="text-base leading-none" aria-hidden="true">{lang.flag}</span>
+                <span>{lang.native}</span>
+              </span>
               {active && <Check className="h-3.5 w-3.5" />}
             </DropdownMenuItem>
           );
