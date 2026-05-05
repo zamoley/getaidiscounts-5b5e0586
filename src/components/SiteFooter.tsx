@@ -1,6 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { useTranslation } from "react-i18next";
-import { useLocale, localizedPath } from "@/i18n/use-locale";
+import { useLocale, localizedTo } from "@/i18n/use-locale";
 
 export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean }) {
   const { t } = useTranslation();
@@ -13,9 +13,9 @@ export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean
         </div>
         <nav aria-label="Legal" className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
           <span className="font-semibold uppercase tracking-wider text-foreground/70">{t("footer.legal")}</span>
-          <Link to={localizedPath(locale, "/privacy")} className="hover:text-electric">{t("footer.privacy")}</Link>
-          <Link to={localizedPath(locale, "/terms")} className="hover:text-electric">{t("footer.terms")}</Link>
-          <Link to={localizedPath(locale, "/affiliate-disclosure")} className="hover:text-electric">{t("footer.affiliate")}</Link>
+          <Link to={localizedTo(locale, "/privacy")} className="hover:text-electric">{t("footer.privacy")}</Link>
+          <Link to={localizedTo(locale, "/terms")} className="hover:text-electric">{t("footer.terms")}</Link>
+          <Link to={localizedTo(locale, "/affiliate-disclosure")} className="hover:text-electric">{t("footer.affiliate")}</Link>
         </nav>
       </div>
       {showDisclosure && (
