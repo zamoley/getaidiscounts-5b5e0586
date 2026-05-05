@@ -68,7 +68,17 @@
   "compare": {
     "title": "Comparing {{count}} tools",
     "clear": "Clear all",
-    "open": "Open comparison"
+    "open": "Open comparison",
+    "modal_title": "Side-by-side comparison",
+    "row_category": "Category",
+    "row_pricing": "Pricing",
+    "row_specs": "Specs",
+    "row_discount": "Discount",
+    "row_code": "Code",
+    "row_verified": "Verified",
+    "get_deal": "Get Deal",
+    "compare_now": "Compare Now",
+    "empty": "Tap the + on any card to start comparing."
   },
   "cookie": {
     "text": "We use cookies to ensure you get the best experience and to support our site.",

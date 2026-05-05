@@ -68,7 +68,17 @@
   "compare": {
     "title": "Vergleiche {{count}} Tools",
     "clear": "Alle löschen",
-    "open": "Vergleich öffnen"
+    "open": "Vergleich öffnen",
+    "modal_title": "Direkter Vergleich",
+    "row_category": "Kategorie",
+    "row_pricing": "Preis",
+    "row_specs": "Spezifikationen",
+    "row_discount": "Rabatt",
+    "row_code": "Code",
+    "row_verified": "Verifiziert",
+    "get_deal": "Angebot holen",
+    "compare_now": "Jetzt vergleichen",
+    "empty": "Tippe auf + in einer Karte, um den Vergleich zu starten."
   },
   "cookie": {
     "text": "Wir verwenden Cookies, um sicherzustellen, dass Sie die beste Erfahrung erhalten und um unsere Seite zu unterstützen.",

@@ -68,7 +68,17 @@
   "compare": {
     "title": "{{count}}個のツールを比較中",
     "clear": "すべてクリア",
-    "open": "比較を開く"
+    "open": "比較を開く",
+    "modal_title": "横並び比較",
+    "row_category": "カテゴリ",
+    "row_pricing": "料金",
+    "row_specs": "仕様",
+    "row_discount": "割引",
+    "row_code": "コード",
+    "row_verified": "確認済み",
+    "get_deal": "オファーを取得",
+    "compare_now": "今すぐ比較",
+    "empty": "カードの + をタップして比較を開始してください。"
   },
   "cookie": {
     "text": "当サイトでは、最高の体験を提供し、サイトをサポートするためにクッキーを使用しています。",
