@@ -60,9 +60,12 @@ export function CategoryPage({
           <Link to="/" className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground">
             <ArrowLeft className="h-4 w-4" /> All deals
           </Link>
-          <Badge className="border border-electric/40 bg-electric/10 text-electric">
-            <ShieldCheck className="mr-1 h-3 w-3" /> Verified {today}
-          </Badge>
+          <div className="flex items-center gap-2">
+            <Badge className="border border-electric/40 bg-electric/10 text-electric">
+              <ShieldCheck className="mr-1 h-3 w-3" /> Verified {today}
+            </Badge>
+            <RequestDealButton />
+          </div>
         </div>
       </header>
 
