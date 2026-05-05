@@ -1,11 +1,11 @@
-import { createFileRoute, Link } from "@tanstack/react-router";
+import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { Search, Sparkles, Zap } from "lucide-react";
+import { Search, Sparkles } from "lucide-react";
 import { fetchDeals, type Deal } from "@/lib/deals";
 import { DealCard } from "@/components/DealCard";
 import { CompareBar } from "@/components/CompareBar";
 import { NewsletterSection } from "@/components/NewsletterSection";
-import { RequestDealButton } from "@/components/RequestDealButton";
+import { SiteHeader } from "@/components/SiteHeader";
 import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
@@ -46,38 +46,13 @@ function Index() {
 
   return (
     <main className="min-h-screen">
-      {/* Header */}
-      <header className="sticky top-0 z-30 border-b border-border/60 bg-background/70 backdrop-blur-xl">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
-          <a href="/" className="flex items-center gap-2">
-            <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-electric to-electric-glow">
-              <Zap className="h-4 w-4 text-electric-foreground" />
-            </div>
-            <span className="text-lg font-bold tracking-tight">
-              Get<span className="text-electric">AI</span>Discounts
-            </span>
-          </a>
-          <nav className="hidden items-center gap-1 text-sm md:flex">
-            {(["video","voice","writing","agents","code","music"] as const).map(slug => (
-              <Link key={slug} to={`/${slug}`} className="rounded-full px-3 py-1.5 text-muted-foreground hover:bg-secondary hover:text-foreground">
-                {slug.charAt(0).toUpperCase()+slug.slice(1)}
-              </Link>
-            ))}
-          </nav>
-          <div className="flex items-center gap-2">
-            <Badge className="hidden border border-electric/30 bg-electric/10 text-electric sm:inline-flex">
-              <Sparkles className="mr-1 h-3 w-3" /> {deals.length} live
-            </Badge>
-            <RequestDealButton />
-          </div>
-        </div>
-      </header>
+      <SiteHeader />
 
       {/* Hero */}
       <section className="relative overflow-hidden">
         <div className="mx-auto max-w-7xl px-6 pt-16 pb-10 text-center">
           <Badge className="mb-5 border border-electric/30 bg-electric/10 text-electric">
-            Verified daily · Updated {new Date().toLocaleDateString()}
+            <Sparkles className="mr-1 h-3 w-3" /> {deals.length} live · Updated {new Date().toLocaleDateString()}
           </Badge>
           <h1 className="mx-auto max-w-3xl text-balance text-5xl font-bold tracking-tight sm:text-6xl">
             The premium directory of{" "}
