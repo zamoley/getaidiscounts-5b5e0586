@@ -11,6 +11,7 @@ import type { Deal } from "@/lib/deals";
 import { smartLink } from "@/lib/smartlink";
 import { useLocale } from "@/i18n/use-locale";
 import { translateTool } from "@/i18n/translate-tool";
+import { categoryStyle } from "@/lib/category-style";
 
 export function CompareBar({
   deals, onRemove, onClear,
@@ -78,7 +79,16 @@ function CompareTable({ deals }: { deals: Deal[] }) {
   const locale = useLocale();
 
   const rows: { label: string; get: (d: Deal) => React.ReactNode }[] = [
-    { label: t("compare.row_category"), get: d => <span className="text-foreground/80">{d.category ?? "—"}</span> },
+    { label: t("compare.row_category"), get: d => {
+      if (!d.category) return <span className="text-foreground/60">—</span>;
+      const { Icon, color } = categoryStyle(d.category);
+      return (
+        <span className={`inline-flex items-center gap-1.5 ${color}`}>
+          <Icon className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
+          <span>{d.category}</span>
+        </span>
+      );
+    } },
     { label: t("compare.row_pricing"), get: d => <span className="font-medium text-foreground">{d.pricing ?? "—"}</span> },
     { label: t("compare.row_specs"), get: d => {
       const localized = translateTool(d.tool, locale, "key_features", d.specs ?? undefined);
