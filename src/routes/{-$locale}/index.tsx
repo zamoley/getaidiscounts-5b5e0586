@@ -45,13 +45,23 @@ function Index() {
   const { category: categoryParam } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
-  const category = categoryParam ?? null;
-  const setCategory = (c: string | null) => {
+  const selected = useMemo(
+    () => new Set((categoryParam ?? "").split(",").map(s => s.trim()).filter(Boolean)),
+    [categoryParam]
+  );
+  const writeSelected = (next: Set<string>) => {
+    const value = Array.from(next).join(",");
     navigate({
-      search: (prev: { category?: string }) => ({ ...prev, category: c ?? undefined }),
+      search: (prev: { category?: string }) => ({ ...prev, category: value || undefined }),
       replace: true,
     });
   };
+  const toggleCategory = (c: string) => {
+    const next = new Set(selected);
+    if (next.has(c)) next.delete(c); else next.add(c);
+    writeSelected(next);
+  };
+  const clearCategories = () => writeSelected(new Set());
   const compare = useCompare();
   const { t } = useTranslation();
   useLocale();
@@ -70,7 +80,7 @@ function Index() {
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return deals.filter(d => {
-      if (category && d.category !== category) return false;
+      if (selected.size > 0 && (!d.category || !selected.has(d.category))) return false;
       if (!q) return true;
       return (
         d.tool.toLowerCase().includes(q) ||
@@ -78,7 +88,7 @@ function Index() {
         d.code?.toLowerCase().includes(q)
       );
     });
-  }, [deals, query, category]);
+  }, [deals, query, selected]);
 
   const compared = getCompared(deals, compare.ids);
 
@@ -115,14 +125,14 @@ function Index() {
 
       <section className="mx-auto max-w-7xl px-6">
         <div className="flex flex-wrap items-stretch justify-center gap-2.5">
-          <CategoryChip active={category === null} onClick={() => setCategory(null)} Icon={Sparkles} color="text-electric" ring="border-electric/40 bg-electric/10" label={t("categories.all")} count={deals.length} />
+          <CategoryChip active={selected.size === 0} onClick={clearCategories} Icon={Sparkles} color="text-electric" ring="border-electric/40 bg-electric/10" label={t("categories.all")} count={deals.length} />
           {categories.map(c => {
             const s = categoryStyle(c);
             return (
               <CategoryChip
                 key={c}
-                active={category === c}
-                onClick={() => setCategory(c)}
+                active={selected.has(c)}
+                onClick={() => toggleCategory(c)}
                 Icon={s.Icon}
                 color={s.color}
                 ring={s.ring}
