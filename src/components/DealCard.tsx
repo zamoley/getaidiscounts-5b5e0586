@@ -83,7 +83,7 @@ export function DealCard({
       </div>
 
       {localizedDesc && (
-        <p className="mt-3 line-clamp-2 text-sm text-muted-foreground">{localizedDesc}</p>
+        <p className="mt-3 line-clamp-2 text-sm text-muted-foreground [hyphens:auto] [overflow-wrap:anywhere]">{localizedDesc}</p>
       )}
 
       <div className="mt-4">
