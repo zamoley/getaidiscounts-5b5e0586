@@ -76,5 +76,35 @@
   },
   "lang": {
     "label": "语言"
+  },
+  "privacy": {
+    "title": "GetAIDiscounts.com 隐私政策",
+    "updated": "最后更新：{{date}}",
+    "collection_h": "数据收集",
+    "collection_p": "仅当您主动订阅我们的\"AI优惠提醒\"时，我们才会收集您的电子邮箱。我们还通过联盟合作伙伴（Skimlinks 和 Impact）使用 Cookie 来跟踪推介。",
+    "use_h": "数据使用",
+    "use_p": "您的邮箱仅用于发送 AI 折扣提醒和更新。我们绝不会将您的数据出售给第三方。",
+    "tracking_h": "联盟跟踪",
+    "tracking_p": "我们使用行业标准的 Cookie 以确保获得推介佣金。这些 Cookie 不存储任何可识别个人身份的信息。",
+    "rights_h": "用户权利",
+    "rights_p": "您可随时通过邮件页脚的链接取消订阅。如需删除数据请联系 hello@getaidiscounts.com。"
+  },
+  "terms": {
+    "title": "GetAIDiscounts.com 服务条款",
+    "updated": "最后更新：{{date}}",
+    "ng_h": "无担保",
+    "ng_p": "虽然我们追求 100% 的准确性，但不保证每个折扣码均可使用。所有代码均按\"现状\"由第三方来源提供。",
+    "tp_h": "第三方链接",
+    "tp_p": "本站包含指向外部网站的链接。我们对这些第三方工具的内容、隐私政策或行为概不负责。",
+    "ll_h": "责任限制",
+    "ll_p": "GetAIDiscounts.com 及其所有者不对因使用所列 AI 工具而产生的任何财务决定或问题承担责任。",
+    "acc_h": "接受条款",
+    "acc_p": "使用本站即表示您同意这些条款。"
+  },
+  "disclosure": {
+    "title": "联盟披露",
+    "updated": "最后更新：{{date}}",
+    "intro": "披露：GetAIDiscounts.com 是由我们的受众支持的独立目录。当您通过本站链接购买时，我们可能会获得联盟佣金，您无需额外付费。我们的编辑选择独立于联盟身份。",
+    "details": "我们参与 Skimlinks 等联盟项目，并与 AI 工具提供商建立直接合作。这些佣金帮助我们维持网站运营、每日验证优惠并添加新工具——但联盟身份从不决定我们是否收录某个工具。"
   }
 }

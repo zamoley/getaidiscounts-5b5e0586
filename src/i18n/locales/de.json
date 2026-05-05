@@ -76,5 +76,35 @@
   },
   "lang": {
     "label": "Sprache"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung für GetAIDiscounts.com",
+    "updated": "Zuletzt aktualisiert: {{date}}",
+    "collection_h": "Datenerhebung",
+    "collection_p": "Wir erfassen deine E-Mail-Adresse nur, wenn du dich freiwillig für unsere \"KI-Deal-Alerts\" anmeldest. Wir verwenden außerdem Cookies unserer Affiliate-Partner (Skimlinks und Impact) zum Tracking von Empfehlungen.",
+    "use_h": "Verwendung der Daten",
+    "use_p": "Deine E-Mail wird ausschließlich für KI-Rabatt-Alerts und Updates verwendet. Wir verkaufen deine Daten niemals an Dritte.",
+    "tracking_h": "Affiliate-Tracking",
+    "tracking_p": "Wir nutzen branchenübliche Cookies, um Provisionen zugeordnet zu bekommen. Diese Cookies speichern keine persönlich identifizierbaren Informationen.",
+    "rights_h": "Nutzerrechte",
+    "rights_p": "Du kannst dich jederzeit über den Link in der Newsletter-Fußzeile abmelden. Für eine Datenlöschung kontaktiere hello@getaidiscounts.com."
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen für GetAIDiscounts.com",
+    "updated": "Zuletzt aktualisiert: {{date}}",
+    "ng_h": "Keine Garantien",
+    "ng_p": "Wir streben 100% Genauigkeit an, garantieren aber nicht, dass jeder Code funktioniert. Alle Codes werden \"wie besehen\" von Drittquellen bereitgestellt.",
+    "tp_h": "Links Dritter",
+    "tp_p": "Unsere Seite enthält Links zu externen Websites. Wir sind nicht verantwortlich für deren Inhalte, Datenschutzrichtlinien oder Handlungen.",
+    "ll_h": "Haftungsbeschränkung",
+    "ll_p": "GetAIDiscounts.com und die Betreiber haften nicht für finanzielle Entscheidungen oder Probleme aus der Nutzung der gelisteten KI-Tools.",
+    "acc_h": "Zustimmung",
+    "acc_p": "Mit der Nutzung dieser Seite stimmst du diesen Bedingungen zu."
+  },
+  "disclosure": {
+    "title": "Affiliate-Offenlegung",
+    "updated": "Zuletzt aktualisiert: {{date}}",
+    "intro": "Offenlegung: GetAIDiscounts.com ist ein unabhängiges Verzeichnis, das von unserem Publikum getragen wird. Bei Käufen über Links auf unserer Seite können wir eine Affiliate-Provision ohne Mehrkosten für dich erhalten. Unsere redaktionellen Entscheidungen sind unabhängig.",
+    "details": "Wir nehmen an Affiliate-Programmen wie Skimlinks und direkten Partnerschaften mit KI-Tool-Anbietern teil. Diese Provisionen helfen uns, die Seite zu betreiben, Deals täglich zu prüfen und neue Tools hinzuzufügen — der Affiliate-Status bestimmt aber nie, ob wir ein Tool listen."
   }
 }

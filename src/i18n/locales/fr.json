@@ -76,5 +76,35 @@
   },
   "lang": {
     "label": "Langue"
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité de GetAIDiscounts.com",
+    "updated": "Dernière mise à jour : {{date}}",
+    "collection_h": "Collecte des données",
+    "collection_p": "Nous collectons votre adresse e-mail uniquement lorsque vous vous inscrivez volontairement à nos \"Alertes Deals IA\". Nous utilisons aussi des cookies via nos partenaires affiliés (Skimlinks et Impact) pour suivre les références.",
+    "use_h": "Utilisation des données",
+    "use_p": "Votre e-mail sert uniquement à vous envoyer des alertes et mises à jour sur les remises IA. Nous ne vendons jamais vos données à des tiers.",
+    "tracking_h": "Suivi des affiliés",
+    "tracking_p": "Nous utilisons des cookies standards pour recevoir le crédit des références. Ces cookies ne stockent pas d'informations personnelles identifiables.",
+    "rights_h": "Droits de l'utilisateur",
+    "rights_p": "Vous pouvez vous désabonner à tout moment via le lien en pied de newsletter. Pour demander la suppression de vos données, contactez hello@getaidiscounts.com."
+  },
+  "terms": {
+    "title": "Conditions d'utilisation de GetAIDiscounts.com",
+    "updated": "Dernière mise à jour : {{date}}",
+    "ng_h": "Aucune garantie",
+    "ng_p": "Bien que nous visions une précision de 100%, nous ne garantissons pas que chaque code fonctionne. Tous les codes sont fournis \"tels quels\" depuis des sources tierces.",
+    "tp_h": "Liens tiers",
+    "tp_p": "Notre site contient des liens vers des sites externes. Nous ne sommes pas responsables du contenu, des politiques ou actions de ces outils tiers.",
+    "ll_h": "Limitation de responsabilité",
+    "ll_p": "GetAIDiscounts.com et ses propriétaires ne sont pas responsables des décisions financières ou problèmes liés à l'utilisation des outils IA listés.",
+    "acc_h": "Acceptation",
+    "acc_p": "En utilisant ce site, vous acceptez ces conditions."
+  },
+  "disclosure": {
+    "title": "Divulgation des Affiliations",
+    "updated": "Dernière mise à jour : {{date}}",
+    "intro": "Divulgation : GetAIDiscounts.com est un annuaire indépendant soutenu par son audience. Lorsque vous achetez via les liens de notre site, nous pouvons recevoir une commission d'affiliation sans coût supplémentaire pour vous. Nos choix éditoriaux sont indépendants.",
+    "details": "Nous participons à des programmes d'affiliation comme Skimlinks et à des partenariats directs avec des fournisseurs d'outils IA. Ces commissions nous aident à maintenir le site, vérifier les offres quotidiennement et ajouter de nouveaux outils — mais le statut d'affilié ne détermine jamais si nous listons un outil."
   }
 }

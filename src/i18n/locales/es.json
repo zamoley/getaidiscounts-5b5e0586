@@ -76,5 +76,35 @@
   },
   "lang": {
     "label": "Idioma"
+  },
+  "privacy": {
+    "title": "Política de Privacidad de GetAIDiscounts.com",
+    "updated": "Última actualización: {{date}}",
+    "collection_h": "Recopilación de datos",
+    "collection_p": "Recopilamos tu dirección de correo solo cuando te suscribes voluntariamente a nuestras \"Alertas de Ofertas IA\". También usamos cookies de nuestros socios afiliados (Skimlinks e Impact) para rastrear referencias.",
+    "use_h": "Uso de los datos",
+    "use_p": "Tu correo se usa únicamente para enviarte alertas y novedades de descuentos IA. Nunca vendemos tus datos a terceros.",
+    "tracking_h": "Seguimiento de afiliados",
+    "tracking_p": "Usamos cookies estándar para asegurar el crédito por las referencias. Estas cookies no almacenan información personal identificable.",
+    "rights_h": "Derechos del usuario",
+    "rights_p": "Puedes darte de baja en cualquier momento usando el enlace al pie del boletín. Para solicitar la eliminación de datos, escríbenos a hello@getaidiscounts.com."
+  },
+  "terms": {
+    "title": "Términos del Servicio de GetAIDiscounts.com",
+    "updated": "Última actualización: {{date}}",
+    "ng_h": "Sin garantías",
+    "ng_p": "Aunque buscamos el 100% de precisión, no garantizamos que cada código funcione. Todos los códigos se proporcionan \"tal cual\" desde fuentes externas.",
+    "tp_h": "Enlaces de terceros",
+    "tp_p": "Nuestro sitio contiene enlaces a sitios externos. No somos responsables del contenido, políticas o acciones de estas herramientas de terceros.",
+    "ll_h": "Limitación de responsabilidad",
+    "ll_p": "GetAIDiscounts.com y sus propietarios no se responsabilizan de las decisiones financieras o problemas derivados del uso de las herramientas IA listadas.",
+    "acc_h": "Aceptación",
+    "acc_p": "Al usar este sitio, aceptas estos términos."
+  },
+  "disclosure": {
+    "title": "Divulgación de Afiliados",
+    "updated": "Última actualización: {{date}}",
+    "intro": "Divulgación: GetAIDiscounts.com es un directorio independiente apoyado por nuestra audiencia. Cuando compras a través de enlaces en nuestro sitio, podemos ganar una comisión sin coste adicional para ti. Nuestras decisiones editoriales son independientes.",
+    "details": "Participamos en programas de afiliados como Skimlinks y asociaciones directas con proveedores de herramientas IA. Estas comisiones nos ayudan a mantener el sitio, verificar ofertas a diario y añadir nuevas herramientas — pero el estatus de afiliado nunca determina si listamos una herramienta."
   }
 }

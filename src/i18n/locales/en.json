@@ -76,5 +76,35 @@
   },
   "lang": {
     "label": "Language"
+  },
+  "privacy": {
+    "title": "Privacy Policy for GetAIDiscounts.com",
+    "updated": "Last Updated: {{date}}",
+    "collection_h": "Data Collection",
+    "collection_p": "We collect your email address only when you voluntarily sign up for our \"AI Deal Alerts.\" We also use cookies via our affiliate partners (Skimlinks and Impact) to track referrals.",
+    "use_h": "Use of Data",
+    "use_p": "Your email is used solely to send you AI discount alerts and updates. We never sell your data to third parties.",
+    "tracking_h": "Affiliate Tracking",
+    "tracking_p": "We use industry-standard cookies to ensure we receive credit for referrals. These cookies do not store personal identifying information.",
+    "rights_h": "User Rights",
+    "rights_p": "You may unsubscribe from our emails at any time using the link in the footer of our newsletters. To request data deletion, contact us at hello@getaidiscounts.com."
+  },
+  "terms": {
+    "title": "Terms of Service for GetAIDiscounts.com",
+    "updated": "Last Updated: {{date}}",
+    "ng_h": "No Guarantees",
+    "ng_p": "While we strive for 100% accuracy, we do not guarantee that every discount code will work. All codes are provided \"as-is\" from third-party sources.",
+    "tp_h": "Third-Party Links",
+    "tp_p": "Our site contains links to external websites. We are not responsible for the content, privacy policies, or actions of these third-party tools.",
+    "ll_h": "Limitation of Liability",
+    "ll_p": "GetAIDiscounts.com and its owners are not liable for any financial decisions or issues arising from the use of the AI tools listed on this site.",
+    "acc_h": "Acceptance",
+    "acc_p": "By using this site, you agree to these terms."
+  },
+  "disclosure": {
+    "title": "Affiliate Disclosure",
+    "updated": "Last updated: {{date}}",
+    "intro": "Disclosure: GetAIDiscounts.com is an independent directory supported by our audience. When you purchase through links on our site, we may earn an affiliate commission at no extra cost to you. Our editorial choices are independent and not influenced by our affiliate status.",
+    "details": "We participate in affiliate programs including Skimlinks and direct partnerships with AI tool providers. These commissions help us keep the site running, verify deals daily, and add new tools — but a tool's affiliate status never determines whether we list it or how we describe its discount."
   }
 }
