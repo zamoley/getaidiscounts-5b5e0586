@@ -1,14 +1,24 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
+import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/terms")({
-  head: () => ({
+  head: ({ params }) => {
+    const loc = (params as { locale?: string }).locale ?? "en";
+    return {
+    links: [
+      ...hreflangLinks("/terms"),
+      { rel: "canonical", href: canonicalFor(loc, "/terms") },
+    ],
     meta: [
       { title: "Terms of Service | GetAIDiscounts" },
       { name: "description", content: "The terms governing your use of GetAIDiscounts.com." },
+      { property: "og:locale", content: loc },
+      { property: "og:url", content: canonicalFor(loc, "/terms") },
     ],
-  }),
+    };
+  },
   component: TermsPage,
 });
 

@@ -1,14 +1,24 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
+import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/privacy")({
-  head: () => ({
+  head: ({ params }) => {
+    const loc = (params as { locale?: string }).locale ?? "en";
+    return {
+    links: [
+      ...hreflangLinks("/privacy"),
+      { rel: "canonical", href: canonicalFor(loc, "/privacy") },
+    ],
     meta: [
       { title: "Privacy Policy | GetAIDiscounts" },
       { name: "description", content: "How GetAIDiscounts.com collects and uses your data, including email collection and affiliate tracking." },
+      { property: "og:locale", content: loc },
+      { property: "og:url", content: canonicalFor(loc, "/privacy") },
     ],
-  }),
+    };
+  },
   component: PrivacyPage,
 });
 

@@ -1,14 +1,24 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
+import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/affiliate-disclosure")({
-  head: () => ({
+  head: ({ params }) => {
+    const loc = (params as { locale?: string }).locale ?? "en";
+    return {
+    links: [
+      ...hreflangLinks("/affiliate-disclosure"),
+      { rel: "canonical", href: canonicalFor(loc, "/affiliate-disclosure") },
+    ],
     meta: [
       { title: "Affiliate Disclosure | GetAIDiscounts" },
       { name: "description", content: "How GetAIDiscounts earns commissions through affiliate links." },
+      { property: "og:locale", content: loc },
+      { property: "og:url", content: canonicalFor(loc, "/affiliate-disclosure") },
     ],
-  }),
+    };
+  },
   component: DisclosurePage,
 });
 
