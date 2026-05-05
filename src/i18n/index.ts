@@ -34,6 +34,7 @@ if (!i18n.isInitialized) {
       de: { translation: de },
       fr: { translation: fr },
       uk: { translation: uk },
+      pt: { translation: pt },
     },
     lng: "en",
     fallbackLng: "en",
