@@ -6,61 +6,46 @@ export const Route = createFileRoute("/privacy")({
   head: () => ({
     meta: [
       { title: "Privacy Policy | GetAIDiscounts" },
-      { name: "description", content: "How GetAIDiscounts collects, uses, and protects your data, including email collection and affiliate tracking." },
+      { name: "description", content: "How GetAIDiscounts.com collects and uses your data, including email collection and affiliate tracking." },
     ],
   }),
   component: PrivacyPage,
 });
 
 function PrivacyPage() {
+  const today = new Date().toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" });
   return (
     <main className="min-h-screen">
       <SiteHeader />
-      <article className="mx-auto max-w-3xl px-6 py-14 prose prose-invert">
-        <h1 className="text-4xl font-bold tracking-tight">Privacy Policy</h1>
-        <p className="mt-2 text-sm text-muted-foreground">Last updated: {new Date().toLocaleDateString()}</p>
+      <article className="mx-auto max-w-3xl px-6 py-14">
+        <h1 className="text-4xl font-bold tracking-tight">Privacy Policy for GetAIDiscounts.com</h1>
+        <p className="mt-2 text-sm text-muted-foreground">Last Updated: {today}</p>
 
         <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">Overview</h2>
+          <h2 className="text-2xl font-semibold">Data Collection</h2>
           <p className="text-muted-foreground">
-            GetAIDiscounts ("we", "us") respects your privacy. This page explains what we collect,
-            why we collect it, and the choices you have.
+            We collect your email address only when you voluntarily sign up for our "AI Deal Alerts." We also use cookies via our affiliate partners (Skimlinks and Impact) to track referrals.
           </p>
         </section>
 
         <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">Email Collection</h2>
+          <h2 className="text-2xl font-semibold">Use of Data</h2>
           <p className="text-muted-foreground">
-            When you subscribe to our newsletter, we collect your email address solely to send you
-            verified AI tool deals, promo codes, and occasional product updates. We never sell or
-            rent your email to third parties. You can unsubscribe at any time using the link in
-            every email; once you unsubscribe, your email is removed from our active mailing list.
+            Your email is used solely to send you AI discount alerts and updates. We never sell your data to third parties.
           </p>
         </section>
 
         <section className="mt-8 space-y-3">
           <h2 className="text-2xl font-semibold">Affiliate Tracking</h2>
           <p className="text-muted-foreground">
-            Many outbound links on this site are monetized through affiliate networks such as
-            Skimlinks. When you click a deal and complete a purchase, we may receive a small
-            commission at no additional cost to you. These networks may set cookies to attribute
-            your purchase to our site. We do not receive your payment details — only aggregated
-            referral and commission data from the networks.
+            We use industry-standard cookies to ensure we receive credit for referrals. These cookies do not store personal identifying information.
           </p>
         </section>
 
         <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">Cookies & Analytics</h2>
+          <h2 className="text-2xl font-semibold">User Rights</h2>
           <p className="text-muted-foreground">
-            We use a minimal set of cookies for site functionality, affiliate attribution, and
-            anonymous analytics. You can clear or block cookies via your browser at any time.
-          </p>
-        </section>
-
-        <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">Contact</h2>
-          <p className="text-muted-foreground">
-            Questions about this policy? Reach us at hello@getaidiscounts.com.
+            You may unsubscribe from our emails at any time using the link in the footer of our newsletters. To request data deletion, contact us at hello@getaidiscounts.com.
           </p>
         </section>
       </article>
