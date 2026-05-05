@@ -21,11 +21,14 @@ export const Route = createFileRoute("/{-$locale}/")({
   head: ({ params }) => {
     const loc = (params as { locale?: string }).locale ?? "en";
     return {
-      links: SUPPORTED_LANGUAGES.map(l => ({
-        rel: "alternate",
-        hrefLang: l.code,
-        href: l.code === "en" ? `${SITE}/` : `${SITE}/${l.code}/`,
-      })).concat([{ rel: "alternate", hrefLang: "x-default", href: `${SITE}/` }]),
+      links: [
+        ...SUPPORTED_LANGUAGES.map(l => ({
+          rel: "alternate",
+          hrefLang: l.code,
+          href: l.code === "en" ? `${SITE}/` : `${SITE}/${l.code}/`,
+        })),
+        { rel: "alternate", hrefLang: "x-default" as never, href: `${SITE}/` },
+      ],
       meta: [
         { property: "og:locale", content: loc },
       ],
