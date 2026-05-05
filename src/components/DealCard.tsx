@@ -1,11 +1,14 @@
 import { useState } from "react";
 import { Copy, Check, Plus, X, ExternalLink, BadgeCheck, Radio } from "lucide-react";
+import { useTranslation } from "react-i18next";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
 import { smartLink } from "@/lib/smartlink";
 import { VoteButtons } from "@/components/VoteButtons";
 import { ToolLogo } from "@/components/ToolLogo";
+import { useLocale } from "@/i18n/use-locale";
+import { translateTool } from "@/i18n/translate-tool";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
