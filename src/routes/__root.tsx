@@ -32,7 +32,10 @@ export const Route = createRootRoute({
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "stylesheet", href: appCss }],
+    links: [
+      { rel: "stylesheet", href: appCss },
+      { rel: "icon", type: "image/svg+xml", href: "/owl.svg" },
+    ],
     scripts: [
       { type: "text/javascript", src: "https://s.skimresources.com/js/302516X1790516.skimlinks.js" },
     ],
