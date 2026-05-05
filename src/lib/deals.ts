@@ -28,35 +28,39 @@ export const fallbackDeals: Deal[] = [
   { id: "descript", tool: "Descript", category: "Audio", description: "Edit audio and video by editing text.", discount: "30% OFF", code: "DESCRIPT30", url: "https://descript.com", lastVerified: "2026-04-27", pricing: "From $12/mo", specs: "Overdub · Studio Sound" },
 ];
 
-const REMOTE_URL = "https://raw.githubusercontent.com/zamoley/GetAIDiscounts/main/ai_deals.json";
+const REMOTE_URL = "https://raw.githubusercontent.com/zamoley/GetAIDiscounts/refs/heads/main/ai_deals.json";
 
 function normalize(raw: any, idx: number): Deal {
-  const tool = raw.tool ?? raw.tool_name ?? raw.name ?? "Unknown";
+  const tool = String(raw?.tool ?? raw?.tool_name ?? raw?.name ?? "Unknown");
   return {
-    id: String(raw.id ?? raw.slug ?? tool ?? idx).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""),
+    id: String(raw?.id ?? raw?.slug ?? tool ?? idx).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || `deal-${idx}`,
     tool,
-    category: raw.category,
-    description: raw.description ?? raw.desc,
-    discount: raw.discount ?? raw.discount_amount ?? raw.deal ?? "DEAL",
-    code: raw.code ?? raw.coupon,
-    url: raw.affiliate_link ?? raw.url ?? raw.tool_url ?? raw.link ?? "#",
-    lastVerified: raw.lastVerified ?? raw.last_verified ?? raw.verified ?? new Date().toISOString().slice(0, 10),
-    logo: raw.logo,
-    pricing: raw.pricing ?? raw.pricing_info ?? raw.price,
-    specs: raw.specs ?? raw.key_features ?? raw.features,
-    source: raw.source ?? raw.via ?? raw.partner,
+    category: raw?.category ? String(raw.category) : undefined,
+    description: raw?.description ?? raw?.desc ? String(raw.description ?? raw.desc) : undefined,
+    discount: String(raw?.discount ?? raw?.discount_amount ?? raw?.deal ?? "DEAL"),
+    code: raw?.code ?? raw?.coupon ? String(raw.code ?? raw.coupon) : undefined,
+    url: String(raw?.affiliate_link ?? raw?.url ?? raw?.tool_url ?? raw?.link ?? "#"),
+    lastVerified: String(raw?.lastVerified ?? raw?.last_verified ?? raw?.verified ?? new Date().toISOString().slice(0, 10)),
+    logo: raw?.logo ? String(raw.logo) : undefined,
+    pricing: raw?.pricing ?? raw?.pricing_info ?? raw?.price ? String(raw.pricing ?? raw.pricing_info ?? raw.price) : undefined,
+    specs: raw?.specs ?? raw?.key_features ?? raw?.features ? String(raw.specs ?? raw.key_features ?? raw.features) : undefined,
+    source: raw?.source ?? raw?.via ?? raw?.partner ? String(raw.source ?? raw.via ?? raw.partner) : undefined,
   };
 }
 
 export async function fetchDeals(): Promise<Deal[]> {
+  const controller = typeof AbortController !== "undefined" ? new AbortController() : undefined;
+  const timeout = setTimeout(() => controller?.abort(), 3500);
   try {
-    const res = await fetch(REMOTE_URL, { cache: "no-store" });
+    const res = await fetch(REMOTE_URL, { cache: "no-store", signal: controller?.signal });
     if (!res.ok) throw new Error(String(res.status));
     const data = await res.json();
-    const arr = Array.isArray(data) ? data : (data.deals ?? data.tools ?? []);
+    const arr = Array.isArray(data) ? data : (data?.deals ?? data?.tools ?? []);
     if (!arr.length) throw new Error("empty");
     return arr.map(normalize);
   } catch {
     return fallbackDeals;
+  } finally {
+    clearTimeout(timeout);
   }
 }
