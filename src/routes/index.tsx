@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Search, Sparkles, Zap } from "lucide-react";
 import { fetchDeals, type Deal } from "@/lib/deals";
