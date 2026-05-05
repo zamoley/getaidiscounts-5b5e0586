@@ -64,9 +64,12 @@ function Index() {
               </Link>
             ))}
           </nav>
-          <Badge className="hidden border border-electric/30 bg-electric/10 text-electric sm:inline-flex">
-            <Sparkles className="mr-1 h-3 w-3" /> {deals.length} live
-          </Badge>
+          <div className="flex items-center gap-2">
+            <Badge className="hidden border border-electric/30 bg-electric/10 text-electric sm:inline-flex">
+              <Sparkles className="mr-1 h-3 w-3" /> {deals.length} live
+            </Badge>
+            <RequestDealButton />
+          </div>
         </div>
       </header>
 
