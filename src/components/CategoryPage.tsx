@@ -25,19 +25,20 @@ export function CategoryPage({
   deals,
   config,
 }: { deals: Deal[]; config: CategoryConfig }) {
+  const safeDeals = Array.isArray(deals) ? deals : [];
   const [query, setQuery] = useState("");
   const compare = useCompare();
 
   const matches = useMemo(() => {
     const cats = config.matches.map(c => c.toLowerCase());
     const kws = (config.keywords ?? []).map(k => k.toLowerCase());
-    return deals.filter(d => {
+    return safeDeals.filter(d => {
       const cat = (d.category ?? "").toLowerCase();
       if (cats.includes(cat)) return true;
       const hay = `${d.tool} ${d.description ?? ""}`.toLowerCase();
       return kws.some(k => hay.includes(k));
     });
-  }, [deals, config]);
+  }, [safeDeals, config]);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -111,7 +112,7 @@ export function CategoryPage({
 
       {compare.ids.length > 0 && (
         <CompareBar
-          deals={getCompared(deals, compare.ids)}
+          deals={getCompared(safeDeals, compare.ids)}
           onRemove={compare.remove}
           onClear={compare.clear}
         />
