@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Copy, Check, Plus, X, ExternalLink, BadgeCheck, Radio } from "lucide-react";
+import { toast } from "sonner";
 import { useTranslation } from "react-i18next";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -41,6 +42,7 @@ export function DealCard({
     try {
       await navigator.clipboard.writeText(deal.code);
       setCopied(true);
+      toast.success("Code Copied!", { description: deal.code });
       setTimeout(() => setCopied(false), 1800);
     } catch {}
   };
@@ -50,6 +52,7 @@ export function DealCard({
     if (deal.code) {
       try {
         await navigator.clipboard.writeText(deal.code);
+        toast.success("Code Copied!", { description: deal.code });
       } catch {}
     }
     window.location.href = smartLink(deal.url);
