@@ -131,12 +131,14 @@ function Index() {
         )}
       </section>
 
+      <NewsletterSection source="home" />
+
       <footer className="mx-auto max-w-7xl border-t border-border/60 px-6 py-10 text-center text-sm text-muted-foreground">
         © {new Date().getFullYear()} GetAIDiscounts.com — Some links are monetized via Skimlinks.
       </footer>
 
       {compare.ids.length > 0 && (
-        <CompareDrawer deals={compared} onRemove={compare.remove} onClear={compare.clear} />
+        <CompareBar deals={compared} onRemove={compare.remove} onClear={compare.clear} />
       )}
     </main>
   );
