@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { X, GitCompareArrows, ExternalLink, Check } from "lucide-react";
+import { useTranslation } from "react-i18next";
 import {
   Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger,
 } from "@/components/ui/dialog";
@@ -8,11 +9,14 @@ import { Badge } from "@/components/ui/badge";
 import { ToolLogo } from "@/components/ToolLogo";
 import type { Deal } from "@/lib/deals";
 import { smartLink } from "@/lib/smartlink";
+import { useLocale } from "@/i18n/use-locale";
+import { translateTool } from "@/i18n/translate-tool";
 
 export function CompareBar({
   deals, onRemove, onClear,
 }: { deals: Deal[]; onRemove: (id: string) => void; onClear: () => void }) {
   const [open, setOpen] = useState(false);
+  const { t } = useTranslation();
 
   return (
     <>
@@ -20,7 +24,7 @@ export function CompareBar({
         <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 py-3">
           <div className="mr-2 flex items-center gap-2 text-sm font-semibold">
             <GitCompareArrows className="h-4 w-4 text-electric" />
-            Compare
+            {t("nav.compare")}
             <Badge className="border-0 bg-electric text-electric-foreground">{deals.length}</Badge>
           </div>
 
@@ -40,21 +44,21 @@ export function CompareBar({
           </div>
 
           <div className="flex items-center gap-2">
-            <Button variant="ghost" size="sm" onClick={onClear}>Clear</Button>
+            <Button variant="ghost" size="sm" onClick={onClear}>{t("compare.clear")}</Button>
             <Dialog open={open} onOpenChange={setOpen}>
               <DialogTrigger asChild>
                 <Button
                   disabled={deals.length < 2}
                   className="bg-electric text-electric-foreground shadow-[0_0_24px_-6px_var(--electric)] hover:bg-electric-glow disabled:opacity-50"
                 >
-                  Compare Now {deals.length >= 2 ? `(${deals.length})` : ""}
+                  {t("compare.compare_now")} {deals.length >= 2 ? `(${deals.length})` : ""}
                 </Button>
               </DialogTrigger>
               <DialogContent className="max-w-5xl border-electric/30 bg-card p-0">
                 <DialogHeader className="border-b border-border px-6 py-4">
                   <DialogTitle className="flex items-center gap-2 text-lg">
                     <GitCompareArrows className="h-5 w-5 text-electric" />
-                    Side-by-side comparison
+                    {t("compare.modal_title")}
                   </DialogTitle>
                 </DialogHeader>
                 <CompareTable deals={deals} />
@@ -70,28 +74,34 @@ export function CompareBar({
 }
 
 function CompareTable({ deals }: { deals: Deal[] }) {
+  const { t } = useTranslation();
+  const locale = useLocale();
+
   const rows: { label: string; get: (d: Deal) => React.ReactNode }[] = [
-    { label: "Category", get: d => <span className="text-foreground/80">{d.category ?? "—"}</span> },
-    { label: "Pricing", get: d => <span className="font-medium text-foreground">{d.pricing ?? "—"}</span> },
-    { label: "Specs", get: d => <span className="text-foreground/80">{d.specs ?? "—"}</span> },
+    { label: t("compare.row_category"), get: d => <span className="text-foreground/80">{d.category ?? "—"}</span> },
+    { label: t("compare.row_pricing"), get: d => <span className="font-medium text-foreground">{d.pricing ?? "—"}</span> },
+    { label: t("compare.row_specs"), get: d => {
+      const localized = translateTool(d.tool, locale, "key_features", d.specs ?? undefined);
+      return <span className="text-foreground/80">{localized ?? "—"}</span>;
+    } },
     {
-      label: "Discount",
+      label: t("compare.row_discount"),
       get: d => (
         <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow font-bold text-electric-foreground shadow-[0_0_18px_-4px_var(--electric)]">
           {d.discount}
         </Badge>
       ),
     },
-    { label: "Code", get: d => (
+    { label: t("compare.row_code"), get: d => (
       <span className="rounded-md border border-border bg-background/60 px-2 py-1 font-mono text-xs text-foreground">
         {d.code ?? "—"}
       </span>
     ) },
     {
-      label: "Verified",
+      label: t("compare.row_verified"),
       get: d => (
         <span className="inline-flex items-center gap-1 text-xs text-emerald-400">
-          <Check className="h-3.5 w-3.5" /> {new Date(d.lastVerified).toLocaleDateString()}
+          <Check className="h-3.5 w-3.5" /> {new Date(d.lastVerified).toLocaleDateString(locale)}
         </span>
       ),
     },
@@ -101,9 +111,9 @@ function CompareTable({ deals }: { deals: Deal[] }) {
         <a
           href={smartLink(d.url)}
           rel="sponsored noopener"
-          className="inline-flex items-center gap-1 rounded-md bg-electric px-3 py-1.5 text-xs font-semibold text-electric-foreground hover:bg-electric-glow"
+          className="inline-flex flex-wrap items-center gap-1 rounded-md bg-electric px-3 py-1.5 text-xs font-semibold text-electric-foreground hover:bg-electric-glow"
         >
-          Get Deal <ExternalLink className="h-3 w-3" />
+          {t("card.get_deal")} <ExternalLink className="h-3 w-3" />
         </a>
       ),
     },
@@ -130,7 +140,7 @@ function CompareTable({ deals }: { deals: Deal[] }) {
         </thead>
         <tbody>
           {rows.map((row, i) => (
-            <tr key={row.label || i} className="group">
+            <tr key={row.label || `row-${i}`} className="group">
               <td className="sticky left-0 z-10 bg-card border-b border-border/60 py-3 pr-4 text-[10px] font-semibold uppercase tracking-[0.15em] text-muted-foreground">
                 {row.label}
               </td>
