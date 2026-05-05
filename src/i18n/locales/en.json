@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "compare": "Compare",
+    "newsletter": "Newsletter",
+    "legal": "Legal"
+  },
+  "categories": {
+    "all": "All",
+    "image": "Image AI",
+    "video": "Video AI",
+    "voice": "Voice AI",
+    "music": "Music AI",
+    "writing": "Writing AI",
+    "chat": "Chat AI",
+    "code": "Code AI",
+    "agents": "AI Agents",
+    "search": "Search AI",
+    "productivity": "Productivity",
+    "design": "Design",
+    "nocode": "No-Code AI"
+  },
+  "hero": {
+    "badge": "{{count}} live · Updated {{date}}",
+    "title_pre": "The premium directory of",
+    "title_highlight": "AI tool discounts",
+    "subtitle": "Hand-picked promo codes and exclusive deals on the AI tools you actually use. Copy, save, ship.",
+    "search_placeholder": "Search Midjourney, ChatGPT, Cursor…"
+  },
+  "card": {
+    "get_deal": "Get Deal",
+    "no_code": "NO CODE",
+    "verified_today": "Verified Today",
+    "verified": "Verified",
+    "sourced_via": "Sourced via",
+    "add_compare": "Add to compare",
+    "remove_compare": "Remove from compare"
+  },
+  "empty": {
+    "no_results": "No deals match your search."
+  },
+  "footer": {
+    "rights": "Some links are monetized via Skimlinks.",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "affiliate": "Affiliate Disclosure",
+    "disclosure": "Disclosure: GetAIDiscounts.com is an independent directory supported by our audience. When you purchase through links on our site, we may earn an affiliate commission at no extra cost to you. Our editorial choices are independent and not influenced by our affiliate status."
+  },
+  "newsletter": {
+    "title": "Get AI deals in your inbox",
+    "subtitle": "One short email a week with the freshest verified AI discounts.",
+    "placeholder": "you@domain.com",
+    "subscribe": "Subscribe",
+    "success": "You're in. Check your inbox.",
+    "error": "Could not subscribe. Try again."
+  },
+  "compare": {
+    "title": "Comparing {{count}} tools",
+    "clear": "Clear all",
+    "open": "Open comparison"
+  },
+  "cookie": {
+    "text": "We use cookies to ensure you get the best experience and to support our site.",
+    "accept": "Accept"
+  },
+  "lang": {
+    "label": "Language"
+  }
+}
