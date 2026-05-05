@@ -6,47 +6,47 @@ export const Route = createFileRoute("/terms")({
   head: () => ({
     meta: [
       { title: "Terms of Service | GetAIDiscounts" },
-      { name: "description", content: "The terms governing your use of GetAIDiscounts." },
+      { name: "description", content: "The terms governing your use of GetAIDiscounts.com." },
     ],
   }),
   component: TermsPage,
 });
 
 function TermsPage() {
+  const today = new Date().toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" });
   return (
     <main className="min-h-screen">
       <SiteHeader />
       <article className="mx-auto max-w-3xl px-6 py-14">
-        <h1 className="text-4xl font-bold tracking-tight">Terms of Service</h1>
-        <p className="mt-2 text-sm text-muted-foreground">Last updated: {new Date().toLocaleDateString()}</p>
+        <h1 className="text-4xl font-bold tracking-tight">Terms of Service for GetAIDiscounts.com</h1>
+        <p className="mt-2 text-sm text-muted-foreground">Last Updated: {today}</p>
 
         <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">Use of the Site</h2>
+          <h2 className="text-2xl font-semibold">No Guarantees</h2>
           <p className="text-muted-foreground">
-            GetAIDiscounts provides a curated directory of AI tool discounts and promo codes for
-            informational purposes. Codes and pricing are subject to change without notice.
+            While we strive for 100% accuracy, we do not guarantee that every discount code will work. All codes are provided "as-is" from third-party sources.
           </p>
         </section>
 
         <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">No Warranty</h2>
+          <h2 className="text-2xl font-semibold">Third-Party Links</h2>
           <p className="text-muted-foreground">
-            We verify deals regularly but make no guarantee that any code or offer will work at
-            the time you use it. Your transactions are between you and the third-party tool.
+            Our site contains links to external websites. We are not responsible for the content, privacy policies, or actions of these third-party tools.
           </p>
         </section>
 
         <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">Trademarks</h2>
+          <h2 className="text-2xl font-semibold">Limitation of Liability</h2>
           <p className="text-muted-foreground">
-            All product names, logos, and brands are property of their respective owners and are
-            used for identification purposes only.
+            GetAIDiscounts.com and its owners are not liable for any financial decisions or issues arising from the use of the AI tools listed on this site.
           </p>
         </section>
 
         <section className="mt-8 space-y-3">
-          <h2 className="text-2xl font-semibold">Contact</h2>
-          <p className="text-muted-foreground">hello@getaidiscounts.com</p>
+          <h2 className="text-2xl font-semibold">Acceptance</h2>
+          <p className="text-muted-foreground">
+            By using this site, you agree to these terms.
+          </p>
         </section>
       </article>
       <SiteFooter />
