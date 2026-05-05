@@ -7,6 +7,7 @@ import es from "./locales/es.json";
 import de from "./locales/de.json";
 import fr from "./locales/fr.json";
 import uk from "./locales/uk.json";
+import pt from "./locales/pt.json";
 
 export const SUPPORTED_LANGUAGES = [
   { code: "en", label: "English", native: "English" },
@@ -16,6 +17,7 @@ export const SUPPORTED_LANGUAGES = [
   { code: "de", label: "German", native: "Deutsch" },
   { code: "fr", label: "French", native: "Français" },
   { code: "uk", label: "Ukrainian", native: "Українська" },
+  { code: "pt", label: "Portuguese", native: "Português" },
 ] as const;
 
 export type LangCode = (typeof SUPPORTED_LANGUAGES)[number]["code"];
@@ -32,6 +34,7 @@ if (!i18n.isInitialized) {
       de: { translation: de },
       fr: { translation: fr },
       uk: { translation: uk },
+      pt: { translation: pt },
     },
     lng: "en",
     fallbackLng: "en",

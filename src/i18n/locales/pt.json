@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Início",
+    "categories": "Categorias",
+    "compare": "Comparar",
+    "newsletter": "Newsletter",
+    "legal": "Legal"
+  },
+  "categories": {
+    "all": "Tudo",
+    "image": "IA de Imagem",
+    "video": "IA de Vídeo",
+    "voice": "IA de Voz",
+    "music": "IA de Música",
+    "writing": "IA de Escrita",
+    "chat": "IA de Chat",
+    "code": "IA de Código",
+    "agents": "Agentes de IA",
+    "search": "IA de Busca",
+    "productivity": "Produtividade",
+    "design": "Design",
+    "nocode": "IA sem Código"
+  },
+  "hero": {
+    "badge": "{{count}} ativos · Atualizado em {{date}}",
+    "title_pre": "O diretório premium de",
+    "title_highlight": "descontos em ferramentas de IA",
+    "subtitle": "Códigos promocionais selecionados e ofertas exclusivas das ferramentas de IA que você realmente usa. Copie, salve, aproveite.",
+    "search_placeholder": "Buscar Midjourney, ChatGPT, Cursor…"
+  },
+  "card": {
+    "get_deal": "Obter oferta",
+    "no_code": "SEM CÓDIGO",
+    "verified_today": "Verificado hoje",
+    "verified": "Verificado",
+    "sourced_via": "Obtido via",
+    "add_compare": "Adicionar para comparar",
+    "remove_compare": "Remover da comparação"
+  },
+  "empty": {
+    "no_results": "Nenhuma oferta corresponde à sua busca."
+  },
+  "footer": {
+    "rights": "Alguns links são monetizados via Skimlinks.",
+    "legal": "Legal",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "affiliate": "Divulgação de Afiliados",
+    "disclosure": "Divulgação: GetAIDiscounts.com é um diretório independente apoiado por nossa audiência. Quando você compra através dos links em nosso site, podemos ganhar uma comissão de afiliado sem custo adicional para você. Nossas escolhas editoriais são independentes e não influenciadas pelo nosso status de afiliado."
+  },
+  "newsletter": {
+    "title": "Receba ofertas de IA na sua caixa de entrada",
+    "subtitle": "Os descontos mais recentes em ferramentas de IA, selecionados e enviados toda sexta-feira. Sem spam.",
+    "placeholder": "voce@empresa.com",
+    "subscribe": "Inscrever-se",
+    "success": "Pronto! Verifique sua caixa de entrada para novas ofertas de IA.",
+    "error": "Não foi possível inscrever. Tente novamente.",
+    "badge": "Grátis · Semanal",
+    "title_pre": "Receba",
+    "title_highlight": "alertas de ofertas de IA",
+    "joined": "Junte-se a mais de 10 mil criadores",
+    "joined_post": "que economizam em ferramentas de IA",
+    "button_idle": "Receber alertas",
+    "button_loading": "Inscrevendo…",
+    "button_done": "Inscrito",
+    "privacy_note": "Ao se inscrever, você concorda com nossa <1>Política de Privacidade</1>."
+  },
+  "compare": {
+    "title": "Comparando {{count}} ferramentas",
+    "clear": "Limpar tudo",
+    "open": "Abrir comparação"
+  },
+  "cookie": {
+    "text": "Usamos cookies para garantir que você tenha a melhor experiência e para apoiar nosso site.",
+    "accept": "Aceitar"
+  },
+  "lang": {
+    "label": "Idioma"
+  },
+  "privacy": {
+    "title": "Política de Privacidade do GetAIDiscounts.com",
+    "updated": "Última atualização: {{date}}",
+    "collection_h": "Coleta de dados",
+    "collection_p": "Coletamos seu endereço de e-mail apenas quando você se inscreve voluntariamente em nossos \"Alertas de Ofertas de IA\". Também usamos cookies de nossos parceiros afiliados (Skimlinks e Impact) para rastrear referências.",
+    "use_h": "Uso dos dados",
+    "use_p": "Seu e-mail é usado exclusivamente para enviar alertas e novidades de descontos de IA. Nunca vendemos seus dados a terceiros.",
+    "tracking_h": "Rastreamento de afiliados",
+    "tracking_p": "Usamos cookies padrão para garantir o crédito por referências. Esses cookies não armazenam informações pessoais identificáveis.",
+    "rights_h": "Direitos do usuário",
+    "rights_p": "Você pode cancelar a inscrição a qualquer momento usando o link no rodapé da newsletter. Para solicitar a exclusão de dados, escreva para hello@getaidiscounts.com."
+  },
+  "terms": {
+    "title": "Termos de Serviço do GetAIDiscounts.com",
+    "updated": "Última atualização: {{date}}",
+    "ng_h": "Sem garantias",
+    "ng_p": "Embora busquemos 100% de precisão, não garantimos que todos os códigos funcionarão. Todos os códigos são fornecidos \"como estão\" de fontes externas.",
+    "tp_h": "Links de terceiros",
+    "tp_p": "Nosso site contém links para sites externos. Não somos responsáveis pelo conteúdo, políticas ou ações dessas ferramentas de terceiros.",
+    "ll_h": "Limitação de responsabilidade",
+    "ll_p": "GetAIDiscounts.com e seus proprietários não se responsabilizam por decisões financeiras ou problemas decorrentes do uso das ferramentas de IA listadas.",
+    "acc_h": "Aceitação",
+    "acc_p": "Ao usar este site, você concorda com estes termos."
+  },
+  "disclosure": {
+    "title": "Divulgação de Afiliados",
+    "updated": "Última atualização: {{date}}",
+    "intro": "Divulgação: GetAIDiscounts.com é um diretório independente apoiado por nossa audiência. Quando você compra através dos links em nosso site, podemos ganhar uma comissão sem custo adicional para você. Nossas decisões editoriais são independentes.",
+    "details": "Participamos de programas de afiliados como Skimlinks e parcerias diretas com fornecedores de ferramentas de IA. Essas comissões nos ajudam a manter o site, verificar ofertas diariamente e adicionar novas ferramentas — mas o status de afiliado nunca determina se listamos uma ferramenta."
+  },
+  "request": {
+    "button": "Pedir uma oferta",
+    "dialog_title": "Pedir uma oferta de IA",
+    "dialog_desc": "Diga-nos para qual ferramenta de IA você quer um desconto. Vamos buscar e avisar por e-mail quando estiver pronto.",
+    "tool_label": "Nome da ferramenta *",
+    "tool_placeholder": "ex. Suno, Lovable, Pika…",
+    "email_label": "E-mail (opcional, para avisos)",
+    "email_placeholder": "voce@startup.com",
+    "notes_label": "Notas (opcional)",
+    "notes_placeholder": "Algo específico? Plano, região…",
+    "submit": "Enviar solicitação",
+    "tool_required": "Nome obrigatório",
+    "email_invalid": "E-mail inválido",
+    "success": "Recebido! Vamos buscar uma oferta.",
+    "error": "Não foi possível enviar. Tente novamente."
+  }
+}

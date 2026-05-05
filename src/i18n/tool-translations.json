@@ -1,158 +1,56 @@
 {
   "Midjourney": {
-    "zh": {
-      "description": "全球领先的 AI 图像生成工具。",
-      "key_features": "专业图像生成, 高分辨率"
-    },
-    "ja": {
-      "description": "世界をリードするAI画像生成ツール。",
-      "key_features": "プロの画像生成、高解像度"
-    },
-    "es": {
-      "description": "La herramienta de generación de imágenes por IA líder en el mundo.",
-      "key_features": "Generación de imágenes profesional, alta resolución"
-    },
-    "de": {
-      "description": "Das weltweit führende KI-Tool zur Bilderzeugung.",
-      "key_features": "Professionelle Bildgenerierung, hohe Auflösung"
-    },
-    "fr": {
-      "description": "L'outil de génération d'images par IA leader au monde.",
-      "key_features": "Génération d'images pro, haute résolution"
-    },
-    "uk": {
-      "description": "Провідний у світі інструмент для генерації зображень за допомогою ШІ.",
-      "key_features": "Професійна генерація зображень, висока роздільна здатність"
-    }
+    "zh": { "description": "全球领先的 AI 图像生成工具。", "key_features": "专业图像生成, 高分辨率" },
+    "ja": { "description": "世界をリードするAI画像生成ツール。", "key_features": "プロの画像生成、高解像度" },
+    "es": { "description": "La herramienta de generación de imágenes por IA líder en el mundo.", "key_features": "Generación de imágenes profesional, alta resolución" },
+    "de": { "description": "Das weltweit führende KI-Tool zur Bilderzeugung.", "key_features": "Professionelle Bildgenerierung, hohe Auflösung" },
+    "fr": { "description": "L'outil de génération d'images par IA leader au monde.", "key_features": "Génération d'images pro, haute résolution" },
+    "uk": { "description": "Провідний у світі інструмент для генерації зображень за допомогою ШІ.", "key_features": "Професійна генерація зображень, висока роздільна здатність" },
+    "pt": { "description": "A ferramenta líder mundial de geração de imagens por IA.", "key_features": "Geração profissional de imagens, alta resolução" }
   },
   "ElevenLabs": {
-    "zh": {
-      "description": "市面上最逼真的 AI 语音生成器。",
-      "key_features": "逼真的声音克隆, 文本转语音"
-    },
-    "ja": {
-      "description": "利用可能な最もリアルなAI音声ジェネレーター。",
-      "key_features": "リアルな声のクローニング、テキスト読み上げ"
-    },
-    "es": {
-      "description": "El generador de voz por IA más realista disponible.",
-      "key_features": "Clonación de voz realista, texto a voz"
-    },
-    "de": {
-      "description": "Der realistischste verfügbare KI-Stimmengenerator.",
-      "key_features": "Realistisches Klonen von Stimmen, Text-zu-Sprache"
-    },
-    "fr": {
-      "description": "Le générateur de voix IA le plus réaliste disponible.",
-      "key_features": "Clonage de voix réaliste, synthèse vocale (Text-to-Speech)"
-    },
-    "uk": {
-      "description": "Найреалістичніший доступний генератор голосу зі штучним інтелектом.",
-      "key_features": "Реалістичне клонування голосу, синтез мовлення (Text-to-Speech)"
-    }
+    "zh": { "description": "市面上最逼真的 AI 语音生成器。", "key_features": "逼真的声音克隆, 文本转语音" },
+    "ja": { "description": "利用可能な最もリアルなAI音声ジェネレーター。", "key_features": "リアルな声のクローニング、テキスト読み上げ" },
+    "es": { "description": "El generador de voz por IA más realista disponible.", "key_features": "Clonación de voz realista, texto a voz" },
+    "de": { "description": "Der realistischste verfügbare KI-Stimmengenerator.", "key_features": "Realistisches Klonen von Stimmen, Text-zu-Sprache" },
+    "fr": { "description": "Le générateur de voix IA le plus réaliste disponible.", "key_features": "Clonage de voix réaliste, synthèse vocale (Text-to-Speech)" },
+    "uk": { "description": "Найреалістичніший доступний генератор голосу зі штучним інтелектом.", "key_features": "Реалістичне клонування голосу, синтез мовлення (Text-to-Speech)" },
+    "pt": { "description": "O gerador de voz por IA mais realista disponível.", "key_features": "Clonagem de voz realista, texto para voz" }
   },
   "HeyGen": {
-    "zh": {
-      "description": "使用数字虚拟形象创建专业的 AI 视频。",
-      "key_features": "AI 虚拟形象, 视频翻译"
-    },
-    "ja": {
-      "description": "デジタルアバターを使用してプロフェッショナルなAIビデオを作成します。",
-      "key_features": "AIアバター、ビデオ翻訳"
-    },
-    "es": {
-      "description": "Crea vídeos profesionales de IA con avatares digitales.",
-      "key_features": "Avatares de IA, traducción de vídeo"
-    },
-    "de": {
-      "description": "Erstellen Sie professionelle KI-Videos mit digitalen Avataren.",
-      "key_features": "KI-Avatare, Videoübersetzung"
-    },
-    "fr": {
-      "description": "Créez des vidéos professionnelles par IA avec des avatars numériques.",
-      "key_features": "Avatars IA, traduction de vidéos"
-    },
-    "uk": {
-      "description": "Створюйте професійні ШІ-відео з цифровими аватарами.",
-      "key_features": "Аватари ШІ, переклад відео"
-    }
+    "zh": { "description": "使用数字虚拟形象创建专业的 AI 视频。", "key_features": "AI 虚拟形象, 视频翻译" },
+    "ja": { "description": "デジタルアバターを使用してプロフェッショナルなAIビデオを作成します。", "key_features": "AIアバター、ビデオ翻訳" },
+    "es": { "description": "Crea vídeos profesionales de IA con avatares digitales.", "key_features": "Avatares de IA, traducción de vídeo" },
+    "de": { "description": "Erstellen Sie professionelle KI-Videos mit digitalen Avataren.", "key_features": "KI-Avatare, Videoübersetzung" },
+    "fr": { "description": "Créez des vidéos professionnelles par IA avec des avatars numériques.", "key_features": "Avatars IA, traduction de vidéos" },
+    "uk": { "description": "Створюйте професійні ШІ-відео з цифровими аватарами.", "key_features": "Аватари ШІ, переклад відео" },
+    "pt": { "description": "Crie vídeos profissionais de IA com avatares digitais.", "key_features": "Avatares de IA, tradução de vídeo" }
   },
   "Perplexity": {
-    "zh": {
-      "description": "用于研究的 AI 驱动的答案引擎。",
-      "key_features": "AI 搜索引擎, 实时引用"
-    },
-    "ja": {
-      "description": "研究用のAI搭載アンサーエンジン。",
-      "key_features": "AI検索エンジン、リアルタイムの引用"
-    },
-    "es": {
-      "description": "El motor de respuestas impulsado por IA para la investigación.",
-      "key_features": "Motor de búsqueda de IA, citas en tiempo real"
-    },
-    "de": {
-      "description": "Die KI-gestützte Antwortmaschine für die Forschung.",
-      "key_features": "KI-Suchmaschine, Echtzeit-Zitate"
-    },
-    "fr": {
-      "description": "Le moteur de réponse alimenté par l'IA pour la recherche.",
-      "key_features": "Moteur de recherche IA, citations en temps réel"
-    },
-    "uk": {
-      "description": "Система відповідей на основі ШІ для досліджень.",
-      "key_features": "Пошукова система ШІ, цитування в реальному часі"
-    }
+    "zh": { "description": "用于研究的 AI 驱动的答案引擎。", "key_features": "AI 搜索引擎, 实时引用" },
+    "ja": { "description": "研究用のAI搭載アンサーエンジン。", "key_features": "AI検索エンジン、リアルタイムの引用" },
+    "es": { "description": "El motor de respuestas impulsado por IA para la investigación.", "key_features": "Motor de búsqueda de IA, citas en tiempo real" },
+    "de": { "description": "Die KI-gestützte Antwortmaschine für die Forschung.", "key_features": "KI-Suchmaschine, Echtzeit-Zitate" },
+    "fr": { "description": "Le moteur de réponse alimenté par l'IA pour la recherche.", "key_features": "Moteur de recherche IA, citations en temps réel" },
+    "uk": { "description": "Система відповідей на основі ШІ для досліджень.", "key_features": "Пошукова система ШІ, цитування в реальному часі" },
+    "pt": { "description": "O motor de respostas com IA para pesquisa.", "key_features": "Motor de busca com IA, citações em tempo real" }
   },
   "Cursor": {
-    "zh": {
-      "description": "功能最强大的 AI 集成编码环境。",
-      "key_features": "AI 代码编辑器, 自动完成"
-    },
-    "ja": {
-      "description": "最も強力なAI統合コーディング環境。",
-      "key_features": "AIコードエディター、オートコンプリート"
-    },
-    "es": {
-      "description": "El entorno de codificación con integración de IA más potente.",
-      "key_features": "Editor de código con IA, autocompletado"
-    },
-    "de": {
-      "description": "Die leistungsstärkste KI-integrierte Programmierumgebung.",
-      "key_features": "KI-Code-Editor, Autovervollständigung"
-    },
-    "fr": {
-      "description": "L'environnement de codage intégré à l'IA le plus puissant.",
-      "key_features": "Éditeur de code IA, auto-complétion"
-    },
-    "uk": {
-      "description": "Найпотужніше середовище для кодування з інтегрованим ШІ.",
-      "key_features": "Редактор коду з ШІ, автодоповнення"
-    }
+    "zh": { "description": "功能最强大的 AI 集成编码环境。", "key_features": "AI 代码编辑器, 自动完成" },
+    "ja": { "description": "最も強力なAI統合コーディング環境。", "key_features": "AIコードエディター、オートコンプリート" },
+    "es": { "description": "El entorno de codificación con integración de IA más potente.", "key_features": "Editor de código con IA, autocompletado" },
+    "de": { "description": "Die leistungsstärkste KI-integrierte Programmierumgebung.", "key_features": "KI-Code-Editor, Autovervollständigung" },
+    "fr": { "description": "L'environnement de codage intégré à l'IA le plus puissant.", "key_features": "Éditeur de code IA, auto-complétion" },
+    "uk": { "description": "Найпотужніше середовище для кодування з інтегрованим ШІ.", "key_features": "Редактор коду з ШІ, автодоповнення" },
+    "pt": { "description": "O ambiente de codificação com IA integrada mais poderoso.", "key_features": "Editor de código com IA, autocompletar" }
   },
   "Lovable": {
-    "zh": {
-      "description": "使用 AI 在几秒钟内构建和部署应用程序。",
-      "key_features": "全栈 AI 应用构建器"
-    },
-    "ja": {
-      "description": "AIを使用して数秒でアプリを構築およびデプロイします。",
-      "key_features": "フルスタックAIアプリビルダー"
-    },
-    "es": {
-      "description": "Crea e implementa aplicaciones en segundos usando IA.",
-      "key_features": "Constructor de aplicaciones de IA full-stack"
-    },
-    "de": {
-      "description": "Erstellen und implementieren Sie Apps in Sekunden mit KI.",
-      "key_features": "Full-Stack KI-App-Builder"
-    },
-    "fr": {
-      "description": "Créez et déployez des applications en quelques secondes à l'aide de l'IA.",
-      "key_features": "Constructeur d'applications IA full-stack"
-    },
-    "uk": {
-      "description": "Створюйте та розгортайте додатки за лічені секунди за допомогою ШІ.",
-      "key_features": "Full-stack конструктор додатків з ШІ"
-    }
+    "zh": { "description": "使用 AI 在几秒钟内构建和部署应用程序。", "key_features": "全栈 AI 应用构建器" },
+    "ja": { "description": "AIを使用して数秒でアプリを構築およびデプロイします。", "key_features": "フルスタックAIアプリビルダー" },
+    "es": { "description": "Crea e implementa aplicaciones en segundos usando IA.", "key_features": "Constructor de aplicaciones de IA full-stack" },
+    "de": { "description": "Erstellen und implementieren Sie Apps in Sekunden mit KI.", "key_features": "Full-Stack KI-App-Builder" },
+    "fr": { "description": "Créez et déployez des applications en quelques secondes à l'aide de l'IA.", "key_features": "Constructeur d'applications IA full-stack" },
+    "uk": { "description": "Створюйте та розгортайте додатки за лічені секунди за допомогою ШІ.", "key_features": "Full-stack конструктор додатків з ШІ" },
+    "pt": { "description": "Crie e publique aplicativos em segundos usando IA.", "key_features": "Construtor de apps full-stack com IA" }
   }
 }
