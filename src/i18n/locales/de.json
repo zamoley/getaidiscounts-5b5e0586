@@ -50,11 +50,20 @@
   },
   "newsletter": {
     "title": "Erhalten Sie KI-Angebote in Ihrem Posteingang",
-    "subtitle": "Eine kurze E-Mail pro Woche mit den neuesten verifizierten KI-Rabatten.",
-    "placeholder": "du@domain.de",
+    "subtitle": "Die frischesten KI-Tool-Rabatte, handverlesen und jeden Freitag in deinem Postfach. Kein Spam.",
+    "placeholder": "du@startup.com",
     "subscribe": "Abonnieren",
-    "success": "Sie sind dabei. Überprüfen Sie Ihren Posteingang.",
-    "error": "Abonnement fehlgeschlagen. Versuchen Sie es erneut."
+    "success": "Geschafft! Schau in dein Postfach für neue KI-Deals.",
+    "error": "Anmeldung fehlgeschlagen. Bitte erneut versuchen.",
+    "badge": "Kostenlos · Wöchentlich",
+    "title_pre": "Hol dir",
+    "title_highlight": "KI-Deal-Alerts",
+    "joined": "Schließe dich 10k+ Creators an",
+    "joined_post": "die bei KI-Tools sparen",
+    "button_idle": "Alerts erhalten",
+    "button_loading": "Anmelden…",
+    "button_done": "Angemeldet",
+    "privacy_note": "Mit der Anmeldung akzeptierst du unsere <1>Datenschutzerklärung</1>."
   },
   "compare": {
     "title": "Vergleiche {{count}} Tools",

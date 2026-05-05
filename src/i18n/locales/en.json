@@ -50,11 +50,20 @@
   },
   "newsletter": {
     "title": "Get AI deals in your inbox",
-    "subtitle": "One short email a week with the freshest verified AI discounts.",
-    "placeholder": "you@domain.com",
+    "subtitle": "The freshest AI tool discounts, hand-picked and delivered to your inbox every Friday. No spam.",
+    "placeholder": "you@startup.com",
     "subscribe": "Subscribe",
-    "success": "You're in. Check your inbox.",
-    "error": "Could not subscribe. Try again."
+    "success": "You're in! Watch your inbox for fresh AI deals.",
+    "error": "Couldn't subscribe. Try again.",
+    "badge": "Free · Weekly",
+    "title_pre": "Get",
+    "title_highlight": "AI Deal Alerts",
+    "joined": "Join 10k+ Creators",
+    "joined_post": "saving on AI tools",
+    "button_idle": "Get Deal Alerts",
+    "button_loading": "Subscribing…",
+    "button_done": "Subscribed",
+    "privacy_note": "By subscribing you agree to our <1>Privacy Policy</1>."
   },
   "compare": {
     "title": "Comparing {{count}} tools",

@@ -50,11 +50,20 @@
   },
   "newsletter": {
     "title": "Recibe ofertas de IA en tu bandeja de entrada",
-    "subtitle": "Un correo corto a la semana con los descuentos de IA verificados más recientes.",
-    "placeholder": "tu@dominio.com",
+    "subtitle": "Los descuentos más recientes de herramientas IA, seleccionados y enviados a tu bandeja cada viernes. Sin spam.",
+    "placeholder": "tu@empresa.com",
     "subscribe": "Suscribirse",
-    "success": "Estás dentro. Revisa tu bandeja de entrada.",
-    "error": "No se pudo suscribir. Inténtalo de nuevo."
+    "success": "¡Listo! Revisa tu bandeja para nuevas ofertas IA.",
+    "error": "No se pudo suscribir. Inténtalo de nuevo.",
+    "badge": "Gratis · Semanal",
+    "title_pre": "Recibe",
+    "title_highlight": "alertas de ofertas IA",
+    "joined": "Únete a más de 10k creadores",
+    "joined_post": "que ahorran en herramientas IA",
+    "button_idle": "Recibir alertas",
+    "button_loading": "Suscribiendo…",
+    "button_done": "Suscrito",
+    "privacy_note": "Al suscribirte aceptas nuestra <1>Política de Privacidad</1>."
   },
   "compare": {
     "title": "Comparando {{count}} herramientas",

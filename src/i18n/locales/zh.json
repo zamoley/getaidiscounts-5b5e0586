@@ -50,11 +50,20 @@
   },
   "newsletter": {
     "title": "在您的收件箱中获取AI优惠",
-    "subtitle": "每周一封简短邮件，包含最新验证的AI折扣。",
-    "placeholder": "you@domain.com",
+    "subtitle": "精选最新 AI 工具折扣，每周五送达您的邮箱。无垃圾邮件。",
+    "placeholder": "you@startup.com",
     "subscribe": "订阅",
-    "success": "您已加入。请检查您的收件箱。",
-    "error": "无法订阅。请重试。"
+    "success": "订阅成功！请查看您的邮箱。",
+    "error": "订阅失败，请重试。",
+    "badge": "免费 · 每周",
+    "title_pre": "获取",
+    "title_highlight": "AI 优惠提醒",
+    "joined": "加入 10k+ 创作者",
+    "joined_post": "在 AI 工具上省钱",
+    "button_idle": "获取优惠提醒",
+    "button_loading": "订阅中…",
+    "button_done": "已订阅",
+    "privacy_note": "订阅即表示您同意我们的<1>隐私政策</1>。"
   },
   "compare": {
     "title": "正在比较{{count}}个工具",
