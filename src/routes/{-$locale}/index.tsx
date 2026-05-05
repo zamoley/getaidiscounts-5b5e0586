@@ -12,9 +12,7 @@ import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { useLocale } from "@/i18n/use-locale";
-import { SUPPORTED_LANGUAGES } from "@/i18n";
-
-const SITE = "https://getaidiscounts.com";
+import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/")({
   loader: () => fetchDeals(),
@@ -22,15 +20,12 @@ export const Route = createFileRoute("/{-$locale}/")({
     const loc = (params as { locale?: string }).locale ?? "en";
     return {
       links: [
-        ...SUPPORTED_LANGUAGES.map(l => ({
-          rel: "alternate",
-          hrefLang: l.code,
-          href: l.code === "en" ? `${SITE}/` : `${SITE}/${l.code}/`,
-        })),
-        { rel: "alternate", hrefLang: "x-default" as never, href: `${SITE}/` },
+        ...hreflangLinks("/"),
+        { rel: "canonical", href: canonicalFor(loc, "/") },
       ],
       meta: [
         { property: "og:locale", content: loc },
+        { property: "og:url", content: canonicalFor(loc, "/") },
       ],
     };
   },
