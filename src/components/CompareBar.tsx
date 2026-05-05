@@ -5,6 +5,7 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { ToolLogo } from "@/components/ToolLogo";
 import type { Deal } from "@/lib/deals";
 
 export function CompareBar({
