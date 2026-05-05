@@ -1,4 +1,4 @@
-export function OwlLogo({ className = "h-8 w-8" }: { className?: string }) {
+export function OwlLogo({ className = "h-9 w-9" }: { className?: string }) {
   return (
     <svg
       viewBox="0 0 64 64"
@@ -8,31 +8,89 @@ export function OwlLogo({ className = "h-8 w-8" }: { className?: string }) {
       aria-hidden="true"
     >
       <defs>
-        <linearGradient id="owlGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
-          <stop offset="0%" stopColor="oklch(0.78 0.22 240)" />
-          <stop offset="100%" stopColor="oklch(0.62 0.22 250)" />
+        <linearGradient id="owlStroke" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+          <stop offset="0%" stopColor="oklch(0.85 0.18 235)" />
+          <stop offset="55%" stopColor="oklch(0.72 0.21 245)" />
+          <stop offset="100%" stopColor="oklch(0.55 0.22 255)" />
         </linearGradient>
+        <linearGradient id="owlFill" x1="0" y1="0" x2="0" y2="64" gradientUnits="userSpaceOnUse">
+          <stop offset="0%" stopColor="oklch(0.72 0.21 245 / 0.18)" />
+          <stop offset="100%" stopColor="oklch(0.72 0.21 245 / 0.04)" />
+        </linearGradient>
+        <radialGradient id="owlEye" cx="50%" cy="45%" r="60%">
+          <stop offset="0%" stopColor="oklch(0.95 0.05 240)" />
+          <stop offset="60%" stopColor="oklch(0.78 0.22 240)" />
+          <stop offset="100%" stopColor="oklch(0.45 0.20 255)" />
+        </radialGradient>
       </defs>
-      {/* Head silhouette */}
-      <path
-        d="M32 6c-9 0-16 6-19 13-2 5-2 11 0 16 1 3 1 5 0 8-1 2-2 4-2 6 0 5 9 9 21 9s21-4 21-9c0-2-1-4-2-6-1-3-1-5 0-8 2-5 2-11 0-16C48 12 41 6 32 6z"
-        stroke="url(#owlGrad)"
-        strokeWidth="2"
-        strokeLinejoin="round"
-        fill="oklch(0.72 0.21 245 / 0.08)"
-      />
+
       {/* Ear tufts */}
-      <path d="M14 14l6 6M50 14l-6 6" stroke="url(#owlGrad)" strokeWidth="2" strokeLinecap="round" />
-      {/* Eyes — concentric circles like AI lens */}
-      <circle cx="23" cy="28" r="7" stroke="url(#owlGrad)" strokeWidth="2" fill="none" />
-      <circle cx="41" cy="28" r="7" stroke="url(#owlGrad)" strokeWidth="2" fill="none" />
-      <circle cx="23" cy="28" r="2.5" fill="url(#owlGrad)" />
-      <circle cx="41" cy="28" r="2.5" fill="url(#owlGrad)" />
+      <path
+        d="M14 12 L20 22 M50 12 L44 22"
+        stroke="url(#owlStroke)"
+        strokeWidth="2.4"
+        strokeLinecap="round"
+      />
+
+      {/* Head + body silhouette (rounded, owl-shaped) */}
+      <path
+        d="
+          M32 7
+          C20 7 11 16 11 28
+          C11 33 12.5 37 11.2 41
+          C10 44.5 9.2 47.5 9.2 50
+          C9.2 56 18 60 32 60
+          C46 60 54.8 56 54.8 50
+          C54.8 47.5 54 44.5 52.8 41
+          C51.5 37 53 33 53 28
+          C53 16 44 7 32 7 Z"
+        fill="url(#owlFill)"
+        stroke="url(#owlStroke)"
+        strokeWidth="2.2"
+        strokeLinejoin="round"
+      />
+
+      {/* Brow / face mask line */}
+      <path
+        d="M14 25 C20 20 26 19 32 22 C38 19 44 20 50 25"
+        stroke="url(#owlStroke)"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        fill="none"
+        opacity="0.85"
+      />
+
+      {/* Eyes — concentric AI-lens style */}
+      <circle cx="23" cy="30" r="7.5" fill="oklch(0.18 0.02 260)" stroke="url(#owlStroke)" strokeWidth="1.8" />
+      <circle cx="41" cy="30" r="7.5" fill="oklch(0.18 0.02 260)" stroke="url(#owlStroke)" strokeWidth="1.8" />
+      <circle cx="23" cy="30" r="3.4" fill="url(#owlEye)" />
+      <circle cx="41" cy="30" r="3.4" fill="url(#owlEye)" />
+      <circle cx="24.2" cy="28.8" r="0.9" fill="white" />
+      <circle cx="42.2" cy="28.8" r="0.9" fill="white" />
+
       {/* Beak */}
-      <path d="M32 33l-3 5h6l-3-5z" fill="url(#owlGrad)" />
-      {/* Chest neural lines */}
-      <path d="M22 46c4 3 16 3 20 0" stroke="url(#owlGrad)" strokeWidth="1.5" strokeLinecap="round" opacity="0.7" />
-      <path d="M26 50c2 1.5 10 1.5 12 0" stroke="url(#owlGrad)" strokeWidth="1.5" strokeLinecap="round" opacity="0.5" />
+      <path
+        d="M32 36 L29 41 Q32 43 35 41 Z"
+        fill="url(#owlStroke)"
+      />
+
+      {/* Chest feather arcs / neural rhythm */}
+      <path
+        d="M19 47 Q32 53 45 47"
+        stroke="url(#owlStroke)"
+        strokeWidth="1.4"
+        strokeLinecap="round"
+        fill="none"
+        opacity="0.7"
+      />
+      <path
+        d="M23 52 Q32 56 41 52"
+        stroke="url(#owlStroke)"
+        strokeWidth="1.2"
+        strokeLinecap="round"
+        fill="none"
+        opacity="0.5"
+      />
     </svg>
   );
 }
