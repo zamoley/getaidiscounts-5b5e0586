@@ -24,23 +24,18 @@ export const Route = createFileRoute("/{-$locale}/affiliate-disclosure")({
 });
 
 function DisclosurePage() {
+  const { t } = useTranslation();
+  const today = new Date().toLocaleDateString();
   return (
     <main className="min-h-screen">
       <SiteHeader />
       <article className="mx-auto max-w-3xl px-6 py-14">
-        <h1 className="text-4xl font-bold tracking-tight">Affiliate Disclosure</h1>
-        <p className="mt-2 text-sm text-muted-foreground">Last updated: {new Date().toLocaleDateString()}</p>
+        <h1 className="text-4xl font-bold tracking-tight">{t("disclosure.title")}</h1>
+        <p className="mt-2 text-sm text-muted-foreground">{t("disclosure.updated", { date: today })}</p>
 
         <section className="mt-8 space-y-3">
-          <p className="text-muted-foreground italic">
-            Disclosure: GetAIDiscounts.com is an independent directory supported by our audience. When you purchase through links on our site, we may earn an affiliate commission at no extra cost to you. Our editorial choices are independent and not influenced by our affiliate status.
-          </p>
-          <p className="text-muted-foreground">
-            We participate in affiliate programs including Skimlinks and direct partnerships with
-            AI tool providers. These commissions help us keep the site running, verify deals
-            daily, and add new tools — but a tool's affiliate status never determines whether we
-            list it or how we describe its discount.
-          </p>
+          <p className="text-muted-foreground italic">{t("disclosure.intro")}</p>
+          <p className="text-muted-foreground">{t("disclosure.details")}</p>
         </section>
       </article>
       <SiteFooter />
