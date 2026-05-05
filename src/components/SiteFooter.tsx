@@ -16,7 +16,7 @@ export function SiteFooter({ showDisclosure = false }: { showDisclosure?: boolea
       </div>
       {showDisclosure && (
         <p className="mt-6 text-center text-xs italic text-muted-foreground/80">
-          Disclosure: We may earn a commission when you click our links at no extra cost to you.
+          Disclosure: GetAIDiscounts.com is an independent directory supported by our audience. When you purchase through links on our site, we may earn an affiliate commission at no extra cost to you. Our editorial choices are independent and not influenced by our affiliate status.
         </p>
       )}
     </footer>
