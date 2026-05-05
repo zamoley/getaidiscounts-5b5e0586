@@ -66,11 +66,6 @@ function Index() {
   const { t } = useTranslation();
   useLocale();
 
-  const categories = useMemo(
-    () => Array.from(new Set(deals.map(d => d.category).filter(Boolean))) as string[],
-    [deals]
-  );
-
   const categoryCounts = useMemo(() => {
     const m = new Map<string, number>();
     for (const d of deals) if (d.category) m.set(d.category, (m.get(d.category) ?? 0) + 1);
