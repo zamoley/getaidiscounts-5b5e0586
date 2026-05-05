@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 
-export const Route = createFileRoute("/terms")({
+export const Route = createFileRoute("/{-$locale}/terms")({
   head: () => ({
     meta: [
       { title: "Terms of Service | GetAIDiscounts" },

@@ -5,7 +5,7 @@ import { CATEGORIES } from "@/lib/categories";
 
 const cfg = CATEGORIES.code;
 
-export const Route = createFileRoute("/code")({
+export const Route = createFileRoute("/{-$locale}/code")({
   loader: () => fetchDeals(),
   head: () => ({
     meta: [

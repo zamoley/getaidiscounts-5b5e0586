@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "categories": "カテゴリー",
+    "compare": "比較",
+    "newsletter": "ニュースレター",
+    "legal": "法務情報"
+  },
+  "categories": {
+    "all": "すべて",
+    "image": "画像AI",
+    "video": "動画AI",
+    "voice": "音声AI",
+    "music": "音楽AI",
+    "writing": "ライティングAI",
+    "chat": "チャットAI",
+    "code": "コードAI",
+    "agents": "AIエージェント",
+    "search": "検索AI",
+    "productivity": "生産性",
+    "design": "デザイン",
+    "nocode": "ノーコードAI"
+  },
+  "hero": {
+    "badge": "{{count}}件が有効 · {{date}}更新",
+    "title_pre": "プレミアムな",
+    "title_highlight": "AIツール割引ディレクトリ",
+    "subtitle": "実際に使用するAIツールの厳選されたプロモコードと限定ディール。コピーして、保存して、活用しましょう。",
+    "search_placeholder": "Midjourney, ChatGPT, Cursorなどを検索..."
+  },
+  "card": {
+    "get_deal": "ディールを入手",
+    "no_code": "コード不要",
+    "verified_today": "本日確認済み",
+    "verified": "確認済み",
+    "sourced_via": "提供元：",
+    "add_compare": "比較に追加",
+    "remove_compare": "比較から削除"
+  },
+  "empty": {
+    "no_results": "検索に一致するディールはありませんでした。"
+  },
+  "footer": {
+    "rights": "一部のリンクはSkimlinksを介して収益化されています。",
+    "legal": "法務情報",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "affiliate": "アフィリエイト開示",
+    "disclosure": "開示：GetAIDiscounts.comは、視聴者の皆様に支えられている独立したディレクトリです。サイト上のリンクを通じて購入された場合、追加費用なしでアフィリエイト手数料を得ることがあります。私たちの編集上の選択は独立しており、アフィリエイトの地位に影響されることはありません。"
+  },
+  "newsletter": {
+    "title": "受信箱でAIディールを受け取る",
+    "subtitle": "週に一度の短いメールで、最新の確認済みAI割引情報をお届けします。",
+    "placeholder": "you@domain.com",
+    "subscribe": "購読する",
+    "success": "登録完了です。受信箱を確認してください。",
+    "error": "購読できませんでした。もう一度お試しください。"
+  },
+  "compare": {
+    "title": "{{count}}個のツールを比較中",
+    "clear": "すべてクリア",
+    "open": "比較を開く"
+  },
+  "cookie": {
+    "text": "当サイトでは、最高の体験を提供し、サイトをサポートするためにクッキーを使用しています。",
+    "accept": "同意する"
+  },
+  "lang": {
+    "label": "言語"
+  }
+}

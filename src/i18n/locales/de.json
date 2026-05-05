@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "categories": "Kategorien",
+    "compare": "Vergleichen",
+    "newsletter": "Newsletter",
+    "legal": "Rechtliches"
+  },
+  "categories": {
+    "all": "Alle",
+    "image": "Bild-KI",
+    "video": "Video-KI",
+    "voice": "Stimm-KI",
+    "music": "Musik-KI",
+    "writing": "Schreib-KI",
+    "chat": "Chat-KI",
+    "code": "Code-KI",
+    "agents": "KI-Agenten",
+    "search": "Such-KI",
+    "productivity": "Produktivität",
+    "design": "Design",
+    "nocode": "No-Code-KI"
+  },
+  "hero": {
+    "badge": "{{count}} aktiv · Aktualisiert am {{date}}",
+    "title_pre": "Das Premium-Verzeichnis für",
+    "title_highlight": "KI-Tool-Rabatte",
+    "subtitle": "Handverlesene Gutscheincodes und exklusive Angebote für die KI-Tools, die Sie wirklich nutzen. Kopieren, sparen, nutzen.",
+    "search_placeholder": "Suche nach Midjourney, ChatGPT, Cursor…"
+  },
+  "card": {
+    "get_deal": "Angebot sichern",
+    "no_code": "KEIN CODE",
+    "verified_today": "Heute verifiziert",
+    "verified": "Verifiziert",
+    "sourced_via": "Bezogen über",
+    "add_compare": "Zum Vergleich hinzufügen",
+    "remove_compare": "Aus Vergleich entfernen"
+  },
+  "empty": {
+    "no_results": "Keine Angebote entsprechen Ihrer Suche."
+  },
+  "footer": {
+    "rights": "Einige Links werden über Skimlinks monetarisiert.",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "affiliate": "Partner-Offenlegung",
+    "disclosure": "Offenlegung: GetAIDiscounts.com ist ein unabhängiges Verzeichnis, das von unserem Publikum unterstützt wird. Wenn Sie über Links auf unserer Website kaufen, können wir eine Affiliate-Provision ohne zusätzliche Kosten für Sie verdienen. Unsere redaktionellen Entscheidungen sind unabhängig und werden nicht von unserem Affiliate-Status beeinflusst."
+  },
+  "newsletter": {
+    "title": "Erhalten Sie KI-Angebote in Ihrem Posteingang",
+    "subtitle": "Eine kurze E-Mail pro Woche mit den neuesten verifizierten KI-Rabatten.",
+    "placeholder": "du@domain.de",
+    "subscribe": "Abonnieren",
+    "success": "Sie sind dabei. Überprüfen Sie Ihren Posteingang.",
+    "error": "Abonnement fehlgeschlagen. Versuchen Sie es erneut."
+  },
+  "compare": {
+    "title": "Vergleiche {{count}} Tools",
+    "clear": "Alle löschen",
+    "open": "Vergleich öffnen"
+  },
+  "cookie": {
+    "text": "Wir verwenden Cookies, um sicherzustellen, dass Sie die beste Erfahrung erhalten und um unsere Seite zu unterstützen.",
+    "accept": "Akzeptieren"
+  },
+  "lang": {
+    "label": "Sprache"
+  }
+}

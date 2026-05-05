@@ -9,214 +9,182 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as WritingRouteImport } from './routes/writing'
-import { Route as VoiceRouteImport } from './routes/voice'
-import { Route as VideoRouteImport } from './routes/video'
-import { Route as TermsRouteImport } from './routes/terms'
-import { Route as PrivacyRouteImport } from './routes/privacy'
-import { Route as MusicRouteImport } from './routes/music'
 import { Route as GoRouteImport } from './routes/go'
-import { Route as CodeRouteImport } from './routes/code'
-import { Route as AgentsRouteImport } from './routes/agents'
-import { Route as AffiliateDisclosureRouteImport } from './routes/affiliate-disclosure'
-import { Route as IndexRouteImport } from './routes/index'
+import { Route as Char123LocaleChar125IndexRouteImport } from './routes/{-$locale}/index'
+import { Route as Char123LocaleChar125WritingRouteImport } from './routes/{-$locale}/writing'
+import { Route as Char123LocaleChar125VoiceRouteImport } from './routes/{-$locale}/voice'
+import { Route as Char123LocaleChar125VideoRouteImport } from './routes/{-$locale}/video'
+import { Route as Char123LocaleChar125TermsRouteImport } from './routes/{-$locale}/terms'
+import { Route as Char123LocaleChar125PrivacyRouteImport } from './routes/{-$locale}/privacy'
+import { Route as Char123LocaleChar125MusicRouteImport } from './routes/{-$locale}/music'
+import { Route as Char123LocaleChar125CodeRouteImport } from './routes/{-$locale}/code'
+import { Route as Char123LocaleChar125AgentsRouteImport } from './routes/{-$locale}/agents'
+import { Route as Char123LocaleChar125AffiliateDisclosureRouteImport } from './routes/{-$locale}/affiliate-disclosure'
 
-const WritingRoute = WritingRouteImport.update({
-  id: '/writing',
-  path: '/writing',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const VoiceRoute = VoiceRouteImport.update({
-  id: '/voice',
-  path: '/voice',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const VideoRoute = VideoRouteImport.update({
-  id: '/video',
-  path: '/video',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const TermsRoute = TermsRouteImport.update({
-  id: '/terms',
-  path: '/terms',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const PrivacyRoute = PrivacyRouteImport.update({
-  id: '/privacy',
-  path: '/privacy',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const MusicRoute = MusicRouteImport.update({
-  id: '/music',
-  path: '/music',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const GoRoute = GoRouteImport.update({
   id: '/go',
   path: '/go',
   getParentRoute: () => rootRouteImport,
 } as any)
-const CodeRoute = CodeRouteImport.update({
-  id: '/code',
-  path: '/code',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const AgentsRoute = AgentsRouteImport.update({
-  id: '/agents',
-  path: '/agents',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const AffiliateDisclosureRoute = AffiliateDisclosureRouteImport.update({
-  id: '/affiliate-disclosure',
-  path: '/affiliate-disclosure',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const IndexRoute = IndexRouteImport.update({
-  id: '/',
-  path: '/',
-  getParentRoute: () => rootRouteImport,
-} as any)
+const Char123LocaleChar125IndexRoute =
+  Char123LocaleChar125IndexRouteImport.update({
+    id: '/{-$locale}/',
+    path: '/{-$locale}/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125WritingRoute =
+  Char123LocaleChar125WritingRouteImport.update({
+    id: '/{-$locale}/writing',
+    path: '/{-$locale}/writing',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125VoiceRoute =
+  Char123LocaleChar125VoiceRouteImport.update({
+    id: '/{-$locale}/voice',
+    path: '/{-$locale}/voice',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125VideoRoute =
+  Char123LocaleChar125VideoRouteImport.update({
+    id: '/{-$locale}/video',
+    path: '/{-$locale}/video',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125TermsRoute =
+  Char123LocaleChar125TermsRouteImport.update({
+    id: '/{-$locale}/terms',
+    path: '/{-$locale}/terms',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125PrivacyRoute =
+  Char123LocaleChar125PrivacyRouteImport.update({
+    id: '/{-$locale}/privacy',
+    path: '/{-$locale}/privacy',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125MusicRoute =
+  Char123LocaleChar125MusicRouteImport.update({
+    id: '/{-$locale}/music',
+    path: '/{-$locale}/music',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125CodeRoute =
+  Char123LocaleChar125CodeRouteImport.update({
+    id: '/{-$locale}/code',
+    path: '/{-$locale}/code',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125AgentsRoute =
+  Char123LocaleChar125AgentsRouteImport.update({
+    id: '/{-$locale}/agents',
+    path: '/{-$locale}/agents',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LocaleChar125AffiliateDisclosureRoute =
+  Char123LocaleChar125AffiliateDisclosureRouteImport.update({
+    id: '/{-$locale}/affiliate-disclosure',
+    path: '/{-$locale}/affiliate-disclosure',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 
 export interface FileRoutesByFullPath {
-  '/': typeof IndexRoute
-  '/affiliate-disclosure': typeof AffiliateDisclosureRoute
-  '/agents': typeof AgentsRoute
-  '/code': typeof CodeRoute
   '/go': typeof GoRoute
-  '/music': typeof MusicRoute
-  '/privacy': typeof PrivacyRoute
-  '/terms': typeof TermsRoute
-  '/video': typeof VideoRoute
-  '/voice': typeof VoiceRoute
-  '/writing': typeof WritingRoute
+  '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
+  '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
+  '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
+  '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
+  '/{-$locale}/terms': typeof Char123LocaleChar125TermsRoute
+  '/{-$locale}/video': typeof Char123LocaleChar125VideoRoute
+  '/{-$locale}/voice': typeof Char123LocaleChar125VoiceRoute
+  '/{-$locale}/writing': typeof Char123LocaleChar125WritingRoute
+  '/{-$locale}/': typeof Char123LocaleChar125IndexRoute
 }
 export interface FileRoutesByTo {
-  '/': typeof IndexRoute
-  '/affiliate-disclosure': typeof AffiliateDisclosureRoute
-  '/agents': typeof AgentsRoute
-  '/code': typeof CodeRoute
   '/go': typeof GoRoute
-  '/music': typeof MusicRoute
-  '/privacy': typeof PrivacyRoute
-  '/terms': typeof TermsRoute
-  '/video': typeof VideoRoute
-  '/voice': typeof VoiceRoute
-  '/writing': typeof WritingRoute
+  '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
+  '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
+  '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
+  '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
+  '/{-$locale}/terms': typeof Char123LocaleChar125TermsRoute
+  '/{-$locale}/video': typeof Char123LocaleChar125VideoRoute
+  '/{-$locale}/voice': typeof Char123LocaleChar125VoiceRoute
+  '/{-$locale}/writing': typeof Char123LocaleChar125WritingRoute
+  '/{-$locale}': typeof Char123LocaleChar125IndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
-  '/': typeof IndexRoute
-  '/affiliate-disclosure': typeof AffiliateDisclosureRoute
-  '/agents': typeof AgentsRoute
-  '/code': typeof CodeRoute
   '/go': typeof GoRoute
-  '/music': typeof MusicRoute
-  '/privacy': typeof PrivacyRoute
-  '/terms': typeof TermsRoute
-  '/video': typeof VideoRoute
-  '/voice': typeof VoiceRoute
-  '/writing': typeof WritingRoute
+  '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
+  '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
+  '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
+  '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
+  '/{-$locale}/terms': typeof Char123LocaleChar125TermsRoute
+  '/{-$locale}/video': typeof Char123LocaleChar125VideoRoute
+  '/{-$locale}/voice': typeof Char123LocaleChar125VoiceRoute
+  '/{-$locale}/writing': typeof Char123LocaleChar125WritingRoute
+  '/{-$locale}/': typeof Char123LocaleChar125IndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
-    | '/'
-    | '/affiliate-disclosure'
-    | '/agents'
-    | '/code'
     | '/go'
-    | '/music'
-    | '/privacy'
-    | '/terms'
-    | '/video'
-    | '/voice'
-    | '/writing'
+    | '/{-$locale}/affiliate-disclosure'
+    | '/{-$locale}/agents'
+    | '/{-$locale}/code'
+    | '/{-$locale}/music'
+    | '/{-$locale}/privacy'
+    | '/{-$locale}/terms'
+    | '/{-$locale}/video'
+    | '/{-$locale}/voice'
+    | '/{-$locale}/writing'
+    | '/{-$locale}/'
   fileRoutesByTo: FileRoutesByTo
   to:
-    | '/'
-    | '/affiliate-disclosure'
-    | '/agents'
-    | '/code'
     | '/go'
-    | '/music'
-    | '/privacy'
-    | '/terms'
-    | '/video'
-    | '/voice'
-    | '/writing'
+    | '/{-$locale}/affiliate-disclosure'
+    | '/{-$locale}/agents'
+    | '/{-$locale}/code'
+    | '/{-$locale}/music'
+    | '/{-$locale}/privacy'
+    | '/{-$locale}/terms'
+    | '/{-$locale}/video'
+    | '/{-$locale}/voice'
+    | '/{-$locale}/writing'
+    | '/{-$locale}'
   id:
     | '__root__'
-    | '/'
-    | '/affiliate-disclosure'
-    | '/agents'
-    | '/code'
     | '/go'
-    | '/music'
-    | '/privacy'
-    | '/terms'
-    | '/video'
-    | '/voice'
-    | '/writing'
+    | '/{-$locale}/affiliate-disclosure'
+    | '/{-$locale}/agents'
+    | '/{-$locale}/code'
+    | '/{-$locale}/music'
+    | '/{-$locale}/privacy'
+    | '/{-$locale}/terms'
+    | '/{-$locale}/video'
+    | '/{-$locale}/voice'
+    | '/{-$locale}/writing'
+    | '/{-$locale}/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
-  IndexRoute: typeof IndexRoute
-  AffiliateDisclosureRoute: typeof AffiliateDisclosureRoute
-  AgentsRoute: typeof AgentsRoute
-  CodeRoute: typeof CodeRoute
   GoRoute: typeof GoRoute
-  MusicRoute: typeof MusicRoute
-  PrivacyRoute: typeof PrivacyRoute
-  TermsRoute: typeof TermsRoute
-  VideoRoute: typeof VideoRoute
-  VoiceRoute: typeof VoiceRoute
-  WritingRoute: typeof WritingRoute
+  Char123LocaleChar125AffiliateDisclosureRoute: typeof Char123LocaleChar125AffiliateDisclosureRoute
+  Char123LocaleChar125AgentsRoute: typeof Char123LocaleChar125AgentsRoute
+  Char123LocaleChar125CodeRoute: typeof Char123LocaleChar125CodeRoute
+  Char123LocaleChar125MusicRoute: typeof Char123LocaleChar125MusicRoute
+  Char123LocaleChar125PrivacyRoute: typeof Char123LocaleChar125PrivacyRoute
+  Char123LocaleChar125TermsRoute: typeof Char123LocaleChar125TermsRoute
+  Char123LocaleChar125VideoRoute: typeof Char123LocaleChar125VideoRoute
+  Char123LocaleChar125VoiceRoute: typeof Char123LocaleChar125VoiceRoute
+  Char123LocaleChar125WritingRoute: typeof Char123LocaleChar125WritingRoute
+  Char123LocaleChar125IndexRoute: typeof Char123LocaleChar125IndexRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
-    '/writing': {
-      id: '/writing'
-      path: '/writing'
-      fullPath: '/writing'
-      preLoaderRoute: typeof WritingRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/voice': {
-      id: '/voice'
-      path: '/voice'
-      fullPath: '/voice'
-      preLoaderRoute: typeof VoiceRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/video': {
-      id: '/video'
-      path: '/video'
-      fullPath: '/video'
-      preLoaderRoute: typeof VideoRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/terms': {
-      id: '/terms'
-      path: '/terms'
-      fullPath: '/terms'
-      preLoaderRoute: typeof TermsRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/privacy': {
-      id: '/privacy'
-      path: '/privacy'
-      fullPath: '/privacy'
-      preLoaderRoute: typeof PrivacyRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/music': {
-      id: '/music'
-      path: '/music'
-      fullPath: '/music'
-      preLoaderRoute: typeof MusicRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/go': {
       id: '/go'
       path: '/go'
@@ -224,49 +192,92 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof GoRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/code': {
-      id: '/code'
-      path: '/code'
-      fullPath: '/code'
-      preLoaderRoute: typeof CodeRouteImport
+    '/{-$locale}/': {
+      id: '/{-$locale}/'
+      path: '/{-$locale}'
+      fullPath: '/{-$locale}/'
+      preLoaderRoute: typeof Char123LocaleChar125IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/agents': {
-      id: '/agents'
-      path: '/agents'
-      fullPath: '/agents'
-      preLoaderRoute: typeof AgentsRouteImport
+    '/{-$locale}/writing': {
+      id: '/{-$locale}/writing'
+      path: '/{-$locale}/writing'
+      fullPath: '/{-$locale}/writing'
+      preLoaderRoute: typeof Char123LocaleChar125WritingRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/affiliate-disclosure': {
-      id: '/affiliate-disclosure'
-      path: '/affiliate-disclosure'
-      fullPath: '/affiliate-disclosure'
-      preLoaderRoute: typeof AffiliateDisclosureRouteImport
+    '/{-$locale}/voice': {
+      id: '/{-$locale}/voice'
+      path: '/{-$locale}/voice'
+      fullPath: '/{-$locale}/voice'
+      preLoaderRoute: typeof Char123LocaleChar125VoiceRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/': {
-      id: '/'
-      path: '/'
-      fullPath: '/'
-      preLoaderRoute: typeof IndexRouteImport
+    '/{-$locale}/video': {
+      id: '/{-$locale}/video'
+      path: '/{-$locale}/video'
+      fullPath: '/{-$locale}/video'
+      preLoaderRoute: typeof Char123LocaleChar125VideoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$locale}/terms': {
+      id: '/{-$locale}/terms'
+      path: '/{-$locale}/terms'
+      fullPath: '/{-$locale}/terms'
+      preLoaderRoute: typeof Char123LocaleChar125TermsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$locale}/privacy': {
+      id: '/{-$locale}/privacy'
+      path: '/{-$locale}/privacy'
+      fullPath: '/{-$locale}/privacy'
+      preLoaderRoute: typeof Char123LocaleChar125PrivacyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$locale}/music': {
+      id: '/{-$locale}/music'
+      path: '/{-$locale}/music'
+      fullPath: '/{-$locale}/music'
+      preLoaderRoute: typeof Char123LocaleChar125MusicRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$locale}/code': {
+      id: '/{-$locale}/code'
+      path: '/{-$locale}/code'
+      fullPath: '/{-$locale}/code'
+      preLoaderRoute: typeof Char123LocaleChar125CodeRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$locale}/agents': {
+      id: '/{-$locale}/agents'
+      path: '/{-$locale}/agents'
+      fullPath: '/{-$locale}/agents'
+      preLoaderRoute: typeof Char123LocaleChar125AgentsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$locale}/affiliate-disclosure': {
+      id: '/{-$locale}/affiliate-disclosure'
+      path: '/{-$locale}/affiliate-disclosure'
+      fullPath: '/{-$locale}/affiliate-disclosure'
+      preLoaderRoute: typeof Char123LocaleChar125AffiliateDisclosureRouteImport
       parentRoute: typeof rootRouteImport
     }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
-  IndexRoute: IndexRoute,
-  AffiliateDisclosureRoute: AffiliateDisclosureRoute,
-  AgentsRoute: AgentsRoute,
-  CodeRoute: CodeRoute,
   GoRoute: GoRoute,
-  MusicRoute: MusicRoute,
-  PrivacyRoute: PrivacyRoute,
-  TermsRoute: TermsRoute,
-  VideoRoute: VideoRoute,
-  VoiceRoute: VoiceRoute,
-  WritingRoute: WritingRoute,
+  Char123LocaleChar125AffiliateDisclosureRoute:
+    Char123LocaleChar125AffiliateDisclosureRoute,
+  Char123LocaleChar125AgentsRoute: Char123LocaleChar125AgentsRoute,
+  Char123LocaleChar125CodeRoute: Char123LocaleChar125CodeRoute,
+  Char123LocaleChar125MusicRoute: Char123LocaleChar125MusicRoute,
+  Char123LocaleChar125PrivacyRoute: Char123LocaleChar125PrivacyRoute,
+  Char123LocaleChar125TermsRoute: Char123LocaleChar125TermsRoute,
+  Char123LocaleChar125VideoRoute: Char123LocaleChar125VideoRoute,
+  Char123LocaleChar125VoiceRoute: Char123LocaleChar125VoiceRoute,
+  Char123LocaleChar125WritingRoute: Char123LocaleChar125WritingRoute,
+  Char123LocaleChar125IndexRoute: Char123LocaleChar125IndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

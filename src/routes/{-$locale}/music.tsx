@@ -3,9 +3,9 @@ import { fetchDeals, type Deal } from "@/lib/deals";
 import { CategoryPage } from "@/components/CategoryPage";
 import { CATEGORIES } from "@/lib/categories";
 
-const cfg = CATEGORIES.writing;
+const cfg = CATEGORIES.music;
 
-export const Route = createFileRoute("/writing")({
+export const Route = createFileRoute("/{-$locale}/music")({
   loader: () => fetchDeals(),
   head: () => ({
     meta: [

@@ -3,9 +3,9 @@ import { fetchDeals, type Deal } from "@/lib/deals";
 import { CategoryPage } from "@/components/CategoryPage";
 import { CATEGORIES } from "@/lib/categories";
 
-const cfg = CATEGORIES.video;
+const cfg = CATEGORIES.voice;
 
-export const Route = createFileRoute("/video")({
+export const Route = createFileRoute("/{-$locale}/voice")({
   loader: () => fetchDeals(),
   head: () => ({
     meta: [
