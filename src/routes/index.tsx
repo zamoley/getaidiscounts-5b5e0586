@@ -1,10 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import {
-  Search, Sparkles, LayoutGrid, Image as ImageIcon, MessageSquare, Video,
-  Mic, PenLine, Music, Code2, Bot, Briefcase, Globe, Wand2,
-} from "lucide-react";
-import type { LucideIcon } from "lucide-react";
+import { Search, Sparkles, LayoutGrid } from "lucide-react";
 import { fetchDeals, type Deal } from "@/lib/deals";
 import { DealCard } from "@/components/DealCard";
 import { CompareBar } from "@/components/CompareBar";
