@@ -50,6 +50,12 @@ function Index() {
     [deals]
   );
 
+  const categoryCounts = useMemo(() => {
+    const m = new Map<string, number>();
+    for (const d of deals) if (d.category) m.set(d.category, (m.get(d.category) ?? 0) + 1);
+    return m;
+  }, [deals]);
+
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return deals.filter(d => {
@@ -98,7 +104,7 @@ function Index() {
 
       <section className="mx-auto max-w-7xl px-6">
         <div className="flex flex-wrap items-stretch justify-center gap-2.5">
-          <CategoryChip active={category === null} onClick={() => setCategory(null)} Icon={Sparkles} color="text-electric" ring="border-electric/40 bg-electric/10" label={t("categories.all")} />
+          <CategoryChip active={category === null} onClick={() => setCategory(null)} Icon={Sparkles} color="text-electric" ring="border-electric/40 bg-electric/10" label={t("categories.all")} count={deals.length} />
           {categories.map(c => {
             const s = categoryStyle(c);
             return (
@@ -110,6 +116,7 @@ function Index() {
                 color={s.color}
                 ring={s.ring}
                 label={c}
+                count={categoryCounts.get(c) ?? 0}
               />
             );
           })}
@@ -147,7 +154,7 @@ function Index() {
 }
 
 function CategoryChip({
-  active, onClick, Icon, color, ring, label,
+  active, onClick, Icon, color, ring, label, count,
 }: {
   active: boolean;
   onClick: () => void;
@@ -155,6 +162,7 @@ function CategoryChip({
   color: string;
   ring: string;
   label: string;
+  count?: number;
 }) {
   return (
     <button
@@ -168,6 +176,16 @@ function CategoryChip({
     >
       <Icon className={`h-4 w-4 ${active ? "text-electric" : color}`} strokeWidth={2.2} aria-hidden />
       <span>{label}</span>
+      {typeof count === "number" && (
+        <span
+          className={`ml-0.5 inline-flex min-w-[1.4rem] items-center justify-center rounded-full px-1.5 py-0.5 text-[11px] font-bold leading-none tabular-nums ${
+            active ? "bg-electric/25 text-electric" : "bg-muted text-muted-foreground group-hover:bg-electric/15 group-hover:text-electric"
+          }`}
+          aria-label={`${count} deals`}
+        >
+          {count}
+        </span>
+      )}
     </button>
   );
 }
