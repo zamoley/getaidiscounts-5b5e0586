@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Search, Sparkles } from "lucide-react";
+import { useTranslation } from "react-i18next";
 import { fetchDeals, type Deal } from "@/lib/deals";
 import { DealCard } from "@/components/DealCard";
 import { CompareBar } from "@/components/CompareBar";
@@ -10,13 +11,31 @@ import { SiteFooter } from "@/components/SiteFooter";
 import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
+import { useLocale } from "@/i18n/use-locale";
+import { SUPPORTED_LANGUAGES } from "@/i18n";
+
+const SITE = "https://getaidiscounts.com";
 
 export const Route = createFileRoute("/{-$locale}/")({
   loader: () => fetchDeals(),
+  head: ({ params }) => {
+    const loc = (params as { locale?: string }).locale ?? "en";
+    return {
+      links: SUPPORTED_LANGUAGES.map(l => ({
+        rel: "alternate",
+        hrefLang: l.code,
+        href: l.code === "en" ? `${SITE}/` : `${SITE}/${l.code}/`,
+      })).concat([{ rel: "alternate", hrefLang: "x-default", href: `${SITE}/` }]),
+      meta: [
+        { property: "og:locale", content: loc },
+      ],
+    };
+  },
   component: Index,
   errorComponent: ({ error }) => (
     <div className="p-10 text-center text-muted-foreground">Failed to load deals: {error.message}</div>
   ),
+  notFoundComponent: () => <div className="p-10 text-center">Not found</div>,
 });
 
 function Index() {
