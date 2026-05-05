@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ToolLogo } from "@/components/ToolLogo";
 import type { Deal } from "@/lib/deals";
+import { smartLink } from "@/lib/smartlink";
 
 export function CompareBar({
   deals, onRemove, onClear,
