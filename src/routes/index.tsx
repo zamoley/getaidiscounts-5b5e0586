@@ -6,6 +6,7 @@ import { DealCard } from "@/components/DealCard";
 import { CompareBar } from "@/components/CompareBar";
 import { NewsletterSection } from "@/components/NewsletterSection";
 import { SiteHeader } from "@/components/SiteHeader";
+import { SiteFooter } from "@/components/SiteFooter";
 import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
