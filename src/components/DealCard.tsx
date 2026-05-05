@@ -3,6 +3,8 @@ import { Copy, Check, Plus, X, ExternalLink, ShieldCheck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
+import { smartLink } from "@/lib/smartlink";
+import { VoteButtons } from "@/components/VoteButtons";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
@@ -28,6 +30,16 @@ export function DealCard({
       setCopied(true);
       setTimeout(() => setCopied(false), 1800);
     } catch {}
+  };
+
+  const handleGetDeal = async (e: React.MouseEvent) => {
+    e.preventDefault();
+    if (deal.code) {
+      try {
+        await navigator.clipboard.writeText(deal.code);
+      } catch {}
+    }
+    window.location.href = smartLink(deal.url);
   };
 
   return (
@@ -76,10 +88,11 @@ export function DealCard({
           <span className="truncate">{deal.code ?? "NO CODE"}</span>
           {copied ? <Check className="h-4 w-4 text-electric" /> : <Copy className="h-4 w-4" />}
         </Button>
-        <Button asChild className="bg-electric text-electric-foreground hover:bg-electric-glow">
-          <a href={deal.url} target="_blank" rel="noopener noreferrer">
-            Get Deal <ExternalLink className="ml-1.5 h-3.5 w-3.5" />
-          </a>
+        <Button
+          onClick={handleGetDeal}
+          className="bg-electric text-electric-foreground hover:bg-electric-glow"
+        >
+          Get Deal <ExternalLink className="ml-1.5 h-3.5 w-3.5" />
         </Button>
       </div>
 
@@ -87,6 +100,8 @@ export function DealCard({
         <ShieldCheck className="h-3.5 w-3.5 text-electric" />
         Last verified <span className="text-foreground/80">{formatDate(deal.lastVerified)}</span>
       </div>
+
+      <VoteButtons dealId={deal.id} />
     </article>
   );
 }
