@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Search, Sparkles, Zap } from "lucide-react";
 import { fetchDeals, type Deal } from "@/lib/deals";
@@ -55,8 +55,15 @@ function Index() {
               Get<span className="text-electric">AI</span>Discounts
             </span>
           </a>
+          <nav className="hidden items-center gap-1 text-sm md:flex">
+            {(["video","voice","writing","agents","code","music"] as const).map(slug => (
+              <Link key={slug} to={`/${slug}`} className="rounded-full px-3 py-1.5 text-muted-foreground hover:bg-secondary hover:text-foreground">
+                {slug.charAt(0).toUpperCase()+slug.slice(1)}
+              </Link>
+            ))}
+          </nav>
           <Badge className="hidden border border-electric/30 bg-electric/10 text-electric sm:inline-flex">
-            <Sparkles className="mr-1 h-3 w-3" /> {deals.length} deals live
+            <Sparkles className="mr-1 h-3 w-3" /> {deals.length} live
           </Badge>
         </div>
       </header>

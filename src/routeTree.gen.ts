@@ -9,8 +9,44 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as WritingRouteImport } from './routes/writing'
+import { Route as VoiceRouteImport } from './routes/voice'
+import { Route as VideoRouteImport } from './routes/video'
+import { Route as MusicRouteImport } from './routes/music'
+import { Route as CodeRouteImport } from './routes/code'
+import { Route as AgentsRouteImport } from './routes/agents'
 import { Route as IndexRouteImport } from './routes/index'
 
+const WritingRoute = WritingRouteImport.update({
+  id: '/writing',
+  path: '/writing',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const VoiceRoute = VoiceRouteImport.update({
+  id: '/voice',
+  path: '/voice',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const VideoRoute = VideoRouteImport.update({
+  id: '/video',
+  path: '/video',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MusicRoute = MusicRouteImport.update({
+  id: '/music',
+  path: '/music',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CodeRoute = CodeRouteImport.update({
+  id: '/code',
+  path: '/code',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AgentsRoute = AgentsRouteImport.update({
+  id: '/agents',
+  path: '/agents',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
@@ -19,28 +55,109 @@ const IndexRoute = IndexRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/agents': typeof AgentsRoute
+  '/code': typeof CodeRoute
+  '/music': typeof MusicRoute
+  '/video': typeof VideoRoute
+  '/voice': typeof VoiceRoute
+  '/writing': typeof WritingRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/agents': typeof AgentsRoute
+  '/code': typeof CodeRoute
+  '/music': typeof MusicRoute
+  '/video': typeof VideoRoute
+  '/voice': typeof VoiceRoute
+  '/writing': typeof WritingRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/agents': typeof AgentsRoute
+  '/code': typeof CodeRoute
+  '/music': typeof MusicRoute
+  '/video': typeof VideoRoute
+  '/voice': typeof VoiceRoute
+  '/writing': typeof WritingRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/agents'
+    | '/code'
+    | '/music'
+    | '/video'
+    | '/voice'
+    | '/writing'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/agents' | '/code' | '/music' | '/video' | '/voice' | '/writing'
+  id:
+    | '__root__'
+    | '/'
+    | '/agents'
+    | '/code'
+    | '/music'
+    | '/video'
+    | '/voice'
+    | '/writing'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AgentsRoute: typeof AgentsRoute
+  CodeRoute: typeof CodeRoute
+  MusicRoute: typeof MusicRoute
+  VideoRoute: typeof VideoRoute
+  VoiceRoute: typeof VoiceRoute
+  WritingRoute: typeof WritingRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/writing': {
+      id: '/writing'
+      path: '/writing'
+      fullPath: '/writing'
+      preLoaderRoute: typeof WritingRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/voice': {
+      id: '/voice'
+      path: '/voice'
+      fullPath: '/voice'
+      preLoaderRoute: typeof VoiceRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/video': {
+      id: '/video'
+      path: '/video'
+      fullPath: '/video'
+      preLoaderRoute: typeof VideoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/music': {
+      id: '/music'
+      path: '/music'
+      fullPath: '/music'
+      preLoaderRoute: typeof MusicRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/code': {
+      id: '/code'
+      path: '/code'
+      fullPath: '/code'
+      preLoaderRoute: typeof CodeRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/agents': {
+      id: '/agents'
+      path: '/agents'
+      fullPath: '/agents'
+      preLoaderRoute: typeof AgentsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/': {
       id: '/'
       path: '/'
@@ -53,6 +170,12 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AgentsRoute: AgentsRoute,
+  CodeRoute: CodeRoute,
+  MusicRoute: MusicRoute,
+  VideoRoute: VideoRoute,
+  VoiceRoute: VoiceRoute,
+  WritingRoute: WritingRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
