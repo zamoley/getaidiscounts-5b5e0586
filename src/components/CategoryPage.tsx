@@ -117,12 +117,14 @@ export function CategoryPage({
         )}
       </section>
 
+      <NewsletterSection source={`category:${config.slug}`} />
+
       <footer className="mx-auto max-w-7xl border-t border-border/60 px-6 py-10 text-center text-sm text-muted-foreground">
         © {new Date().getFullYear()} GetAIDiscounts.com — Some links are monetized via Skimlinks.
       </footer>
 
       {compare.ids.length > 0 && (
-        <CompareDrawer
+        <CompareBar
           deals={getCompared(deals, compare.ids)}
           onRemove={compare.remove}
           onClear={compare.clear}
