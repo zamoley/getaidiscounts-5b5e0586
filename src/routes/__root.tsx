@@ -1,6 +1,7 @@
 import { Outlet, Link, createRootRoute, HeadContent, Scripts } from "@tanstack/react-router";
 import { Toaster } from "@/components/ui/sonner";
 import { NeuralBackdrop } from "@/components/NeuralBackdrop";
+import { CookieConsent } from "@/components/CookieConsent";
 import appCss from "../styles.css?url";
 
 function NotFoundComponent() {
@@ -52,6 +53,7 @@ function RootShell({ children }: { children: React.ReactNode }) {
       <body>
         <NeuralBackdrop />
         {children}
+        <CookieConsent />
         <Toaster theme="dark" position="top-center" />
         <Scripts />
       </body>
