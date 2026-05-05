@@ -41,7 +41,8 @@ export const Route = createFileRoute("/{-$locale}/")({
 });
 
 function Index() {
-  const deals = Route.useLoaderData() as Deal[];
+  const loaderDeals = Route.useLoaderData() as Deal[] | undefined;
+  const deals = Array.isArray(loaderDeals) ? loaderDeals : [];
   const { cat: categoryParam } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
