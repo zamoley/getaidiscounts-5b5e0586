@@ -13,6 +13,7 @@ import { Route as WritingRouteImport } from './routes/writing'
 import { Route as VoiceRouteImport } from './routes/voice'
 import { Route as VideoRouteImport } from './routes/video'
 import { Route as MusicRouteImport } from './routes/music'
+import { Route as GoRouteImport } from './routes/go'
 import { Route as CodeRouteImport } from './routes/code'
 import { Route as AgentsRouteImport } from './routes/agents'
 import { Route as IndexRouteImport } from './routes/index'
@@ -37,6 +38,11 @@ const MusicRoute = MusicRouteImport.update({
   path: '/music',
   getParentRoute: () => rootRouteImport,
 } as any)
+const GoRoute = GoRouteImport.update({
+  id: '/go',
+  path: '/go',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const CodeRoute = CodeRouteImport.update({
   id: '/code',
   path: '/code',
@@ -57,6 +63,7 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/agents': typeof AgentsRoute
   '/code': typeof CodeRoute
+  '/go': typeof GoRoute
   '/music': typeof MusicRoute
   '/video': typeof VideoRoute
   '/voice': typeof VoiceRoute
@@ -66,6 +73,7 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/agents': typeof AgentsRoute
   '/code': typeof CodeRoute
+  '/go': typeof GoRoute
   '/music': typeof MusicRoute
   '/video': typeof VideoRoute
   '/voice': typeof VoiceRoute
@@ -76,6 +84,7 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/agents': typeof AgentsRoute
   '/code': typeof CodeRoute
+  '/go': typeof GoRoute
   '/music': typeof MusicRoute
   '/video': typeof VideoRoute
   '/voice': typeof VoiceRoute
@@ -87,17 +96,27 @@ export interface FileRouteTypes {
     | '/'
     | '/agents'
     | '/code'
+    | '/go'
     | '/music'
     | '/video'
     | '/voice'
     | '/writing'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/agents' | '/code' | '/music' | '/video' | '/voice' | '/writing'
+  to:
+    | '/'
+    | '/agents'
+    | '/code'
+    | '/go'
+    | '/music'
+    | '/video'
+    | '/voice'
+    | '/writing'
   id:
     | '__root__'
     | '/'
     | '/agents'
     | '/code'
+    | '/go'
     | '/music'
     | '/video'
     | '/voice'
@@ -108,6 +127,7 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AgentsRoute: typeof AgentsRoute
   CodeRoute: typeof CodeRoute
+  GoRoute: typeof GoRoute
   MusicRoute: typeof MusicRoute
   VideoRoute: typeof VideoRoute
   VoiceRoute: typeof VoiceRoute
@@ -144,6 +164,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof MusicRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/go': {
+      id: '/go'
+      path: '/go'
+      fullPath: '/go'
+      preLoaderRoute: typeof GoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/code': {
       id: '/code'
       path: '/code'
@@ -172,6 +199,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AgentsRoute: AgentsRoute,
   CodeRoute: CodeRoute,
+  GoRoute: GoRoute,
   MusicRoute: MusicRoute,
   VideoRoute: VideoRoute,
   VoiceRoute: VoiceRoute,
