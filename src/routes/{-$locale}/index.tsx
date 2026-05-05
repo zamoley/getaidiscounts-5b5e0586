@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Search, Sparkles, type LucideIcon } from "lucide-react";
 import { categoryStyle } from "@/lib/category-style";
@@ -16,6 +16,9 @@ import { useLocale } from "@/i18n/use-locale";
 import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/")({
+  validateSearch: (s: Record<string, unknown>): { category?: string } => ({
+    category: typeof s.category === "string" && s.category ? s.category : undefined,
+  }),
   loader: () => fetchDeals(),
   head: ({ params }) => {
     const loc = (params as { locale?: string }).locale ?? "en";
@@ -39,8 +42,16 @@ export const Route = createFileRoute("/{-$locale}/")({
 
 function Index() {
   const deals = Route.useLoaderData() as Deal[];
+  const { category: categoryParam } = Route.useSearch();
+  const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
-  const [category, setCategory] = useState<string | null>(null);
+  const category = categoryParam ?? null;
+  const setCategory = (c: string | null) => {
+    navigate({
+      search: (prev: { category?: string }) => ({ ...prev, category: c ?? undefined }),
+      replace: true,
+    });
+  };
   const compare = useCompare();
   const { t } = useTranslation();
   useLocale();
