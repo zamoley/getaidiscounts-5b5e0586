@@ -1,6 +1,10 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { Search, Sparkles } from "lucide-react";
+import {
+  Search, Sparkles, LayoutGrid, Image as ImageIcon, MessageSquare, Video,
+  Mic, PenLine, Music, Code2, Bot, Briefcase, Globe, Wand2,
+} from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 import { fetchDeals, type Deal } from "@/lib/deals";
 import { DealCard } from "@/components/DealCard";
 import { CompareBar } from "@/components/CompareBar";
@@ -78,10 +82,16 @@ function Index() {
 
       {/* Filters */}
       <section className="mx-auto max-w-7xl px-6">
-        <div className="flex flex-wrap gap-2">
-          <CategoryChip active={category === null} onClick={() => setCategory(null)}>All</CategoryChip>
+        <div className="flex flex-wrap items-stretch justify-center gap-2.5">
+          <CategoryChip active={category === null} onClick={() => setCategory(null)} icon={LayoutGrid} label="All" />
           {categories.map(c => (
-            <CategoryChip key={c} active={category === c} onClick={() => setCategory(c)}>{c}</CategoryChip>
+            <CategoryChip
+              key={c}
+              active={category === c}
+              onClick={() => setCategory(c)}
+              icon={iconForCategory(c)}
+              label={c}
+            />
           ))}
         </div>
       </section>
@@ -119,17 +129,41 @@ function Index() {
   );
 }
 
-function CategoryChip({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
+function iconForCategory(c: string): LucideIcon {
+  const k = c.toLowerCase();
+  if (k.includes("image")) return ImageIcon;
+  if (k.includes("video")) return Video;
+  if (k.includes("voice") || k.includes("audio")) return Mic;
+  if (k.includes("music")) return Music;
+  if (k.includes("writ")) return PenLine;
+  if (k.includes("chat")) return MessageSquare;
+  if (k.includes("code") || k.includes("dev")) return Code2;
+  if (k.includes("agent")) return Bot;
+  if (k.includes("search")) return Globe;
+  if (k.includes("product")) return Briefcase;
+  return Wand2;
+}
+
+function CategoryChip({
+  active, onClick, icon: Icon, label,
+}: {
+  active: boolean;
+  onClick: () => void;
+  icon: LucideIcon;
+  label: string;
+}) {
   return (
     <button
       onClick={onClick}
-      className={`rounded-full border px-4 py-1.5 text-sm transition-all ${
+      aria-pressed={active}
+      className={`group inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-medium transition-all ${
         active
-          ? "border-electric bg-electric text-electric-foreground"
-          : "border-border bg-card text-muted-foreground hover:border-electric/50 hover:text-foreground"
+          ? "border-electric bg-electric/15 text-electric ring-1 ring-electric/50 shadow-[0_0_24px_-4px_var(--electric)]"
+          : "border-border bg-card/70 text-muted-foreground hover:border-electric/40 hover:text-foreground hover:bg-card"
       }`}
     >
-      {children}
+      <Icon className={`h-4 w-4 transition-transform ${active ? "text-electric" : "text-muted-foreground group-hover:text-electric"}`} />
+      <span>{label}</span>
     </button>
   );
 }
