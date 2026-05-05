@@ -43,6 +43,7 @@ function normalize(raw: any, idx: number): Deal {
     logo: raw.logo,
     pricing: raw.pricing ?? raw.price,
     specs: raw.specs ?? raw.features,
+    source: raw.source ?? raw.via ?? raw.partner,
   };
 }
 
