@@ -12,10 +12,13 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as WritingRouteImport } from './routes/writing'
 import { Route as VoiceRouteImport } from './routes/voice'
 import { Route as VideoRouteImport } from './routes/video'
+import { Route as TermsRouteImport } from './routes/terms'
+import { Route as PrivacyRouteImport } from './routes/privacy'
 import { Route as MusicRouteImport } from './routes/music'
 import { Route as GoRouteImport } from './routes/go'
 import { Route as CodeRouteImport } from './routes/code'
 import { Route as AgentsRouteImport } from './routes/agents'
+import { Route as AffiliateDisclosureRouteImport } from './routes/affiliate-disclosure'
 import { Route as IndexRouteImport } from './routes/index'
 
 const WritingRoute = WritingRouteImport.update({
@@ -31,6 +34,16 @@ const VoiceRoute = VoiceRouteImport.update({
 const VideoRoute = VideoRouteImport.update({
   id: '/video',
   path: '/video',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TermsRoute = TermsRouteImport.update({
+  id: '/terms',
+  path: '/terms',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PrivacyRoute = PrivacyRouteImport.update({
+  id: '/privacy',
+  path: '/privacy',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MusicRoute = MusicRouteImport.update({
@@ -53,6 +66,11 @@ const AgentsRoute = AgentsRouteImport.update({
   path: '/agents',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AffiliateDisclosureRoute = AffiliateDisclosureRouteImport.update({
+  id: '/affiliate-disclosure',
+  path: '/affiliate-disclosure',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
@@ -61,20 +79,26 @@ const IndexRoute = IndexRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/affiliate-disclosure': typeof AffiliateDisclosureRoute
   '/agents': typeof AgentsRoute
   '/code': typeof CodeRoute
   '/go': typeof GoRoute
   '/music': typeof MusicRoute
+  '/privacy': typeof PrivacyRoute
+  '/terms': typeof TermsRoute
   '/video': typeof VideoRoute
   '/voice': typeof VoiceRoute
   '/writing': typeof WritingRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/affiliate-disclosure': typeof AffiliateDisclosureRoute
   '/agents': typeof AgentsRoute
   '/code': typeof CodeRoute
   '/go': typeof GoRoute
   '/music': typeof MusicRoute
+  '/privacy': typeof PrivacyRoute
+  '/terms': typeof TermsRoute
   '/video': typeof VideoRoute
   '/voice': typeof VoiceRoute
   '/writing': typeof WritingRoute
@@ -82,10 +106,13 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/affiliate-disclosure': typeof AffiliateDisclosureRoute
   '/agents': typeof AgentsRoute
   '/code': typeof CodeRoute
   '/go': typeof GoRoute
   '/music': typeof MusicRoute
+  '/privacy': typeof PrivacyRoute
+  '/terms': typeof TermsRoute
   '/video': typeof VideoRoute
   '/voice': typeof VoiceRoute
   '/writing': typeof WritingRoute
@@ -94,30 +121,39 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/affiliate-disclosure'
     | '/agents'
     | '/code'
     | '/go'
     | '/music'
+    | '/privacy'
+    | '/terms'
     | '/video'
     | '/voice'
     | '/writing'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/affiliate-disclosure'
     | '/agents'
     | '/code'
     | '/go'
     | '/music'
+    | '/privacy'
+    | '/terms'
     | '/video'
     | '/voice'
     | '/writing'
   id:
     | '__root__'
     | '/'
+    | '/affiliate-disclosure'
     | '/agents'
     | '/code'
     | '/go'
     | '/music'
+    | '/privacy'
+    | '/terms'
     | '/video'
     | '/voice'
     | '/writing'
@@ -125,10 +161,13 @@ export interface FileRouteTypes {
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AffiliateDisclosureRoute: typeof AffiliateDisclosureRoute
   AgentsRoute: typeof AgentsRoute
   CodeRoute: typeof CodeRoute
   GoRoute: typeof GoRoute
   MusicRoute: typeof MusicRoute
+  PrivacyRoute: typeof PrivacyRoute
+  TermsRoute: typeof TermsRoute
   VideoRoute: typeof VideoRoute
   VoiceRoute: typeof VoiceRoute
   WritingRoute: typeof WritingRoute
@@ -155,6 +194,20 @@ declare module '@tanstack/react-router' {
       path: '/video'
       fullPath: '/video'
       preLoaderRoute: typeof VideoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/terms': {
+      id: '/terms'
+      path: '/terms'
+      fullPath: '/terms'
+      preLoaderRoute: typeof TermsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/privacy': {
+      id: '/privacy'
+      path: '/privacy'
+      fullPath: '/privacy'
+      preLoaderRoute: typeof PrivacyRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/music': {
@@ -185,6 +238,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AgentsRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/affiliate-disclosure': {
+      id: '/affiliate-disclosure'
+      path: '/affiliate-disclosure'
+      fullPath: '/affiliate-disclosure'
+      preLoaderRoute: typeof AffiliateDisclosureRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/': {
       id: '/'
       path: '/'
@@ -197,10 +257,13 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AffiliateDisclosureRoute: AffiliateDisclosureRoute,
   AgentsRoute: AgentsRoute,
   CodeRoute: CodeRoute,
   GoRoute: GoRoute,
   MusicRoute: MusicRoute,
+  PrivacyRoute: PrivacyRoute,
+  TermsRoute: TermsRoute,
   VideoRoute: VideoRoute,
   VoiceRoute: VoiceRoute,
   WritingRoute: WritingRoute,
