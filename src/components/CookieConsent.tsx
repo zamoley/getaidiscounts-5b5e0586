@@ -6,6 +6,7 @@ const KEY = "gad_cookie_consent_v1";
 
 export function CookieConsent() {
   const [show, setShow] = useState(false);
+  const { t } = useTranslation();
 
   useEffect(() => {
     try {
@@ -24,10 +25,10 @@ export function CookieConsent() {
     <div className="fixed inset-x-0 bottom-0 z-50 flex justify-center px-4 pb-4">
       <div className="flex w-full max-w-3xl flex-col items-center gap-3 rounded-2xl border border-border bg-card/95 px-5 py-4 text-sm text-foreground/90 shadow-[var(--shadow-card)] backdrop-blur sm:flex-row sm:justify-between">
         <p className="text-center sm:text-left">
-          We use cookies to ensure you get the best experience and to support our site.
+          {t("cookie.text")}
         </p>
         <Button onClick={accept} className="bg-electric text-electric-foreground hover:bg-electric-glow">
-          Accept
+          {t("cookie.accept")}
         </Button>
       </div>
     </div>
