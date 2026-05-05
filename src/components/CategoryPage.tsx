@@ -1,10 +1,9 @@
-import { Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { ShieldCheck, ArrowLeft, Search } from "lucide-react";
+import { ShieldCheck, Search } from "lucide-react";
 import { DealCard } from "@/components/DealCard";
 import { CompareBar } from "@/components/CompareBar";
 import { NewsletterSection } from "@/components/NewsletterSection";
-import { RequestDealButton } from "@/components/RequestDealButton";
+import { SiteHeader } from "@/components/SiteHeader";
 import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
@@ -55,23 +54,11 @@ export function CategoryPage({
 
   return (
     <main className="min-h-screen">
-      <header className="sticky top-0 z-30 border-b border-border/60 bg-background/70 backdrop-blur-xl">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
-          <Link to="/" className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground">
-            <ArrowLeft className="h-4 w-4" /> All deals
-          </Link>
-          <div className="flex items-center gap-2">
-            <Badge className="border border-electric/40 bg-electric/10 text-electric">
-              <ShieldCheck className="mr-1 h-3 w-3" /> Verified {today}
-            </Badge>
-            <RequestDealButton />
-          </div>
-        </div>
-      </header>
+      <SiteHeader />
 
       <section className="mx-auto max-w-7xl px-6 pt-14 pb-8 text-center">
-        <Badge className="mb-5 border border-electric/30 bg-electric/10 text-electric">
-          {config.label} · {matches.length} verified deals
+        <Badge className="mb-5 border border-electric/40 bg-electric/10 text-electric">
+          <ShieldCheck className="mr-1 h-3 w-3" /> Verified {today} · {matches.length} deals
         </Badge>
         <h1 className="mx-auto max-w-3xl text-balance text-5xl font-bold tracking-tight sm:text-6xl">
           {config.h1.split(config.label).map((part, i, arr) => (
