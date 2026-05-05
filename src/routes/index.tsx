@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { Search, Sparkles, LayoutGrid } from "lucide-react";
+import { Search, Sparkles } from "lucide-react";
 import { fetchDeals, type Deal } from "@/lib/deals";
 import { DealCard } from "@/components/DealCard";
 import { CompareBar } from "@/components/CompareBar";
