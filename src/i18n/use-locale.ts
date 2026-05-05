@@ -1,4 +1,4 @@
-import { useParams } from "@tanstack/react-router";
+import { useParams, type NavigateOptions } from "@tanstack/react-router";
 import { useEffect } from "react";
 import i18n, { SUPPORTED_CODES, type LangCode } from "@/i18n";
 
@@ -20,4 +20,8 @@ export function localizedPath(locale: LangCode, path: string) {
   const clean = path.startsWith("/") ? path : `/${path}`;
   if (locale === "en") return clean;
   return `/${locale}${clean === "/" ? "" : clean}`;
+}
+
+export function localizedTo(locale: LangCode, path: string) {
+  return localizedPath(locale, path) as NavigateOptions["to"];
 }
