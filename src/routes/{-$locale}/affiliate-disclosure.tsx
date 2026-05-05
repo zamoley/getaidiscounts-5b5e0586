@@ -14,7 +14,6 @@ export const Route = createFileRoute("/{-$locale}/affiliate-disclosure")({
     meta: [
       { title: "Affiliate Disclosure | GetAIDiscounts" },
       { name: "description", content: "How GetAIDiscounts earns commissions through affiliate links." },
-    ,
       { property: "og:locale", content: loc },
       { property: "og:url", content: canonicalFor(loc, "/affiliate-disclosure") },
     ],

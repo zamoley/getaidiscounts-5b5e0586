@@ -14,7 +14,6 @@ export const Route = createFileRoute("/{-$locale}/privacy")({
     meta: [
       { title: "Privacy Policy | GetAIDiscounts" },
       { name: "description", content: "How GetAIDiscounts.com collects and uses your data, including email collection and affiliate tracking." },
-    ,
       { property: "og:locale", content: loc },
       { property: "og:url", content: canonicalFor(loc, "/privacy") },
     ],

@@ -14,7 +14,6 @@ export const Route = createFileRoute("/{-$locale}/terms")({
     meta: [
       { title: "Terms of Service | GetAIDiscounts" },
       { name: "description", content: "The terms governing your use of GetAIDiscounts.com." },
-    ,
       { property: "og:locale", content: loc },
       { property: "og:url", content: canonicalFor(loc, "/terms") },
     ],

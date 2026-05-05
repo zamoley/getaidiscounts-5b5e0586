@@ -21,7 +21,6 @@ export const Route = createFileRoute("/{-$locale}/music")({
       { property: "og:title", content: `${cfg.h1} | GetAIDiscounts` },
       { property: "og:description", content: cfg.intro },
       { property: "og:type", content: "website" },
-    ,
       { property: "og:locale", content: loc },
       { property: "og:url", content: canonicalFor(loc, "/music") },
     ],
