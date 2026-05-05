@@ -1,5 +1,5 @@
 import { Globe, Check } from "lucide-react";
-import { useNavigate, useLocation } from "@tanstack/react-router";
+import { useNavigate, useLocation, type NavigateOptions } from "@tanstack/react-router";
 import { SUPPORTED_LANGUAGES, type LangCode } from "@/i18n";
 import { useLocale, isLang } from "@/i18n/use-locale";
 import {
@@ -21,7 +21,7 @@ export function LanguageSwitcher() {
     if (segs.length && isLang(segs[0])) segs.shift();
     const rest = "/" + segs.join("/");
     const next = code === "en" ? (rest === "/" ? "/" : rest) : `/${code}${rest === "/" ? "" : rest}`;
-    navigate({ to: next, search: location.search as never });
+    navigate({ to: next as NavigateOptions["to"], search: (prev) => prev });
   };
 
   return (
