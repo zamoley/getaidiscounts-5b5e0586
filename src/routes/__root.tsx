@@ -53,6 +53,7 @@ function RootShell({ children }: { children: React.ReactNode }) {
       <body>
         <NeuralBackdrop />
         {children}
+        <CookieConsent />
         <Toaster theme="dark" position="top-center" />
         <Scripts />
       </body>
