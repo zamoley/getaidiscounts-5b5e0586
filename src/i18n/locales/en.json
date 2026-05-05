@@ -106,5 +106,21 @@
     "updated": "Last updated: {{date}}",
     "intro": "Disclosure: GetAIDiscounts.com is an independent directory supported by our audience. When you purchase through links on our site, we may earn an affiliate commission at no extra cost to you. Our editorial choices are independent and not influenced by our affiliate status.",
     "details": "We participate in affiliate programs including Skimlinks and direct partnerships with AI tool providers. These commissions help us keep the site running, verify deals daily, and add new tools — but a tool's affiliate status never determines whether we list it or how we describe its discount."
+  },
+  "request": {
+    "button": "Request a Deal",
+    "dialog_title": "Request an AI deal",
+    "dialog_desc": "Tell us which AI tool you want a discount for. We'll hunt one down and email you when it's live.",
+    "tool_label": "Tool name *",
+    "tool_placeholder": "e.g. Suno, Lovable, Pika…",
+    "email_label": "Email (optional, for notifications)",
+    "email_placeholder": "you@startup.com",
+    "notes_label": "Notes (optional)",
+    "notes_placeholder": "Anything specific? Plan tier, region…",
+    "submit": "Submit request",
+    "tool_required": "Tool name required",
+    "email_invalid": "Enter a valid email",
+    "success": "Request received! We'll hunt down a deal.",
+    "error": "Couldn't submit. Try again."
   }
 }

@@ -106,5 +106,21 @@
     "updated": "Zuletzt aktualisiert: {{date}}",
     "intro": "Offenlegung: GetAIDiscounts.com ist ein unabhängiges Verzeichnis, das von unserem Publikum getragen wird. Bei Käufen über Links auf unserer Seite können wir eine Affiliate-Provision ohne Mehrkosten für dich erhalten. Unsere redaktionellen Entscheidungen sind unabhängig.",
     "details": "Wir nehmen an Affiliate-Programmen wie Skimlinks und direkten Partnerschaften mit KI-Tool-Anbietern teil. Diese Provisionen helfen uns, die Seite zu betreiben, Deals täglich zu prüfen und neue Tools hinzuzufügen — der Affiliate-Status bestimmt aber nie, ob wir ein Tool listen."
+  },
+  "request": {
+    "button": "Deal anfragen",
+    "dialog_title": "KI-Deal anfragen",
+    "dialog_desc": "Sag uns, für welches KI-Tool du einen Rabatt willst. Wir suchen einen und mailen dir, sobald er live ist.",
+    "tool_label": "Tool-Name *",
+    "tool_placeholder": "z.B. Suno, Lovable, Pika…",
+    "email_label": "E-Mail (optional, für Benachrichtigungen)",
+    "email_placeholder": "du@startup.com",
+    "notes_label": "Notizen (optional)",
+    "notes_placeholder": "Spezielle Wünsche? Tarif, Region…",
+    "submit": "Anfrage senden",
+    "tool_required": "Tool-Name erforderlich",
+    "email_invalid": "Gültige E-Mail eingeben",
+    "success": "Anfrage erhalten! Wir suchen einen Deal.",
+    "error": "Konnte nicht gesendet werden. Erneut versuchen."
   }
 }

@@ -106,5 +106,21 @@
     "updated": "最后更新：{{date}}",
     "intro": "披露：GetAIDiscounts.com 是由我们的受众支持的独立目录。当您通过本站链接购买时，我们可能会获得联盟佣金，您无需额外付费。我们的编辑选择独立于联盟身份。",
     "details": "我们参与 Skimlinks 等联盟项目，并与 AI 工具提供商建立直接合作。这些佣金帮助我们维持网站运营、每日验证优惠并添加新工具——但联盟身份从不决定我们是否收录某个工具。"
+  },
+  "request": {
+    "button": "申请优惠",
+    "dialog_title": "申请 AI 优惠",
+    "dialog_desc": "告诉我们您希望获得哪个 AI 工具的折扣，我们会去寻找并在上线时通过电子邮件通知您。",
+    "tool_label": "工具名称 *",
+    "tool_placeholder": "如 Suno, Lovable, Pika…",
+    "email_label": "邮箱（可选，用于通知）",
+    "email_placeholder": "you@startup.com",
+    "notes_label": "备注（可选）",
+    "notes_placeholder": "有什么具体要求？套餐、地区…",
+    "submit": "提交申请",
+    "tool_required": "请填写工具名称",
+    "email_invalid": "请输入有效邮箱",
+    "success": "已收到您的申请！我们将寻找优惠。",
+    "error": "提交失败，请重试。"
   }
 }

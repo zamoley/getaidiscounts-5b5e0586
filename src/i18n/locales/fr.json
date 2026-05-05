@@ -106,5 +106,21 @@
     "updated": "Dernière mise à jour : {{date}}",
     "intro": "Divulgation : GetAIDiscounts.com est un annuaire indépendant soutenu par son audience. Lorsque vous achetez via les liens de notre site, nous pouvons recevoir une commission d'affiliation sans coût supplémentaire pour vous. Nos choix éditoriaux sont indépendants.",
     "details": "Nous participons à des programmes d'affiliation comme Skimlinks et à des partenariats directs avec des fournisseurs d'outils IA. Ces commissions nous aident à maintenir le site, vérifier les offres quotidiennement et ajouter de nouveaux outils — mais le statut d'affilié ne détermine jamais si nous listons un outil."
+  },
+  "request": {
+    "button": "Demander un deal",
+    "dialog_title": "Demander un deal IA",
+    "dialog_desc": "Dites-nous pour quel outil IA vous voulez une remise. Nous chercherons et vous enverrons un e-mail dès qu'elle sera disponible.",
+    "tool_label": "Nom de l'outil *",
+    "tool_placeholder": "ex. Suno, Lovable, Pika…",
+    "email_label": "E-mail (optionnel, pour notifications)",
+    "email_placeholder": "vous@startup.com",
+    "notes_label": "Notes (optionnel)",
+    "notes_placeholder": "Quelque chose de précis ? Plan, région…",
+    "submit": "Envoyer la demande",
+    "tool_required": "Nom de l'outil requis",
+    "email_invalid": "E-mail invalide",
+    "success": "Demande reçue ! Nous cherchons un deal.",
+    "error": "Échec de l'envoi. Réessayez."
   }
 }

@@ -106,5 +106,21 @@
     "updated": "Última actualización: {{date}}",
     "intro": "Divulgación: GetAIDiscounts.com es un directorio independiente apoyado por nuestra audiencia. Cuando compras a través de enlaces en nuestro sitio, podemos ganar una comisión sin coste adicional para ti. Nuestras decisiones editoriales son independientes.",
     "details": "Participamos en programas de afiliados como Skimlinks y asociaciones directas con proveedores de herramientas IA. Estas comisiones nos ayudan a mantener el sitio, verificar ofertas a diario y añadir nuevas herramientas — pero el estatus de afiliado nunca determina si listamos una herramienta."
+  },
+  "request": {
+    "button": "Pedir una oferta",
+    "dialog_title": "Pedir una oferta IA",
+    "dialog_desc": "Dinos para qué herramienta IA quieres un descuento. La buscaremos y te avisaremos por email cuando esté lista.",
+    "tool_label": "Nombre de la herramienta *",
+    "tool_placeholder": "p.ej. Suno, Lovable, Pika…",
+    "email_label": "Email (opcional, para avisos)",
+    "email_placeholder": "tu@startup.com",
+    "notes_label": "Notas (opcional)",
+    "notes_placeholder": "¿Algo específico? Plan, región…",
+    "submit": "Enviar solicitud",
+    "tool_required": "Nombre requerido",
+    "email_invalid": "Email no válido",
+    "success": "¡Recibido! Buscaremos una oferta.",
+    "error": "No se pudo enviar. Inténtalo de nuevo."
   }
 }

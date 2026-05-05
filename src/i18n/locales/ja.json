@@ -106,5 +106,21 @@
     "updated": "最終更新：{{date}}",
     "intro": "開示：GetAIDiscounts.com は読者に支えられた独立系ディレクトリです。サイト内のリンクから購入された場合、追加費用なしでアフィリエイト報酬を得ることがあります。編集上の選択は独立しています。",
     "details": "当社はSkimlinksなどのアフィリエイトプログラムやAIツール提供者との直接提携に参加しています。これらの報酬はサイト運営、デイリーのディール検証、新ツール追加に役立ちますが、アフィリエイトの有無で掲載可否を決めることはありません。"
+  },
+  "request": {
+    "button": "ディールをリクエスト",
+    "dialog_title": "AIディールをリクエスト",
+    "dialog_desc": "割引を希望するAIツールを教えてください。見つけ次第メールでお知らせします。",
+    "tool_label": "ツール名 *",
+    "tool_placeholder": "例：Suno, Lovable, Pika…",
+    "email_label": "メール（任意、通知用）",
+    "email_placeholder": "you@startup.com",
+    "notes_label": "メモ（任意）",
+    "notes_placeholder": "具体的なご要望は？プラン、地域など",
+    "submit": "リクエスト送信",
+    "tool_required": "ツール名が必要です",
+    "email_invalid": "有効なメールを入力",
+    "success": "リクエストを受け付けました！",
+    "error": "送信できませんでした。再度お試しください。"
   }
 }
