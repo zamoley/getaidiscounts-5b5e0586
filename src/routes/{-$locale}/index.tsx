@@ -16,8 +16,8 @@ import { useLocale } from "@/i18n/use-locale";
 import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/")({
-  validateSearch: (s: Record<string, unknown>): { category?: string } => ({
-    category: typeof s.category === "string" && s.category ? s.category : undefined,
+  validateSearch: (s: Record<string, unknown>): { cat?: string } => ({
+    cat: typeof s.cat === "string" && s.cat ? s.cat : undefined,
   }),
   loader: () => fetchDeals(),
   head: ({ params }) => {
@@ -42,7 +42,7 @@ export const Route = createFileRoute("/{-$locale}/")({
 
 function Index() {
   const deals = Route.useLoaderData() as Deal[];
-  const { category: categoryParam } = Route.useSearch();
+  const { cat: categoryParam } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
   const selected = useMemo<Set<string>>(
@@ -52,7 +52,7 @@ function Index() {
   const writeSelected = (next: Set<string>) => {
     const value = Array.from(next).join(",");
     navigate({
-      search: (prev: { category?: string }) => ({ ...prev, category: value || undefined }),
+      search: (prev: { cat?: string }) => ({ ...prev, cat: value || undefined }),
       replace: true,
     });
   };

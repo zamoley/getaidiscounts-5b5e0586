@@ -40,6 +40,7 @@ export const Route = createRootRoute({
       { name: "twitter:title", content: "Get AI Discounts | Save BIG on your AI Stack" },
       { name: "twitter:description", content: "Verified daily promos for top AI tools like HeyGen and ElevenLabs." },
       { name: "twitter:image", content: "https://getaidiscounts.com/og-image.jpg" },
+      { name: "twitter:url", content: "https://getaidiscounts.com/" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
