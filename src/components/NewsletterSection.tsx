@@ -55,6 +55,16 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
             <p className="mt-3 max-w-md text-muted-foreground">
               The freshest AI tool discounts, hand-picked and delivered to your inbox every Friday. No spam.
             </p>
+            <div className="mt-5 flex items-center gap-3">
+              <div className="flex -space-x-2">
+                {["from-electric to-electric-glow", "from-emerald-400 to-emerald-600", "from-fuchsia-400 to-fuchsia-600", "from-amber-400 to-amber-600"].map((g, i) => (
+                  <div key={i} className={`h-7 w-7 rounded-full border-2 border-card bg-gradient-to-br ${g}`} />
+                ))}
+              </div>
+              <p className="text-sm text-muted-foreground">
+                <span className="font-semibold text-foreground">Join 10k+ Creators</span> saving on AI tools
+              </p>
+            </div>
           </div>
 
           <form onSubmit={onSubmit} className="flex flex-col gap-3 sm:flex-row">

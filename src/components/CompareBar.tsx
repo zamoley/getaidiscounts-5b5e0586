@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { X, GitCompareArrows } from "lucide-react";
+import { X, GitCompareArrows, ExternalLink, Check } from "lucide-react";
 import {
   Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger,
 } from "@/components/ui/dialog";
@@ -37,24 +37,28 @@ export function CompareBar({
             ))}
           </div>
 
-          <Dialog open={open} onOpenChange={setOpen}>
-            <DialogTrigger asChild>
-              <Button
-                disabled={deals.length < 2}
-                className="bg-electric text-electric-foreground hover:bg-electric-glow disabled:opacity-50"
-              >
-                Compare {deals.length >= 2 ? `(${deals.length})` : ""}
-              </Button>
-            </DialogTrigger>
+          <div className="flex items-center gap-2">
             <Button variant="ghost" size="sm" onClick={onClear}>Clear</Button>
-
-            <DialogContent className="max-w-5xl border-border bg-card">
-              <DialogHeader>
-                <DialogTitle>Side-by-side comparison</DialogTitle>
-              </DialogHeader>
-              <CompareTable deals={deals} />
-            </DialogContent>
-          </Dialog>
+            <Dialog open={open} onOpenChange={setOpen}>
+              <DialogTrigger asChild>
+                <Button
+                  disabled={deals.length < 2}
+                  className="bg-electric text-electric-foreground shadow-[0_0_24px_-6px_var(--electric)] hover:bg-electric-glow disabled:opacity-50"
+                >
+                  Compare Now {deals.length >= 2 ? `(${deals.length})` : ""}
+                </Button>
+              </DialogTrigger>
+              <DialogContent className="max-w-5xl border-electric/30 bg-card p-0">
+                <DialogHeader className="border-b border-border px-6 py-4">
+                  <DialogTitle className="flex items-center gap-2 text-lg">
+                    <GitCompareArrows className="h-5 w-5 text-electric" />
+                    Side-by-side comparison
+                  </DialogTitle>
+                </DialogHeader>
+                <CompareTable deals={deals} />
+              </DialogContent>
+            </Dialog>
+          </div>
         </div>
       </div>
       {/* spacer so floating bar doesn't overlap content */}
@@ -65,50 +69,79 @@ export function CompareBar({
 
 function CompareTable({ deals }: { deals: Deal[] }) {
   const rows: { label: string; get: (d: Deal) => React.ReactNode }[] = [
-    { label: "Tool", get: d => <span className="font-semibold text-foreground">{d.tool}</span> },
-    { label: "Category", get: d => d.category ?? "—" },
-    { label: "Pricing", get: d => d.pricing ?? "—" },
-    { label: "Specs", get: d => d.specs ?? "—" },
+    { label: "Category", get: d => <span className="text-foreground/80">{d.category ?? "—"}</span> },
+    { label: "Pricing", get: d => <span className="font-medium text-foreground">{d.pricing ?? "—"}</span> },
+    { label: "Specs", get: d => <span className="text-foreground/80">{d.specs ?? "—"}</span> },
     {
       label: "Discount",
       get: d => (
-        <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow text-electric-foreground">
+        <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow font-bold text-electric-foreground shadow-[0_0_18px_-4px_var(--electric)]">
           {d.discount}
         </Badge>
       ),
     },
-    { label: "Code", get: d => <span className="font-mono text-xs">{d.code ?? "—"}</span> },
+    { label: "Code", get: d => (
+      <span className="rounded-md border border-border bg-background/60 px-2 py-1 font-mono text-xs text-foreground">
+        {d.code ?? "—"}
+      </span>
+    ) },
     {
-      label: "Get deal",
+      label: "Verified",
       get: d => (
-        <a href={d.url} target="_blank" rel="noopener noreferrer" className="text-electric hover:underline">
-          Visit →
+        <span className="inline-flex items-center gap-1 text-xs text-emerald-400">
+          <Check className="h-3.5 w-3.5" /> {new Date(d.lastVerified).toLocaleDateString()}
+        </span>
+      ),
+    },
+    {
+      label: "",
+      get: d => (
+        <a
+          href={d.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1 rounded-md bg-electric px-3 py-1.5 text-xs font-semibold text-electric-foreground hover:bg-electric-glow"
+        >
+          Get Deal <ExternalLink className="h-3 w-3" />
         </a>
       ),
     },
   ];
 
   return (
-    <div className="-mx-6 overflow-x-auto px-6">
-      <table className="w-full min-w-[600px] border-separate border-spacing-0 text-sm">
-        <thead>
+    <div className="max-h-[70vh] overflow-auto px-6 pb-6">
+      <table className="w-full min-w-[640px] border-separate border-spacing-0 text-sm">
+        <thead className="sticky top-0 z-10 bg-card">
           <tr>
-            <th className="sticky left-0 bg-card text-left text-xs font-medium uppercase tracking-wider text-muted-foreground"></th>
+            <th className="sticky left-0 z-20 bg-card py-3 pr-4 text-left text-[10px] font-semibold uppercase tracking-[0.15em] text-muted-foreground"></th>
             {deals.map(d => (
-              <th key={d.id} className="border-b border-border px-4 py-3 text-left text-xs font-medium uppercase tracking-wider text-muted-foreground">
-                {d.tool}
+              <th
+                key={d.id}
+                className="border-b border-border px-4 py-3 text-left"
+              >
+                <div className="flex items-center gap-2">
+                  <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-electric/30 to-electric/5 text-xs font-bold text-electric">
+                    {d.tool.charAt(0)}
+                  </div>
+                  <span className="font-semibold text-foreground">{d.tool}</span>
+                </div>
               </th>
             ))}
           </tr>
         </thead>
         <tbody>
-          {rows.map(row => (
-            <tr key={row.label}>
-              <td className="sticky left-0 bg-card border-b border-border py-3 pr-4 text-xs font-medium uppercase tracking-wider text-muted-foreground">
+          {rows.map((row, i) => (
+            <tr key={row.label || i} className="group">
+              <td className="sticky left-0 z-10 bg-card border-b border-border/60 py-3 pr-4 text-[10px] font-semibold uppercase tracking-[0.15em] text-muted-foreground">
                 {row.label}
               </td>
               {deals.map(d => (
-                <td key={d.id} className="border-b border-border px-4 py-3 align-top">{row.get(d)}</td>
+                <td
+                  key={d.id}
+                  className="border-b border-border/60 px-4 py-3 align-middle transition-colors group-hover:bg-electric/[0.04]"
+                >
+                  {row.get(d)}
+                </td>
               ))}
             </tr>
           ))}

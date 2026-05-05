@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Copy, Check, Plus, X, ExternalLink, ShieldCheck } from "lucide-react";
+import { Copy, Check, Plus, X, ExternalLink, BadgeCheck, Radio } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
@@ -10,6 +10,12 @@ function formatDate(iso: string) {
   const d = new Date(iso);
   if (isNaN(d.getTime())) return iso;
   return d.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+}
+
+function isToday(iso: string) {
+  const d = new Date(iso);
+  const t = new Date();
+  return d.getFullYear() === t.getFullYear() && d.getMonth() === t.getMonth() && d.getDate() === t.getDate();
 }
 
 export function DealCard({
@@ -96,9 +102,23 @@ export function DealCard({
         </Button>
       </div>
 
-      <div className="mt-4 flex items-center gap-1.5 text-xs text-muted-foreground">
-        <ShieldCheck className="h-3.5 w-3.5 text-electric" />
-        Last verified <span className="text-foreground/80">{formatDate(deal.lastVerified)}</span>
+      <div className="mt-4 flex flex-wrap items-center gap-2 text-xs">
+        {isToday(deal.lastVerified) ? (
+          <span className="inline-flex items-center gap-1 rounded-full border border-emerald-500/30 bg-emerald-500/10 px-2 py-0.5 font-medium text-emerald-400">
+            <BadgeCheck className="h-3.5 w-3.5" /> Verified Today
+          </span>
+        ) : (
+          <span className="inline-flex items-center gap-1 rounded-full border border-border bg-secondary/40 px-2 py-0.5 text-muted-foreground">
+            <BadgeCheck className="h-3.5 w-3.5 text-electric" />
+            Verified <span className="text-foreground/80">{formatDate(deal.lastVerified)}</span>
+          </span>
+        )}
+        {deal.source && (
+          <span className="inline-flex items-center gap-1 rounded-full border border-border bg-secondary/40 px-2 py-0.5 text-muted-foreground">
+            <Radio className="h-3 w-3 text-electric" />
+            Sourced via <span className="text-foreground/80">{deal.source}</span>
+          </span>
+        )}
       </div>
 
       <VoteButtons dealId={deal.id} />
