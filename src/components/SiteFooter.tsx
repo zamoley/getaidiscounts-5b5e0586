@@ -23,6 +23,26 @@ export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean
           {t("footer.disclosure")}
         </p>
       )}
+      <div className="mt-8 border-t border-border/40 pt-5 text-center text-xs text-muted-foreground/70">
+        Built with{" "}
+        <a
+          href="https://lovable.dev/invite/2V95H5P"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="font-medium text-foreground/80 transition-colors hover:text-electric"
+        >
+          Lovable
+        </a>
+        {" & "}
+        <a
+          href="https://www.accio.com/invite-work?sId=XuPH1%2B7aCzT74ndJlp0ipA%3D%3D&ic=IC025014249995&tenant=accio&src=p_referral_IC025014249995&return_url=https%3A%2F%2Fwww.accio.com%2Fwork%2F"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="font-medium text-foreground/80 transition-colors hover:text-electric"
+        >
+          Accio Work
+        </a>
+      </div>
     </footer>
   );
 }
