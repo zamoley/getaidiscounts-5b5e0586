@@ -2,7 +2,9 @@ import { Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { ShieldCheck, ArrowLeft, Search } from "lucide-react";
 import { DealCard } from "@/components/DealCard";
-import { CompareDrawer } from "@/components/CompareDrawer";
+import { CompareBar } from "@/components/CompareBar";
+import { NewsletterSection } from "@/components/NewsletterSection";
+import { RequestDealButton } from "@/components/RequestDealButton";
 import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
@@ -58,9 +60,12 @@ export function CategoryPage({
           <Link to="/" className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground">
             <ArrowLeft className="h-4 w-4" /> All deals
           </Link>
-          <Badge className="border border-electric/40 bg-electric/10 text-electric">
-            <ShieldCheck className="mr-1 h-3 w-3" /> Verified {today}
-          </Badge>
+          <div className="flex items-center gap-2">
+            <Badge className="border border-electric/40 bg-electric/10 text-electric">
+              <ShieldCheck className="mr-1 h-3 w-3" /> Verified {today}
+            </Badge>
+            <RequestDealButton />
+          </div>
         </div>
       </header>
 
@@ -112,12 +117,14 @@ export function CategoryPage({
         )}
       </section>
 
+      <NewsletterSection source={`category:${config.slug}`} />
+
       <footer className="mx-auto max-w-7xl border-t border-border/60 px-6 py-10 text-center text-sm text-muted-foreground">
         © {new Date().getFullYear()} GetAIDiscounts.com — Some links are monetized via Skimlinks.
       </footer>
 
       {compare.ids.length > 0 && (
-        <CompareDrawer
+        <CompareBar
           deals={getCompared(deals, compare.ids)}
           onRemove={compare.remove}
           onClear={compare.clear}

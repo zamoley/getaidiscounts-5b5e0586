@@ -3,7 +3,9 @@ import { useMemo, useState } from "react";
 import { Search, Sparkles, Zap } from "lucide-react";
 import { fetchDeals, type Deal } from "@/lib/deals";
 import { DealCard } from "@/components/DealCard";
-import { CompareDrawer } from "@/components/CompareDrawer";
+import { CompareBar } from "@/components/CompareBar";
+import { NewsletterSection } from "@/components/NewsletterSection";
+import { RequestDealButton } from "@/components/RequestDealButton";
 import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
@@ -62,9 +64,12 @@ function Index() {
               </Link>
             ))}
           </nav>
-          <Badge className="hidden border border-electric/30 bg-electric/10 text-electric sm:inline-flex">
-            <Sparkles className="mr-1 h-3 w-3" /> {deals.length} live
-          </Badge>
+          <div className="flex items-center gap-2">
+            <Badge className="hidden border border-electric/30 bg-electric/10 text-electric sm:inline-flex">
+              <Sparkles className="mr-1 h-3 w-3" /> {deals.length} live
+            </Badge>
+            <RequestDealButton />
+          </div>
         </div>
       </header>
 
@@ -126,12 +131,14 @@ function Index() {
         )}
       </section>
 
+      <NewsletterSection source="home" />
+
       <footer className="mx-auto max-w-7xl border-t border-border/60 px-6 py-10 text-center text-sm text-muted-foreground">
         © {new Date().getFullYear()} GetAIDiscounts.com — Some links are monetized via Skimlinks.
       </footer>
 
       {compare.ids.length > 0 && (
-        <CompareDrawer deals={compared} onRemove={compare.remove} onClear={compare.clear} />
+        <CompareBar deals={compared} onRemove={compare.remove} onClear={compare.clear} />
       )}
     </main>
   );
