@@ -98,16 +98,21 @@ function Index() {
 
       <section className="mx-auto max-w-7xl px-6">
         <div className="flex flex-wrap items-stretch justify-center gap-2.5">
-          <CategoryChip active={category === null} onClick={() => setCategory(null)} emoji="✨" label={t("categories.all")} />
-          {categories.map(c => (
-            <CategoryChip
-              key={c}
-              active={category === c}
-              onClick={() => setCategory(c)}
-              emoji={emojiForCategory(c)}
-              label={c}
-            />
-          ))}
+          <CategoryChip active={category === null} onClick={() => setCategory(null)} Icon={Sparkles} color="text-electric" ring="border-electric/40 bg-electric/10" label={t("categories.all")} />
+          {categories.map(c => {
+            const s = categoryStyle(c);
+            return (
+              <CategoryChip
+                key={c}
+                active={category === c}
+                onClick={() => setCategory(c)}
+                Icon={s.Icon}
+                color={s.color}
+                ring={s.ring}
+                label={c}
+              />
+            );
+          })}
         </div>
       </section>
 
@@ -141,27 +146,14 @@ function Index() {
   );
 }
 
-function emojiForCategory(c: string): string {
-  const k = c.toLowerCase();
-  if (k.includes("image")) return "🎨";
-  if (k.includes("video")) return "🎬";
-  if (k.includes("voice") || k.includes("audio")) return "🎙️";
-  if (k.includes("music")) return "🎵";
-  if (k.includes("writ")) return "✍️";
-  if (k.includes("chat")) return "💬";
-  if (k.includes("code") || k.includes("dev") || k.includes("no-code")) return "💻";
-  if (k.includes("agent")) return "🤖";
-  if (k.includes("search")) return "🔎";
-  if (k.includes("product")) return "📊";
-  return "⚡";
-}
-
 function CategoryChip({
-  active, onClick, emoji, label,
+  active, onClick, Icon, color, ring, label,
 }: {
   active: boolean;
   onClick: () => void;
-  emoji: string;
+  Icon: LucideIcon;
+  color: string;
+  ring: string;
   label: string;
 }) {
   return (
@@ -171,10 +163,10 @@ function CategoryChip({
       className={`group inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold transition-all ${
         active
           ? "border-electric bg-electric/15 text-electric ring-2 ring-electric/60 shadow-[0_0_28px_-4px_var(--electric)]"
-          : "border-border bg-card/70 text-foreground/80 hover:border-electric/40 hover:text-foreground hover:bg-card"
+          : `${ring} text-foreground/85 hover:border-electric/50 hover:text-foreground hover:bg-card`
       }`}
     >
-      <span className="text-base leading-none" aria-hidden>{emoji}</span>
+      <Icon className={`h-4 w-4 ${active ? "text-electric" : color}`} strokeWidth={2.2} aria-hidden />
       <span>{label}</span>
     </button>
   );
