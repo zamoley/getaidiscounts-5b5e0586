@@ -98,9 +98,8 @@ function CompareTable({ deals }: { deals: Deal[] }) {
       label: "",
       get: d => (
         <a
-          href={d.url}
-          target="_blank"
-          rel="noopener noreferrer"
+          href={smartLink(d.url)}
+          rel="sponsored noopener"
           className="inline-flex items-center gap-1 rounded-md bg-electric px-3 py-1.5 text-xs font-semibold text-electric-foreground hover:bg-electric-glow"
         >
           Get Deal <ExternalLink className="h-3 w-3" />
