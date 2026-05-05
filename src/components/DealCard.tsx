@@ -10,6 +10,7 @@ import { VoteButtons } from "@/components/VoteButtons";
 import { ToolLogo } from "@/components/ToolLogo";
 import { useLocale } from "@/i18n/use-locale";
 import { translateTool } from "@/i18n/translate-tool";
+import { categoryStyle } from "@/lib/category-style";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
@@ -76,9 +77,15 @@ export function DealCard({
         <ToolLogo tool={deal.tool} url={deal.url} category={deal.category} size={44} />
         <div className="min-w-0 flex-1">
           <h3 className="truncate text-base font-semibold text-foreground">{deal.tool}</h3>
-          {deal.category && (
-            <p className="truncate text-xs uppercase tracking-wider text-muted-foreground">{deal.category}</p>
-          )}
+          {deal.category && (() => {
+            const { Icon, color } = categoryStyle(deal.category);
+            return (
+              <p className={`mt-0.5 flex items-center gap-1.5 truncate text-xs font-medium tracking-wide ${color}`}>
+                <Icon className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
+                <span className="truncate">{deal.category}</span>
+              </p>
+            );
+          })()}
         </div>
       </div>
 
