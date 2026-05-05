@@ -62,7 +62,7 @@ export function ToolLogo({
           loading="lazy"
           decoding="async"
           onError={() => setErrored(true)}
-          className="h-full w-full object-contain p-1.5"
+          className="h-full w-full bg-white object-contain p-1.5"
         />
       ) : (
         <div className={`flex h-full w-full items-center justify-center ${color}`}>
