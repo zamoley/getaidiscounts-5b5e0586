@@ -45,8 +45,8 @@ function Index() {
   const { category: categoryParam } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
-  const selected = useMemo(
-    () => new Set((categoryParam ?? "").split(",").map(s => s.trim()).filter(Boolean)),
+  const selected = useMemo<Set<string>>(
+    () => new Set((categoryParam ?? "").split(",").map((s: string) => s.trim()).filter(Boolean)),
     [categoryParam]
   );
   const writeSelected = (next: Set<string>) => {
