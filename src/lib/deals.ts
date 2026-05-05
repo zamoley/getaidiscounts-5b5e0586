@@ -10,6 +10,7 @@ export type Deal = {
   logo?: string;
   pricing?: string;
   specs?: string;
+  source?: string;
 };
 
 export const fallbackDeals: Deal[] = [
