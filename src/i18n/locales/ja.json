@@ -50,11 +50,20 @@
   },
   "newsletter": {
     "title": "受信箱でAIディールを受け取る",
-    "subtitle": "週に一度の短いメールで、最新の確認済みAI割引情報をお届けします。",
-    "placeholder": "you@domain.com",
+    "subtitle": "厳選した最新のAIツール割引を毎週金曜日にお届けします。スパムなし。",
+    "placeholder": "you@startup.com",
     "subscribe": "購読する",
-    "success": "登録完了です。受信箱を確認してください。",
-    "error": "購読できませんでした。もう一度お試しください。"
+    "success": "登録完了！受信箱をご確認ください。",
+    "error": "登録できませんでした。再度お試しください。",
+    "badge": "無料 · 週刊",
+    "title_pre": "受け取る",
+    "title_highlight": "AIディール通知",
+    "joined": "10,000人以上のクリエイターが参加",
+    "joined_post": "AIツールで節約中",
+    "button_idle": "通知を受け取る",
+    "button_loading": "登録中…",
+    "button_done": "登録済み",
+    "privacy_note": "登録すると<1>プライバシーポリシー</1>に同意したものとみなされます。"
   },
   "compare": {
     "title": "{{count}}個のツールを比較中",

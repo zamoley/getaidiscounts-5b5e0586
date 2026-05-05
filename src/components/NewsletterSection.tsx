@@ -1,16 +1,21 @@
 import { useState } from "react";
 import { z } from "zod";
 import { Mail, Sparkles, Loader2, Check } from "lucide-react";
+import { Trans, useTranslation } from "react-i18next";
+import { Link } from "@tanstack/react-router";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
+import { useLocale, localizedTo } from "@/i18n/use-locale";
 
 const schema = z.object({
-  email: z.string().trim().email("Enter a valid email").max(255),
+  email: z.string().trim().email().max(255),
 });
 
 export function NewsletterSection({ source = "home" }: { source?: string }) {
+  const { t } = useTranslation();
+  const locale = useLocale();
   const [email, setEmail] = useState("");
   const [state, setState] = useState<"idle" | "loading" | "done">("idle");
 
@@ -18,7 +23,7 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
     e.preventDefault();
     const parsed = schema.safeParse({ email });
     if (!parsed.success) {
-      toast.error(parsed.error.issues[0].message);
+      toast.error(t("newsletter.error"));
       return;
     }
     setState("loading");
@@ -28,11 +33,11 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
 
     if (error && !/duplicate|unique/i.test(error.message)) {
       setState("idle");
-      toast.error("Couldn't subscribe. Try again.");
+      toast.error(t("newsletter.error"));
       return;
     }
     setState("done");
-    toast.success("You're in! Watch your inbox for fresh AI deals.");
+    toast.success(t("newsletter.success"));
     setEmail("");
   };
 
@@ -47,14 +52,15 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
         <div className="relative grid gap-8 md:grid-cols-2 md:items-center">
           <div>
             <div className="inline-flex items-center gap-2 rounded-full border border-electric/40 bg-electric/10 px-3 py-1 text-xs font-medium text-electric">
-              <Sparkles className="h-3 w-3" /> Free · Weekly
+              <Sparkles className="h-3 w-3" /> {t("newsletter.badge")}
             </div>
-            <h2 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">
-              Get <span className="bg-gradient-to-r from-electric to-electric-glow bg-clip-text text-transparent">AI Deal Alerts</span>
+            <h2 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl [overflow-wrap:anywhere]">
+              {t("newsletter.title_pre")}{" "}
+              <span className="bg-gradient-to-r from-electric to-electric-glow bg-clip-text text-transparent">
+                {t("newsletter.title_highlight")}
+              </span>
             </h2>
-            <p className="mt-3 max-w-md text-muted-foreground">
-              The freshest AI tool discounts, hand-picked and delivered to your inbox every Friday. No spam.
-            </p>
+            <p className="mt-3 max-w-md text-muted-foreground">{t("newsletter.subtitle")}</p>
             <div className="mt-5 flex items-center gap-3">
               <div className="flex -space-x-2">
                 {["from-electric to-electric-glow", "from-emerald-400 to-emerald-600", "from-fuchsia-400 to-fuchsia-600", "from-amber-400 to-amber-600"].map((g, i) => (
@@ -62,34 +68,48 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
                 ))}
               </div>
               <p className="text-sm text-muted-foreground">
-                <span className="font-semibold text-foreground">Join 10k+ Creators</span> saving on AI tools
+                <span className="font-semibold text-foreground">{t("newsletter.joined")}</span> {t("newsletter.joined_post")}
               </p>
             </div>
           </div>
 
-          <form onSubmit={onSubmit} className="flex flex-col gap-3 sm:flex-row">
-            <div className="relative flex-1">
-              <Mail className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
-              <Input
-                type="email"
-                value={email}
-                onChange={e => setEmail(e.target.value)}
-                placeholder="you@startup.com"
-                required
+          <div className="flex flex-col gap-3">
+            <form onSubmit={onSubmit} className="flex flex-col gap-3 sm:flex-row">
+              <div className="relative flex-1">
+                <Mail className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+                <Input
+                  type="email"
+                  value={email}
+                  onChange={e => setEmail(e.target.value)}
+                  placeholder={t("newsletter.placeholder")}
+                  required
+                  disabled={state !== "idle"}
+                  className="h-12 border-border bg-background/60 pl-11 focus-visible:ring-electric"
+                />
+              </div>
+              <Button
+                type="submit"
                 disabled={state !== "idle"}
-                className="h-12 border-border bg-background/60 pl-11 focus-visible:ring-electric"
+                className="h-12 bg-electric px-6 text-electric-foreground hover:bg-electric-glow"
+              >
+                {state === "loading" ? <Loader2 className="h-4 w-4 animate-spin" /> :
+                  state === "done" ? <><Check className="mr-2 h-4 w-4" /> {t("newsletter.button_done")}</> :
+                  t("newsletter.button_idle")}
+              </Button>
+            </form>
+            <p className="text-xs text-muted-foreground">
+              <Trans
+                i18nKey="newsletter.privacy_note"
+                components={[
+                  <Link
+                    key="privacy"
+                    to={localizedTo(locale, "/privacy")}
+                    className="text-electric underline-offset-4 hover:underline"
+                  />,
+                ]}
               />
-            </div>
-            <Button
-              type="submit"
-              disabled={state !== "idle"}
-              className="h-12 bg-electric px-6 text-electric-foreground hover:bg-electric-glow"
-            >
-              {state === "loading" ? <Loader2 className="h-4 w-4 animate-spin" /> :
-                state === "done" ? <><Check className="mr-2 h-4 w-4" /> Subscribed</> :
-                "Get Deal Alerts"}
-            </Button>
-          </form>
+            </p>
+          </div>
         </div>
       </div>
     </section>
