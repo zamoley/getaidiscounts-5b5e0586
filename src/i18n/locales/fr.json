@@ -68,7 +68,17 @@
   "compare": {
     "title": "Comparaison de {{count}} outils",
     "clear": "Tout effacer",
-    "open": "Ouvrir la comparaison"
+    "open": "Ouvrir la comparaison",
+    "modal_title": "Comparaison côte à côte",
+    "row_category": "Catégorie",
+    "row_pricing": "Tarification",
+    "row_specs": "Caractéristiques",
+    "row_discount": "Remise",
+    "row_code": "Code",
+    "row_verified": "Vérifié",
+    "get_deal": "Obtenir l'offre",
+    "compare_now": "Comparer maintenant",
+    "empty": "Touchez le + sur une carte pour commencer à comparer."
   },
   "cookie": {
     "text": "Nous utilisons des cookies pour vous garantir la meilleure expérience et pour soutenir notre site.",

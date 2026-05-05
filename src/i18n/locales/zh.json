@@ -68,7 +68,17 @@
   "compare": {
     "title": "正在比较{{count}}个工具",
     "clear": "全部清除",
-    "open": "打开比较"
+    "open": "打开比较",
+    "modal_title": "并排对比",
+    "row_category": "类别",
+    "row_pricing": "价格",
+    "row_specs": "规格",
+    "row_discount": "折扣",
+    "row_code": "代码",
+    "row_verified": "已验证",
+    "get_deal": "获取优惠",
+    "compare_now": "立即比较",
+    "empty": "点击任意卡片上的 + 开始比较。"
   },
   "cookie": {
     "text": "我们使用Cookie以确保您获得最佳体验并支持我们的网站。",
