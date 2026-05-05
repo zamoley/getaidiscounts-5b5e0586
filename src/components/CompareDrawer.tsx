@@ -1,4 +1,5 @@
 import { X } from "lucide-react";
+import { useTranslation } from "react-i18next";
 import {
   Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger, SheetFooter,
 } from "@/components/ui/sheet";
@@ -9,19 +10,20 @@ import type { Deal } from "@/lib/deals";
 export function CompareDrawer({
   deals, onRemove, onClear,
 }: { deals: Deal[]; onRemove: (id: string) => void; onClear: () => void }) {
+  const { t } = useTranslation();
   return (
     <Sheet>
       <SheetTrigger asChild>
         <Button
           className="fixed bottom-6 right-6 z-40 h-14 rounded-full border border-electric/40 bg-card px-6 text-foreground shadow-[var(--shadow-electric)] hover:bg-card"
         >
-          Compare
+          {t("nav.compare")}
           <Badge className="ml-2 border-0 bg-electric text-electric-foreground">{deals.length}</Badge>
         </Button>
       </SheetTrigger>
       <SheetContent side="right" className="w-full border-border bg-card sm:max-w-2xl">
         <SheetHeader>
-          <SheetTitle className="text-foreground">Compare AI Deals</SheetTitle>
+          <SheetTitle className="text-foreground">{t("compare.title", { count: deals.length })}</SheetTitle>
         </SheetHeader>
 
         {deals.length === 0 ? (
