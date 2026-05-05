@@ -32,6 +32,9 @@ export function DealCard({
   onToggleCompare: () => void;
 }) {
   const [copied, setCopied] = useState(false);
+  const { t } = useTranslation();
+  const locale = useLocale();
+  const localizedDesc = translateTool(deal.tool, locale, "description", deal.description);
 
   const copy = async () => {
     if (!deal.code) return;
