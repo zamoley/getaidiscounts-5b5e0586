@@ -74,16 +74,16 @@ export function DealCard({
 
       <div className="flex items-start gap-3 pr-10">
         <ToolLogo tool={deal.tool} url={deal.url} category={deal.category} size={44} />
-        <div className="min-w-0">
+        <div className="min-w-0 flex-1">
           <h3 className="truncate text-base font-semibold text-foreground">{deal.tool}</h3>
           {deal.category && (
-            <p className="text-xs uppercase tracking-wider text-muted-foreground">{deal.category}</p>
+            <p className="truncate text-xs uppercase tracking-wider text-muted-foreground">{deal.category}</p>
           )}
         </div>
       </div>
 
       {localizedDesc && (
-        <p className="mt-3 line-clamp-2 text-sm text-muted-foreground">{localizedDesc}</p>
+        <p className="mt-3 line-clamp-2 text-sm text-muted-foreground [hyphens:auto] [overflow-wrap:anywhere]">{localizedDesc}</p>
       )}
 
       <div className="mt-4">
@@ -92,21 +92,22 @@ export function DealCard({
         </Badge>
       </div>
 
-      <div className="mt-5 flex items-center gap-2">
+      <div className="mt-5 flex flex-wrap items-center gap-2">
         <Button
           variant="secondary"
           onClick={copy}
-          className="flex-1 justify-between border border-border bg-secondary/60 font-mono text-xs hover:bg-secondary"
+          className="min-w-0 flex-1 basis-[10rem] justify-between border border-border bg-secondary/60 px-3 font-mono text-xs hover:bg-secondary"
           disabled={!deal.code}
         >
           <span className="truncate">{deal.code ?? t("card.no_code")}</span>
-          {copied ? <Check className="h-4 w-4 text-electric" /> : <Copy className="h-4 w-4" />}
+          {copied ? <Check className="h-4 w-4 text-electric shrink-0" /> : <Copy className="h-4 w-4 shrink-0" />}
         </Button>
         <Button
           onClick={handleGetDeal}
-          className="bg-electric text-electric-foreground hover:bg-electric-glow"
+          className="w-full basis-full px-4 bg-electric text-electric-foreground hover:bg-electric-glow sm:w-auto sm:basis-auto sm:flex-none"
         >
-          {t("card.get_deal")} <ExternalLink className="ml-1.5 h-3.5 w-3.5" />
+          <span className="truncate">{t("card.get_deal")}</span>
+          <ExternalLink className="ml-1.5 h-3.5 w-3.5 shrink-0" />
         </Button>
       </div>
 

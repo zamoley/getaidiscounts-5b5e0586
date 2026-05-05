@@ -50,9 +50,12 @@ export function RequestDealButton() {
   return (
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger asChild>
-        <Button className="bg-electric text-electric-foreground hover:bg-electric-glow">
-          <Megaphone className="mr-2 h-4 w-4" />
-          Request a Deal
+        <Button
+          aria-label="Request a Deal"
+          className="bg-electric text-electric-foreground hover:bg-electric-glow px-3 sm:px-4"
+        >
+          <Megaphone className="h-4 w-4 sm:mr-2" />
+          <span className="hidden sm:inline">Request a Deal</span>
         </Button>
       </DialogTrigger>
       <DialogContent className="border-border bg-card">
