@@ -5,7 +5,7 @@ import { CATEGORIES } from "@/lib/categories";
 
 const cfg = CATEGORIES.music;
 
-export const Route = createFileRoute("/music")({
+export const Route = createFileRoute("/{-$locale}/music")({
   loader: () => fetchDeals(),
   head: () => ({
     meta: [

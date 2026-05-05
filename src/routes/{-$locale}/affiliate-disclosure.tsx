@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 
-export const Route = createFileRoute("/affiliate-disclosure")({
+export const Route = createFileRoute("/{-$locale}/affiliate-disclosure")({
   head: () => ({
     meta: [
       { title: "Affiliate Disclosure | GetAIDiscounts" },

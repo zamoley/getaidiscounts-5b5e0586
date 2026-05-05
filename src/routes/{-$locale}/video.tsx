@@ -5,7 +5,7 @@ import { CATEGORIES } from "@/lib/categories";
 
 const cfg = CATEGORIES.video;
 
-export const Route = createFileRoute("/video")({
+export const Route = createFileRoute("/{-$locale}/video")({
   loader: () => fetchDeals(),
   head: () => ({
     meta: [

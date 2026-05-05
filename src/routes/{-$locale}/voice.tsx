@@ -5,7 +5,7 @@ import { CATEGORIES } from "@/lib/categories";
 
 const cfg = CATEGORIES.voice;
 
-export const Route = createFileRoute("/voice")({
+export const Route = createFileRoute("/{-$locale}/voice")({
   loader: () => fetchDeals(),
   head: () => ({
     meta: [

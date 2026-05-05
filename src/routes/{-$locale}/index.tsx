@@ -11,7 +11,7 @@ import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 
-export const Route = createFileRoute("/")({
+export const Route = createFileRoute("/{-$locale}/")({
   loader: () => fetchDeals(),
   component: Index,
   errorComponent: ({ error }) => (
