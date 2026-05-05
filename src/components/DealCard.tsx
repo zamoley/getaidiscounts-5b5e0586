@@ -5,6 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
 import { smartLink } from "@/lib/smartlink";
 import { VoteButtons } from "@/components/VoteButtons";
+import { ToolLogo } from "@/components/ToolLogo";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
@@ -63,9 +64,7 @@ export function DealCard({
       </button>
 
       <div className="flex items-start gap-3 pr-10">
-        <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-electric/30 to-electric/5 text-electric font-bold">
-          {deal.tool.charAt(0)}
-        </div>
+        <ToolLogo tool={deal.tool} url={deal.url} size={44} />
         <div className="min-w-0">
           <h3 className="truncate text-base font-semibold text-foreground">{deal.tool}</h3>
           {deal.category && (
