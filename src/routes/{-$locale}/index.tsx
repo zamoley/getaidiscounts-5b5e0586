@@ -48,7 +48,7 @@ function Index() {
   const category = categoryParam ?? null;
   const setCategory = (c: string | null) => {
     navigate({
-      search: (prev) => ({ ...prev, category: c ?? undefined }),
+      search: (prev: { category?: string }) => ({ ...prev, category: c ?? undefined }),
       replace: true,
     });
   };
