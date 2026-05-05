@@ -2,7 +2,7 @@ import { Link } from "@tanstack/react-router";
 import { useTranslation } from "react-i18next";
 import { useLocale, localizedPath } from "@/i18n/use-locale";
 
-export function SiteFooter({ showDisclosure = false }: { showDisclosure?: boolean }) {
+export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean }) {
   const { t } = useTranslation();
   const locale = useLocale();
   return (
