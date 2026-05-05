@@ -77,6 +77,14 @@ function Index() {
     return m;
   }, [deals]);
 
+  const categories = useMemo(() => {
+    const list = Array.from(new Set(deals.map(d => d.category).filter(Boolean))) as string[];
+    return list.sort((a, b) => {
+      const diff = (categoryCounts.get(b) ?? 0) - (categoryCounts.get(a) ?? 0);
+      return diff !== 0 ? diff : a.localeCompare(b);
+    });
+  }, [deals, categoryCounts]);
+
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return deals.filter(d => {
