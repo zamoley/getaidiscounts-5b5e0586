@@ -64,7 +64,7 @@ export function DealCard({
       </button>
 
       <div className="flex items-start gap-3 pr-10">
-        <ToolLogo tool={deal.tool} url={deal.url} size={44} />
+        <ToolLogo tool={deal.tool} url={deal.url} category={deal.category} size={44} />
         <div className="min-w-0">
           <h3 className="truncate text-base font-semibold text-foreground">{deal.tool}</h3>
           {deal.category && (
