@@ -9,6 +9,24 @@ import fr from "./locales/fr.json";
 import uk from "./locales/uk.json";
 import pt from "./locales/pt.json";
 import it from "./locales/it.json";
+import categoriesMatrix from "./i18n_categories.json";
+
+// Build per-language categories namespace from the single source of truth
+// in i18n_categories.json so all locale files share the same labels.
+function categoriesFor(lang: string): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const [key, translations] of Object.entries(
+    categoriesMatrix as Record<string, Record<string, string>>
+  )) {
+    const value = translations[lang] ?? translations.en ?? key;
+    if (value) out[key] = value;
+  }
+  return out;
+}
+
+function withCategories(base: Record<string, unknown>, lang: string) {
+  return { ...base, categories: { ...(base.categories as object ?? {}), ...categoriesFor(lang) } };
+}
 
 export const SUPPORTED_LANGUAGES = [
   { code: "en", label: "English", native: "English", flag: "🇺🇸" },
@@ -29,15 +47,15 @@ export const SUPPORTED_CODES = SUPPORTED_LANGUAGES.map(l => l.code) as readonly 
 if (!i18n.isInitialized) {
   i18n.use(initReactI18next).init({
     resources: {
-      en: { translation: en },
-      zh: { translation: zh },
-      ja: { translation: ja },
-      es: { translation: es },
-      de: { translation: de },
-      fr: { translation: fr },
-      uk: { translation: uk },
-      pt: { translation: pt },
-      it: { translation: it },
+      en: { translation: withCategories(en, "en") },
+      zh: { translation: withCategories(zh, "zh") },
+      ja: { translation: withCategories(ja, "ja") },
+      es: { translation: withCategories(es, "es") },
+      de: { translation: withCategories(de, "de") },
+      fr: { translation: withCategories(fr, "fr") },
+      uk: { translation: withCategories(uk, "uk") },
+      pt: { translation: withCategories(pt, "pt") },
+      it: { translation: withCategories(it, "it") },
     },
     lng: "en",
     fallbackLng: "en",
