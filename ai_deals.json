@@ -538,11 +538,11 @@
         "code": null,
         "discount_amount": null,
         "pricing_info": "$0.067 / img",
-        "key_features": {
+        "key_features": [
             "max_resolution": "4096 x 4096",
             "avg_speed": "12s",
             "best_for": "High-speed iteration"
-        },
+        ],
         "description": "Nano Banana 2 is an advanced AI image generation tool that combines high-quality visuals with lightning-fast generation speeds, designed for high-speed iteration and production-ready specs.",
         "category": "Image AI",
         "last_verified": "2026-05-06"
