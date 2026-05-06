@@ -5,7 +5,7 @@ import type { LangCode } from "./index";
 type ToolEntry = Partial<Record<Exclude<LangCode, "en">, { description?: string; key_features?: string }>>;
 const map = toolTranslations as Record<string, ToolEntry>;
 
-type DealLangEntry = { description?: string; features?: string | string[] };
+type DealLangEntry = { description?: string; features?: string | string[] | Record<string, unknown> };
 type DealEntry = Partial<Record<LangCode, DealLangEntry>>;
 const dealsMap = dealsTranslations as unknown as Record<string, DealEntry>;
 
