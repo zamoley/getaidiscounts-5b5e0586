@@ -84,7 +84,7 @@ export function DealCard({
             return (
               <p className={`mt-0.5 flex items-center gap-1.5 truncate text-xs font-medium tracking-wide ${color}`}>
                 <Icon className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
-                <span className="truncate">{deal.category}</span>
+                <span className="truncate">{tCat(deal.category)}</span>
               </p>
             );
           })()}
