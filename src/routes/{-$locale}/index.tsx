@@ -13,6 +13,7 @@ import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { useLocale } from "@/i18n/use-locale";
+import { useCategoryLabel } from "@/i18n/use-category-label";
 import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/")({
