@@ -37,8 +37,7 @@ def call_ai(prompt):
 
 def main():
     os.makedirs("src/i18n", exist_ok=True)
-    # 🎯 FIX: Look in root folder for the source data
-    deals_path = "ai_deals.json" 
+    deals_path = "ai_deals.json"
     i18n_deals_path = "src/i18n/i18n_deals.json"
     i18n_cats_path = "src/i18n/i18n_categories.json"
 
@@ -49,7 +48,6 @@ def main():
     with open(deals_path, "r") as f:
         deals = json.load(f)
 
-    # 1. Handle Category Translations
     i18n_cats = {}
     if os.path.exists(i18n_cats_path):
         with open(i18n_cats_path, "r") as f:
@@ -62,11 +60,13 @@ def main():
         prompt = f"Translate the AI category name '{cat}' into these languages: {', '.join(LANGUAGES.values())}. Return JSON: {{'en': '...', 'uk': '...', ...}}"
         res = call_ai(prompt)
         if res:
-            i18n_cats[cat] = json.loads(res)
-            with open(i18n_cats_path, "w") as f:
-                json.dump(i18n_cats, f, indent=4, ensure_ascii=False)
+            try:
+                i18n_cats[cat] = json.loads(res)
+                with open(i18n_cats_path, "w") as f:
+                    json.dump(i18n_cats, f, indent=4, ensure_ascii=False)
+            except:
+                continue
 
-    # 2. Handle Tool Translations
     i18n_deals = {}
     if os.path.exists(i18n_deals_path):
         with open(i18n_deals_path, "r") as f:
@@ -79,9 +79,12 @@ def main():
         prompt = f"Translate the description and features for '{name}' into these languages: {', '.join(LANGUAGES.values())}. Description: {tool['description']}. Features: {tool['key_features']}. Return JSON: {{'uk': {{'description': '...', 'features': '...'}}, ...}}"
         res = call_ai(prompt)
         if res:
-            i18n_deals[name] = json.loads(res)
-            with open(i18n_deals_path, "w") as f:
-                json.dump(i18n_deals, f, indent=4, ensure_ascii=False)
+            try:
+                i18n_deals[name] = json.loads(res)
+                with open(i18n_deals_path, "w") as f:
+                    json.dump(i18n_deals, f, indent=4, ensure_ascii=False)
+            except:
+                continue
 
     print("Localization complete.")
 
