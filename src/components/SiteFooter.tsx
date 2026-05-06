@@ -7,12 +7,11 @@ export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean
   const locale = useLocale();
   return (
     <footer className="mx-auto max-w-7xl border-t border-border/60 px-6 py-10 text-sm text-muted-foreground">
-      <div className="flex flex-col items-center gap-6 md:flex-row md:items-start md:justify-between">
+      <div className="flex flex-col items-center gap-4 md:flex-row md:items-center md:justify-between">
         <div className="text-center md:text-left">
-          © {new Date().getFullYear()} GetAIDiscounts.com — {t("footer.rights")}
+          © {new Date().getFullYear()} GetAIDiscounts.com
         </div>
-        <nav aria-label="Legal" className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
-          <span className="font-semibold uppercase tracking-wider text-foreground/70">{t("footer.legal")}</span>
+        <nav aria-label="Legal" className="flex flex-nowrap items-center justify-center gap-x-5">
           <Link to={localizedTo(locale, "/privacy")} className="hover:text-electric">{t("footer.privacy")}</Link>
           <Link to={localizedTo(locale, "/terms")} className="hover:text-electric">{t("footer.terms")}</Link>
           <Link to={localizedTo(locale, "/affiliate-disclosure")} className="hover:text-electric">{t("footer.affiliate")}</Link>
