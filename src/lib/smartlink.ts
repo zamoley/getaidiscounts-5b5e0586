@@ -1,5 +1,7 @@
-export function smartLink(toolUrl: string) {
-  return `/go?url=${encodeURIComponent(toolUrl)}`;
+export function smartLink(toolUrl: string, toolName?: string) {
+  const params = new URLSearchParams({ url: toolUrl });
+  if (toolName) params.set("tool", toolName);
+  return `/go?${params.toString()}`;
 }
 
 export async function copyAndGo(code: string | undefined, toolUrl: string) {
