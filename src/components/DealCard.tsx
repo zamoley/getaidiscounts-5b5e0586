@@ -53,6 +53,11 @@ export function DealCard({
 
   const handleGetDeal = async (e: React.MouseEvent) => {
     e.preventDefault();
+    gaEvent("deal_click", {
+      tool_name: deal.tool,
+      deal_id: deal.id,
+      category: deal.category,
+    });
     if (deal.code) {
       try {
         await navigator.clipboard.writeText(deal.code);
