@@ -210,7 +210,9 @@ function GoPage() {
                 <ExternalLink className="h-4 w-4" />
               </a>
             </Button>
-            {destinationHost && <p className="break-all text-xs text-muted-foreground">{destinationHost}</p>}
+            {destinationHost && (
+              <p className="break-all text-xs text-muted-foreground">{destinationHost}</p>
+            )}
           </div>
         )}
       </div>
