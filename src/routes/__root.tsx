@@ -41,6 +41,7 @@ export const Route = createRootRoute({
       { name: "twitter:description", content: "Verified daily promos for top AI tools like HeyGen and ElevenLabs." },
       { name: "twitter:image", content: "https://getaidiscounts.com/og-image.jpg" },
       { name: "twitter:url", content: "https://getaidiscounts.com/" },
+      { name: "impact-site-verification", content: "9a364ba8-4292-45f6-89c8-e59fec32ffda" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
