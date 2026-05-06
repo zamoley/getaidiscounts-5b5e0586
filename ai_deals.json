@@ -539,11 +539,11 @@
         "discount_amount": null,
         "pricing_info": "$0.067 / img",
         "key_features": [
-            "max_resolution": "4096 x 4096",
-            "avg_speed": "12s",
-            "best_for": "High-speed iteration"
+            "4096 x 4096 Max Resolution",
+            "12s average speed",
+            "High-speed iteration"
         ],
-        "description": "Nano Banana 2 is an advanced AI image generation tool that combines high-quality visuals with lightning-fast generation speeds, designed for high-speed iteration and production-ready specs.",
+        "description": "Nano Banana 2 is an advanced AI image generation tool.",
         "category": "Image AI",
         "last_verified": "2026-05-06"
     },
@@ -596,23 +596,18 @@
         "category": "SEO AI",
         "last_verified": "2026-05-06"
     },
-    {
+     {
         "tool_name": "GrowthBar",
         "tool_url": "https://www.growthbarseo.com",
         "code": "20% Lifetime Discount",
         "discount_amount": "20%",
-        "pricing_info": {
-            "Starter": "$36/mo (billed annually)",
-            "Pro": "$64/mo (billed annually)",
-            "Agency": "$129/mo (billed annually)"
-        },
+        "pricing_info": "Starts at $36/mo",
         "key_features": [
             "Chrome extension for easy integration",
             "Keyword research and content outlines",
-            "AI-generated content drafting right in the browser",
             "Competitor strategy analysis"
         ],
-        "description": "GrowthBar is an AI-powered writing and SEO tool that helps marketers and content creators accelerate their content generation processes by providing keyword insights, competitor analysis, and SEO optimization features, all seamlessly integrated into a user-friendly interface.",
+        "description": "GrowthBar is an AI-powered writing and SEO tool.",
         "category": "SEO AI",
         "last_verified": "2026-05-06"
     }
