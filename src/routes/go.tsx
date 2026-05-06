@@ -1,13 +1,14 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
-import { Loader2, ShieldCheck } from "lucide-react";
+import { Loader2, ShieldAlert } from "lucide-react";
+import { isAllowedRedirect } from "@/lib/redirect-allowlist";
 
 export const Route = createFileRoute("/go")({
   head: () => ({
     meta: [
-      { title: "Fetching your discount… — GetAIDiscounts" },
+      { title: "Redirecting… — GetAIDiscounts" },
       { name: "robots", content: "noindex,nofollow" },
-      { name: "description", content: "Redirecting you to your verified AI discount." },
+      { name: "description", content: "Redirecting you to a partner offer." },
     ],
   }),
   component: GoPage,
@@ -15,23 +16,21 @@ export const Route = createFileRoute("/go")({
 
 function GoPage() {
   const [target, setTarget] = useState<string | null>(null);
+  const [blocked, setBlocked] = useState(false);
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const url = params.get("url");
-    if (!url) return;
-    let safe = url;
-    try {
-      const parsed = new URL(url);
-      if (!/^https?:$/.test(parsed.protocol)) return;
-      safe = parsed.toString();
-    } catch {
+    if (!url) {
+      setBlocked(true);
+      return;
+    }
+    const safe = isAllowedRedirect(url);
+    if (!safe) {
+      setBlocked(true);
       return;
     }
     setTarget(safe);
-    // Top-level replace so Skimlinks can rewrite the click, the destination
-    // is never framed (avoids X-Frame-Options/CSP errors), and Back doesn't
-    // bounce the user back into this redirector.
     const t = setTimeout(() => {
       try {
         if (window.top && window.top !== window.self) {
@@ -44,25 +43,37 @@ function GoPage() {
     return () => clearTimeout(t);
   }, []);
 
+  if (blocked) {
+    return (
+      <main className="flex min-h-[80vh] items-center justify-center px-6">
+        <div className="flex max-w-md flex-col items-center text-center">
+          <div className="relative mb-6 flex h-20 w-20 items-center justify-center rounded-full bg-destructive/10">
+            <ShieldAlert className="h-10 w-10 text-destructive" />
+          </div>
+          <h1 className="text-2xl font-bold text-foreground">Redirect blocked</h1>
+          <p className="mt-2 text-sm text-muted-foreground">
+            This destination isn't on our list of approved partner sites.
+          </p>
+        </div>
+      </main>
+    );
+  }
+
   return (
     <main className="flex min-h-[80vh] items-center justify-center px-6">
       <div className="flex max-w-md flex-col items-center text-center">
         <div className="relative mb-6 flex h-20 w-20 items-center justify-center rounded-full bg-gradient-to-br from-electric/30 to-electric/5">
           <Loader2 className="h-10 w-10 animate-spin text-electric" />
         </div>
-        <h1 className="text-2xl font-bold text-foreground">Fetching your discount…</h1>
+        <h1 className="text-2xl font-bold text-foreground">Redirecting…</h1>
         <p className="mt-2 text-sm text-muted-foreground">
-          Applying your code and routing you to the verified offer.
+          Sending you to the partner site. You're leaving GetAIDiscounts.com.
         </p>
-        <div className="mt-6 inline-flex items-center gap-1.5 rounded-full border border-border bg-card px-3 py-1.5 text-xs text-muted-foreground">
-          <ShieldCheck className="h-3.5 w-3.5 text-electric" />
-          Secured by GetAIDiscounts
-        </div>
         {target && (
-          <p className="mt-6 text-xs text-muted-foreground">
+          <p className="mt-6 break-all text-xs text-muted-foreground">
             Not redirected?{" "}
             <a href={target} className="text-electric underline underline-offset-4">
-              Click here
+              Continue to {new URL(target).hostname}
             </a>
           </p>
         )}
@@ -70,3 +81,4 @@ function GoPage() {
     </main>
   );
 }
+
