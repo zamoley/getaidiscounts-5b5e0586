@@ -8,6 +8,7 @@ import { Input } from "@/components/ui/input";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 import { useLocale, localizedTo } from "@/i18n/use-locale";
+import { gaEvent } from "@/lib/analytics";
 
 const schema = z.object({
   email: z.string().trim().email().max(255),
@@ -37,6 +38,7 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
       return;
     }
     setState("done");
+    gaEvent("newsletter_signup", { source });
     toast.success(t("newsletter.success"));
     setEmail("");
   };

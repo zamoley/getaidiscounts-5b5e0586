@@ -12,6 +12,7 @@ import { useLocale } from "@/i18n/use-locale";
 import { translateTool } from "@/i18n/translate-tool";
 import { categoryStyle } from "@/lib/category-style";
 import { useCategoryLabel } from "@/i18n/use-category-label";
+import { gaEvent } from "@/lib/analytics";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
@@ -52,6 +53,11 @@ export function DealCard({
 
   const handleGetDeal = async (e: React.MouseEvent) => {
     e.preventDefault();
+    gaEvent("deal_click", {
+      tool_name: deal.tool,
+      deal_id: deal.id,
+      category: deal.category,
+    });
     if (deal.code) {
       try {
         await navigator.clipboard.writeText(deal.code);
