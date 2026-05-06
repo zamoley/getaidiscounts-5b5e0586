@@ -12,6 +12,7 @@ import { useLocale } from "@/i18n/use-locale";
 import { translateTool } from "@/i18n/translate-tool";
 import { categoryStyle } from "@/lib/category-style";
 import { useCategoryLabel } from "@/i18n/use-category-label";
+import { gaEvent } from "@/lib/analytics";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
