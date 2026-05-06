@@ -9,6 +9,24 @@ import fr from "./locales/fr.json";
 import uk from "./locales/uk.json";
 import pt from "./locales/pt.json";
 import it from "./locales/it.json";
+import categoriesMatrix from "./i18n_categories.json";
+
+// Build per-language categories namespace from the single source of truth
+// in i18n_categories.json so all locale files share the same labels.
+function categoriesFor(lang: string): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const [key, translations] of Object.entries(
+    categoriesMatrix as Record<string, Record<string, string>>
+  )) {
+    const value = translations[lang] ?? translations.en ?? key;
+    if (value) out[key] = value;
+  }
+  return out;
+}
+
+function withCategories(base: Record<string, unknown>, lang: string) {
+  return { ...base, categories: { ...(base.categories as object ?? {}), ...categoriesFor(lang) } };
+}
 
 export const SUPPORTED_LANGUAGES = [
   { code: "en", label: "English", native: "English", flag: "🇺🇸" },
