@@ -6,11 +6,13 @@ import {
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
+import { useCategoryLabel } from "@/i18n/use-category-label";
 
 export function CompareDrawer({
   deals, onRemove, onClear,
 }: { deals: Deal[]; onRemove: (id: string) => void; onClear: () => void }) {
   const { t } = useTranslation();
+  const tCat = useCategoryLabel();
   return (
     <Sheet>
       <SheetTrigger asChild>
