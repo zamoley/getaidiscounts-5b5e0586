@@ -2,7 +2,7 @@ import { createServerFn } from "@tanstack/react-start";
 import { getRequestHeader, getRequestIP } from "@tanstack/react-start/server";
 import { createHash } from "crypto";
 import { z } from "zod";
-
+import { supabaseAdmin } from "@/integrations/supabase/client.server";
 
 const VoteInput = z.object({
   dealId: z.string().min(1).max(120).regex(/^[a-zA-Z0-9_-]+$/),
