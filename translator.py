@@ -36,29 +36,25 @@ def call_ai(prompt):
         return None
 
 def main():
-    if not os.path.exists("ai_deals.json"):
-        print("ai_deals.json not found!")
+    os.makedirs("src/i18n", exist_ok=True)
+    deals_path = "src/i18n/ai_deals.json"
+    i18n_deals_path = "src/i18n/i18n_deals.json"
+    i18n_cats_path = "src/i18n/i18n_categories.json"
+
+    if not os.path.exists(deals_path):
+        print(f"{deals_path} not found!")
         return
 
-    with open("ai_deals.json", "r") as f:
+    with open(deals_path, "r") as f:
         deals = json.load(f)
 
-    # 1. Handle Tool Translations
-    i18n_deals = {}
-    if os.path.exists("i18n_deals.json"):
-        with open("i18n_deals.json", "r") as f:
-            i18n_deals = json.load(f)
-
-    # 2. Handle Category Translations
+    # 1. Handle Category Translations
     i18n_cats = {}
-    if os.path.exists("i18n_categories.json"):
-        with open("src/i18n_categories.json", "r") as f:
+    if os.path.exists(i18n_cats_path):
+        with open(i18n_cats_path, "r") as f:
             i18n_cats = json.load(f)
 
-    # Extract all unique categories
     all_categories = list(set([d.get('category', 'General AI') for d in deals]))
-
-    # --- Translate Categories ---
     for cat in all_categories:
         if cat in i18n_cats: continue
         print(f"Translating Category: {cat}...")
@@ -66,10 +62,15 @@ def main():
         res = call_ai(prompt)
         if res:
             i18n_cats[cat] = json.loads(res)
-            with open("i18n_categories.json", "w") as f:
+            with open(i18n_cats_path, "w") as f:
                 json.dump(i18n_cats, f, indent=4, ensure_ascii=False)
 
-    # --- Translate Tools ---
+    # 2. Handle Tool Translations
+    i18n_deals = {}
+    if os.path.exists(i18n_deals_path):
+        with open(i18n_deals_path, "r") as f:
+            i18n_deals = json.load(f)
+
     for tool in deals:
         name = tool['tool_name']
         if name in i18n_deals: continue
@@ -78,7 +79,7 @@ def main():
         res = call_ai(prompt)
         if res:
             i18n_deals[name] = json.loads(res)
-            with open("i18n_deals.json", "w") as f:
+            with open(i18n_deals_path, "w") as f:
                 json.dump(i18n_deals, f, indent=4, ensure_ascii=False)
 
     print("Localization complete.")
