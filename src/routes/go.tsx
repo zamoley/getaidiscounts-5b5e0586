@@ -29,17 +29,18 @@ function GoPage() {
       return;
     }
     setTarget(safe);
-    // Full window redirect (top-level) so Skimlinks can rewrite the click
-    // and avoid X-Frame-Options / CSP errors from framed destinations.
+    // Top-level replace so Skimlinks can rewrite the click, the destination
+    // is never framed (avoids X-Frame-Options/CSP errors), and Back doesn't
+    // bounce the user back into this redirector.
     const t = setTimeout(() => {
       try {
         if (window.top && window.top !== window.self) {
-          window.top.location.href = safe;
+          window.top.location.replace(safe);
           return;
         }
       } catch {}
-      window.location.href = safe;
-    }, 2000);
+      window.location.replace(safe);
+    }, 1500);
     return () => clearTimeout(t);
   }, []);
 
