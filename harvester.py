@@ -4,6 +4,7 @@ import requests
 import time
 from datetime import datetime
 
+# API Keys (Set in GitHub Secrets)
 TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
@@ -24,10 +25,9 @@ def call_ai(prompt):
         "response_format": {"type": "json_object"}
     }
     try:
-        # ⏳ Rate Limit Protection: Wait to stay under 3 RPM limit
-        print("Waiting 22s to respect API rate limits...")
-        time.sleep(22) 
-        
+        # ⏳ Rate Limit Protection (Tier 0: 3 RPM)
+        print("Waiting 22s for rate limits...")
+        time.sleep(22)
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload, timeout=30)
         res_data = response.json()
         if "error" in res_data:
@@ -39,18 +39,17 @@ def call_ai(prompt):
         return None
 
 def main():
-    print(f"--- Starting Slow-and-Steady Harvest at {datetime.now()} ---")
+    print(f"--- Starting Harvest at {datetime.now()} ---")
     database = []
     
     # Discovery categories
-    categories = ["Video AI", "Writing AI", "Coding AI", "Voice AI", "Image AI", "SEO AI"]
+    categories = ["Video AI", "Writing AI", "Coding AI", "Voice AI", "Image AI", "SEO AI", "Marketing AI"]
     
     for cat in categories:
         print(f"\n--- Scouting Category: {cat} ---")
         tool_results = search_tavily(f"top new {cat} tools with discounts 2026")
         tool_context = "\n".join([f"{r['title']}: {r['content']}" for r in tool_results])
         
-        # Get tool names
         tool_prompt = f"List 3 specific AI tools for {cat} from: {tool_context}. Return JSON: {{'tools': []}}"
         tool_res = call_ai(tool_prompt)
         if not tool_res: continue
@@ -75,9 +74,12 @@ def main():
                 except:
                     continue
 
-    # Final Merge
-    if os.path.exists("ai_deals.json"):
-        with open("ai_deals.json", "r") as f:
+    # Final Merge & Save to src/i18n/
+    os.makedirs("src/i18n", exist_ok=True)
+    file_path = "src/i18n/ai_deals.json"
+    
+    if os.path.exists(file_path):
+        with open(file_path, "r") as f:
             try:
                 existing = json.load(f)
             except:
@@ -88,7 +90,7 @@ def main():
                     existing.append(d)
             database = existing
 
-    with open("ai_deals.json", "w") as f:
+    with open(file_path, "w") as f:
         json.dump(database, f, indent=4)
     
     print(f"\n--- Harvest Complete! Total Tools: {len(database)} ---")
