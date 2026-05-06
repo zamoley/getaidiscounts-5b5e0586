@@ -28,8 +28,20 @@ export function translateTool(
   fallback?: string
 ): string | undefined {
   // Primary source: i18n_deals.json (covers all 9 languages incl. English).
-  const dealField = field === "description" ? "description" : "features";
-  const toStr = (v: string | string[] | undefined) => Array.isArray(v) ? v.join(", ") : v;
+  const toStr = (v: string | string[] | Record<string, unknown> | undefined): string | undefined => {
+    if (v == null) return undefined;
+    if (typeof v === "string") return v;
+    if (Array.isArray(v)) return v.filter(Boolean).join(", ");
+    if (typeof v === "object") {
+      return Object.entries(v)
+        .map(([k, val]) => {
+          const label = k.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+          return `${label}: ${String(val)}`;
+        })
+        .join(" • ");
+    }
+    return String(v);
+  };
   const dealEntry = lookupDeal(toolName, locale);
   const localized = toStr(dealEntry?.[dealField]);
   if (localized) return localized;
