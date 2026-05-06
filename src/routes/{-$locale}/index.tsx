@@ -66,6 +66,7 @@ function Index() {
   const clearCategories = () => writeSelected(new Set());
   const compare = useCompare();
   const { t } = useTranslation();
+  const tCat = useCategoryLabel();
   useLocale();
 
   const categoryCounts = useMemo(() => {
