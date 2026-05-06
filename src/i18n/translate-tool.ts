@@ -5,9 +5,9 @@ import type { LangCode } from "./index";
 type ToolEntry = Partial<Record<Exclude<LangCode, "en">, { description?: string; key_features?: string }>>;
 const map = toolTranslations as Record<string, ToolEntry>;
 
-type DealLangEntry = { description?: string; features?: string };
+type DealLangEntry = { description?: string; features?: string | string[] };
 type DealEntry = Partial<Record<LangCode, DealLangEntry>>;
-const dealsMap = dealsTranslations as Record<string, DealEntry>;
+const dealsMap = dealsTranslations as unknown as Record<string, DealEntry>;
 
 // Lowercased lookup for resilient matching across casings/spaces.
 const dealsLowerMap: Record<string, DealEntry> = Object.fromEntries(
