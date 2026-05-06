@@ -2118,5 +2118,658 @@
                 "Ideale per piccole e medie imprese, team e agenzie."
             ]
         }
+    },
+    "HappyHorse-1.0": {
+        "en": {
+            "description": "Generates videos from text prompts, image prompts, and reference images, supporting various output qualities.",
+            "features": [
+                "Generates videos from text prompts",
+                "Supports image prompts and reference images",
+                "Up to 1080P output",
+                "Flexible aspect ratios",
+                "Durations from 3 to 15 seconds",
+                "Native audio-video synchronization"
+            ]
+        },
+        "uk": {
+            "description": "Генерує відео з текстових запитів, зображень і посилальних зображень, підтримуючи різні якості виходу.",
+            "features": [
+                "Генерує відео з текстових запитів",
+                "Підтримує зображення та посилальні зображення",
+                "До 1080P виходу",
+                "Гнучкі співвідношення сторін",
+                "Тривалість від 3 до 15 секунд",
+                "Нативна синхронізація аудіо та відео"
+            ]
+        },
+        "ja": {
+            "description": "テキストプロンプト、画像プロンプト、参照画像からビデオを生成し、さまざまな出力品質をサポートします。",
+            "features": [
+                "テキストプロンプトからビデオを生成",
+                "画像プロンプトおよび参照画像をサポート",
+                "最大1080P出力",
+                "柔軟なアスペクト比",
+                "3秒から15秒の再生時間",
+                "ネイティブ音声-映像同期"
+            ]
+        },
+        "es": {
+            "description": "Genera videos a partir de mensajes de texto, mensajes de imágenes e imágenes de referencia, apoyando varias calidades de salida.",
+            "features": [
+                "Genera videos a partir de mensajes de texto",
+                "Soporta mensajes de imágenes e imágenes de referencia",
+                "Salida de hasta 1080P",
+                "Relaciones de aspecto flexibles",
+                "Duraciones de 3 a 15 segundos",
+                "Sincronización nativa de audio y video"
+            ]
+        },
+        "pt": {
+            "description": "Gera vídeos a partir de textos, imagens e imagens de referência, suportando várias qualidades de saída.",
+            "features": [
+                "Gera vídeos a partir de textos",
+                "Suporta imagens e imagens de referência",
+                "Saída de até 1080P",
+                "Proporções flexíveis",
+                "Durações de 3 a 15 segundos",
+                "Sincronização nativa de áudio e vídeo"
+            ]
+        },
+        "fr": {
+            "description": "Génère des vidéos à partir de textes, d'images et d'images de référence, en prenant en charge diverses qualités de sortie.",
+            "features": [
+                "Génère des vidéos à partir de textes",
+                "Prend en charge les images et les images de référence",
+                "Sortie jusqu'à 1080P",
+                "Rapports d'aspect flexibles",
+                "Durées de 3 à 15 secondes",
+                "Synchronisation native audio-vidéo"
+            ]
+        },
+        "de": {
+            "description": "Generiert Videos aus Textaufforderungen, Bildaufforderungen und Referenzbildern und unterstützt verschiedene Ausgabequalitäten.",
+            "features": [
+                "Generiert Videos aus Textaufforderungen",
+                "Unterstützt Bildaufforderungen und Referenzbilder",
+                "Ausgabe bis zu 1080P",
+                "Flexible Seitenverhältnisse",
+                "Dauern von 3 bis 15 Sekunden",
+                "Native Audio-Video-Synchronisierung"
+            ]
+        },
+        "zh": {
+            "description": "从文本提示、图像提示和参考图像生成视频，支持多种输出质量。",
+            "features": [
+                "从文本提示生成视频",
+                "支持图像提示和参考图像",
+                "支持最高1080P输出",
+                "灵活的纵横比",
+                "持续时间从3到15秒",
+                "本地音视频同步"
+            ]
+        },
+        "it": {
+            "description": "Genera video da suggerimenti testuali, suggerimenti di immagini e immagini di riferimento, supportando varie qualità di output.",
+            "features": [
+                "Genera video da suggerimenti testuali",
+                "Supporta suggerimenti di immagini e immagini di riferimento",
+                "Fino a 1080P di output",
+                "Rapporti d'aspetto flessibili",
+                "Durate da 3 a 15 secondi",
+                "Sincronizzazione audio-video nativa"
+            ]
+        }
+    },
+    "Cursor Pro": {
+        "en": {
+            "description": "AI-native IDE with advanced agent capabilities; optimal for complex tasks and multi-file editing.",
+            "features": [
+                "Unlimited Tab completions",
+                "Extended Agent limits",
+                "Background Agents",
+                "$20 monthly credits for premium model usage"
+            ]
+        },
+        "uk": {
+            "description": "Інтегроване середовище розробки з підтримкою штучного інтелекту з розширеними можливостями агентів; оптимально для складних завдань і редагування декількох файлів.",
+            "features": [
+                "Необмежені автокомплектації",
+                "Розширені обмеження агентів",
+                "Фонові агенти",
+                "$20 щомісячних кредитів для використання преміум-моделей"
+            ]
+        },
+        "ja": {
+            "description": "高度なエージェント機能を持つAIネイティブIDE; 複雑なタスクと複数ファイルの編集に最適。",
+            "features": [
+                "無制限のタブ補完",
+                "拡張エージェント制限",
+                "バックグラウンドエージェント",
+                "プレミアムモデル使用に対する月額$20のクレジット"
+            ]
+        },
+        "es": {
+            "description": "IDE nativo de IA con capacidades avanzadas de agentes; óptimo para tareas complejas y edición de múltiples archivos.",
+            "features": [
+                "Completaciones de pestañas ilimitadas",
+                "Límites de agente extendidos",
+                "Agentes en segundo plano",
+                "Créditos mensuales de $20 para uso de modelos premium"
+            ]
+        },
+        "pt": {
+            "description": "IDE nativo de IA com capacidades avançadas de agentes; ideal para tarefas complexas e edição de múltiplos arquivos.",
+            "features": [
+                "Completações de guia ilimitadas",
+                "Limites de agente estendidos",
+                "Agentes em segundo plano",
+                "Créditos mensais de $20 para uso de modelos premium"
+            ]
+        },
+        "fr": {
+            "description": "IDE natif à l'IA avec des capacités avancées d'agents; optimal pour les tâches complexes et l'édition de plusieurs fichiers.",
+            "features": [
+                "Complétions d'onglets illimitées",
+                "Limites d'agents étendues",
+                "Agents en arrière-plan",
+                "Crédits mensuels de 20 $ pour l'utilisation de modèles premium"
+            ]
+        },
+        "de": {
+            "description": "KI-natives IDE mit erweiterten Agentenfunktionen; optimal für komplexe Aufgaben und die Bearbeitung mehrerer Dateien.",
+            "features": [
+                "Unbegrenzte Tab-Vervollständigungen",
+                "Erweiterte Agentengrenzen",
+                "Hintergrundagenten",
+                "$20 monatliche Gutschriften für die Nutzung von Premium-Modellen"
+            ]
+        },
+        "zh": {
+            "description": "具备先进代理功能的AI原生IDE; 适合复杂任务和多文件编辑。",
+            "features": [
+                "无限选项卡补全",
+                "扩展的代理限制",
+                "后台代理",
+                "每月20美元的优质模型使用信用"
+            ]
+        },
+        "it": {
+            "description": "IDE nativo all'IA con capacità avanzate degli agenti; ottimale per compiti complessi e modifica di più file.",
+            "features": [
+                "Completamenti delle schede illimitati",
+                "Limiti degli agenti estesi",
+                "Agenti in background",
+                "Crediti mensili di $20 per l'utilizzo di modelli premium"
+            ]
+        }
+    },
+    "Jasper AI": {
+        "en": {
+            "description": "An all-in-one AI tool for content writing and SEO, designed to create blog posts, emails, and web copy. Integrates with Surfer SEO for enhanced content optimization.",
+            "features": [
+                "Fast and consistent content generation",
+                "Multilingual support",
+                "Integration with Surfer SEO for content optimization",
+                "User-friendly interface",
+                "Advanced AI algorithms",
+                "Customization options for brand voice",
+                "Flexible templates for various content formats"
+            ]
+        },
+        "uk": {
+            "description": "Універсальний інструмент штучного інтелекту для написання контенту та SEO, розроблений для створення блогів, електронних листів та веб-копій. Інтегрується з Surfer SEO для покращення оптимізації контенту.",
+            "features": [
+                "Швидке та стабільне генерування контенту",
+                "Підтримка кількох мов",
+                "Інтеграція з Surfer SEO для оптимізації контенту",
+                "Зручний у використанні інтерфейс",
+                "Сучасні алгоритми ШІ",
+                "Опції налаштування для голосу бренду",
+                "Гнучкі шаблони для різних форматів контенту"
+            ]
+        },
+        "ja": {
+            "description": "ブログ投稿、メール、ウェブコピーを作成するために設計された、コンテンツ作成とSEOのためのオールインワンAIツール。コンテンツ最適化のためにSurfer SEOと統合されています。",
+            "features": [
+                "迅速かつ一貫したコンテンツ生成",
+                "多言語サポート",
+                "コンテンツ最適化のためのSurfer SEOとの統合",
+                "ユーザーフレンドリーなインターフェース",
+                "高度なAIアルゴリズム",
+                "ブランドボイスのカスタマイズオプション",
+                "さまざまなコンテンツ形式のための柔軟なテンプレート"
+            ]
+        },
+        "es": {
+            "description": "Una herramienta de IA todo en uno para la redacción de contenido y SEO, diseñada para crear publicaciones de blog, correos electrónicos y copias web. Se integra con Surfer SEO para mejorar la optimización del contenido.",
+            "features": [
+                "Generación de contenido rápida y consistente",
+                "Soporte multilingüe",
+                "Integración con Surfer SEO para la optimización del contenido",
+                "Interfaz fácil de usar",
+                "Algoritmos avanzados de IA",
+                "Opciones de personalización para la voz de la marca",
+                "Plantillas flexibles para varios formatos de contenido"
+            ]
+        },
+        "pt": {
+            "description": "Uma ferramenta de IA tudo-em-um para redação de conteúdo e SEO, projetada para criar postagens de blog, e-mails e cópias da web. Integra-se com o Surfer SEO para otimização de conteúdo aprimorada.",
+            "features": [
+                "Geração de conteúdo rápida e consistente",
+                "Suporte multilíngue",
+                "Integração com Surfer SEO para otimização de conteúdo",
+                "Interface amigável",
+                "Algoritmos avançados de IA",
+                "Opções de personalização para a voz da marca",
+                "Modelos flexíveis para vários formatos de conteúdo"
+            ]
+        },
+        "fr": {
+            "description": "Un outil IA tout-en-un pour la rédaction de contenu et le SEO, conçu pour créer des articles de blog, des e-mails et des copies web. S'intègre à Surfer SEO pour une optimisation du contenu améliorée.",
+            "features": [
+                "Génération de contenu rapide et cohérente",
+                "Support multilingue",
+                "Intégration avec Surfer SEO pour l'optimisation du contenu",
+                "Interface conviviale",
+                "Algorithmes avancés d'IA",
+                "Options de personnalisation pour la voix de la marque",
+                "Modèles flexibles pour divers formats de contenu"
+            ]
+        },
+        "de": {
+            "description": "Ein All-in-One-AI-Tool für das Schreiben von Inhalten und SEO, das für die Erstellung von Blog-Beiträgen, E-Mails und Webtexten entwickelt wurde. Integriert sich mit Surfer SEO zur verbesserten Inhaltsoptimierung.",
+            "features": [
+                "Schnelle und konsistente Inhaltserstellung",
+                "Mehrsprachige Unterstützung",
+                "Integration mit Surfer SEO zur Inhaltsoptimierung",
+                "Benutzerfreundliche Oberfläche",
+                "Fortgeschrittene KI-Algorithmen",
+                "Anpassungsoptionen für die Markenstimme",
+                "Flexible Vorlagen für verschiedene Inhaltsformate"
+            ]
+        },
+        "zh": {
+            "description": "一个全能的AI工具，用于内容创作和SEO，旨在创建博客文章、电子邮件和网页文案。与Surfer SEO集成，以增强内容优化。",
+            "features": [
+                "快速且一致的内容生成",
+                "多语言支持",
+                "与Surfer SEO集成以进行内容优化",
+                "用户友好的界面",
+                "先进的AI算法",
+                "品牌声音的自定义选项",
+                "适用于各种内容格式的灵活模板"
+            ]
+        },
+        "it": {
+            "description": "Uno strumento AI tutto-in-uno per la creazione di contenuti e SEO, progettato per creare post di blog, email e testi web. Si integra con Surfer SEO per un'ottimizzazione dei contenuti migliorata.",
+            "features": [
+                "Generazione di contenuti rapida e coerente",
+                "Supporto multilingue",
+                "Integrazione con Surfer SEO per l'ottimizzazione dei contenuti",
+                "Interfaccia facile da usare",
+                "Algoritmi AI avanzati",
+                "Opzioni di personalizzazione per il voice-over del brand",
+                "Modelli flessibili per vari formati di contenuto"
+            ]
+        }
+    },
+    "Rytr": {
+        "en": {
+            "description": "Affordable writing tool with free and paid plans, ideal for general content creation; particularly useful for freelancers and small businesses.",
+            "features": [
+                "AI-Powered Content Generation",
+                "Natural Language Processing for various content formats",
+                "Over 40 content use cases and templates",
+                "Supports 30+ languages",
+                "Advanced customization options in Premium plan"
+            ]
+        },
+        "uk": {
+            "description": "Доступний інструмент для написання з безкоштовними та платними планами, ідеально підходить для загального створення контенту; особливо корисний для фрілансерів та малих підприємств.",
+            "features": [
+                "Генерація контенту на основі штучного інтелекту",
+                "Обробка природної мови для різних форматів контенту",
+                "Понад 40 випадків використання контенту та шаблонів",
+                "Підтримує понад 30 мов",
+                "Розширені можливості налаштування в преміум-плані"
+            ]
+        },
+        "ja": {
+            "description": "フリーおよび有料プランが利用可能な手頃な価格のライティングツールで、一般的なコンテンツ作成に最適です。特にフリーランサーや小規模企業に役立ちます。",
+            "features": [
+                "AIによるコンテンツ生成",
+                "さまざまなコンテンツ形式に対応した自然言語処理",
+                "40以上のコンテンツ使用例とテンプレート",
+                "30以上の言語をサポート",
+                "プレミアムプランの高度なカスタマイズオプション"
+            ]
+        },
+        "es": {
+            "description": "Herramienta de escritura asequible con planes gratuitos y de pago, ideal para la creación de contenido general; especialmente útil para freelancers y pequeñas empresas.",
+            "features": [
+                "Generación de contenido impulsada por IA",
+                "Procesamiento de lenguaje natural para varios formatos de contenido",
+                "Más de 40 casos de uso y plantillas de contenido",
+                "Admite más de 30 idiomas",
+                "Opciones de personalización avanzadas en el plan Premium"
+            ]
+        },
+        "pt": {
+            "description": "Ferramenta de escrita acessível com planos gratuitos e pagos, ideal para criação de conteúdo geral; particularmente útil para freelancers e pequenas empresas.",
+            "features": [
+                "Geração de Conteúdo Potenciada por IA",
+                "Processamento de Linguagem Natural para vários formatos de conteúdo",
+                "Mais de 40 casos de uso e modelos de conteúdo",
+                "Suporta mais de 30 idiomas",
+                "Opções de personalização avançadas no plano Premium"
+            ]
+        },
+        "fr": {
+            "description": "Outil d'écriture abordable avec des plans gratuits et payants, idéal pour la création de contenu général ; particulièrement utile pour les freelancers et les petites entreprises.",
+            "features": [
+                "Génération de contenu alimentée par l'IA",
+                "Traitement du langage naturel pour divers formats de contenu",
+                "Plus de 40 cas d'utilisation et modèles de contenu",
+                "Supporte plus de 30 langues",
+                "Options de personnalisation avancées dans le plan Premium"
+            ]
+        },
+        "de": {
+            "description": "Erschwingliches Schreibwerkzeug mit kostenlosen und kostenpflichtigen Plänen, ideal für die allgemeine Inhaltserstellung; besonders nützlich für Freiberufler und kleine Unternehmen.",
+            "features": [
+                "KI-gestützte Inhaltsgenerierung",
+                "Verarbeitung natürlicher Sprache für verschiedene Inhaltsformate",
+                "Über 40 Anwendungsfälle und Vorlagen für Inhalte",
+                "Unterstützt über 30 Sprachen",
+                "Erweiterte Anpassungsoptionen im Premium-Plan"
+            ]
+        },
+        "zh": {
+            "description": "经济实惠的写作工具，提供免费和付费计划，适合一般内容创作；特别适合自由职业者和小型企业。",
+            "features": [
+                "人工智能驱动的内容生成",
+                "用于各种内容格式的自然语言处理",
+                "超过40种内容用例和模板",
+                "支持30多种语言",
+                "高级定制选项在高级计划中"
+            ]
+        },
+        "it": {
+            "description": "Strumento di scrittura economico con piani gratuiti e a pagamento, ideale per la creazione di contenuti generali; particolarmente utile per liberi professionisti e piccole imprese.",
+            "features": [
+                "Generazione di contenuti potenziata dall'IA",
+                "Elaborazione del linguaggio naturale per vari formati di contenuto",
+                "Oltre 40 casi d'uso e modelli di contenuto",
+                "Supporta oltre 30 lingue",
+                "Opzioni di personalizzazione avanzate nel piano Premium"
+            ]
+        }
+    },
+    "GitHub Copilot": {
+        "en": {
+            "description": "GitHub Copilot is an AI peer programming tool that enhances developer productivity by providing contextual coding assistance directly within your IDE. It is widely adopted and offers features like code completion, explanations, and more.",
+            "features": [
+                "Microsoft-backed with tight VSCode integration",
+                "IDE extension",
+                "Unlimited code completion and suggestions",
+                "Contextualized assistance",
+                "Integration with GitHub for issues, PRs, and reviews"
+            ]
+        },
+        "uk": {
+            "description": "GitHub Copilot - це інструмент штучного інтелекту для парного програмування, який підвищує продуктивність розробників, надаючи контекстну допомогу у програмуванні прямо у вашій IDE. Він широко використовується та пропонує такі функції, як автозаповнення коду, пояснення та інше.",
+            "features": [
+                "Підтримується Microsoft з тісною інтеграцією VSCode",
+                "Розширення IDE",
+                "Необмежене автозаповнення коду та пропозиції",
+                "Контекстна допомога",
+                "Інтеграція з GitHub для проблем, PR та оглядів"
+            ]
+        },
+        "ja": {
+            "description": "GitHub Copilotは、あなたのIDE内で直接文脈に応じたコーディング支援を提供することによって開発者の生産性を向上させるAIペアプログラミングツールです。広く採用されており、コード補完、説明などの機能を提供しています。",
+            "features": [
+                "Microsoftが支援し、VSCodeとの緊密な統合",
+                "IDE拡張",
+                "無制限のコード補完と提案",
+                "文脈に応じた支援",
+                "問題、PR、およびレビューのためのGitHubとの統合"
+            ]
+        },
+        "es": {
+            "description": "GitHub Copilot es una herramienta de programación por pares impulsada por IA que mejora la productividad de los desarrolladores al proporcionar asistencia de codificación contextual directamente en su IDE. Es ampliamente adoptada y ofrece funciones como la finalización de código, explicaciones y más.",
+            "features": [
+                "Respaldado por Microsoft con integración estrecha de VSCode",
+                "Extensión de IDE",
+                "Finalización de código y sugerencias ilimitadas",
+                "Asistencia contextualizada",
+                "Integración con GitHub para problemas, PR y reseñas"
+            ]
+        },
+        "pt": {
+            "description": "O GitHub Copilot é uma ferramenta de programação em par com IA que aumenta a produtividade dos desenvolvedores ao fornecer assistência de codificação contextual diretamente em seu IDE. É amplamente adotado e oferece recursos como conclusão de código, explicações e muito mais.",
+            "features": [
+                "Apoiado pela Microsoft com integração estreita ao VSCode",
+                "Extensão de IDE",
+                "Conclusão de código e sugestões ilimitadas",
+                "Assistência contextualizada",
+                "Integração com GitHub para problemas, PRs e revisões"
+            ]
+        },
+        "fr": {
+            "description": "GitHub Copilot est un outil de programmation par pairs alimenté par l'IA qui améliore la productivité des développeurs en fournissant une assistance à la codification contextuelle directement dans votre IDE. Il est largement adopté et propose des fonctionnalités telles que l'achèvement de code, des explications, et plus encore.",
+            "features": [
+                "Soutenu par Microsoft avec une intégration étroite de VSCode",
+                "Extension IDE",
+                "Achèvement de code et suggestions illimitées",
+                "Assistance contextualisée",
+                "Intégration avec GitHub pour les problèmes, PR et revues"
+            ]
+        },
+        "de": {
+            "description": "GitHub Copilot ist ein KI-Paarprogrammierungs-Tool, das die Produktivität von Entwicklern erhöht, indem es kontextuelle Codierungsunterstützung direkt in Ihrer IDE bereitstellt. Es wird weithin eingesetzt und bietet Funktionen wie Codevervollständigung, Erklärungen und mehr.",
+            "features": [
+                "Von Microsoft unterstützt mit enger VSCode-Integration",
+                "IDE-Erweiterung",
+                "Unbegrenzte Codevervollständigung und Vorschläge",
+                "Kontextualisierte Unterstützung",
+                "Integration mit GitHub für Probleme, PRs und Reviews"
+            ]
+        },
+        "zh": {
+            "description": "GitHub Copilot 是一款 AI 配对编程工具，通过在您的 IDE 中直接提供上下文编码帮助来提高开发者的生产力。它被广泛采用，提供代码补全、解释等功能。",
+            "features": [
+                "由 Microsoft 资助，紧密集成 VSCode",
+                "IDE 扩展",
+                "无限的代码补全和建议",
+                "上下文帮助",
+                "与 GitHub 集成以处理问题、PR 和审查"
+            ]
+        },
+        "it": {
+            "description": "GitHub Copilot è uno strumento di programmazione peer AI che migliora la produttività degli sviluppatori fornendo assistenza alla codifica contestualizzata direttamente all'interno del tuo IDE. È ampiamente adottato e offre funzionalità come completamento del codice, spiegazioni e altro ancora.",
+            "features": [
+                "Supportato da Microsoft con integrazione stretta di VSCode",
+                "Estensione IDE",
+                "Completamento del codice e suggerimenti illimitati",
+                "Assistenza contestualizzata",
+                "Integrazione con GitHub per problemi, PR e revisioni"
+            ]
+        }
+    },
+    "Descript": {
+        "en": {
+            "description": "Descript is an AI-powered video and podcast editing platform that streamlines content creation with advanced editing tools, making it easy for creators to craft high-quality media.",
+            "features": [
+                "AI video and podcast editing tools",
+                "Transcription services",
+                "Collaboration features",
+                "Flexible billing options"
+            ]
+        },
+        "uk": {
+            "description": "Descript - це платформа для редагування відео та подкастів на базі штучного інтелекту, яка спрощує процес створення контенту з допомогою просунутих інструментів редагування, що дозволяє творцям легко створювати медіа високої якості.",
+            "features": [
+                "Інструменти для редагування відео та подкастів на базі штучного інтелекту",
+                "Послуги трансcripції",
+                "Функції спільної роботи",
+                "Гнучкі варіанти оплати"
+            ]
+        },
+        "ja": {
+            "description": "Descriptは、AIを駆使したビデオおよびポッドキャスト編集プラットフォームで、コンテンツ制作を簡素化する高度な編集ツールを提供し、クリエイターが高品質のメディアを簡単に作成できるようにします。",
+            "features": [
+                "AIビデオおよびポッドキャスト編集ツール",
+                "文字起こしサービス",
+                "コラボレーション機能",
+                "柔軟な請求オプション"
+            ]
+        },
+        "es": {
+            "description": "Descript es una plataforma de edición de video y podcast impulsada por IA que agiliza la creación de contenido con herramientas de edición avanzadas, facilitando a los creadores la elaboración de medios de alta calidad.",
+            "features": [
+                "Herramientas de edición de video y podcast con IA",
+                "Servicios de transcripción",
+                "Funciones de colaboración",
+                "Opciones de facturación flexibles"
+            ]
+        },
+        "pt": {
+            "description": "Descript é uma plataforma de edição de vídeo e podcast alimentada por IA que simplifica a criação de conteúdo com ferramentas de edição avançadas, facilitando a criação de mídia de alta qualidade pelos criadores.",
+            "features": [
+                "Ferramentas de edição de vídeo e podcast com IA",
+                "Serviços de transcrição",
+                "Recursos de colaboração",
+                "Opções de faturamento flexíveis"
+            ]
+        },
+        "fr": {
+            "description": "Descript est une plateforme d'édition de vidéo et de podcast alimentée par l'IA qui rationalise la création de contenu grâce à des outils d'édition avancés, facilitant ainsi la création de médias de haute qualité par les créateurs.",
+            "features": [
+                "Outils d'édition de vidéo et de podcast basés sur l'IA",
+                "Services de transcription",
+                "Fonctionnalités de collaboration",
+                "Options de facturation flexibles"
+            ]
+        },
+        "de": {
+            "description": "Descript ist eine KI-gestützte Plattform zur Bearbeitung von Videos und Podcasts, die die Inhaltserstellung mit fortschrittlichen Bearbeitungswerkzeugen optimiert und es den Erstellern erleichtert, hochwertige Medien zu erstellen.",
+            "features": [
+                "KI-Video- und Podcast-Bearbeitungswerkzeuge",
+                "Transkriptionsdienste",
+                "Kooperationsfunktionen",
+                "Flexible Zahlungsoptionen"
+            ]
+        },
+        "zh": {
+            "description": "Descript是一个由AI驱动的视频和播客编辑平台，利用先进的编辑工具简化内容创建，使创作者轻松制作高质量的媒体。",
+            "features": [
+                "AI视频和播客编辑工具",
+                "转录服务",
+                "协作功能",
+                "灵活的计费选项"
+            ]
+        },
+        "it": {
+            "description": "Descript è una piattaforma di editing video e podcast alimentata da AI che semplifica la creazione di contenuti con strumenti di editing avanzati, rendendo facile per i creatori realizzare media di alta qualità.",
+            "features": [
+                "Strumenti di editing video e podcast basati su AI",
+                "Servizi di trascrizione",
+                "Funzionalità di collaborazione",
+                "Opzioni di fatturazione flessibili"
+            ]
+        }
+    },
+    "SEMrush": {
+        "en": {
+            "description": "SEMrush is designed for SEO professionals and agencies, providing comprehensive tools for keyword research, site audits, competitor analysis, and advanced SEO insights through various pricing plans.",
+            "features": [
+                "Copilot AI for automated insights and recommendations",
+                "AI Writing Assistant for content generation",
+                "Comprehensive keyword database (25B+ keywords)",
+                "Site audit with automated issue detection",
+                "Competitive intelligence and gap analysis"
+            ]
+        },
+        "uk": {
+            "description": "SEMrush призначений для SEO-фахівців та агенцій, надаючи всеохоплюючі інструменти для дослідження ключових слів, аудитів сайтів, аналізу конкурентів та розширених SEO-інсайтів через різні тарифні плани.",
+            "features": [
+                "Копілот AI для автоматизованих інсайтів та рекомендацій",
+                "AI Написання Асистент для генерації контенту",
+                "Всеосяжна база даних ключових слів (понад 25 мільярдів ключових слів)",
+                "Аудит сайту з автоматичним виявленням проблем",
+                "Конкурентна розвідка та аналіз прогалин"
+            ]
+        },
+        "ja": {
+            "description": "SEMrushはSEOの専門家や代理店向けに設計されており、キーワード調査、サイト監査、競合分析、高度なSEOインサイトのための包括的なツールをさまざまな料金プランを通じて提供します。",
+            "features": [
+                "自動インサイトと推奨のためのCopilot AI",
+                "コンテンツ生成のためのAIライティングアシスタント",
+                "包括的なキーワードデータベース（250億以上のキーワード）",
+                "自動問題検出によるサイト監査",
+                "競合情報とギャップ分析"
+            ]
+        },
+        "es": {
+            "description": "SEMrush está diseñado para profesionales de SEO y agencias, proporcionando herramientas integrales para la investigación de palabras clave, auditorías de sitios, análisis de competidores y conocimientos avanzados de SEO a través de varios planes de precios.",
+            "features": [
+                "Copilot AI para conocimientos y recomendaciones automatizadas",
+                "Asistente de escritura AI para la generación de contenido",
+                "Base de datos de palabras clave completa (más de 25 mil millones de palabras clave)",
+                "Auditoría del sitio con detección automática de problemas",
+                "Inteligencia competitiva y análisis de brechas"
+            ]
+        },
+        "pt": {
+            "description": "SEMrush é projetado para profissionais de SEO e agências, oferecendo ferramentas abrangentes para pesquisa de palavras-chave, auditorias de sites, análise de concorrentes e insights avançados de SEO através de vários planos de preços.",
+            "features": [
+                "Copilot AI para insights e recomendações automatizados",
+                "Assistente de Escrita AI para geração de conteúdo",
+                "Banco de dados abrangente de palavras-chave (mais de 25 bilhões de palavras-chave)",
+                "Auditoria de site com detecção automática de problemas",
+                "Inteligência competitiva e análise de lacunas"
+            ]
+        },
+        "fr": {
+            "description": "SEMrush est conçu pour les professionnels du SEO et les agences, offrant des outils complets pour la recherche de mots-clés, les audits de sites, l'analyse des concurrents et des insights SEO avancés à travers divers plans tarifaires.",
+            "features": [
+                "Copilot AI pour des insights et recommandations automatisés",
+                "Assistant d'écriture AI pour la génération de contenu",
+                "Base de données de mots-clés complète (plus de 25 milliards de mots-clés)",
+                "Audit de site avec détection automatique des problèmes",
+                "Intelligence concurrentielle et analyse des écarts"
+            ]
+        },
+        "de": {
+            "description": "SEMrush ist für SEO-Profis und Agenturen konzipiert und bietet umfassende Werkzeuge zur Keyword-Recherche, Website-Audits, Wettbewerbsanalysen und fortgeschrittene SEO-Einblicke durch verschiedene Preismodelle.",
+            "features": [
+                "Copilot AI für automatisierte Einblicke und Empfehlungen",
+                "AI Schreibassistent zur Inhaltserstellung",
+                "Umfassende Keyword-Datenbank (über 25 Milliarden Keywords)",
+                "Website-Audit mit automatischer Problemidentifikation",
+                "Wettbewerbsintelligenz und Lückenanalyse"
+            ]
+        },
+        "zh": {
+            "description": "SEMrush 专为 SEO 专业人士和机构设计，提供全面的关键字研究、网站审核、竞争对手分析和通过各种定价计划获得的高级 SEO 洞察工具。",
+            "features": [
+                "用于自动洞察和推荐的Copilot AI",
+                "内容生成的AI写作助手",
+                "全面的关键词数据库（超过250亿个关键词）",
+                "具有自动问题检测的网站审核",
+                "竞争情报和差距分析"
+            ]
+        },
+        "it": {
+            "description": "SEMrush è progettato per professionisti SEO e agenzie, fornendo strumenti completi per la ricerca di parole chiave, audit del sito, analisi dei concorrenti e approfondimenti SEO avanzati tramite vari piani tariffari.",
+            "features": [
+                "Copilot AI per approfondimenti e raccomandazioni automatiche",
+                "Assistente alla scrittura AI per la generazione di contenuti",
+                "Database di parole chiave completo (oltre 25 miliardi di parole chiave)",
+                "Audit del sito con rilevamento automatico dei problemi",
+                "Intelligence competitiva e analisi delle lacune"
+            ]
+        }
     }
 }

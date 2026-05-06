@@ -562,5 +562,58 @@
         "description": "An all-in-one AI SEO and content engine designed to help generate blogs, ads, social posts, and visuals, all optimized for search and engagement.",
         "category": "SEO AI",
         "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Descript",
+        "tool_url": "https://www.descript.com",
+        "code": "35% off",
+        "discount_amount": "35%",
+        "pricing_info": "Annual Plan discounts available, starting from $24/month for the Creator Plan and $50/month for the Business Plan.",
+        "key_features": [
+            "AI video and podcast editing tools",
+            "Transcription services",
+            "Collaboration features",
+            "Flexible billing options"
+        ],
+        "description": "Descript is an AI-powered video and podcast editing platform that streamlines content creation with advanced editing tools, making it easy for creators to craft high-quality media.",
+        "category": "Video AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "SEMrush",
+        "tool_url": "https://www.semrush.com",
+        "code": null,
+        "discount_amount": null,
+        "pricing_info": "$139.95 - $499.95/month",
+        "key_features": [
+            "Copilot AI for automated insights and recommendations",
+            "AI Writing Assistant for content generation",
+            "Comprehensive keyword database (25B+ keywords)",
+            "Site audit with automated issue detection",
+            "Competitive intelligence and gap analysis"
+        ],
+        "description": "SEMrush is designed for SEO professionals and agencies, providing comprehensive tools for keyword research, site audits, competitor analysis, and advanced SEO insights through various pricing plans.",
+        "category": "SEO AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "GrowthBar",
+        "tool_url": "https://www.growthbarseo.com",
+        "code": "20% Lifetime Discount",
+        "discount_amount": "20%",
+        "pricing_info": {
+            "Starter": "$36/mo (billed annually)",
+            "Pro": "$64/mo (billed annually)",
+            "Agency": "$129/mo (billed annually)"
+        },
+        "key_features": [
+            "Chrome extension for easy integration",
+            "Keyword research and content outlines",
+            "AI-generated content drafting right in the browser",
+            "Competitor strategy analysis"
+        ],
+        "description": "GrowthBar is an AI-powered writing and SEO tool that helps marketers and content creators accelerate their content generation processes by providing keyword insights, competitor analysis, and SEO optimization features, all seamlessly integrated into a user-friendly interface.",
+        "category": "SEO AI",
+        "last_verified": "2026-05-06"
     }
 ]
