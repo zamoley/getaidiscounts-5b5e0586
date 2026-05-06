@@ -1965,75 +1965,75 @@
     "Nano Banana 2": {
         "en": {
             "description": "Nano Banana 2 is an advanced AI image generation tool that combines high-quality visuals with lightning-fast generation speeds, designed for high-speed iteration and production-ready specs.",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12s",
                 "best_for": "High-speed iteration"
-            }
+            ]
         },
         "uk": {
             "description": "Nano Banana 2 - це вдосконалений інструмент генерації зображень на основі штучного інтелекту, який поєднує у собі високоякісні візуальні ефекти з неймовірно швидкою швидкістю генерації, розроблений для швидкісної ітерації та специфікацій, готових до виробництва.",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12 секунд",
                 "best_for": "Швидка ітерація"
-            }
+            ]
         },
         "ja": {
             "description": "Nano Banana 2は、高品質のビジュアルと超高速の生成速度を組み合わせた高度なAI画像生成ツールで、高速イテレーションと生産準備の仕様のために設計されています。",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12秒",
                 "best_for": "高速イテレーション"
-            }
+            ]
         },
         "es": {
             "description": "Nano Banana 2 es una herramienta avanzada de generación de imágenes con inteligencia artificial que combina visuales de alta calidad con velocidades de generación ultrarrápidas, diseñada para iteraciones rápidas y especificaciones listas para producción.",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12s",
                 "best_for": "Iteración a alta velocidad"
-            }
+            ]
         },
         "pt": {
             "description": "Nano Banana 2 é uma ferramenta avançada de geração de imagens por IA que combina visuais de alta qualidade com velocidades de geração ultrarrápidas, projetada para iteração rápida e especificações prontas para produção.",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12s",
                 "best_for": "Iteração em alta velocidade"
-            }
+            ]
         },
         "fr": {
             "description": "Nano Banana 2 est un outil avancé de génération d'images par IA qui combine des visuels de haute qualité avec des vitesses de génération ultra-rapides, conçu pour une itération rapide et des spécifications prêtes pour la production.",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12s",
                 "best_for": "Itération à haute vitesse"
-            }
+            ]
         },
         "de": {
             "description": "Nano Banana 2 ist ein fortschrittliches KI-Bildgenerierungstool, das hochwertige Visualisierungen mit blitzschnellen Generierungsgeschwindigkeiten kombiniert, das für schnelle Iterationen und produktionsbereite Spezifikationen ausgelegt ist.",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12s",
                 "best_for": "Schnelle Iteration"
-            }
+            ]
         },
         "zh": {
             "description": "Nano Banana 2是一款先进的人工智能图像生成工具，结合了高质量的视觉效果和闪电般的生成速度，旨在实现高速迭代和生产就绪规格。",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12秒",
                 "best_for": "高速迭代"
-            }
+            ]
         },
         "it": {
             "description": "Nano Banana 2 è uno strumento avanzato di generazione di immagini AI che combina visuali di alta qualità con velocità di generazione ultraveloci, progettato per iterazioni ad alta velocità e specifiche pronte per la produzione.",
-            "features": {
+            "features": [
                 "max_resolution": "4096 x 4096",
                 "avg_speed": "12s",
                 "best_for": "Iterazione ad alta velocità"
-            }
+            ]
         }
     },
     "Speedybrand": {
