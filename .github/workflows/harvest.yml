@@ -38,5 +38,5 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add ai_deals.json i18n_deals.json i18n_categories.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update deals, tools, and categories i18n: $(date +'%Y-%m-%d')" && git push)
+          git add src/i18n/ai_deals.json src/i18n/i18n_deals.json src/i18n/i18n_categories.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update deals and i18n from src: $(date +'%Y-%m-%d')" && git push)
