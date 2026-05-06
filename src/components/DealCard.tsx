@@ -101,6 +101,9 @@ export function DealCard({
       {localizedDesc && (
         <p className="mt-3 line-clamp-2 text-sm text-muted-foreground [hyphens:auto] [overflow-wrap:anywhere]">{localizedDesc}</p>
       )}
+      {localizedFeatures && (
+        <p className="mt-1.5 line-clamp-2 text-xs text-muted-foreground/80 [hyphens:auto] [overflow-wrap:anywhere]">{localizedFeatures}</p>
+      )}
 
       <div className="mt-4">
         <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow px-3 py-1 text-sm font-bold text-electric-foreground shadow-[0_0_20px_-5px_var(--electric)]">
