@@ -42,7 +42,12 @@ export function ToolLogo({
   size?: number;
   className?: string;
 }) {
-  const domain = useMemo(() => domainFromUrl(url), [url]);
+  const domain = useMemo(() => {
+    const d = domainFromUrl(url);
+    if (!d) return null;
+    const parts = d.split(".");
+    return parts.length > 2 ? parts.slice(-2).join(".") : d;
+  }, [url]);
   // 0 = Clearbit, 1 = Google favicon (s2), 2 = DuckDuckGo, 3 = icon fallback
   const [stage, setStage] = useState(0);
   const { Icon, gradient, color } = categoryStyle(category);
