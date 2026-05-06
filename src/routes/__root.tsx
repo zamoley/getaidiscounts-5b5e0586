@@ -54,6 +54,14 @@ export const Route = createRootRoute({
     ],
     scripts: [
       { type: "text/javascript", src: "https://s.skimresources.com/js/302516X1790516.skimlinks.js" },
+      { src: `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`, async: true },
+      {
+        children: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+window.gtag = gtag;
+gtag('js', new Date());
+gtag('config', '${GA_MEASUREMENT_ID}', { send_page_view: false });`,
+      },
     ],
   }),
   shellComponent: RootShell,
