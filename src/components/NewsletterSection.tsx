@@ -38,6 +38,7 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
       return;
     }
     setState("done");
+    gaEvent("newsletter_signup", { source });
     toast.success(t("newsletter.success"));
     setEmail("");
   };
