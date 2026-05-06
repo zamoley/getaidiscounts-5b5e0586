@@ -13,6 +13,7 @@ import { useCompare, getCompared } from "@/hooks/use-compare";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { useLocale } from "@/i18n/use-locale";
+import { useCategoryLabel } from "@/i18n/use-category-label";
 import { hreflangLinks, canonicalFor } from "@/i18n/seo";
 
 export const Route = createFileRoute("/{-$locale}/")({
@@ -65,6 +66,7 @@ function Index() {
   const clearCategories = () => writeSelected(new Set());
   const compare = useCompare();
   const { t } = useTranslation();
+  const tCat = useCategoryLabel();
   useLocale();
 
   const categoryCounts = useMemo(() => {
@@ -140,7 +142,7 @@ function Index() {
                 Icon={s.Icon}
                 color={s.color}
                 ring={s.ring}
-                label={c}
+                label={tCat(c)}
                 count={categoryCounts.get(c) ?? 0}
               />
             );

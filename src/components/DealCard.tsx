@@ -11,6 +11,7 @@ import { ToolLogo } from "@/components/ToolLogo";
 import { useLocale } from "@/i18n/use-locale";
 import { translateTool } from "@/i18n/translate-tool";
 import { categoryStyle } from "@/lib/category-style";
+import { useCategoryLabel } from "@/i18n/use-category-label";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
@@ -35,6 +36,7 @@ export function DealCard({
 }) {
   const [copied, setCopied] = useState(false);
   const { t } = useTranslation();
+  const tCat = useCategoryLabel();
   const locale = useLocale();
   const localizedDesc = translateTool(deal.tool, locale, "description", deal.description);
 
@@ -82,7 +84,7 @@ export function DealCard({
             return (
               <p className={`mt-0.5 flex items-center gap-1.5 truncate text-xs font-medium tracking-wide ${color}`}>
                 <Icon className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
-                <span className="truncate">{deal.category}</span>
+                <span className="truncate">{tCat(deal.category)}</span>
               </p>
             );
           })()}

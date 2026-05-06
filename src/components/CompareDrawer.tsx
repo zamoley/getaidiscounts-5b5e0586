@@ -6,11 +6,13 @@ import {
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
+import { useCategoryLabel } from "@/i18n/use-category-label";
 
 export function CompareDrawer({
   deals, onRemove, onClear,
 }: { deals: Deal[]; onRemove: (id: string) => void; onClear: () => void }) {
   const { t } = useTranslation();
+  const tCat = useCategoryLabel();
   return (
     <Sheet>
       <SheetTrigger asChild>
@@ -36,7 +38,7 @@ export function CompareDrawer({
               <div key={d.id} className="flex items-center justify-between rounded-xl border border-border bg-background/40 p-4">
                 <div className="min-w-0">
                   <div className="font-semibold text-foreground">{d.tool}</div>
-                  <div className="text-xs text-muted-foreground">{d.category} · code <span className="font-mono text-foreground/80">{d.code ?? "—"}</span></div>
+                  <div className="text-xs text-muted-foreground">{tCat(d.category)} · code <span className="font-mono text-foreground/80">{d.code ?? "—"}</span></div>
                 </div>
                 <div className="flex items-center gap-3">
                   <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow text-electric-foreground">{d.discount}</Badge>
