@@ -2,6 +2,9 @@
 // Extend cautiously — every domain here inherits the GetAIDiscounts trust signal.
 const ALLOWED_HOSTS = new Set<string>([
   "midjourney.com",
+  "heygen.com",
+  "lovable.dev",
+  "lovable.app",
   "openai.com",
   "chat.openai.com",
   "claude.ai",
