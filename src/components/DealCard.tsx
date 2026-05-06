@@ -64,7 +64,7 @@ export function DealCard({
         toast.success("Code Copied!", { description: deal.code });
       } catch {}
     }
-    window.location.href = smartLink(deal.url);
+    window.location.href = smartLink(deal.url, deal.tool);
   };
 
   return (
