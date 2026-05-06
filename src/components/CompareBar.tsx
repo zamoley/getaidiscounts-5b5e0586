@@ -78,6 +78,7 @@ export function CompareBar({
 function CompareTable({ deals }: { deals: Deal[] }) {
   const { t } = useTranslation();
   const locale = useLocale();
+  const tCat = useCategoryLabel();
 
   const rows: { label: string; get: (d: Deal) => React.ReactNode }[] = [
     { label: t("compare.row_category"), get: d => {
@@ -86,7 +87,7 @@ function CompareTable({ deals }: { deals: Deal[] }) {
       return (
         <span className={`inline-flex items-center gap-1.5 ${color}`}>
           <Icon className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
-          <span>{d.category}</span>
+          <span>{tCat(d.category)}</span>
         </span>
       );
     } },
