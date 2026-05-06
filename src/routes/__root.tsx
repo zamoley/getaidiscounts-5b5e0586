@@ -42,6 +42,7 @@ export const Route = createRootRoute({
       { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/OvBxgHB737MbiRvPvOLseXWnHvf2/social-images/social-1778032844388-og-image.webp" },
       { name: "twitter:url", content: "https://getaidiscounts.com/" },
       { name: "impact-site-verification", content: "9a364ba8-4292-45f6-89c8-e59fec32ffda", value: "9a364ba8-4292-45f6-89c8-e59fec32ffda" } as { name: string; content: string },
+      { name: "google-site-verification", content: "_-O1K2Hdj5pZ3aCd6Ji4U62wJu_531P-LgkoB0oLXkM" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
