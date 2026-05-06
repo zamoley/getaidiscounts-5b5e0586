@@ -29,11 +29,13 @@ export function translateTool(
 ): string | undefined {
   // Primary source: i18n_deals.json (covers all 9 languages incl. English).
   const dealField = field === "description" ? "description" : "features";
+  const toStr = (v: string | string[] | undefined) => Array.isArray(v) ? v.join(", ") : v;
   const dealEntry = lookupDeal(toolName, locale);
-  if (dealEntry?.[dealField]) return dealEntry[dealField];
-  // Fall back to English from i18n_deals.json if locale missing.
+  const localized = toStr(dealEntry?.[dealField]);
+  if (localized) return localized;
   const enEntry = lookupDeal(toolName, "en");
-  if (enEntry?.[dealField]) return enEntry[dealField];
+  const enVal = toStr(enEntry?.[dealField]);
+  if (enVal) return enVal;
   // Legacy fallback to tool-translations.json.
   if (locale !== "en") {
     const entry = map[toolName];
