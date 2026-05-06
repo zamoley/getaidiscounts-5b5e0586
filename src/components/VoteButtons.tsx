@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { ThumbsUp, ThumbsDown } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
+import { castVote } from "@/server/votes.functions";
 
 const STORAGE_KEY = "gad_votes_v1";
 
