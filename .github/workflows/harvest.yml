@@ -1,0 +1,42 @@
+name: Daily AI Code Harvest
+
+on:
+  schedule:
+    - cron: '0 4 * * 1' # Runs at 4 AM every Monday
+  workflow_dispatch: # Allows you to run it manually ANYTIME
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run harvester
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python harvester.py
+
+      - name: Run translator
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python translator.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add ai_deals.json i18n_deals.json i18n_categories.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update deals, tools, and categories i18n: $(date +'%Y-%m-%d')" && git push)
