@@ -14,7 +14,7 @@ export function NeuralBackdrop() {
         style={{ backgroundImage: `url(${neuralBg})` }}
       />
       {/* Darkening overlay for content legibility */}
-      <div className="absolute inset-0 bg-background/70" />
+      <div className="absolute inset-0 bg-background/87" />
       {/* Vignette */}
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_30%,oklch(0.10_0.015_260/0.85)_100%)]" />
     </div>
