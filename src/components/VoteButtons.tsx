@@ -1,10 +1,23 @@
 import { useEffect, useState } from "react";
 import { ThumbsUp, ThumbsDown } from "lucide-react";
+import { createServerFn, useServerFn } from "@tanstack/react-start";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
-import { castVote } from "@/server/votes.functions";
+import { z } from "zod";
 
 const STORAGE_KEY = "gad_votes_v1";
+
+const VoteInput = z.object({
+  dealId: z.string().min(1).max(120).regex(/^[a-zA-Z0-9_-]+$/),
+  vote: z.enum(["worked", "broken"]),
+});
+
+const castVote = createServerFn({ method: "POST" })
+  .inputValidator((input) => VoteInput.parse(input))
+  .handler(async ({ data }) => {
+    const { castVoteForDeal } = await import("@/server/votes.server");
+    return castVoteForDeal(data);
+  });
 
 function getVoted(): Record<string, "worked" | "broken"> {
   try {
@@ -22,6 +35,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
   const [counts, setCounts] = useState({ worked: 0, broken: 0 });
   const [myVote, setMyVote] = useState<"worked" | "broken" | null>(null);
   const [loading, setLoading] = useState<"worked" | "broken" | null>(null);
+  const castVoteFn = useServerFn(castVote);
 
   useEffect(() => {
     setMyVote(getVoted()[dealId] ?? null);
@@ -43,7 +57,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
     if (myVote || loading) return;
     setLoading(v);
     try {
-      const result = await castVote({ data: { dealId: dealId, vote: v } });
+      const result = await castVoteFn({ data: { dealId: dealId, vote: v } });
       if (!result.ok) {
         toast.error("You've already voted on this deal");
         const map = { ...getVoted(), [dealId]: v };
