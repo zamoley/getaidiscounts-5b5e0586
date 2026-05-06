@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Home",
+    "categories": "Categorie",
+    "compare": "Confronta",
+    "newsletter": "Newsletter",
+    "legal": "Legale"
+  },
+  "categories": {
+    "all": "Tutti",
+    "Video AI": "IA per Video",
+    "Voice AI": "IA per Voce",
+    "Image AI": "IA per Immagini",
+    "Music AI": "IA per Musica",
+    "Writing AI": "IA per Scrittura",
+    "Chat AI": "IA per Chat",
+    "Code AI": "IA per Codice",
+    "Coding AI": "IA per Programmazione",
+    "Search AI": "IA per Ricerca",
+    "No-Code AI": "IA No-Code",
+    "AI Agents": "Agenti IA",
+    "Productivity": "Produttività",
+    "Design": "Design",
+    "Audio": "Audio",
+    "Video": "Video",
+    "Voice": "Voce",
+    "Writing": "Scrittura",
+    "Music": "Musica",
+    "Coding": "Programmazione",
+    "Code": "Codice",
+    "Agents": "Agenti",
+    "Chat": "Chat",
+    "Image": "Immagini"
+  },
+  "hero": {
+    "badge": "{{count}} attive · Aggiornato il {{date}}",
+    "title_pre": "La directory premium degli",
+    "title_highlight": "sconti sugli strumenti IA",
+    "subtitle": "Codici promozionali selezionati e offerte esclusive sugli strumenti IA che usi davvero. Copia, salva, risparmia.",
+    "search_placeholder": "Cerca Midjourney, ChatGPT, Cursor…"
+  },
+  "card": {
+    "get_deal": "Ottieni offerta",
+    "no_code": "SENZA CODICE",
+    "verified_today": "Verificato oggi",
+    "verified": "Verificato",
+    "sourced_via": "Fonte tramite",
+    "add_compare": "Aggiungi al confronto",
+    "remove_compare": "Rimuovi dal confronto"
+  },
+  "empty": {
+    "no_results": "Nessuna offerta corrisponde alla tua ricerca."
+  },
+  "footer": {
+    "rights": "Partecipiamo a programmi di affiliazione, inclusi Impact.com e Skimlinks. Potremmo guadagnare una commissione quando acquisti tramite i nostri link, senza costi aggiuntivi per te.",
+    "legal": "Legale",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "affiliate": "Informativa Affiliazione",
+    "disclosure": "Partecipiamo a programmi di affiliazione, inclusi Impact.com e Skimlinks. Potremmo guadagnare una commissione quando acquisti tramite i nostri link, senza costi aggiuntivi per te."
+  },
+  "newsletter": {
+    "title": "Ricevi offerte IA nella tua casella",
+    "subtitle": "Gli sconti più freschi sugli strumenti IA, selezionati e inviati ogni venerdì. Niente spam.",
+    "placeholder": "tu@startup.com",
+    "subscribe": "Iscriviti",
+    "success": "Fatto! Controlla la casella per nuove offerte IA.",
+    "error": "Iscrizione non riuscita. Riprova.",
+    "badge": "Gratis · Settimanale",
+    "title_pre": "Ricevi",
+    "title_highlight": "avvisi sulle offerte IA",
+    "joined": "Unisciti a oltre 10k creator",
+    "joined_post": "che risparmiano sugli strumenti IA",
+    "button_idle": "Ricevi avvisi sulle offerte",
+    "button_loading": "Iscrizione in corso…",
+    "button_done": "Iscritto",
+    "privacy_note": "Iscrivendoti accetti la nostra <1>Politica sulla Privacy</1>."
+  },
+  "compare": {
+    "title": "Confronto di {{count}} strumenti",
+    "clear": "Cancella tutto",
+    "open": "Apri confronto",
+    "modal_title": "Confronto fianco a fianco",
+    "row_category": "Categoria",
+    "row_pricing": "Prezzo",
+    "row_specs": "Specifiche",
+    "row_discount": "Sconto",
+    "row_code": "Codice",
+    "row_verified": "Verificato",
+    "get_deal": "Ottieni offerta",
+    "compare_now": "Confronta ora",
+    "empty": "Tocca il + su qualsiasi scheda per iniziare il confronto."
+  },
+  "cookie": {
+    "text": "Usiamo i cookie per garantirti la migliore esperienza e per supportare il nostro sito.",
+    "accept": "Accetta"
+  },
+  "lang": {
+    "label": "Lingua"
+  },
+  "privacy": {
+    "title": "Politica sulla Privacy di GetAIDiscounts.com",
+    "updated": "Ultimo aggiornamento: {{date}}",
+    "collection_h": "Raccolta dati",
+    "collection_p": "Raccogliamo il tuo indirizzo email solo quando ti iscrivi volontariamente ai nostri \"Avvisi sulle Offerte IA\". Utilizziamo inoltre cookie tramite i nostri partner di affiliazione (Skimlinks e Impact) per tracciare i referral.",
+    "use_h": "Uso dei dati",
+    "use_p": "La tua email viene usata esclusivamente per inviarti avvisi e aggiornamenti sugli sconti IA. Non vendiamo mai i tuoi dati a terzi.",
+    "tracking_h": "Tracciamento affiliazione",
+    "tracking_p": "Utilizziamo cookie di tracciamento dei nostri partner affiliati (Impact.com e Skimlinks) per attribuire le vendite e guadagnare commissioni quando acquisti tramite i nostri link. Questi cookie non memorizzano informazioni personali identificabili.",
+    "rights_h": "Diritti dell'utente",
+    "rights_p": "Puoi disiscriverti dalle nostre email in qualsiasi momento usando il link nel piè di pagina della newsletter. Per richiedere la cancellazione dei dati, scrivici a hello@getaidiscounts.com."
+  },
+  "terms": {
+    "title": "Termini di Servizio di GetAIDiscounts.com",
+    "updated": "Ultimo aggiornamento: {{date}}",
+    "aff_h": "Directory supportata da affiliazioni",
+    "aff_p": "GetAIDiscounts.com è una directory supportata da affiliazioni. Quando clicchi sui link verso strumenti di terze parti, il loro utilizzo è regolato dai termini di servizio e dalle politiche sulla privacy dei siti di destinazione. Non siamo parte di tali accordi.",
+    "ng_h": "Nessuna garanzia",
+    "ng_p": "Pur puntando alla massima precisione, non garantiamo che ogni codice sconto funzioni. Tutti i codici sono forniti \"così come sono\" da fonti di terze parti.",
+    "tp_h": "Link di terze parti",
+    "tp_p": "Il nostro sito contiene link a siti web esterni. Non siamo responsabili dei contenuti, delle politiche sulla privacy o delle azioni di questi strumenti di terze parti.",
+    "ll_h": "Limitazione di responsabilità",
+    "ll_p": "GetAIDiscounts.com e i suoi proprietari non sono responsabili di decisioni finanziarie o problemi derivanti dall'uso degli strumenti IA elencati.",
+    "acc_h": "Accettazione",
+    "acc_p": "Utilizzando questo sito, accetti questi termini."
+  },
+  "disclosure": {
+    "title": "Informativa Affiliazione",
+    "updated": "Ultimo aggiornamento: {{date}}",
+    "intro": "Partecipiamo a programmi di affiliazione, inclusi Impact.com e Skimlinks. Potremmo guadagnare una commissione quando acquisti tramite i nostri link, senza costi aggiuntivi per te.",
+    "details": "Queste commissioni ci aiutano a mantenere il sito, verificare le offerte ogni giorno e aggiungere nuovi strumenti — ma lo stato di affiliazione di uno strumento non determina mai se lo elenchiamo o come ne descriviamo lo sconto."
+  },
+  "request": {
+    "button": "Richiedi un'offerta",
+    "dialog_title": "Richiedi un'offerta IA",
+    "dialog_desc": "Dicci per quale strumento IA vuoi uno sconto. Lo cercheremo e ti avviseremo via email quando sarà disponibile.",
+    "tool_label": "Nome dello strumento *",
+    "tool_placeholder": "es. Suno, Lovable, Pika…",
+    "email_label": "Email (opzionale, per le notifiche)",
+    "email_placeholder": "tu@startup.com",
+    "notes_label": "Note (opzionali)",
+    "notes_placeholder": "Qualcosa di specifico? Piano, regione…",
+    "submit": "Invia richiesta",
+    "tool_required": "Nome dello strumento richiesto",
+    "email_invalid": "Inserisci un'email valida",
+    "success": "Richiesta ricevuta! Cercheremo un'offerta.",
+    "error": "Invio non riuscito. Riprova."
+  }
+}

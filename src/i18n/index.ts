@@ -8,6 +8,7 @@ import de from "./locales/de.json";
 import fr from "./locales/fr.json";
 import uk from "./locales/uk.json";
 import pt from "./locales/pt.json";
+import it from "./locales/it.json";
 
 export const SUPPORTED_LANGUAGES = [
   { code: "en", label: "English", native: "English", flag: "🇺🇸" },
@@ -16,6 +17,7 @@ export const SUPPORTED_LANGUAGES = [
   { code: "es", label: "Spanish", native: "Español", flag: "🇪🇸" },
   { code: "de", label: "German", native: "Deutsch", flag: "🇩🇪" },
   { code: "fr", label: "French", native: "Français", flag: "🇫🇷" },
+  { code: "it", label: "Italian", native: "Italiano", flag: "🇮🇹" },
   { code: "uk", label: "Ukrainian", native: "Українська", flag: "🇺🇦" },
   { code: "pt", label: "Portuguese", native: "Português", flag: "🇧🇷" },
 ] as const;
@@ -35,6 +37,7 @@ if (!i18n.isInitialized) {
       fr: { translation: fr },
       uk: { translation: uk },
       pt: { translation: pt },
+      it: { translation: it },
     },
     lng: "en",
     fallbackLng: "en",
