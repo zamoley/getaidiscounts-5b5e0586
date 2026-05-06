@@ -40,6 +40,7 @@ export function DealCard({
   const tCat = useCategoryLabel();
   const locale = useLocale();
   const localizedDesc = translateTool(deal.tool, locale, "description", deal.description);
+  const localizedFeatures = translateTool(deal.tool, locale, "key_features", deal.specs);
 
   const copy = async () => {
     if (!deal.code) return;
