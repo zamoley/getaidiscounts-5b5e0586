@@ -11,7 +11,15 @@ export type Deal = {
   pricing?: string;
   specs?: string;
   source?: string;
+  featured?: boolean;
 };
+
+// Featured partners — always sorted to the top of their category.
+const FEATURED_TOOLS = new Set<string>(["base44"]);
+
+function slugify(s: string) {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
 
 export const fallbackDeals: Deal[] = [
   { id: "midjourney", tool: "Midjourney", category: "Image", description: "Premium AI image generation with cinematic quality.", discount: "20% OFF", code: "AIDISC20", url: "https://www.midjourney.com", lastVerified: "2026-04-28", pricing: "From $10/mo", specs: "Discord + Web · v6 model" },
