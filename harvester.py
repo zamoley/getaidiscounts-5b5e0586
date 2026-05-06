@@ -21,7 +21,10 @@ def call_ai(prompt):
     headers = {"Authorization": f"Bearer {OPENAI_API_KEY}", "Content-Type": "application/json"}
     payload = {
         "model": "gpt-4o-mini",
-        "messages": [{"role": "user", "content": prompt}],
+        "messages": [
+            {"role": "system", "content": "You are a data extractor that outputs ONLY valid JSON. All field values must be simple strings, never objects."},
+            {"role": "user", "content": prompt}
+        ],
         "response_format": {"type": "json_object"}
     }
     try:
@@ -61,7 +64,22 @@ def main():
             deal_results = search_tavily(f"{tool} AI tool discount promo code 2026")
             deal_context = "\n".join([f"{r['title']}: {r['content']}" for r in deal_results])
             
-            prompt = f"Extract deal for '{tool}' from: {deal_context}. Return JSON with: tool_name, tool_url, code, discount_amount, pricing_info, key_features, description, category."
+            # THE STRICTOR PROMPT
+            prompt = f"""
+            Extract deal for '{tool}' from: {deal_context}
+            Return JSON with these fields. 
+            CRITICAL: All values MUST be simple strings. DO NOT use nested objects or key-value pairs inside fields.
+            {{
+                "tool_name": "{tool}",
+                "tool_url": "OFFICIAL_URL",
+                "code": "CODE_OR_NULL",
+                "discount_amount": "e.g. 20% OFF",
+                "pricing_info": "ONE STRING, e.g. '$15/mo'",
+                "key_features": ["Feature 1", "Feature 2"],
+                "description": "One sentence summary.",
+                "category": "{cat}"
+            }}
+            """
             raw_data = call_ai(prompt)
             
             if raw_data:
@@ -74,9 +92,8 @@ def main():
                 except:
                     continue
 
-    # Final Merge & Save to src/i18n/
-    os.makedirs("src/i18n", exist_ok=True)
-    file_path = "src/i18n/ai_deals.json"
+    # Final Merge & Save to ROOT (where the website looks)
+    file_path = "ai_deals.json"
     
     if os.path.exists(file_path):
         with open(file_path, "r") as f:
