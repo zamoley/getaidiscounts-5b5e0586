@@ -28,6 +28,7 @@ export function translateTool(
   fallback?: string
 ): string | undefined {
   // Primary source: i18n_deals.json (covers all 9 languages incl. English).
+  const dealField: "description" | "features" = field === "description" ? "description" : "features";
   const toStr = (v: string | string[] | Record<string, unknown> | undefined): string | undefined => {
     if (v == null) return undefined;
     if (typeof v === "string") return v;
