@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { ThumbsUp, ThumbsDown } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
+import { castVote } from "@/server/votes.functions";
 
 const STORAGE_KEY = "gad_votes_v1";
 
@@ -41,17 +42,25 @@ export function VoteButtons({ dealId }: { dealId: string }) {
   const vote = async (v: "worked" | "broken") => {
     if (myVote || loading) return;
     setLoading(v);
-    const { error } = await supabase.from("deal_votes").insert({ deal_id: dealId, vote: v });
-    setLoading(null);
-    if (error) {
+    try {
+      const result = await castVote({ data: { dealId: dealId, vote: v } });
+      if (!result.ok) {
+        toast.error("You've already voted on this deal");
+        const map = { ...getVoted(), [dealId]: v };
+        setVoted(map);
+        setMyVote(v);
+        return;
+      }
+      const map = { ...getVoted(), [dealId]: v };
+      setVoted(map);
+      setMyVote(v);
+      setCounts(result.counts);
+      toast.success(v === "worked" ? "Thanks — marked as Worked" : "Thanks — flagged as Broken");
+    } catch {
       toast.error("Couldn't record your vote");
-      return;
+    } finally {
+      setLoading(null);
     }
-    const map = { ...getVoted(), [dealId]: v };
-    setVoted(map);
-    setMyVote(v);
-    setCounts((c) => ({ ...c, [v]: c[v] + 1 }));
-    toast.success(v === "worked" ? "Thanks — marked as Worked" : "Thanks — flagged as Broken");
   };
 
   const total = counts.worked + counts.broken;

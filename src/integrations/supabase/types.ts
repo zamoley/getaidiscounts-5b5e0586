@@ -44,18 +44,21 @@ export type Database = {
           deal_id: string
           id: string
           vote: string
+          voter_fingerprint: string | null
         }
         Insert: {
           created_at?: string
           deal_id: string
           id?: string
           vote: string
+          voter_fingerprint?: string | null
         }
         Update: {
           created_at?: string
           deal_id?: string
           id?: string
           vote?: string
+          voter_fingerprint?: string | null
         }
         Relationships: []
       }
