@@ -33,7 +33,7 @@ function TermsPage() {
         <h1 className="text-4xl font-bold tracking-tight">{t("terms.title")}</h1>
         <p className="mt-2 text-sm text-muted-foreground">{t("terms.updated", { date: today })}</p>
 
-        {(["ng", "tp", "ll", "acc"] as const).map((k) => (
+        {(["aff", "ng", "tp", "ll", "acc"] as const).map((k) => (
           <section key={k} className="mt-8 space-y-3">
             <h2 className="text-2xl font-semibold">{t(`terms.${k}_h`)}</h2>
             <p className="text-muted-foreground">{t(`terms.${k}_p`)}</p>
