@@ -40,6 +40,7 @@ export function DealCard({
   const tCat = useCategoryLabel();
   const locale = useLocale();
   const localizedDesc = translateTool(deal.tool, locale, "description", deal.description);
+  const localizedFeatures = translateTool(deal.tool, locale, "key_features", deal.specs);
 
   const copy = async () => {
     if (!deal.code) return;
@@ -99,6 +100,9 @@ export function DealCard({
 
       {localizedDesc && (
         <p className="mt-3 line-clamp-2 text-sm text-muted-foreground [hyphens:auto] [overflow-wrap:anywhere]">{localizedDesc}</p>
+      )}
+      {localizedFeatures && (
+        <p className="mt-1.5 line-clamp-2 text-xs text-muted-foreground/80 [hyphens:auto] [overflow-wrap:anywhere]">{localizedFeatures}</p>
       )}
 
       <div className="mt-4">
