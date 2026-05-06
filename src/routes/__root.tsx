@@ -2,6 +2,8 @@ import { Outlet, Link, createRootRoute, HeadContent, Scripts } from "@tanstack/r
 import { Toaster } from "@/components/ui/sonner";
 import { NeuralBackdrop } from "@/components/NeuralBackdrop";
 import { CookieConsent } from "@/components/CookieConsent";
+import { AnalyticsTracker } from "@/components/AnalyticsTracker";
+import { GA_MEASUREMENT_ID } from "@/lib/analytics";
 import "@/i18n";
 import appCss from "../styles.css?url";
 
