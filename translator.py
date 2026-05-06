@@ -37,12 +37,13 @@ def call_ai(prompt):
 
 def main():
     os.makedirs("src/i18n", exist_ok=True)
-    deals_path = "src/i18n/ai_deals.json"
+    # 🎯 FIX: Look in root folder for the source data
+    deals_path = "ai_deals.json" 
     i18n_deals_path = "src/i18n/i18n_deals.json"
     i18n_cats_path = "src/i18n/i18n_categories.json"
 
     if not os.path.exists(deals_path):
-        print(f"{deals_path} not found!")
+        print(f"ERROR: {deals_path} not found in root!")
         return
 
     with open(deals_path, "r") as f:
