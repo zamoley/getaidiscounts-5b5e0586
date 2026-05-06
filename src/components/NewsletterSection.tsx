@@ -8,6 +8,7 @@ import { Input } from "@/components/ui/input";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 import { useLocale, localizedTo } from "@/i18n/use-locale";
+import { gaEvent } from "@/lib/analytics";
 
 const schema = z.object({
   email: z.string().trim().email().max(255),
