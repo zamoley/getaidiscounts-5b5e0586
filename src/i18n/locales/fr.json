@@ -41,12 +41,12 @@
     "no_results": "Aucune offre ne correspond à votre recherche."
   },
   "footer": {
-    "rights": "Certains liens sont monétisés via Skimlinks.",
+    "rights": "Nous participons à des programmes d'affiliation, notamment Impact.com et Skimlinks. Nous pouvons percevoir une commission lorsque vous achetez via nos liens, sans frais supplémentaires pour vous.",
     "legal": "Légal",
     "privacy": "Confidentialité",
     "terms": "Conditions",
     "affiliate": "Divulgation d'affiliation",
-    "disclosure": "Divulgation : GetAIDiscounts.com est un annuaire indépendant soutenu par notre public. Lorsque vous achetez via des liens sur notre site, nous pouvons gagner une commission d'affiliation sans frais supplémentaires pour vous. Nos choix éditoriaux sont indépendants et ne sont pas influencés par notre statut d'affilié."
+    "disclosure": "Nous participons à des programmes d'affiliation, notamment Impact.com et Skimlinks. Nous pouvons percevoir une commission lorsque vous achetez via nos liens, sans frais supplémentaires pour vous."
   },
   "newsletter": {
     "title": "Recevez les offres IA dans votre boîte de réception",
@@ -95,13 +95,15 @@
     "use_h": "Utilisation des données",
     "use_p": "Votre e-mail sert uniquement à vous envoyer des alertes et mises à jour sur les remises IA. Nous ne vendons jamais vos données à des tiers.",
     "tracking_h": "Suivi des affiliés",
-    "tracking_p": "Nous utilisons des cookies standards pour recevoir le crédit des références. Ces cookies ne stockent pas d'informations personnelles identifiables.",
+    "tracking_p": "Nous utilisons des cookies de suivi d'affiliation de nos partenaires (Impact.com et Skimlinks) pour attribuer les ventes et percevoir des commissions lorsque vous achetez via nos liens. Ces cookies ne stockent pas d'informations personnelles identifiables.",
     "rights_h": "Droits de l'utilisateur",
     "rights_p": "Vous pouvez vous désabonner à tout moment via le lien en pied de newsletter. Pour demander la suppression de vos données, contactez hello@getaidiscounts.com."
   },
   "terms": {
     "title": "Conditions d'utilisation de GetAIDiscounts.com",
     "updated": "Dernière mise à jour : {{date}}",
+    "aff_h": "Annuaire soutenu par l'affiliation",
+    "aff_p": "GetAIDiscounts.com est un annuaire soutenu par l'affiliation. Lorsque vous cliquez sur des liens vers des outils tiers, votre utilisation ultérieure est régie par les conditions et politiques de confidentialité des sites de destination. Nous ne sommes pas partie à ces accords.",
     "ng_h": "Aucune garantie",
     "ng_p": "Bien que nous visions une précision de 100%, nous ne garantissons pas que chaque code fonctionne. Tous les codes sont fournis \"tels quels\" depuis des sources tierces.",
     "tp_h": "Liens tiers",
@@ -114,8 +116,8 @@
   "disclosure": {
     "title": "Divulgation des Affiliations",
     "updated": "Dernière mise à jour : {{date}}",
-    "intro": "Divulgation : GetAIDiscounts.com est un annuaire indépendant soutenu par son audience. Lorsque vous achetez via les liens de notre site, nous pouvons recevoir une commission d'affiliation sans coût supplémentaire pour vous. Nos choix éditoriaux sont indépendants.",
-    "details": "Nous participons à des programmes d'affiliation comme Skimlinks et à des partenariats directs avec des fournisseurs d'outils IA. Ces commissions nous aident à maintenir le site, vérifier les offres quotidiennement et ajouter de nouveaux outils — mais le statut d'affilié ne détermine jamais si nous listons un outil."
+    "intro": "Nous participons à des programmes d'affiliation, notamment Impact.com et Skimlinks. Nous pouvons percevoir une commission lorsque vous achetez via nos liens, sans frais supplémentaires pour vous.",
+    "details": "Ces commissions nous aident à maintenir le site, vérifier les offres quotidiennement et ajouter de nouveaux outils — mais le statut d'affilié ne détermine jamais si nous listons un outil."
   },
   "request": {
     "button": "Demander un deal",

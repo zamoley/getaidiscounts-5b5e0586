@@ -41,12 +41,12 @@
     "no_results": "Ninguna oferta coincide con tu búsqueda."
   },
   "footer": {
-    "rights": "Algunos enlaces se monetizan a través de Skimlinks.",
+    "rights": "Participamos en programas de afiliados, incluyendo Impact.com y Skimlinks. Podemos ganar una comisión cuando compras a través de nuestros enlaces, sin coste adicional para ti.",
     "legal": "Legal",
     "privacy": "Privacidad",
     "terms": "Términos",
     "affiliate": "Divulgación de Afiliados",
-    "disclosure": "Divulgación: GetAIDiscounts.com es un directorio independiente respaldado por nuestra audiencia. Cuando compras a través de los enlaces de nuestro sitio, podemos ganar una comisión de afiliado sin coste adicional para ti. Nuestras elecciones editoriales son independientes y no están influenciadas por nuestro estado de afiliado."
+    "disclosure": "Participamos en programas de afiliados, incluyendo Impact.com y Skimlinks. Podemos ganar una comisión cuando compras a través de nuestros enlaces, sin coste adicional para ti."
   },
   "newsletter": {
     "title": "Recibe ofertas de IA en tu bandeja de entrada",
@@ -95,13 +95,15 @@
     "use_h": "Uso de los datos",
     "use_p": "Tu correo se usa únicamente para enviarte alertas y novedades de descuentos IA. Nunca vendemos tus datos a terceros.",
     "tracking_h": "Seguimiento de afiliados",
-    "tracking_p": "Usamos cookies estándar para asegurar el crédito por las referencias. Estas cookies no almacenan información personal identificable.",
+    "tracking_p": "Usamos cookies de seguimiento de afiliados de nuestros socios (Impact.com y Skimlinks) para atribuir ventas y ganar comisiones cuando compras a través de nuestros enlaces. Estas cookies no almacenan información personal identificable.",
     "rights_h": "Derechos del usuario",
     "rights_p": "Puedes darte de baja en cualquier momento usando el enlace al pie del boletín. Para solicitar la eliminación de datos, escríbenos a hello@getaidiscounts.com."
   },
   "terms": {
     "title": "Términos del Servicio de GetAIDiscounts.com",
     "updated": "Última actualización: {{date}}",
+    "aff_h": "Directorio respaldado por afiliados",
+    "aff_p": "GetAIDiscounts.com es un directorio respaldado por afiliados. Cuando haces clic en enlaces a herramientas de terceros, tu uso posterior se rige por los términos y políticas de privacidad de los sitios de destino. No somos parte de esos acuerdos.",
     "ng_h": "Sin garantías",
     "ng_p": "Aunque buscamos el 100% de precisión, no garantizamos que cada código funcione. Todos los códigos se proporcionan \"tal cual\" desde fuentes externas.",
     "tp_h": "Enlaces de terceros",
@@ -114,8 +116,8 @@
   "disclosure": {
     "title": "Divulgación de Afiliados",
     "updated": "Última actualización: {{date}}",
-    "intro": "Divulgación: GetAIDiscounts.com es un directorio independiente apoyado por nuestra audiencia. Cuando compras a través de enlaces en nuestro sitio, podemos ganar una comisión sin coste adicional para ti. Nuestras decisiones editoriales son independientes.",
-    "details": "Participamos en programas de afiliados como Skimlinks y asociaciones directas con proveedores de herramientas IA. Estas comisiones nos ayudan a mantener el sitio, verificar ofertas a diario y añadir nuevas herramientas — pero el estatus de afiliado nunca determina si listamos una herramienta."
+    "intro": "Participamos en programas de afiliados, incluyendo Impact.com y Skimlinks. Podemos ganar una comisión cuando compras a través de nuestros enlaces, sin coste adicional para ti.",
+    "details": "Estas comisiones nos ayudan a mantener el sitio, verificar ofertas a diario y añadir nuevas herramientas — pero el estatus de afiliado nunca determina si listamos una herramienta."
   },
   "request": {
     "button": "Pedir una oferta",
