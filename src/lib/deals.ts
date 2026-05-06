@@ -11,7 +11,15 @@ export type Deal = {
   pricing?: string;
   specs?: string;
   source?: string;
+  featured?: boolean;
 };
+
+// Featured partners — always sorted to the top of their category.
+const FEATURED_TOOLS = new Set<string>(["base44"]);
+
+function slugify(s: string) {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
 
 export const fallbackDeals: Deal[] = [
   { id: "midjourney", tool: "Midjourney", category: "Image", description: "Premium AI image generation with cinematic quality.", discount: "20% OFF", code: "AIDISC20", url: "https://www.midjourney.com", lastVerified: "2026-04-28", pricing: "From $10/mo", specs: "Discord + Web · v6 model" },
@@ -32,8 +40,9 @@ const REMOTE_URL = "https://raw.githubusercontent.com/zamoley/GetAIDiscounts/ref
 
 function normalize(raw: any, idx: number): Deal {
   const tool = String(raw?.tool ?? raw?.tool_name ?? raw?.name ?? "Unknown");
+  const id = String(raw?.id ?? raw?.slug ?? tool ?? idx).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || `deal-${idx}`;
   return {
-    id: String(raw?.id ?? raw?.slug ?? tool ?? idx).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || `deal-${idx}`,
+    id,
     tool,
     category: raw?.category ? String(raw.category) : undefined,
     description: raw?.description ?? raw?.desc ? String(raw.description ?? raw.desc) : undefined,
@@ -45,7 +54,12 @@ function normalize(raw: any, idx: number): Deal {
     pricing: raw?.pricing ?? raw?.pricing_info ?? raw?.price ? String(raw.pricing ?? raw.pricing_info ?? raw.price) : undefined,
     specs: raw?.specs ?? raw?.key_features ?? raw?.features ? String(raw.specs ?? raw.key_features ?? raw.features) : undefined,
     source: raw?.source ?? raw?.via ?? raw?.partner ? String(raw.source ?? raw.via ?? raw.partner) : undefined,
+    featured: raw?.featured === true || FEATURED_TOOLS.has(id) || FEATURED_TOOLS.has(slugify(tool)),
   };
+}
+
+function sortFeatured(deals: Deal[]): Deal[] {
+  return [...deals].sort((a, b) => Number(Boolean(b.featured)) - Number(Boolean(a.featured)));
 }
 
 export async function fetchDeals(): Promise<Deal[]> {
@@ -57,10 +71,11 @@ export async function fetchDeals(): Promise<Deal[]> {
     const data = await res.json();
     const arr = Array.isArray(data) ? data : (data?.deals ?? data?.tools ?? []);
     if (!arr.length) throw new Error("empty");
-    return arr.map(normalize);
+    return sortFeatured(arr.map(normalize));
   } catch {
-    return fallbackDeals;
+    return sortFeatured(fallbackDeals);
   } finally {
     clearTimeout(timeout);
   }
 }
+
