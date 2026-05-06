@@ -36,7 +36,7 @@ export const fallbackDeals: Deal[] = [
   { id: "descript", tool: "Descript", category: "Audio", description: "Edit audio and video by editing text.", discount: "30% OFF", code: "DESCRIPT30", url: "https://descript.com", lastVerified: "2026-04-27", pricing: "From $12/mo", specs: "Overdub · Studio Sound" },
 ];
 
-const REMOTE_URL = "https://raw.githubusercontent.com/zamoley/GetAIDiscounts/refs/heads/main/ai_deals.json";
+const REMOTE_URL = "https://raw.githubusercontent.com/zamoley/getaidiscounts-5b5e0586/main/ai_deals.json";
 
 function normalize(raw: any, idx: number): Deal {
   const tool = String(raw?.tool ?? raw?.tool_name ?? raw?.name ?? "Unknown");
