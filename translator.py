@@ -48,6 +48,7 @@ def main():
     with open(deals_path, "r") as f:
         deals = json.load(f)
 
+    # 1. Category Translations
     i18n_cats = {}
     if os.path.exists(i18n_cats_path):
         with open(i18n_cats_path, "r") as f:
@@ -64,9 +65,9 @@ def main():
                 i18n_cats[cat] = json.loads(res)
                 with open(i18n_cats_path, "w") as f:
                     json.dump(i18n_cats, f, indent=4, ensure_ascii=False)
-            except:
-                continue
+            except: continue
 
+    # 2. Tool Content Translations (Now including Badge and Pricing!)
     i18n_deals = {}
     if os.path.exists(i18n_deals_path):
         with open(i18n_deals_path, "r") as f:
@@ -76,15 +77,25 @@ def main():
         name = tool['tool_name']
         if name in i18n_deals: continue
         print(f"Translating Tool: {name}...")
-        prompt = f"Translate the description and features for '{name}' into these languages: {', '.join(LANGUAGES.values())}. Description: {tool['description']}. Features: {tool['key_features']}. Return JSON: {{'uk': {{'description': '...', 'features': '...'}}, ...}}"
+        
+        # 🎯 Updated Prompt to include Badge (discount_amount) and Pricing
+        prompt = f"""
+        Translate the following for '{name}' into {', '.join(LANGUAGES.values())}:
+        - Description: {tool['description']}
+        - Features: {tool['key_features']}
+        - Badge (The discount text): {tool['discount_amount']}
+        - Pricing: {tool['pricing_info']}
+        
+        Return JSON where each language key has: 'description', 'features', 'badge', 'pricing'.
+        """
+        
         res = call_ai(prompt)
         if res:
             try:
                 i18n_deals[name] = json.loads(res)
                 with open(i18n_deals_path, "w") as f:
                     json.dump(i18n_deals, f, indent=4, ensure_ascii=False)
-            except:
-                continue
+            except: continue
 
     print("Localization complete.")
 
