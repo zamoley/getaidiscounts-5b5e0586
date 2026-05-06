@@ -8,7 +8,9 @@ export async function copyAndGo(code: string | undefined, toolUrl: string) {
   if (code) {
     try {
       await navigator.clipboard.writeText(code);
-    } catch {}
+    } catch {
+      // Continue to the deal even when clipboard access is unavailable.
+    }
   }
   window.location.href = smartLink(toolUrl);
 }
