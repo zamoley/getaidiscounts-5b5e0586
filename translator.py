@@ -52,7 +52,7 @@ def main():
     # 2. Handle Category Translations
     i18n_cats = {}
     if os.path.exists("i18n_categories.json"):
-        with open("i18n_categories.json", "r") as f:
+        with open("src/i18n_categories.json", "r") as f:
             i18n_cats = json.load(f)
 
     # Extract all unique categories
