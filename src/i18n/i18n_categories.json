@@ -1,0 +1,101 @@
+{
+    "Video AI": {
+        "en": "Video AI",
+        "uk": "Відео ШІ",
+        "ja": "動画AI",
+        "es": "IA de Video",
+        "pt": "IA de Vídeo",
+        "fr": "IA Vidéo",
+        "de": "Video-KI",
+        "zh": "视频人工智能",
+        "it": "AI Video"
+    },
+    "No-Code AI": {
+        "en": "No-Code AI",
+        "uk": "Безкодова ШІ",
+        "ja": "ノーコードAI",
+        "es": "IA Sin Código",
+        "pt": "IA Sem Código",
+        "fr": "IA Sans Code",
+        "de": "No-Code KI",
+        "zh": "无代码人工智能",
+        "it": "AI Senza Codice"
+    },
+    "Writing AI": {
+        "en": "Writing AI",
+        "uk": "AI для написання",
+        "ja": "ライティングAI",
+        "es": "IA de escritura",
+        "pt": "IA de escrita",
+        "fr": "IA d'écriture",
+        "de": "Schreib-KI",
+        "zh": "写作人工智能",
+        "it": "IA di scrittura"
+    },
+    "Voice AI": {
+        "en": "Voice AI",
+        "uk": "Голосовий ШІ",
+        "ja": "音声AI",
+        "es": "IA de voz",
+        "pt": "IA de voz",
+        "fr": "IA vocale",
+        "de": "Sprach-KI",
+        "zh": "语音人工智能",
+        "it": "AI vocale"
+    },
+    "Coding AI": {
+        "en": "Coding AI",
+        "uk": "Кодування ШІ",
+        "ja": "コーディングAI",
+        "es": "IA de programación",
+        "pt": "IA de codificação",
+        "fr": "IA de codage",
+        "de": "Coding-KI",
+        "zh": "编码人工智能",
+        "it": "AI di programmazione"
+    },
+    "Image AI": {
+        "en": "Image AI",
+        "uk": "Зображувальний ШІ",
+        "ja": "画像AI",
+        "es": "IA de Imágenes",
+        "pt": "IA de Imagem",
+        "fr": "IA d'Image",
+        "de": "Bild-KI",
+        "zh": "图像人工智能",
+        "it": "IA Immagine"
+    },
+    "SEO AI": {
+        "en": "SEO AI",
+        "uk": "SEO ШІ",
+        "ja": "SEO AI",
+        "es": "SEO IA",
+        "pt": "SEO IA",
+        "fr": "SEO IA",
+        "de": "SEO KI",
+        "zh": "SEO 人工智能",
+        "it": "SEO IA"
+    },
+    "Search AI": {
+        "en": "Search AI",
+        "uk": "Пошуковий ШІ",
+        "ja": "検索AI",
+        "es": "IA de búsqueda",
+        "pt": "IA de pesquisa",
+        "fr": "IA de recherche",
+        "de": "Such-KI",
+        "zh": "搜索人工智能",
+        "it": "IA di ricerca"
+    },
+    "Marketing AI": {
+        "en": "Marketing AI",
+        "uk": "Маркетинг ШІ",
+        "ja": "マーケティングAI",
+        "es": "IA de Marketing",
+        "pt": "IA de Marketing",
+        "fr": "IA Marketing",
+        "de": "Marketing-KI",
+        "zh": "营销人工智能",
+        "it": "AI di Marketing"
+    }
+}

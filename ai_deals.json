@@ -596,7 +596,7 @@
         "category": "SEO AI",
         "last_verified": "2026-05-06"
     },
-     {
+    {
         "tool_name": "GrowthBar",
         "tool_url": "https://www.growthbarseo.com",
         "code": "20% Lifetime Discount",
@@ -609,6 +609,155 @@
         ],
         "description": "GrowthBar is an AI-powered writing and SEO tool.",
         "category": "SEO AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Higgsfield",
+        "tool_url": "higgsfield.ai",
+        "code": null,
+        "discount_amount": "70% OFF",
+        "pricing_info": null,
+        "key_features": [
+            "AI video results",
+            "Creative tools"
+        ],
+        "description": "Save on Higgsfield AI subscriptions and premium features with these active coupon codes this month.",
+        "category": "Video AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Veo 3.1",
+        "tool_url": "aistudio.google.com/models/veo-3",
+        "code": "NULL",
+        "discount_amount": "100 credits monthly",
+        "pricing_info": "$19.99/mo",
+        "key_features": [
+            "4K video generation",
+            "AI-powered editing",
+            "Media Studio integration"
+        ],
+        "description": "Veo 3.1 is a cutting-edge AI tool for generating high-quality videos.",
+        "category": "Video AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "OpenAI Codex",
+        "tool_url": "https://openai.com/blog/openai-codex",
+        "code": "75% OFF",
+        "discount_amount": "75% OFF",
+        "pricing_info": "$20/mo",
+        "key_features": [
+            "AI coding assistant",
+            "Multi-agent support",
+            "Integration with existing tools"
+        ],
+        "description": "OpenAI Codex is a powerful AI coding tool designed to assist developers in writing code efficiently.",
+        "category": "Coding AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Google Gemini",
+        "tool_url": "https://workspace.google.com/products/gemini/",
+        "code": "START50",
+        "discount_amount": "20% OFF",
+        "pricing_info": "Starting from $15/mo",
+        "key_features": [
+            "AI-driven productivity tools",
+            "Integration with Google Workspace apps"
+        ],
+        "description": "Google Gemini offers advanced generative AI models integrated into Google Workspace.",
+        "category": "Coding AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Replit",
+        "tool_url": "https://replit.com",
+        "code": "Get Up To $36 Off On Yearly Plans",
+        "discount_amount": "Up to $36 Off",
+        "pricing_info": "$20 per month (Annual Billing)",
+        "key_features": [
+            "Online coding platform",
+            "Real-time collaboration",
+            "Supports multiple programming languages"
+        ],
+        "description": "Replit is an online platform that lets you write, run, and collaborate on code in real time.",
+        "category": "Coding AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Amazon Polly",
+        "tool_url": "https://aws.amazon.com/polly/",
+        "code": "NYTUMGATNN",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Free for 12 months with usage limits",
+        "key_features": [
+            "Text-to-speech",
+            "Lifelike speech",
+            "Custom lexicons"
+        ],
+        "description": "Amazon Polly turns text into lifelike speech for applications.",
+        "category": "Voice AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Microsoft Azure Speech Services",
+        "tool_url": "https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/",
+        "code": "ATFSDEEFSELDPE",
+        "discount_amount": "55% OFF",
+        "pricing_info": "$1.00 per hour",
+        "key_features": [
+            "Real-time speech recognition",
+            "Text-to-speech conversion",
+            "Custom voice models"
+        ],
+        "description": "Transform voice into text and vice versa with advanced AI capabilities.",
+        "category": "Voice AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Google Cloud Text-to-Speech",
+        "tool_url": "cloud.google.com/text-to-speech/",
+        "code": "EOKEOETUERR",
+        "discount_amount": "70% OFF",
+        "pricing_info": "$0.000004 per character",
+        "key_features": [
+            "WaveNet voices",
+            "Neural2 voices",
+            "Customization options"
+        ],
+        "description": "Convert text into natural-sounding speech using advanced AI models.",
+        "category": "Voice AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Zapier with AI",
+        "tool_url": "https://zapier.com",
+        "code": null,
+        "discount_amount": "33% OFF",
+        "pricing_info": "Starting From Rs 2,693",
+        "key_features": [
+            "Automation of tasks",
+            "Integration with over 7,000 apps",
+            "User-friendly interface"
+        ],
+        "description": "Zapier is a workflow automation platform that connects different applications to streamline tasks.",
+        "category": "Marketing AI",
+        "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "Copy.ai",
+        "tool_url": "OFFICIAL_URL",
+        "code": "STARTCOPY",
+        "discount_amount": "40% OFF",
+        "pricing_info": "$49/Month",
+        "key_features": [
+            "Easy to use",
+            "Versatile content types",
+            "Multilingual",
+            "Boost creativity"
+        ],
+        "description": "Copy.ai is a high-quality AI-powered writer designed to streamline processes and optimize performance.",
+        "category": "Marketing AI",
         "last_verified": "2026-05-06"
     }
 ]
