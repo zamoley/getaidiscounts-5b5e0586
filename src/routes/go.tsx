@@ -29,7 +29,10 @@ function titleCaseHostPart(value: string) {
   return value
     .split(/[-_\s]+/)
     .filter(Boolean)
-    .map((part) => (part.toLowerCase() === "ai" ? "AI" : part.charAt(0).toUpperCase() + part.slice(1)))
+    .map(
+      (part) =>
+        part.toLowerCase() === "ai" ? "AI" : part.charAt(0).toUpperCase() + part.slice(1),
+    )
     .join(" ");
 }
 
@@ -87,12 +90,16 @@ function burstToTopWindow(targetUrl: string) {
   try {
     window.top?.location.replace(targetUrl);
     return;
-  } catch {}
+  } catch {
+    // Cross-origin frame access can throw; use the safe same-window fallback below.
+  }
 
   if (!isFramed()) {
     try {
       window.location.replace(targetUrl);
-    } catch {}
+    } catch {
+      // The manual fallback button remains available if browser navigation is blocked.
+    }
   }
 }
 
@@ -101,14 +108,14 @@ export const Route = createFileRoute("/go")({
   head: ({ match }) => {
     const target = getSafeTarget(match.search);
     return {
-    meta: [
-      { title: "Redirecting… — GetAIDiscounts" },
-      { name: "robots", content: "noindex,nofollow" },
-      { name: "description", content: "Redirecting you to a partner offer." },
-      { name: "referrer", content: "no-referrer-when-downgrade" },
-      ...(target ? [{ httpEquiv: "refresh", content: `2;url=${target}` }] : []),
-    ],
-  };
+      meta: [
+        { title: "Redirecting… — GetAIDiscounts" },
+        { name: "robots", content: "noindex,nofollow" },
+        { name: "description", content: "Redirecting you to a partner offer." },
+        { name: "referrer", content: "no-referrer-when-downgrade" },
+        ...(target ? [{ httpEquiv: "refresh", content: `2;url=${target}` }] : []),
+      ],
+    };
   },
   component: GoPage,
 });
