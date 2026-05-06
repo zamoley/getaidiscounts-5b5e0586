@@ -41,12 +41,12 @@
     "no_results": "No deals match your search."
   },
   "footer": {
-    "rights": "Some links are monetized via Skimlinks.",
+    "rights": "We participate in affiliate programs, including Impact.com and Skimlinks. We may earn a commission when you purchase through our links at no extra cost to you.",
     "legal": "Legal",
     "privacy": "Privacy",
     "terms": "Terms",
     "affiliate": "Affiliate Disclosure",
-    "disclosure": "Disclosure: GetAIDiscounts.com is an independent directory supported by our audience. When you purchase through links on our site, we may earn an affiliate commission at no extra cost to you. Our editorial choices are independent and not influenced by our affiliate status."
+    "disclosure": "We participate in affiliate programs, including Impact.com and Skimlinks. We may earn a commission when you purchase through our links at no extra cost to you."
   },
   "newsletter": {
     "title": "Get AI deals in your inbox",
@@ -95,13 +95,15 @@
     "use_h": "Use of Data",
     "use_p": "Your email is used solely to send you AI discount alerts and updates. We never sell your data to third parties.",
     "tracking_h": "Affiliate Tracking",
-    "tracking_p": "We use industry-standard cookies to ensure we receive credit for referrals. These cookies do not store personal identifying information.",
+    "tracking_p": "We use affiliate tracking cookies from our partners (Impact.com and Skimlinks) to attribute sales and earn commissions when you purchase through our links. These cookies do not store personal identifying information.",
     "rights_h": "User Rights",
     "rights_p": "You may unsubscribe from our emails at any time using the link in the footer of our newsletters. To request data deletion, contact us at hello@getaidiscounts.com."
   },
   "terms": {
     "title": "Terms of Service for GetAIDiscounts.com",
     "updated": "Last Updated: {{date}}",
+    "aff_h": "Affiliate-Supported Directory",
+    "aff_p": "GetAIDiscounts.com is an affiliate-supported directory. When you click links to third-party tools, your subsequent use of those tools is governed by the terms of service and privacy policies of the destination websites. We are not a party to those agreements.",
     "ng_h": "No Guarantees",
     "ng_p": "While we strive for 100% accuracy, we do not guarantee that every discount code will work. All codes are provided \"as-is\" from third-party sources.",
     "tp_h": "Third-Party Links",
@@ -114,8 +116,8 @@
   "disclosure": {
     "title": "Affiliate Disclosure",
     "updated": "Last updated: {{date}}",
-    "intro": "Disclosure: GetAIDiscounts.com is an independent directory supported by our audience. When you purchase through links on our site, we may earn an affiliate commission at no extra cost to you. Our editorial choices are independent and not influenced by our affiliate status.",
-    "details": "We participate in affiliate programs including Skimlinks and direct partnerships with AI tool providers. These commissions help us keep the site running, verify deals daily, and add new tools — but a tool's affiliate status never determines whether we list it or how we describe its discount."
+    "intro": "We participate in affiliate programs, including Impact.com and Skimlinks. We may earn a commission when you purchase through our links at no extra cost to you.",
+    "details": "These commissions help us keep the site running, verify deals daily, and add new tools — but a tool's affiliate status never determines whether we list it or how we describe its discount."
   },
   "request": {
     "button": "Request a Deal",

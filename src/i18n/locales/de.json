@@ -41,12 +41,12 @@
     "no_results": "Keine Angebote entsprechen Ihrer Suche."
   },
   "footer": {
-    "rights": "Einige Links werden über Skimlinks monetarisiert.",
+    "rights": "Wir nehmen an Affiliate-Programmen teil, darunter Impact.com und Skimlinks. Wir können eine Provision erhalten, wenn Sie über unsere Links einkaufen – ohne Mehrkosten für Sie.",
     "legal": "Rechtliches",
     "privacy": "Datenschutz",
     "terms": "AGB",
     "affiliate": "Partner-Offenlegung",
-    "disclosure": "Offenlegung: GetAIDiscounts.com ist ein unabhängiges Verzeichnis, das von unserem Publikum unterstützt wird. Wenn Sie über Links auf unserer Website kaufen, können wir eine Affiliate-Provision ohne zusätzliche Kosten für Sie verdienen. Unsere redaktionellen Entscheidungen sind unabhängig und werden nicht von unserem Affiliate-Status beeinflusst."
+    "disclosure": "Wir nehmen an Affiliate-Programmen teil, darunter Impact.com und Skimlinks. Wir können eine Provision erhalten, wenn Sie über unsere Links einkaufen – ohne Mehrkosten für Sie."
   },
   "newsletter": {
     "title": "Erhalten Sie KI-Angebote in Ihrem Posteingang",
@@ -95,13 +95,15 @@
     "use_h": "Verwendung der Daten",
     "use_p": "Deine E-Mail wird ausschließlich für KI-Rabatt-Alerts und Updates verwendet. Wir verkaufen deine Daten niemals an Dritte.",
     "tracking_h": "Affiliate-Tracking",
-    "tracking_p": "Wir nutzen branchenübliche Cookies, um Provisionen zugeordnet zu bekommen. Diese Cookies speichern keine persönlich identifizierbaren Informationen.",
+    "tracking_p": "Wir verwenden Affiliate-Tracking-Cookies unserer Partner (Impact.com und Skimlinks), um Verkäufe zuzuordnen und Provisionen zu erhalten, wenn Sie über unsere Links einkaufen. Diese Cookies speichern keine persönlich identifizierbaren Informationen.",
     "rights_h": "Nutzerrechte",
     "rights_p": "Du kannst dich jederzeit über den Link in der Newsletter-Fußzeile abmelden. Für eine Datenlöschung kontaktiere hello@getaidiscounts.com."
   },
   "terms": {
     "title": "Nutzungsbedingungen für GetAIDiscounts.com",
     "updated": "Zuletzt aktualisiert: {{date}}",
+    "aff_h": "Affiliate-gestütztes Verzeichnis",
+    "aff_p": "GetAIDiscounts.com ist ein affiliate-gestütztes Verzeichnis. Wenn Sie Links zu Drittanbieter-Tools anklicken, unterliegt Ihre weitere Nutzung den Nutzungsbedingungen und Datenschutzrichtlinien der Zielwebsites. Wir sind nicht Vertragspartei dieser Vereinbarungen.",
     "ng_h": "Keine Garantien",
     "ng_p": "Wir streben 100% Genauigkeit an, garantieren aber nicht, dass jeder Code funktioniert. Alle Codes werden \"wie besehen\" von Drittquellen bereitgestellt.",
     "tp_h": "Links Dritter",
@@ -114,8 +116,8 @@
   "disclosure": {
     "title": "Affiliate-Offenlegung",
     "updated": "Zuletzt aktualisiert: {{date}}",
-    "intro": "Offenlegung: GetAIDiscounts.com ist ein unabhängiges Verzeichnis, das von unserem Publikum getragen wird. Bei Käufen über Links auf unserer Seite können wir eine Affiliate-Provision ohne Mehrkosten für dich erhalten. Unsere redaktionellen Entscheidungen sind unabhängig.",
-    "details": "Wir nehmen an Affiliate-Programmen wie Skimlinks und direkten Partnerschaften mit KI-Tool-Anbietern teil. Diese Provisionen helfen uns, die Seite zu betreiben, Deals täglich zu prüfen und neue Tools hinzuzufügen — der Affiliate-Status bestimmt aber nie, ob wir ein Tool listen."
+    "intro": "Wir nehmen an Affiliate-Programmen teil, darunter Impact.com und Skimlinks. Wir können eine Provision erhalten, wenn Sie über unsere Links einkaufen – ohne Mehrkosten für Sie.",
+    "details": "Diese Provisionen helfen uns, die Seite zu betreiben, Deals täglich zu prüfen und neue Tools hinzuzufügen — der Affiliate-Status bestimmt aber nie, ob wir ein Tool listen."
   },
   "request": {
     "button": "Deal anfragen",
