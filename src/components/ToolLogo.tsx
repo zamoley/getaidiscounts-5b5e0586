@@ -1,7 +1,7 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import {
   Image as ImageIcon, MessageSquare, Video, Mic, PenLine, Music,
-  Code2, Bot, Briefcase, Globe, Wand2,
+  Code2, Bot, Briefcase, Globe, Sparkles,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
@@ -26,7 +26,7 @@ function categoryStyle(category?: string): { Icon: LucideIcon; gradient: string;
   if (k.includes("agent")) return { Icon: Bot, gradient: "from-cyan-500/30 to-teal-500/10", color: "text-cyan-300" };
   if (k.includes("search")) return { Icon: Globe, gradient: "from-blue-500/30 to-cyan-500/10", color: "text-blue-300" };
   if (k.includes("product")) return { Icon: Briefcase, gradient: "from-slate-500/30 to-zinc-500/10", color: "text-slate-200" };
-  return { Icon: Wand2, gradient: "from-electric/30 to-electric/5", color: "text-electric" };
+  return { Icon: Sparkles, gradient: "from-electric/30 to-electric/5", color: "text-electric" };
 }
 
 export function ToolLogo({
@@ -42,26 +42,37 @@ export function ToolLogo({
   size?: number;
   className?: string;
 }) {
-  const domain = domainFromUrl(url);
-  const [errored, setErrored] = useState(false);
-  const showImg = domain && !errored;
+  const domain = useMemo(() => domainFromUrl(url), [url]);
+  // 0 = Clearbit, 1 = Google favicon (s2), 2 = DuckDuckGo, 3 = icon fallback
+  const [stage, setStage] = useState(0);
   const { Icon, gradient, color } = categoryStyle(category);
+
+  const src = useMemo(() => {
+    if (!domain) return null;
+    if (stage === 0) return `https://logo.clearbit.com/${domain}?size=128`;
+    if (stage === 1) return `https://www.google.com/s2/favicons?sz=128&domain=${domain}`;
+    if (stage === 2) return `https://icons.duckduckgo.com/ip3/${domain}.ico`;
+    return null;
+  }, [domain, stage]);
 
   return (
     <div
       style={{ width: size, height: size }}
-      className={`relative shrink-0 overflow-hidden rounded-xl border border-border/60 bg-gradient-to-br ${gradient} ${className}`}
+      className={`relative shrink-0 overflow-hidden rounded-full border border-border/60 bg-gradient-to-br ${gradient} ${className}`}
       title={tool}
     >
-      {showImg ? (
+      {src ? (
         <img
-          src={`https://logo.clearbit.com/${domain}?size=128`}
+          // key forces a fresh <img> per stage so onError fires reliably during fallback chain
+          key={src}
+          src={src}
           alt={`${tool} logo`}
           width={size}
           height={size}
           loading="lazy"
           decoding="async"
-          onError={() => setErrored(true)}
+          referrerPolicy="no-referrer"
+          onError={() => setStage(s => s + 1)}
           className="h-full w-full bg-white object-contain p-1.5"
         />
       ) : (
