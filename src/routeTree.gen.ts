@@ -9,6 +9,7 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as GoRouteImport } from './routes/go'
 import { Route as Char123LocaleChar125IndexRouteImport } from './routes/{-$locale}/index'
 import { Route as Char123LocaleChar125WritingRouteImport } from './routes/{-$locale}/writing'
@@ -21,6 +22,11 @@ import { Route as Char123LocaleChar125CodeRouteImport } from './routes/{-$locale
 import { Route as Char123LocaleChar125AgentsRouteImport } from './routes/{-$locale}/agents'
 import { Route as Char123LocaleChar125AffiliateDisclosureRouteImport } from './routes/{-$locale}/affiliate-disclosure'
 
+const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
+  id: '/sitemap.xml',
+  path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const GoRoute = GoRouteImport.update({
   id: '/go',
   path: '/go',
@@ -89,6 +95,7 @@ const Char123LocaleChar125AffiliateDisclosureRoute =
 
 export interface FileRoutesByFullPath {
   '/go': typeof GoRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
@@ -102,6 +109,7 @@ export interface FileRoutesByFullPath {
 }
 export interface FileRoutesByTo {
   '/go': typeof GoRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
@@ -116,6 +124,7 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/go': typeof GoRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
@@ -131,6 +140,7 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/go'
+    | '/sitemap.xml'
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
@@ -144,6 +154,7 @@ export interface FileRouteTypes {
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/go'
+    | '/sitemap.xml'
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
@@ -157,6 +168,7 @@ export interface FileRouteTypes {
   id:
     | '__root__'
     | '/go'
+    | '/sitemap.xml'
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
@@ -171,6 +183,7 @@ export interface FileRouteTypes {
 }
 export interface RootRouteChildren {
   GoRoute: typeof GoRoute
+  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   Char123LocaleChar125AffiliateDisclosureRoute: typeof Char123LocaleChar125AffiliateDisclosureRoute
   Char123LocaleChar125AgentsRoute: typeof Char123LocaleChar125AgentsRoute
   Char123LocaleChar125CodeRoute: typeof Char123LocaleChar125CodeRoute
@@ -185,6 +198,13 @@ export interface RootRouteChildren {
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/sitemap.xml': {
+      id: '/sitemap.xml'
+      path: '/sitemap.xml'
+      fullPath: '/sitemap.xml'
+      preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/go': {
       id: '/go'
       path: '/go'
@@ -267,6 +287,7 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   GoRoute: GoRoute,
+  SitemapDotxmlRoute: SitemapDotxmlRoute,
   Char123LocaleChar125AffiliateDisclosureRoute:
     Char123LocaleChar125AffiliateDisclosureRoute,
   Char123LocaleChar125AgentsRoute: Char123LocaleChar125AgentsRoute,
