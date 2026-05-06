@@ -36,6 +36,7 @@ export function DealCard({
 }) {
   const [copied, setCopied] = useState(false);
   const { t } = useTranslation();
+  const tCat = useCategoryLabel();
   const locale = useLocale();
   const localizedDesc = translateTool(deal.tool, locale, "description", deal.description);
 
