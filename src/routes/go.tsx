@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useMemo, useState } from "react";
 import { ExternalLink, Loader2, ShieldAlert } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { isAllowedRedirect } from "@/lib/redirect-allowlist";
+import { ensureAllowlistLoaded, isAllowedRedirect } from "@/lib/redirect-allowlist";
 
 type GoSearch = {
   url?: string;
@@ -141,25 +141,40 @@ function GoPage() {
       setBlocked(true);
       return;
     }
-    const safe = isAllowedRedirect(url);
-    if (!safe) {
-      setBlocked(true);
-      return;
-    }
-    setTarget(safe);
-    setToolName(getDisplayName(safe, tool));
-    upsertReferrerPolicy();
-    upsertMetaRefresh(safe);
 
-    const framed = isFramed();
-    const redirectTimer = window.setTimeout(() => burstToTopWindow(safe), 100);
-    const refreshGuardTimer = framed ? window.setTimeout(removeMetaRefresh, 1800) : undefined;
-    const fallbackTimer = window.setTimeout(() => setShowFallback(true), 3000);
+    let cancelled = false;
+    const timers: number[] = [];
+
+    const start = (safe: string) => {
+      if (cancelled) return;
+      setTarget(safe);
+      setToolName(getDisplayName(safe, tool));
+      upsertReferrerPolicy();
+      upsertMetaRefresh(safe);
+
+      const framed = isFramed();
+      timers.push(window.setTimeout(() => burstToTopWindow(safe), 100));
+      if (framed) timers.push(window.setTimeout(removeMetaRefresh, 1800));
+      timers.push(window.setTimeout(() => setShowFallback(true), 3000));
+    };
+
+    // Try the seeded allowlist first for an instant redirect.
+    const immediate = isAllowedRedirect(url);
+    if (immediate) {
+      start(immediate);
+    } else {
+      // Otherwise wait for the live ai_deals.json feed to populate the allowlist.
+      ensureAllowlistLoaded().then(() => {
+        if (cancelled) return;
+        const safe = isAllowedRedirect(url);
+        if (safe) start(safe);
+        else setBlocked(true);
+      });
+    }
 
     return () => {
-      window.clearTimeout(redirectTimer);
-      if (refreshGuardTimer) window.clearTimeout(refreshGuardTimer);
-      window.clearTimeout(fallbackTimer);
+      cancelled = true;
+      timers.forEach((t) => window.clearTimeout(t));
     };
   }, []);
 
