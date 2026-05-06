@@ -142,7 +142,7 @@ function Index() {
                 Icon={s.Icon}
                 color={s.color}
                 ring={s.ring}
-                label={c}
+                label={tCat(c)}
                 count={categoryCounts.get(c) ?? 0}
               />
             );
