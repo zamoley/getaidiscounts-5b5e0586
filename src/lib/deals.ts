@@ -1,5 +1,6 @@
 export type Deal = {
   id: string;
+  tool_name: string;
   tool: string;
   category?: string;
   description?: string;
@@ -21,7 +22,7 @@ function slugify(s: string) {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
 
-export const fallbackDeals: Deal[] = [
+export const fallbackDeals: Deal[] = ([
   { id: "midjourney", tool: "Midjourney", category: "Image", description: "Premium AI image generation with cinematic quality.", discount: "20% OFF", code: "AIDISC20", url: "https://www.midjourney.com", lastVerified: "2026-04-28", pricing: "From $10/mo", specs: "Discord + Web · v6 model" },
   { id: "chatgpt-plus", tool: "ChatGPT Plus", category: "Chat", description: "GPT-5 access, advanced data analysis, and priority speed.", discount: "$20 CREDIT", code: "GETAI20", url: "https://chat.openai.com", lastVerified: "2026-05-01", pricing: "$20/mo", specs: "GPT-5 · Vision · Code interpreter" },
   { id: "claude-pro", tool: "Claude Pro", category: "Chat", description: "Anthropic's Claude with longer context and Projects.", discount: "1 MONTH FREE", code: "CLAUDEFREE", url: "https://claude.ai", lastVerified: "2026-04-30", pricing: "$20/mo", specs: "200K context · Projects · Artifacts" },
@@ -34,16 +35,23 @@ export const fallbackDeals: Deal[] = [
   { id: "jasper", tool: "Jasper AI", category: "Writing", description: "Marketing-focused AI content generation.", discount: "20% OFF", code: "JASPER20", url: "https://jasper.ai", lastVerified: "2026-04-18", pricing: "From $39/mo", specs: "Brand voice · 30+ templates" },
   { id: "synthesia", tool: "Synthesia", category: "Video", description: "AI avatars for studio-quality video at scale.", discount: "15% OFF", code: "SYNTH15", url: "https://synthesia.io", lastVerified: "2026-04-20", pricing: "From $29/mo", specs: "230+ avatars · 140 languages" },
   { id: "descript", tool: "Descript", category: "Audio", description: "Edit audio and video by editing text.", discount: "30% OFF", code: "DESCRIPT30", url: "https://descript.com", lastVerified: "2026-04-27", pricing: "From $12/mo", specs: "Overdub · Studio Sound" },
-];
+]).map((deal) => ({ ...deal, tool_name: deal.tool }));
 
 const REMOTE_URL = "https://raw.githubusercontent.com/zamoley/getaidiscounts-5b5e0586/main/ai_deals.json";
 
+function cleanString(value: unknown): string | undefined {
+  if (typeof value === "string") return value.trim() || undefined;
+  if (typeof value === "number" || typeof value === "boolean") return String(value);
+  return undefined;
+}
+
 function normalize(raw: any, idx: number): Deal {
-  const tool = String(raw?.tool ?? raw?.tool_name ?? raw?.name ?? "Unknown");
-  const id = String(raw?.id ?? raw?.slug ?? tool ?? idx).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || `deal-${idx}`;
+  const toolName = cleanString(raw?.tool_name) ?? cleanString(raw?.tool) ?? cleanString(raw?.name) ?? "Unknown";
+  const id = String(raw?.id ?? raw?.slug ?? toolName ?? idx).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || `deal-${idx}`;
   return {
     id,
-    tool,
+    tool_name: toolName,
+    tool: toolName,
     category: raw?.category ? String(raw.category) : undefined,
     description: raw?.description ?? raw?.desc ? String(raw.description ?? raw.desc) : undefined,
     discount: String(raw?.discount ?? raw?.discount_amount ?? raw?.deal ?? "DEAL"),
@@ -54,7 +62,7 @@ function normalize(raw: any, idx: number): Deal {
     pricing: raw?.pricing ?? raw?.pricing_info ?? raw?.price ? String(raw.pricing ?? raw.pricing_info ?? raw.price) : undefined,
     specs: raw?.specs ?? raw?.key_features ?? raw?.features ? String(raw.specs ?? raw.key_features ?? raw.features) : undefined,
     source: raw?.source ?? raw?.via ?? raw?.partner ? String(raw.source ?? raw.via ?? raw.partner) : undefined,
-    featured: raw?.featured === true || FEATURED_TOOLS.has(id) || FEATURED_TOOLS.has(slugify(tool)),
+    featured: raw?.featured === true || FEATURED_TOOLS.has(id) || FEATURED_TOOLS.has(slugify(toolName)),
   };
 }
 

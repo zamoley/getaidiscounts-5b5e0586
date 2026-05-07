@@ -10,7 +10,7 @@ import { ToolLogo } from "@/components/ToolLogo";
 import type { Deal } from "@/lib/deals";
 import { smartLink } from "@/lib/smartlink";
 import { useLocale } from "@/i18n/use-locale";
-import { translateTool } from "@/i18n/translate-tool";
+import { translateTool, translations } from "@/i18n/translate-tool";
 import { categoryStyle } from "@/lib/category-style";
 import { useCategoryLabel } from "@/i18n/use-category-label";
 
@@ -33,11 +33,11 @@ export function CompareBar({
           <div className="flex flex-1 flex-wrap items-center gap-2">
             {deals.map(d => (
               <div key={d.id} className="flex items-center gap-2 rounded-full border border-border bg-background/60 py-1 pl-3 pr-1 text-xs">
-                <span className="font-medium">{d.tool}</span>
+                <span className="font-medium">{d.tool_name}</span>
                 <button
                   onClick={() => onRemove(d.id)}
                   className="flex h-5 w-5 items-center justify-center rounded-full text-muted-foreground hover:bg-secondary hover:text-foreground"
-                  aria-label={`Remove ${d.tool}`}
+                  aria-label={`Remove ${d.tool_name}`}
                 >
                   <X className="h-3 w-3" />
                 </button>
@@ -92,17 +92,17 @@ function CompareTable({ deals }: { deals: Deal[] }) {
       );
     } },
     { label: t("compare.row_pricing"), get: d => {
-      const localized = translateTool(d.tool, locale, "pricing", d.pricing ?? undefined);
+      const localized = translations[d.tool_name]?.[locale]?.pricing ?? d.pricing;
       return <span className="font-medium text-foreground">{localized ?? "—"}</span>;
     } },
     { label: t("compare.row_specs"), get: d => {
-      const localized = translateTool(d.tool, locale, "key_features", d.specs ?? undefined);
+      const localized = translateTool(d.tool_name, locale, "key_features", d.specs ?? undefined);
       return <span className="text-foreground/80">{localized ?? "—"}</span>;
     } },
     {
       label: t("compare.row_discount"),
       get: d => {
-        const localized = translateTool(d.tool, locale, "badge", d.discount);
+        const localized = translations[d.tool_name]?.[locale]?.badge ?? d.discount;
         return (
           <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow font-bold text-electric-foreground shadow-[0_0_18px_-4px_var(--electric)]">
             {localized ?? d.discount}
@@ -149,8 +149,8 @@ function CompareTable({ deals }: { deals: Deal[] }) {
                 className="border-b border-border px-4 py-3 text-left"
               >
                 <div className="flex items-center gap-2">
-                  <ToolLogo tool={d.tool} url={d.url} category={d.category} size={32} />
-                  <span className="font-semibold text-foreground">{d.tool}</span>
+                  <ToolLogo tool={d.tool_name} url={d.url} category={d.category} size={32} />
+                  <span className="font-semibold text-foreground">{d.tool_name}</span>
                 </div>
               </th>
             ))}

@@ -9,7 +9,7 @@ import { smartLink } from "@/lib/smartlink";
 import { VoteButtons } from "@/components/VoteButtons";
 import { ToolLogo } from "@/components/ToolLogo";
 import { useLocale } from "@/i18n/use-locale";
-import { translateTool } from "@/i18n/translate-tool";
+import { translateTool, translations } from "@/i18n/translate-tool";
 import { categoryStyle } from "@/lib/category-style";
 import { useCategoryLabel } from "@/i18n/use-category-label";
 import { gaEvent } from "@/lib/analytics";
@@ -39,9 +39,10 @@ export function DealCard({
   const { t } = useTranslation();
   const tCat = useCategoryLabel();
   const locale = useLocale();
-  const localizedDesc = translateTool(deal.tool, locale, "description", deal.description);
-  const localizedFeatures = translateTool(deal.tool, locale, "key_features", deal.specs);
-  const localizedBadge = translateTool(deal.tool, locale, "badge", deal.discount);
+  const toolName = deal.tool_name;
+  const localizedDesc = translateTool(toolName, locale, "description", deal.description);
+  const localizedFeatures = translateTool(toolName, locale, "key_features", deal.specs);
+  const localizedBadge = translations[toolName]?.[locale]?.badge ?? deal.discount;
 
   const copy = async () => {
     if (!deal.code) return;
@@ -56,7 +57,7 @@ export function DealCard({
   const handleGetDeal = async (e: React.MouseEvent) => {
     e.preventDefault();
     gaEvent("deal_click", {
-      tool_name: deal.tool,
+      tool_name: toolName,
       deal_id: deal.id,
       category: deal.category,
     });
@@ -66,7 +67,7 @@ export function DealCard({
         toast.success("Code Copied!", { description: deal.code });
       } catch {}
     }
-    window.location.href = smartLink(deal.url, deal.tool);
+    window.location.href = smartLink(deal.url, toolName);
   };
 
   return (
@@ -84,9 +85,9 @@ export function DealCard({
       </button>
 
       <div className="flex items-start gap-3 pr-10">
-        <ToolLogo tool={deal.tool} url={deal.url} category={deal.category} size={44} />
+        <ToolLogo tool={toolName} url={deal.url} category={deal.category} size={44} />
         <div className="min-w-0 flex-1">
-          <h3 className="truncate text-base font-semibold text-foreground">{deal.tool}</h3>
+          <h3 className="truncate text-base font-semibold text-foreground">{toolName}</h3>
           {deal.category && (() => {
             const { Icon, color } = categoryStyle(deal.category);
             return (
