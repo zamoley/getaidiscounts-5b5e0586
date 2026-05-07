@@ -129,10 +129,11 @@ export function DealCard({
         </Button>
         <Button
           onClick={handleGetDeal}
+          disabled={isUrlMissing}
           className="w-full basis-full px-4 bg-electric text-electric-foreground hover:bg-electric-glow sm:w-auto sm:basis-auto sm:flex-none"
         >
-          <span className="truncate">{t("card.get_deal")}</span>
-          <ExternalLink className="ml-1.5 h-3.5 w-3.5 shrink-0" />
+          <span className="truncate">{isUrlMissing ? t("card.coming_soon", { defaultValue: "Coming Soon" }) : t("card.get_deal")}</span>
+          {!isUrlMissing && <ExternalLink className="ml-1.5 h-3.5 w-3.5 shrink-0" />}
         </Button>
       </div>
 
