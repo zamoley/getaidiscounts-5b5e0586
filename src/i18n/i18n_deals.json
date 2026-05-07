@@ -2429,5 +2429,790 @@
             "badge": "20% DI SCONTO",
             "price": "A partire da $15/mese."
         }
+    },
+    "Replit": {
+        "en": {
+            "description": "Replit is an online platform that lets you write, run, and collaborate on code in real time.",
+            "features": [
+                "Online coding platform",
+                "Real-time collaboration",
+                "Supports multiple programming languages"
+            ],
+            "badge": "Up to $36 Off",
+            "price": "$20 per month (Annual Billing)"
+        },
+        "uk": {
+            "description": "Replit — це онлайн-платформа, яка дозволяє вам писати, запускати та співпрацювати у коді в режимі реального часу.",
+            "features": [
+                "Онлайн-платформа для кодування",
+                "Співпраця в реальному часі",
+                "Підтримка багатьох мов програмування"
+            ],
+            "badge": "Знижка до $36",
+            "price": "$20 на місяць (Щорічна оплата)"
+        },
+        "ja": {
+            "description": "Replitは、リアルタイムでコードを書いたり、実行したり、共同作業を行ったりできるオンラインプラットフォームです。",
+            "features": [
+                "オンラインコーディングプラットフォーム",
+                "リアルタイムコラボレーション",
+                "複数のプログラミング言語をサポート"
+            ],
+            "badge": "$36まで割引",
+            "price": "$20/月（年額課金）"
+        },
+        "es": {
+            "description": "Replit es una plataforma en línea que te permite escribir, ejecutar y colaborar en código en tiempo real.",
+            "features": [
+                "Plataforma de codificación en línea",
+                "Colaboración en tiempo real",
+                "Soporta múltiples lenguajes de programación"
+            ],
+            "badge": "Hasta $36 de descuento",
+            "price": "$20 por mes (facturación anual)"
+        },
+        "pt": {
+            "description": "Replit é uma plataforma online que permite que você escreva, execute e colabore em código em tempo real.",
+            "features": [
+                "Plataforma de codificação online",
+                "Colaboração em tempo real",
+                "Suporta múltiplas linguagens de programação"
+            ],
+            "badge": "Até $36 de desconto",
+            "price": "$20 por mês (Cobrança Anual)"
+        },
+        "fr": {
+            "description": "Replit est une plateforme en ligne qui vous permet d'écrire, d'exécuter et de collaborer sur du code en temps réel.",
+            "features": [
+                "Plateforme de codage en ligne",
+                "Collaboration en temps réel",
+                "Prend en charge plusieurs langages de programmation"
+            ],
+            "badge": "Jusqu'à 36 $ de réduction",
+            "price": "20 $ par mois (Facturation annuelle)"
+        },
+        "de": {
+            "description": "Replit ist eine Online-Plattform, die es Ihnen ermöglicht, Code in Echtzeit zu schreiben, auszuführen und zusammenzuarbeiten.",
+            "features": [
+                "Online-Coding-Plattform",
+                "Echtzeit-Kollaboration",
+                "Unterstützt mehrere Programmiersprachen"
+            ],
+            "badge": "Bis zu 36 $ Rabatt",
+            "price": "20 $ pro Monat (Jahresabrechnung)"
+        },
+        "zh": {
+            "description": "Replit是一款在线平台，让您能够实时编写、运行和协作代码。",
+            "features": [
+                "在线编码平台",
+                "实时协作",
+                "支持多种编程语言"
+            ],
+            "badge": "最多可享受36美元的折扣",
+            "price": "$20每月（年度账单）"
+        },
+        "it": {
+            "description": "Replit è una piattaforma online che ti consente di scrivere, eseguire e collaborare su codice in tempo reale.",
+            "features": [
+                "Piattaforma di codifica online",
+                "Collaborazione in tempo reale",
+                "Supporta più linguaggi di programmazione"
+            ],
+            "badge": "Fino a $36 di sconto",
+            "price": "$20 al mese (Fatturazione annuale)"
+        }
+    },
+    "Amazon Polly": {
+        "en": {
+            "description": "Amazon Polly turns text into lifelike speech for applications.",
+            "features": [
+                "Text-to-speech",
+                "Lifelike speech",
+                "Custom lexicons"
+            ],
+            "badge": "50% OFF",
+            "price": "Free for 12 months with usage limits."
+        },
+        "uk": {
+            "description": "Amazon Polly перетворює текст у реалістичну мову для застосунків.",
+            "features": [
+                "Текст у мову",
+                "Реалістична мова",
+                "Користувацькі лексикони"
+            ],
+            "badge": "50% ЗНИЖКА",
+            "price": "Безкоштовно протягом 12 місяців з обмеженнями використання."
+        },
+        "jp": {
+            "description": "Amazon Pollyは、アプリケーション向けにテキストを生き生きとした音声に変換します。",
+            "features": [
+                "テキスト読み上げ",
+                "リアルな音声",
+                "カスタムレキシコン"
+            ],
+            "badge": "50%オフ",
+            "price": "使用制限付きで無料（12ヶ月間）"
+        },
+        "es": {
+            "description": "Amazon Polly convierte texto en voz realista para aplicaciones.",
+            "features": [
+                "Texto a voz",
+                "Voz realista",
+                "Léxicos personalizados"
+            ],
+            "badge": "50% DESCUENTO",
+            "price": "Gratis por 12 meses con límites de uso."
+        },
+        "pt": {
+            "description": "Amazon Polly transforma texto em fala realista para aplicações.",
+            "features": [
+                "Texto para fala",
+                "Fala realista",
+                "Lexicons personalizados"
+            ],
+            "badge": "50% DESCONTO",
+            "price": "Grátis por 12 meses com limites de uso."
+        },
+        "fr": {
+            "description": "Amazon Polly transforme le texte en discours réaliste pour les applications.",
+            "features": [
+                "Texte en parole",
+                "Discours réaliste",
+                "Lexiques personnalisés"
+            ],
+            "badge": "50% DE REMISE",
+            "price": "Gratuit pendant 12 mois avec des limites d'utilisation."
+        },
+        "de": {
+            "description": "Amazon Polly wandelt Text in lebensechte Sprache für Anwendungen um.",
+            "features": [
+                "Text-to-Speech",
+                "Lebensechte Sprache",
+                "Benutzerdefinierte Lexika"
+            ],
+            "badge": "50% RABATT",
+            "price": "Kostenlos für 12 Monate mit Nutzungsbeschränkungen."
+        },
+        "zh": {
+            "description": "Amazon Polly 将文本转换为应用程序的逼真语音。",
+            "features": [
+                "文本转语音",
+                "逼真语音",
+                "自定义词汇"
+            ],
+            "badge": "五折优惠",
+            "price": "前 12 个月免费，使用限制。"
+        },
+        "it": {
+            "description": "Amazon Polly trasforma il testo in parlato realistico per le applicazioni.",
+            "features": [
+                "Da testo a voce",
+                "Voce realistica",
+                "Lessici personalizzati"
+            ],
+            "badge": "50% DI SCONTO",
+            "price": "Gratuito per 12 mesi con limiti di utilizzo."
+        }
+    },
+    "Microsoft Azure Speech Services": {
+        "en": {
+            "description": "Transform voice into text and vice versa with advanced AI capabilities.",
+            "features": "Real-time speech recognition, Text-to-speech conversion, Custom voice models",
+            "badge": "55% OFF",
+            "price": "$1.00 per hour"
+        },
+        "uk": {
+            "description": "Перетворюйте голос на текст і навпаки з використанням сучасних можливостей штучного інтелекту.",
+            "features": "Визначення мови в реальному часі, Перетворення тексту в мову, Індивідуальні голосові моделі",
+            "badge": "55% ЗНИЖКА",
+            "price": "$1.00 за годину"
+        },
+        "ja": {
+            "description": "高度なAI機能を使用して音声をテキストに、そしてその逆に変換します。",
+            "features": "リアルタイム音声認識、テキスト音声変換、カスタム音声モデル",
+            "badge": "55%OFF",
+            "price": "$1.00/時間"
+        },
+        "es": {
+            "description": "Transforme la voz en texto y viceversa con capacidades avanzadas de IA.",
+            "features": "Reconocimiento de voz en tiempo real, Conversión de texto a voz, Modelos de voz personalizados",
+            "badge": "55% DESCUENTO",
+            "price": "$1.00 por hora"
+        },
+        "pt": {
+            "description": "Transforme voz em texto e vice-versa com capacidades avançadas de IA.",
+            "features": "Reconhecimento de fala em tempo real, Conversão de texto em fala, Modelos de voz personalizados",
+            "badge": "55% DESCONTO",
+            "price": "$1,00 por hora"
+        },
+        "fr": {
+            "description": "Transformez la voix en texte et vice versa avec des capacités avancées de l'IA.",
+            "features": "Reconnaissance vocale en temps réel, Conversion de texte en parole, Modèles de voix personnalisés",
+            "badge": "55% DE REMISE",
+            "price": "$1,00 par heure"
+        },
+        "de": {
+            "description": "Verwandeln Sie Sprache in Text und umgekehrt mit fortschrittlichen KI-Funktionen.",
+            "features": "Echtzeit-Spracherkennung, Text-zu-Sprache-Konvertierung, Benutzerdefinierte Sprachmodelle",
+            "badge": "55% RABATT",
+            "price": "$1,00 pro Stunde"
+        },
+        "zh": {
+            "description": "利用先进的人工智能能力将语音转换为文本，反之亦然。",
+            "features": "实时语音识别, 文字转语音转换, 自定义语音模型",
+            "badge": "55%优惠",
+            "price": "$1.00每小时"
+        },
+        "it": {
+            "description": "Trasforma la voce in testo e viceversa con capacità avanzate di intelligenza artificiale.",
+            "features": "Riconoscimento vocale in tempo reale, Conversione da testo a voce, Modelli vocali personalizzati",
+            "badge": "55% DI SCONTO",
+            "price": "$1.00 all'ora"
+        }
+    },
+    "Google Cloud Text-to-Speech": {
+        "en": {
+            "description": "Convert text into natural-sounding speech using advanced AI models.",
+            "features": [
+                "WaveNet voices",
+                "Neural2 voices",
+                "Customization options"
+            ],
+            "badge": "70% OFF",
+            "price": "$0.000004 per character"
+        },
+        "uk": {
+            "description": "Перетворіть текст на природний звук мови за допомогою сучасних AI моделей.",
+            "features": [
+                "Голоси WaveNet",
+                "Голоси Neural2",
+                "Опції налаштування"
+            ],
+            "badge": "70% ЗНИЖКА",
+            "price": "$0.000004 за символ"
+        },
+        "ja": {
+            "description": "高度なAIモデルを使用してテキストを自然な音声に変換します。",
+            "features": [
+                "WaveNetボイス",
+                "Neural2ボイス",
+                "カスタマイズオプション"
+            ],
+            "badge": "70% OFF",
+            "price": "$0.000004 文字あたり"
+        },
+        "es": {
+            "description": "Convierte texto en voz natural utilizando modelos de IA avanzados.",
+            "features": [
+                "Voces WaveNet",
+                "Voces Neural2",
+                "Opciones de personalización"
+            ],
+            "badge": "70% DESCUENTO",
+            "price": "$0.000004 por carácter"
+        },
+        "pt": {
+            "description": "Converta texto em fala natural usando modelos avançados de IA.",
+            "features": [
+                "Vozes WaveNet",
+                "Vozes Neural2",
+                "Opções de personalização"
+            ],
+            "badge": "70% DE DESCONTO",
+            "price": "$0.000004 por caractere"
+        },
+        "fr": {
+            "description": "Convertissez le texte en discours naturel à l'aide de modèles d'IA avancés.",
+            "features": [
+                "Voix WaveNet",
+                "Voix Neural2",
+                "Options de personnalisation"
+            ],
+            "badge": "70% DE RÉDUCTION",
+            "price": "$0.000004 par caractère"
+        },
+        "de": {
+            "description": "Konvertieren Sie Text in natürlich klingende Sprache mit fortschrittlichen KI-Modellen.",
+            "features": [
+                "WaveNet-Stimmen",
+                "Neural2-Stimmen",
+                "Anpassungsoptionen"
+            ],
+            "badge": "70% RABATT",
+            "price": "$0.000004 pro Zeichen"
+        },
+        "zh": {
+            "description": "使用先进的AI模型将文本转换为自然声音的语音。",
+            "features": [
+                "WaveNet语音",
+                "Neural2语音",
+                "定制选项"
+            ],
+            "badge": "七折优惠",
+            "price": "$0.000004 每个字符"
+        },
+        "it": {
+            "description": "Converti il testo in una voce naturale utilizzando modelli AI avanzati.",
+            "features": [
+                "Voci WaveNet",
+                "Voci Neural2",
+                "Opzioni di personalizzazione"
+            ],
+            "badge": "70% DI SCONTO",
+            "price": "$0.000004 per carattere"
+        }
+    },
+    "Zapier with AI": {
+        "en": {
+            "description": "Zapier is a workflow automation platform that connects different applications to streamline tasks.",
+            "features": [
+                "Automation of tasks",
+                "Integration with over 7,000 apps",
+                "User-friendly interface"
+            ],
+            "badge": "33% OFF",
+            "price": "Starting From Rs 2,693"
+        },
+        "uk": {
+            "description": "Zapier - це платформа автоматизації робочих процесів, яка об'єднує різні застосунки для спрощення завдань.",
+            "features": [
+                "Автоматизація завдань",
+                "Інтеграція з більш ніж 7,000 додатками",
+                "Зручний інтерфейс"
+            ],
+            "badge": "33% ЗНИЖКА",
+            "price": "Від Rs 2,693"
+        },
+        "ja": {
+            "description": "Zapierは、異なるアプリケーションを接続してタスクを効率化するワークフロー自動化プラットフォームです。",
+            "features": [
+                "タスクの自動化",
+                "7,000以上のアプリとの統合",
+                "ユーザーフレンドリーなインターフェース"
+            ],
+            "badge": "33%オフ",
+            "price": "Rs 2,693から"
+        },
+        "es": {
+            "description": "Zapier es una plataforma de automatización de flujos de trabajo que conecta diferentes aplicaciones para simplificar tareas.",
+            "features": [
+                "Automatización de tareas",
+                "Integración con más de 7,000 aplicaciones",
+                "Interfaz fácil de usar"
+            ],
+            "badge": "33% DESCUENTO",
+            "price": "Desde Rs 2,693"
+        },
+        "pt": {
+            "description": "Zapier é uma plataforma de automação de fluxos de trabalho que conecta diferentes aplicativos para simplificar tarefas.",
+            "features": [
+                "Automação de tarefas",
+                "Integração com mais de 7.000 aplicativos",
+                "Interface amigável"
+            ],
+            "badge": "33% DESCONTO",
+            "price": "A partir de Rs 2,693"
+        },
+        "fr": {
+            "description": "Zapier est une plateforme d'automatisation des flux de travail qui connecte différentes applications pour rationaliser les tâches.",
+            "features": [
+                "Automatisation des tâches",
+                "Intégration avec plus de 7 000 applications",
+                "Interface conviviale"
+            ],
+            "badge": "33% DE REMISE",
+            "price": "À partir de Rs 2,693"
+        },
+        "de": {
+            "description": "Zapier ist eine Workflow-Automatisierungsplattform, die verschiedene Anwendungen verbindet, um Aufgaben zu optimieren.",
+            "features": [
+                "Aufgabenautomatisierung",
+                "Integration mit über 7.000 Apps",
+                "Benutzerfreundliche Oberfläche"
+            ],
+            "badge": "33% RABATT",
+            "price": "Ab Rs 2.693"
+        },
+        "zh": {
+            "description": "Zapier 是一个工作流程自动化平台，连接不同的应用程序以简化任务。",
+            "features": [
+                "任务自动化",
+                "与超过 7,000 个应用程序的集成",
+                "用户友好的界面"
+            ],
+            "badge": "折扣 33%",
+            "price": "起价 Rs 2,693"
+        },
+        "it": {
+            "description": "Zapier è una piattaforma di automazione dei flussi di lavoro che collega diverse applicazioni per semplificare le attività.",
+            "features": [
+                "Automazione delle attività",
+                "Integrazione con oltre 7.000 app",
+                "Interfaccia user-friendly"
+            ],
+            "badge": "33% DI SCONTO",
+            "price": "A partire da Rs 2,693"
+        }
+    },
+    "Copy.ai": {
+        "en": {
+            "description": "N/A",
+            "features": [
+                "Easy to use",
+                "Versatile content types",
+                "Multilingual",
+                "Boost creativity"
+            ],
+            "badge": "40% OFF",
+            "price": "$49/Month"
+        },
+        "uk": {
+            "description": "Немає",
+            "features": [
+                "Легко у використанні",
+                "Універсальні типи контенту",
+                "Мультимовний",
+                "Підвищує креативність"
+            ],
+            "badge": "40% ЗНИЖКА",
+            "price": "$49/Місяць"
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": [
+                "使いやすい",
+                "多様なコンテンツタイプ",
+                "多言語対応",
+                "創造力を高める"
+            ],
+            "badge": "40% OFF",
+            "price": "$49/月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": [
+                "Fácil de usar",
+                "Tipos de contenido versátiles",
+                "Multilingüe",
+                "Aumenta la creatividad"
+            ],
+            "badge": "40% DESCUENTO",
+            "price": "$49/Mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": [
+                "Fácil de usar",
+                "Tipos de conteúdo versáteis",
+                "Multilíngue",
+                "Aumentar a criatividade"
+            ],
+            "badge": "40% DESCONTO",
+            "price": "$49/Mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": [
+                "Facile à utiliser",
+                "Types de contenu polyvalents",
+                "Multilingue",
+                "Stimule la créativité"
+            ],
+            "badge": "40% DE RÉDUCTION",
+            "price": "$49/Mois"
+        },
+        "de": {
+            "description": "Nicht zutreffend",
+            "features": [
+                "Einfach zu bedienen",
+                "Vielseitige Inhaltstypen",
+                "Mehrsprachig",
+                "Kreativität steigern"
+            ],
+            "badge": "40% RABATT",
+            "price": "$49/Monat"
+        },
+        "zh": {
+            "description": "不适用",
+            "features": [
+                "易于使用",
+                "多功能内容类型",
+                "多语言",
+                "提升创造力"
+            ],
+            "badge": "优惠40%",
+            "price": "$49/每月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": [
+                "Facile da usare",
+                "Tipi di contenuto versatili",
+                "Multilingue",
+                "Aumenta la creatività"
+            ],
+            "badge": "40% DI SCONTO",
+            "price": "$49/Mese"
+        }
+    },
+    "VoiceType AI": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "84% OFF",
+            "price": "$29.99"
+        },
+        "uk": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "84% ЗНИЖКИ",
+            "price": "$29.99"
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "該当なし",
+            "badge": "84% OFF",
+            "price": "$29.99"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "84% DESCUENTO",
+            "price": "$29.99"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "84% DE DESCONTO",
+            "price": "$29.99"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "84% DE RÉDUCTION",
+            "price": "$29.99"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "84% RABATT",
+            "price": "$29.99"
+        },
+        "zh": {
+            "description": "不适用",
+            "features": "不适用",
+            "badge": "84% 折扣",
+            "price": "$29.99"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "84% DI SCONTO",
+            "price": "$29.99"
+        }
+    },
+    "Claude": {
+        "en": {
+            "description": "Claude is Anthropic’s AI assistant for coding, research, writing, and complex reasoning.",
+            "features": [
+                "Advanced Natural Language Understanding",
+                "Coding Assistance",
+                "Multimodal Inputs"
+            ],
+            "badge": "50% OFF for the first three months",
+            "price": "$20/month"
+        },
+        "uk": {
+            "description": "Клод - це AI-асистент Anthropic для програмування, досліджень, написання текстів і складного міркування.",
+            "features": [
+                "Розвинута природна мова",
+                "Допомога в програмуванні",
+                "Мультимодальні входи"
+            ],
+            "badge": "50% знижка на перші три місяці",
+            "price": "$20/місяць"
+        },
+        "ja": {
+            "description": "クロードは、コーディング、リサーチ、ライティング、複雑な推論のためのAnthropicのAIアシスタントです。",
+            "features": [
+                "高度な自然言語理解",
+                "コーディング支援",
+                "マルチモーダル入力"
+            ],
+            "badge": "最初の3ヶ月間50%割引",
+            "price": "$20/月"
+        },
+        "es": {
+            "description": "Claude es el asistente de IA de Anthropic para programación, investigación, redacción y razonamiento complejo.",
+            "features": [
+                "Comprensión avanzada del lenguaje natural",
+                "Asistencia en programación",
+                "Entradas multimodales"
+            ],
+            "badge": "50% de descuento durante los primeros tres meses",
+            "price": "$20/mes"
+        },
+        "pt": {
+            "description": "Claude é o assistente de IA da Anthropic para codificação, pesquisa, redação e raciocínio complexo.",
+            "features": [
+                "Compreensão avançada de linguagem natural",
+                "Assistência em codificação",
+                "Entradas multimídia"
+            ],
+            "badge": "50% de desconto nos primeiros três meses",
+            "price": "R$20/mês"
+        },
+        "fr": {
+            "description": "Claude est l'assistant IA d'Anthropic pour la programmation, la recherche, l'écriture et le raisonnement complexe.",
+            "features": [
+                "Compréhension avancée du langage naturel",
+                "Assistance à la programmation",
+                "Entrées multimodales"
+            ],
+            "badge": "50% de réduction pendant les trois premiers mois",
+            "price": "20$/mois"
+        },
+        "de": {
+            "description": "Claude ist Anthropics KI-Assistent für Programmierung, Forschung, Schreiben und komplexes Denken.",
+            "features": [
+                "Fortgeschrittenes Verständnis natürlicher Sprache",
+                "Programmierhilfe",
+                "Multimodale Eingaben"
+            ],
+            "badge": "50% Rabatt für die ersten drei Monate",
+            "price": "20$/Monat"
+        },
+        "zh": {
+            "description": "Claude是Anthropic的AI助手，专注于编码、研究、写作和复杂推理。",
+            "features": [
+                "先进的自然语言理解",
+                "编码协助",
+                "多模态输入"
+            ],
+            "badge": "前三个月享受50%折扣",
+            "price": "$20/月"
+        },
+        "it": {
+            "description": "Claude è l'assistente AI di Anthropic per la programmazione, la ricerca, la scrittura e il ragionamento complesso.",
+            "features": [
+                "Comprensione avanzata del linguaggio naturale",
+                "Assistenza alla programmazione",
+                "Input multimodali"
+            ],
+            "badge": "50% di sconto per i primi tre mesi",
+            "price": "20$/mese"
+        }
+    },
+    "Voice.AI": {
+        "en": {
+            "description": "Voice.AI provides advanced solutions for generating and modifying voices using AI technology.",
+            "features": "AI voice generation, Text-to-speech, Voice changing",
+            "badge": "75% OFF",
+            "price": "N/A"
+        },
+        "uk": {
+            "description": "Voice.AI пропонує просунуті рішення для генерації та модифікації голосів за допомогою технології штучного інтелекту.",
+            "features": "Генерація голосу AI, Текст у мову, Зміна голосу",
+            "badge": "75% ЗНИЖКИ",
+            "price": "Н/Д"
+        },
+        "ja": {
+            "description": "Voice.AIは、AI技術を使用して声を生成および変更するための高度なソリューションを提供します。",
+            "features": "AI音声生成、テキスト読み上げ、声の変更",
+            "badge": "75% OFF",
+            "price": "N/A"
+        },
+        "es": {
+            "description": "Voice.AI ofrece soluciones avanzadas para generar y modificar voces utilizando tecnología de IA.",
+            "features": "Generación de voz AI, Texto a voz, Cambio de voz",
+            "badge": "75% DE DESCUENTO",
+            "price": "N/A"
+        },
+        "pt": {
+            "description": "Voice.AI fornece soluções avançadas para gerar e modificar vozes usando tecnologia de IA.",
+            "features": "Geração de voz AI, Texto-para-fala, Mudança de voz",
+            "badge": "75% OFF",
+            "price": "N/A"
+        },
+        "fr": {
+            "description": "Voice.AI propose des solutions avancées pour générer et modifier des voix grâce à la technologie AI.",
+            "features": "Génération de voix IA, Texte en parole, Changement de voix",
+            "badge": "75% DE RÉDUCTION",
+            "price": "N/A"
+        },
+        "de": {
+            "description": "Voice.AI bietet fortschrittliche Lösungen zur Erstellung und Modifizierung von Stimmen mit KI-Technologie.",
+            "features": "KI-Stimmengenerierung, Text-zu-Sprache, Stimmenänderung",
+            "badge": "75% RABATT",
+            "price": "N/A"
+        },
+        "zh": {
+            "description": "Voice.AI 提供先进的解决方案，以使用 AI 技术生成和修改声音。",
+            "features": "AI 语音生成, 文字转语音, 声音更改",
+            "badge": "75% 折扣",
+            "price": "无"
+        },
+        "it": {
+            "description": "Voice.AI offre soluzioni avanzate per generare e modificare voci utilizzando la tecnologia AI.",
+            "features": "Generazione di voce AI, Testo in voce, Cambio di voce",
+            "badge": "75% DI SCONTO",
+            "price": "N/D"
+        }
+    },
+    "Semrush One": {
+        "en": {
+            "description": "N/A",
+            "features": "SEO toolkit, AI Visibility Toolkit, Content Marketing, Centralized workspace",
+            "badge": "17% OFF",
+            "price": "$199/month"
+        },
+        "uk": {
+            "description": "Немає даних",
+            "features": "Інструмент SEO, Інструмент видимості на основі ІІ, Контент-маркетинг, Централізоване робоче місце",
+            "badge": "17% ЗНИЖКИ",
+            "price": "$199/місяць"
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "SEOツールキット, AI可視性ツールキット, コンテンツマーケティング, 集中ワークスペース",
+            "badge": "17% OFF",
+            "price": "$199/月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "Herramienta SEO, Herramienta de Visibilidad de IA, Marketing de Contenidos, Espacio de trabajo Centralizado",
+            "badge": "17% DESCUENTO",
+            "price": "$199/mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "Kit de ferramentas de SEO, Kit de Visibilidade de IA, Marketing de Conteúdo, Espaço de trabalho centralizado",
+            "badge": "17% DESCONTO",
+            "price": "$199/mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "Boîte à outils SEO, Outil de visibilité IA, Marketing de contenu, Espace de travail centralisé",
+            "badge": "17% DE RÉDUCTION",
+            "price": "$199/mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "SEO-Toolkit, KI-Sichtbarkeitstool, Content-Marketing, Zentraler Arbeitsbereich",
+            "badge": "17% RABATT",
+            "price": "$199/Monat"
+        },
+        "zh": {
+            "description": "无",
+            "features": "SEO工具包，人工智能可见性工具包，内容营销，集中工作区",
+            "badge": "17% 折扣",
+            "price": "$199/月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "Toolkit SEO, Toolkit di Visibilità AI, Marketing dei Contenuti, Spazio di lavoro centralizzato",
+            "badge": "17% DI SCONTO",
+            "price": "$199/mese"
+        }
     }
 }
