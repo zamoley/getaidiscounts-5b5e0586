@@ -41,6 +41,7 @@ export function DealCard({
   const locale = useLocale();
   const localizedDesc = translateTool(deal.tool, locale, "description", deal.description);
   const localizedFeatures = translateTool(deal.tool, locale, "key_features", deal.specs);
+  const localizedBadge = translateTool(deal.tool, locale, "badge", deal.discount);
 
   const copy = async () => {
     if (!deal.code) return;
@@ -107,7 +108,7 @@ export function DealCard({
 
       <div className="mt-4">
         <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow px-3 py-1 text-sm font-bold text-electric-foreground shadow-[0_0_20px_-5px_var(--electric)]">
-          {deal.discount}
+          {localizedBadge ?? deal.discount}
         </Badge>
       </div>
 
