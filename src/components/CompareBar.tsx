@@ -125,15 +125,26 @@ function CompareTable({ deals }: { deals: Deal[] }) {
     },
     {
       label: "",
-      get: d => (
-        <a
-          href={smartLink(d.url)}
-          rel="sponsored noopener"
-          className="inline-flex flex-wrap items-center gap-1 rounded-md bg-electric px-3 py-1.5 text-xs font-semibold text-electric-foreground hover:bg-electric-glow"
-        >
-          {t("card.get_deal")} <ExternalLink className="h-3 w-3" />
-        </a>
-      ),
+      get: d => {
+        const missing = !d.url || d.url === "#" || /^n\/?a$/i.test(d.url.trim());
+        if (missing) {
+          return (
+            <span className="inline-flex items-center gap-1 rounded-md bg-muted px-3 py-1.5 text-xs font-semibold text-muted-foreground">
+              {t("card.coming_soon", { defaultValue: "Coming Soon" })}
+            </span>
+          );
+        }
+        return (
+          <a
+            href={smartLink(d.url)}
+            target="_blank"
+            rel="sponsored noopener noreferrer"
+            className="inline-flex flex-wrap items-center gap-1 rounded-md bg-electric px-3 py-1.5 text-xs font-semibold text-electric-foreground hover:bg-electric-glow"
+          >
+            {t("card.get_deal")} <ExternalLink className="h-3 w-3" />
+          </a>
+        );
+      },
     },
   ];
 
