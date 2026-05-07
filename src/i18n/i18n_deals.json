@@ -668,5 +668,547 @@
             "badge": "40%",
             "price": "Prezzo mensile / fatturato annualmente"
         }
+    },
+    "Writecream": {
+        "en": {
+            "description": "N/A",
+            "badge": "Up to 50% OFF",
+            "price": "Up to 45% OFF"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "badge": "До 50% ЗНИЖЕННЯ",
+            "price": "До 45% ЗНИЖЕННЯ"
+        },
+        "ja": {
+            "description": "N/A",
+            "badge": "最大50％OFF",
+            "price": "最大45％OFF"
+        },
+        "es": {
+            "description": "N/A",
+            "badge": "Hasta 50% de DESCUENTO",
+            "price": "Hasta 45% de DESCUENTO"
+        },
+        "pt": {
+            "description": "N/A",
+            "badge": "Até 50% de DESCONTO",
+            "price": "Até 45% de DESCONTO"
+        },
+        "fr": {
+            "description": "N/A",
+            "badge": "Jusqu'à 50% de REMISE",
+            "price": "Jusqu'à 45% de REMISE"
+        },
+        "de": {
+            "description": "N/A",
+            "badge": "Bis zu 50% Rabatt",
+            "price": "Bis zu 45% Rabatt"
+        },
+        "zh": {
+            "description": "N/A",
+            "badge": "最高50％OFF",
+            "price": "最高45％OFF"
+        },
+        "it": {
+            "description": "N/A",
+            "badge": "Fino al 50% di SCONTO",
+            "price": "Fino al 45% di SCONTO"
+        }
+    },
+    "WordHero": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/month"
+        },
+        "uk": {
+            "description": "НД",
+            "features": "НД",
+            "badge": "20%",
+            "price": "$49/місяць"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/Monat"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "$49/mese"
+        }
+    },
+    "GitHub Copilot Pro": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$10/mo with $10 in monthly AI Credits."
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Н/Д",
+            "badge": "Н/Д",
+            "price": "$10/міс з $10 щомісячних кредитів на ШІ."
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "該当なし",
+            "badge": "該当なし",
+            "price": "$10/月、$10の月額AIクレジット付き。"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$10/mes con $10 en créditos de IA mensuales."
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$10/mês com $10 em créditos mensais de IA."
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$10/mois avec $10 de crédits AI mensuels."
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$10/Monat mit $10 in monatlichen KI-Gutschriften."
+        },
+        "zh": {
+            "description": "无",
+            "features": "无",
+            "badge": "无",
+            "price": "$10/月，附带每月$10的人工智能积分。"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$10/mese con $10 di crediti mensili in IA."
+        }
+    },
+    "Cursor Pro": {
+        "en": {
+            "description": "AI-native IDE with advanced agent capabilities; optimal for complex tasks and multi-file editing.",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "uk": {
+            "description": "Інтегроване середовище розробки на базі штучного інтелекту з розвиненими можливостями агентів; оптимально для складних завдань та редагування кількох файлів.",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "ja": {
+            "description": "高度なエージェント機能を備えたAIネイティブIDE; 複雑なタスクと複数ファイルの編集に最適です。",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "es": {
+            "description": "IDE nativa de IA con capacidades avanzadas de agente; óptimo para tareas complejas y edición de múltiples archivos.",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "pt": {
+            "description": "IDE nativa de IA com capacidades avançadas de agente; ideal para tarefas complexas e edição de vários arquivos.",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "fr": {
+            "description": "IDE natif AI avec des capacités d'agent avancées ; optimal pour des tâches complexes et l'édition de plusieurs fichiers.",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "de": {
+            "description": "KI-natives IDE mit fortschrittlichen Agentenfähigkeiten; optimal für komplexe Aufgaben und die Bearbeitung mehrerer Dateien.",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "zh": {
+            "description": "具有先进代理功能的AI原生IDE；适合复杂任务和多文件编辑。",
+            "badge": "20%",
+            "price": "$20"
+        },
+        "it": {
+            "description": "IDE nativa AI con capacità avanzate di agente; ottimale per compiti complessi e modifica di più file.",
+            "badge": "20%",
+            "price": "$20"
+        }
+    },
+    "Claude Code": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "50% OFF for 3 Months",
+            "price": "$20/mo"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Н/Д",
+            "badge": "50% ЗНИЖКИ на 3 місяці",
+            "price": "$20/міс"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "3ヶ月間50%オフ",
+            "price": "$20/月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "50% de DESCUENTO por 3 Meses",
+            "price": "$20/mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "50% OFF por 3 Meses",
+            "price": "$20/mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "50% de RÉDUCTION pendant 3 Mois",
+            "price": "$20/mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "50% RABATT für 3 Monate",
+            "price": "$20/Monat"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "3个月50%折扣",
+            "price": "$20/月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "50% DI SCONTO per 3 Mesi",
+            "price": "$20/mese"
+        }
+    },
+    "AssemblyAI": {
+        "en": {
+            "description": "N/A",
+            "features": "Core transcription, Sentiment analysis, Entity detection, Content moderation",
+            "badge": "$50 in free credits for new accounts",
+            "price": "$0.00025 per second; custom pricing for enterprise plans."
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Основна транскрипція, Аналіз настроїв, Визначення сутностей, Модерація контенту",
+            "badge": "$50 безкоштовних кредитів для нових акаунтів",
+            "price": "$0.00025 за секунду; індивідуальне ціноутворення для корпоративних планів."
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "コアトランスクリプション、感情分析、エンティティ検出、コンテンツモデレーション",
+            "badge": "新規アカウント向けに$50の無料クレジット",
+            "price": "$0.00025毎秒; 企業プラン向けのカスタムプライシング。"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "Transcripción básica, Análisis de sentimientos, Detección de entidades, Moderación de contenido",
+            "badge": "$50 en créditos gratuitos para nuevas cuentas",
+            "price": "$0.00025 por segundo; precios personalizados para planes empresariales."
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "Transcrição principal, Análise de sentimentos, Detecção de entidades, Moderação de conteúdo",
+            "badge": "$50 em créditos gratuitos para novas contas",
+            "price": "$0.00025 por segundo; preços personalizados para planos empresariais."
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "Transcription principale, Analyse de sentiments, Détection d'entités, Modération de contenu",
+            "badge": "$50 de crédits gratuits pour les nouveaux comptes",
+            "price": "$0.00025 par seconde; tarification personnalisée pour les plans d'entreprise."
+        },
+        "de": {
+            "description": "N/A",
+            "features": "Kerntranskription, Sentimentanalyse, Entitätserkennung, Inhaltsmoderation",
+            "badge": "$50 an kostenlosen Guthaben für neue Konten",
+            "price": "$0.00025 pro Sekunde; individuelle Preise für Unternehmenspläne."
+        },
+        "zh": {
+            "description": "无",
+            "features": "核心转录, 情感分析, 实体检测, 内容审核",
+            "badge": "新账户可获得50美元免费积分",
+            "price": "每秒0.00025美元; 企业计划的自定义定价。"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "Trascrizione di base, Analisi del sentimento, Rilevamento delle entità, Moderazione dei contenuti",
+            "badge": "$50 in crediti gratuiti per nuovi account",
+            "price": "$0.00025 al secondo; prezzi personalizzati per piani aziendali."
+        }
+    },
+    "Microsoft Azure Cognitive Services Speech": {
+        "en": {
+            "description": "N/A",
+            "features": "Flexible options, commitment tiers with discounts, high-quality voice output.",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "uk": {
+            "description": "N/A",
+            "features": "Гнучкі варіанти, рівні зобов'язань з знижками, високоякісний звуковий вихід.",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "柔軟なオプション、割引のあるコミットメントティア、高品質の音声出力。",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "Opciones flexibles, niveles de compromiso con descuentos, salida de voz de alta calidad.",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "Opções flexíveis, níveis de compromisso com descontos, saída de voz de alta qualidade.",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "Options flexibles, niveaux d'engagement avec réductions, sortie vocale de haute qualité.",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "Flexible Optionen, Engagementstufen mit Rabatten, hochwertige Sprachausgabe.",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "灵活的选项、带折扣的承诺等级、高质量的语音输出。",
+            "badge": "55%",
+            "price": "N/A"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "Opzioni flessibili, livelli di impegno con sconti, output vocale di alta qualità.",
+            "badge": "55%",
+            "price": "N/A"
+        }
+    },
+    "Amazon Polly and Amazon Transcribe": {
+        "en": {
+            "description": "N/A",
+            "features": "Neural TTS, Speech recognition, Custom vocabulary, Integration with AWS",
+            "badge": "0%",
+            "price": "$4 per million characters for standard voices, $16 for neural."
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Нейронний TTS, Розпізнавання мови, Налаштовуваний словник, Інтеграція з AWS",
+            "badge": "0%",
+            "price": "$4 за мільйон символів для стандартних голосів, $16 за нейронні."
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "ニューラルTTS、音声認識、カスタムボキャブラリー、AWSとの統合",
+            "badge": "0%",
+            "price": "$4ごとに100万文字（標準音声）、$16（ニューラル）。"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "TTS neuronal, Reconocimiento de voz, Vocabulario personalizado, Integración con AWS",
+            "badge": "0%",
+            "price": "$4 por millón de caracteres para voces estándar, $16 para voces neuronales."
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "TTS Neural, Reconhecimento de fala, Vocabulário personalizado, Integração com AWS",
+            "badge": "0%",
+            "price": "$4 por milhão de caracteres para vozes padrão, $16 para neural."
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "TTS neural, Reconnaissance vocale, Vocabulaire personnalisé, Intégration avec AWS",
+            "badge": "0%",
+            "price": "$4 par million de caractères pour les voix standard, $16 pour les voix neuronales."
+        },
+        "de": {
+            "description": "N/A",
+            "features": "Neuronales TTS, Sprachrecognition, Benutzerdefiniertes Vokabular, Integration mit AWS",
+            "badge": "0%",
+            "price": "$4 pro Million Zeichen für Standardstimmen, $16 für neuronale."
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "神经TTS、语音识别、自定义词汇、与AWS集成",
+            "badge": "0%",
+            "price": "$4每百万字符（标准声音），$16（神经）。"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "TTS neurale, Riconoscimento vocale, Vocabolario personalizzato, Integrazione con AWS",
+            "badge": "0%",
+            "price": "$4 per milione di caratteri per voci standard, $16 per neurali."
+        }
+    },
+    "Midjourney v7": {
+        "en": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / mo"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / мес"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / 月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / Monat"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / 月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "4096 x 4096",
+            "badge": "20%",
+            "price": "$30 / mese"
+        }
+    },
+    "DALL-E 3": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "$20 / mo"
+        },
+        "uk": {
+            "description": "Немає",
+            "features": "Немає",
+            "badge": "35%",
+            "price": "$20 / міс"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "$20 / 月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "$20 / mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "$20 / mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "$20 / mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "$20 / Monat"
+        },
+        "zh": {
+            "description": "不适用",
+            "features": "不适用",
+            "badge": "35%",
+            "price": "$20 / 月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "$20 / mese"
+        }
     }
 }
