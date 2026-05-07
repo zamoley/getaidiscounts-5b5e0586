@@ -1,25 +1,33 @@
-# ... (Keep imports and call_ai) ...
+import os
+import json
+import requests
+import time
+
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+LANGUAGES = {"en": "English", "uk": "Ukrainian", "ja": "Japanese", "es": "Spanish", "pt": "Portuguese", "fr": "French", "de": "German", "zh": "Chinese", "it": "Italian"}
+
+def call_ai(prompt):
+    headers = {"Authorization": f"Bearer {OPENAI_API_KEY}", "Content-Type": "application/json"}
+    payload = {"model": "gpt-4o-mini", "messages": [{"role": "system", "content": "Return ONLY valid JSON."}, {"role": "user", "content": prompt}], "response_format": {"type": "json_object"}}
+    time.sleep(22) # Safe rate limit
+    response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+    return response.json()['choices'][0]['message']['content']
 
 def main():
     os.makedirs("src/i18n", exist_ok=True)
-    deals_path = "ai_deals.json"
-    i18n_path = "src/i18n/i18n_deals.json"
-
-    with open(deals_path, "r") as f:
+    with open("ai_deals.json", "r") as f:
         deals = json.load(f)
 
     i18n_deals = {}
-    if os.path.exists(i18n_path):
-        with open(i18n_path, "r") as f:
-            i18n_deals = json.load(f)
-
     for tool in deals:
-        name = str(tool.get('tool_name', 'Unknown'))
-        
-        # AGGRESSIVE CHECK: If 'badge' doesn't exist for English, re-translate everything
-        if name in i18n_deals and "badge" in i18n_deals[name].get("en", {}):
-            print(f"Skipping {name} (Already complete)")
-            continue
+        name = str(tool['tool_name'])
+        print(f"FORCING RE-TRANSLATION: {name}...")
+        prompt = f"Translate for '{name}' into {list(LANGUAGES.values())}: Desc: {tool['description']}, Features: {tool['key_features']}, Badge: {tool['discount_amount']}, Pricing: {tool['pricing_info']}. Return JSON keys: description, features, badge, pricing."
+        res = call_ai(prompt)
+        if res:
+            i18n_deals[name] = json.loads(res)
+            with open("src/i18n/i18n_deals.json", "w") as f:
+                json.dump(i18n_deals, f, indent=4, ensure_ascii=False)
 
-        print(f"Translating {name} (New or fixing missing fields)...")
-        # ... (Keep your prompt and AI call) ...
+if __name__ == "__main__":
+    main()
