@@ -43,10 +43,12 @@ export function CategoryPage({
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     if (!q) return matches;
+    const escaped = q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const wordRe = new RegExp(`\\b${escaped}\\b`, "i");
     return matches.filter(d =>
-      d.tool.toLowerCase().includes(q) ||
-      d.description?.toLowerCase().includes(q) ||
-      d.code?.toLowerCase().includes(q)
+      wordRe.test(d.tool) ||
+      (d.description ? wordRe.test(d.description) : false) ||
+      (d.code ? wordRe.test(d.code) : false)
     );
   }, [matches, query]);
 

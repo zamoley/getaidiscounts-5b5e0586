@@ -70,6 +70,26 @@ function sortFeatured(deals: Deal[]): Deal[] {
   return [...deals].sort((a, b) => Number(Boolean(b.featured)) - Number(Boolean(a.featured)));
 }
 
+const PLACEHOLDER_RE = /OFFICIAL_URL|PLACEHOLDER|TODO|EXAMPLE\.COM/i;
+
+function isValidDeal(d: Deal): boolean {
+  if (!d.tool_name || d.tool_name === "Unknown") return false;
+  if (!d.url || d.url === "#" || PLACEHOLDER_RE.test(d.url)) return false;
+  return true;
+}
+
+function dedupe(deals: Deal[]): Deal[] {
+  const seen = new Set<string>();
+  const out: Deal[] = [];
+  for (const d of deals) {
+    const key = (d.tool_name || d.id).trim().toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(d);
+  }
+  return out;
+}
+
 export async function fetchDeals(): Promise<Deal[]> {
   const controller = typeof AbortController !== "undefined" ? new AbortController() : undefined;
   const timeout = setTimeout(() => controller?.abort(), 3500);
@@ -79,7 +99,7 @@ export async function fetchDeals(): Promise<Deal[]> {
     const data = await res.json();
     const arr = Array.isArray(data) ? data : (data?.deals ?? data?.tools ?? []);
     if (!arr.length) throw new Error("empty");
-    return sortFeatured(arr.map(normalize));
+    return sortFeatured(dedupe(arr.map(normalize).filter(isValidDeal)));
   } catch {
     return sortFeatured(fallbackDeals);
   } finally {
