@@ -17,37 +17,38 @@ def call_ai(prompt):
 
 def main():
     os.makedirs("src/i18n", exist_ok=True)
-    with open("ai_deals.json", "r") as f:
-        deals = json.load(f)
+    with open("ai_deals.json", "r") as f: deals = json.load(f)
 
-    # --- 1. TRANSLATE CATEGORIES ---
-    i18n_cats = {}
-    all_categories = list(set([d.get('category', 'General AI') for d in deals]))
-    for cat in all_categories:
-        print(f"Translating Category: {cat}...")
-        prompt = f"Translate the AI category '{cat}' into these languages: {list(LANGUAGES.values())}. Return JSON: {{'en': '...', 'uk': '...', ...}}"
-        res = call_ai(prompt)
-        if res:
-            try:
-                i18n_cats[cat] = json.loads(res)
-                with open("src/i18n/i18n_categories.json", "w") as f:
-                    json.dump(i18n_cats, f, indent=4, ensure_ascii=False)
-            except: pass
+    # Load existing translations
+    i18n_path = "src/i18n/i18n_deals.json"
+    raw_i18n = {}
+    if os.path.exists(i18n_path):
+        with open(i18n_path, "r") as f: raw_i18n = json.load(f)
 
-    # --- 2. TRANSLATE TOOLS ---
-    i18n_deals = {}
+    # KEY ALIGNMENT: Fix 'Ghost Keys' in the translation file
+    clean_i18n = {}
     for tool in deals:
-        name = str(tool['tool_name'])
-        print(f"Translating Tool: {name}...")
-        prompt = f"Translate for '{name}' into {list(LANGUAGES.values())}: Desc: {tool['description']}, Features: {tool['key_features']}, Badge: {tool['discount_amount']}, Pricing: {tool['pricing_info']}. Return JSON keys: description, features, badge, pricing."
+        name = tool['tool_name']
+        found = False
+        # Look for a match in the old messy file
+        for old_key in raw_i18n:
+            if name in old_key:
+                clean_i18n[name] = raw_i18n[old_key]
+                found = True
+                break
         
-        res = call_ai(prompt)
-        if res:
-            try:
-                i18n_deals[name] = json.loads(res)
-                with open("src/i18n/i18n_deals.json", "w") as f:
-                    json.dump(i18n_deals, f, indent=4, ensure_ascii=False)
-            except: print(f"Error on {name}")
+        # If not found or missing badge, translate now
+        if not found or "badge" not in clean_i18n[name].get("en", {}):
+            print(f"Translating: {name}...")
+            prompt = f"Translate for '{name}' into {list(LANGUAGES.values())}: Desc: {tool['description']}, Features: {tool['key_features']}, Badge: {tool['discount_amount']}, Pricing: {tool['pricing_info']}. Return JSON keys: description, features, badge, pricing."
+            res = call_ai(prompt)
+            if res: clean_i18n[name] = json.loads(res)
+
+        # Save progress
+        with open(i18n_path, "w") as f:
+            json.dump(clean_i18n, f, indent=4, ensure_ascii=False)
+
+    print("Success! All translations are now aligned with clean tool names.")
 
 if __name__ == "__main__":
     main()
