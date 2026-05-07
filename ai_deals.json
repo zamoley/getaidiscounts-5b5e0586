@@ -88,13 +88,13 @@
         "category": "Video AI"
     },
     {
-        "tool_name": "HappyHorse-1.0",
-        "tool_url": "https://happyhorse.ai",
+        "tool_name": "HappyHorse-1.0 Text-to-video",
+        "tool_url": "https://happyhorse-turbo.org",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Starting from $0.14/SEC",
+        "pricing_info": "From $0.14/SEC",
         "key_features": "N/A",
-        "description": "N/A",
+        "description": "Generates videos from text prompts with support for 720P or 1080P output and flexible aspect ratios.",
         "last_verified": "2026-05-06",
         "category": "Video AI"
     },
@@ -154,17 +154,6 @@
         "category": "Coding AI"
     },
     {
-        "tool_name": "Cursor Pro",
-        "tool_url": "https://cursor.com",
-        "code": "N/A",
-        "discount_amount": "20%",
-        "pricing_info": "$20",
-        "key_features": "N/A",
-        "description": "AI-native IDE with advanced agent capabilities; optimal for complex tasks and multi-file editing.",
-        "last_verified": "2026-05-06",
-        "category": "Coding AI"
-    },
-    {
         "tool_name": "Claude Code",
         "tool_url": "https://claude.ai",
         "code": "START50",
@@ -207,17 +196,6 @@
         "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Voice AI"
-    },
-    {
-        "tool_name": "Midjourney v7",
-        "tool_url": "midjourney.com",
-        "code": "FLAT20",
-        "discount_amount": "20%",
-        "pricing_info": "$30 / mo",
-        "key_features": "4096 x 4096",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Image AI"
     },
     {
         "tool_name": "DALL-E 3",
@@ -275,17 +253,6 @@
         "category": "Writing AI"
     },
     {
-        "tool_name": "HappyHorse-1.0 Text-to-video",
-        "tool_url": "https://happyhorse-turbo.org",
-        "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "From $0.14/SEC",
-        "key_features": "N/A",
-        "description": "Generates videos from text prompts with support for 720P or 1080P output and flexible aspect ratios.",
-        "last_verified": "2026-05-06",
-        "category": "Video AI"
-    },
-    {
         "tool_name": "ChatGPT",
         "tool_url": "https://chatgpt.com",
         "code": "BUNNY20",
@@ -306,17 +273,6 @@
         "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Writing AI"
-    },
-    {
-        "tool_name": "GitHub Copilot",
-        "tool_url": "https://github.com/features/copilot",
-        "code": "GREAT OFFER",
-        "discount_amount": "N/A",
-        "pricing_info": "Yes",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Coding AI"
     },
     {
         "tool_name": "Tabnine",
