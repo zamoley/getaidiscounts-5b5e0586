@@ -55,8 +55,11 @@ export function DealCard({
     } catch {}
   };
 
+  const isUrlMissing = !deal.url || deal.url === "#" || /^n\/?a$/i.test(deal.url.trim());
+
   const handleGetDeal = async (e: React.MouseEvent) => {
     e.preventDefault();
+    if (isUrlMissing) return;
     gaEvent("deal_click", {
       tool_name: toolName,
       deal_id: deal.id,
@@ -68,7 +71,7 @@ export function DealCard({
         toast.success("Code Copied!", { description: deal.code });
       } catch {}
     }
-    window.location.href = smartLink(deal.url, toolName);
+    window.open(smartLink(deal.url, toolName), "_blank", "noopener,noreferrer");
   };
 
   return (
