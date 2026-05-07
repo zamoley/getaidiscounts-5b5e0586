@@ -1806,5 +1806,628 @@
             "badge": "$5 di sconto sul piano di avvio",
             "price": "N/A"
         }
+    },
+    "Murf AI": {
+        "en": {
+            "description": "Offers realistic AI voiceovers suitable for e-learning, corporate presentations, and podcasts.",
+            "badge": "40% Off",
+            "price": "$29 per month for the Creator Starter Plan."
+        },
+        "uk": {
+            "description": "Пропонує реалістичні голосові озвучки на базі ШІ, що підходять для електронного навчання, корпоративних презентацій та подкастів.",
+            "badge": "Знижка 40%",
+            "price": "$29 на місяць за план Creator Starter."
+        },
+        "ja": {
+            "description": "Eラーニング、企業プレゼンテーション、ポッドキャストに適したリアルなAIボイスオーバーを提供します。",
+            "badge": "40%オフ",
+            "price": "$29/月のクリエイタースタートプラン。"
+        },
+        "es": {
+            "description": "Ofrece voces en off de IA realistas adecuadas para e-learning, presentaciones corporativas y pódcast.",
+            "badge": "40% de descuento",
+            "price": "$29 por mes para el Plan de Inicio de Creador."
+        },
+        "pt": {
+            "description": "Oferece voiceovers de IA realistas adequados para e-learning, apresentações corporativas e podcasts.",
+            "badge": "40% de desconto",
+            "price": "$29 por mês para o Plano Criador Inicial."
+        },
+        "fr": {
+            "description": "Propose des voix off réalistes par IA adaptées aux e-learning, présentations d'entreprise et podcasts.",
+            "badge": "40% de réduction",
+            "price": "$29 par mois pour le Plan de Démarrage Créateur."
+        },
+        "de": {
+            "description": "Bietet realistische KI-Voiceovers, die sich für E-Learning, Unternehmenspräsentationen und Podcasts eignen.",
+            "badge": "40% Rabatt",
+            "price": "$29 pro Monat für den Creator Starter Plan."
+        },
+        "zh": {
+            "description": "提供适合电子学习、企业演示和播客的真实AI配音。",
+            "badge": "优惠40%",
+            "price": "创作者入门计划每月$29。"
+        },
+        "it": {
+            "description": "Offre voiceover IA realistici adatti per e-learning, presentazioni aziendali e podcast.",
+            "badge": "40% di sconto",
+            "price": "$29 al mese per il piano Creator Starter."
+        }
+    },
+    "Nano Banana 2": {
+        "en": {
+            "description": "Nano Banana 2 is an advanced AI image generation tool.",
+            "features": "4096 x 4096 Max Resolution, 12s average speed, High-speed iteration",
+            "badge": "N/A",
+            "price": "$0.067 / img"
+        },
+        "uk": {
+            "description": "Nano Banana 2 - це передовий інструмент генерації зображень на базі штучного інтелекту.",
+            "features": "Максимальна роздільна здатність 4096 x 4096, середня швидкість 12 с, висока швидкість ітерації",
+            "badge": "Немає",
+            "price": "$0.067 / зображення"
+        },
+        "ja": {
+            "description": "Nano Banana 2は、高度なAI画像生成ツールです。",
+            "features": "最大解像度4096 x 4096、平均速度12秒、高速イテレーション",
+            "badge": "該当なし",
+            "price": "$0.067 / 画像"
+        },
+        "es": {
+            "description": "Nano Banana 2 es una herramienta avanzada de generación de imágenes con IA.",
+            "features": "Resolución máxima de 4096 x 4096, velocidad promedio de 12s, iteración de alta velocidad",
+            "badge": "N/A",
+            "price": "$0.067 / img"
+        },
+        "pt": {
+            "description": "Nano Banana 2 é uma ferramenta avançada de geração de imagens com IA.",
+            "features": "Resolução máxima de 4096 x 4096, velocidade média de 12s, iteração em alta velocidade",
+            "badge": "N/D",
+            "price": "$0.067 / img"
+        },
+        "fr": {
+            "description": "Nano Banana 2 est un outil avancé de génération d'images par IA.",
+            "features": "Résolution maximale de 4096 x 4096, vitesse moyenne de 12s, itération à grande vitesse",
+            "badge": "N/A",
+            "price": "$0.067 / image"
+        },
+        "de": {
+            "description": "Nano Banana 2 ist ein fortschrittliches KI-Bildgenerierungstool.",
+            "features": "4096 x 4096 Maximalauflösung, durchschnittliche Geschwindigkeit von 12s, Hochgeschwindigkeitsiteration",
+            "badge": "N/A",
+            "price": "$0.067 / Bild"
+        },
+        "zh": {
+            "description": "Nano Banana 2 是一款先进的 AI 图像生成工具。",
+            "features": "4096 x 4096 最大分辨率，平均速度 12 秒，高速迭代",
+            "badge": "不适用",
+            "price": "$0.067 / 图像"
+        },
+        "it": {
+            "description": "Nano Banana 2 è uno strumento avanzato di generazione di immagini AI.",
+            "features": "Risoluzione massima di 4096 x 4096, velocità media di 12s, iterazione ad alta velocità",
+            "badge": "N/D",
+            "price": "$0.067 / img"
+        }
+    },
+    "Speedybrand": {
+        "en": {
+            "description": "N/A",
+            "badge": "up to 50%",
+            "features": "N/A",
+            "price": "N/A"
+        },
+        "uk": {
+            "description": "Немає даних",
+            "badge": "до 50%",
+            "features": "Немає даних",
+            "price": "Немає даних"
+        },
+        "ja": {
+            "description": "該当なし",
+            "badge": "最大50%",
+            "features": "該当なし",
+            "price": "該当なし"
+        },
+        "es": {
+            "description": "N/A",
+            "badge": "hasta 50%",
+            "features": "N/A",
+            "price": "N/A"
+        },
+        "pt": {
+            "description": "N/A",
+            "badge": "até 50%",
+            "features": "N/A",
+            "price": "N/A"
+        },
+        "fr": {
+            "description": "N/A",
+            "badge": "jusqu'à 50%",
+            "features": "N/A",
+            "price": "N/A"
+        },
+        "de": {
+            "description": "N/A",
+            "badge": "bis zu 50%",
+            "features": "N/A",
+            "price": "N/A"
+        },
+        "zh": {
+            "description": "无",
+            "badge": "高达50%",
+            "features": "无",
+            "price": "无"
+        },
+        "it": {
+            "description": "N/A",
+            "badge": "fino al 50%",
+            "features": "N/A",
+            "price": "N/A"
+        }
+    },
+    "Descript": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "N/A"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Н/Д",
+            "badge": "35%",
+            "price": "Н/Д"
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "該当なし",
+            "badge": "35%",
+            "price": "該当なし"
+        },
+        "es": {
+            "description": "N/D",
+            "features": "N/D",
+            "badge": "35%",
+            "price": "N/D"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "N/A"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "35%",
+            "price": "N/A"
+        },
+        "de": {
+            "description": "N/V",
+            "features": "N/V",
+            "badge": "35%",
+            "price": "N/V"
+        },
+        "zh": {
+            "description": "无",
+            "features": "无",
+            "badge": "35%",
+            "price": "无"
+        },
+        "it": {
+            "description": "N/D",
+            "features": "N/D",
+            "badge": "35%",
+            "price": "N/D"
+        }
+    },
+    "SEMrush": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$139.95 - $499.95/month"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Н/Д",
+            "badge": "Н/Д",
+            "price": "$139.95 - $499.95/місяць"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "月額139.95ドル - 499.95ドル"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$139.95 - $499.95/mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$139.95 - $499.95/mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$139.95 - $499.95/mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$139.95 - $499.95/Monat"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$139.95 - $499.95/月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "$139.95 - $499.95/mese"
+        }
+    },
+    "GrowthBar": {
+        "en": {
+            "description": "GrowthBar is an AI-powered writing and SEO tool.",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "Starts at $36/mo."
+        },
+        "uk": {
+            "description": "GrowthBar – це інструмент для написання та SEO, який працює на базі ШІ.",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "Вартість від $36/міс."
+        },
+        "ja": {
+            "description": "GrowthBarは、AI駆動のライティングおよびSEOツールです。",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "月額36ドルから始まります。"
+        },
+        "es": {
+            "description": "GrowthBar es una herramienta de escritura y SEO impulsada por inteligencia artificial.",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "Empieza en $36/mes."
+        },
+        "pt": {
+            "description": "GrowthBar é uma ferramenta de redação e SEO movida por IA.",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "Começa a partir de $36/mês."
+        },
+        "fr": {
+            "description": "GrowthBar est un outil d'écriture et de SEO alimenté par IA.",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "À partir de 36 $/mois."
+        },
+        "de": {
+            "description": "GrowthBar ist ein KI-gestütztes Schreib- und SEO-Tool.",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "Ab 36 $/Monat."
+        },
+        "zh": {
+            "description": "GrowthBar是一个由AI驱动的写作和SEO工具。",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "起价为每月36美元。"
+        },
+        "it": {
+            "description": "GrowthBar è uno strumento di scrittura e SEO alimentato da intelligenza artificiale.",
+            "features": "N/A",
+            "badge": "20%",
+            "price": "A partire da $36/mese."
+        }
+    },
+    "Higgsfield": {
+        "en": {
+            "description": "Save on Higgsfield AI subscriptions and premium features with these active coupon codes this month.",
+            "features": "AI video results, Creative tools",
+            "badge": "70% OFF",
+            "price": "N/A"
+        },
+        "uk": {
+            "description": "Зекономте на підписках та преміум-функціях Higgsfield AI за допомогою цих активних купонів цього місяця.",
+            "features": "AI відеорезультати, Креативні інструменти",
+            "badge": "70% ЗНИЖКА",
+            "price": "Немає"
+        },
+        "ja": {
+            "description": "今月のアクティブなクーポンコードを使って、Higgsfield AIのサブスクリプションとプレミアム機能をお得にご利用ください。",
+            "features": "AIビデオ結果、クリエイティブツール",
+            "badge": "70%オフ",
+            "price": "該当なし"
+        },
+        "es": {
+            "description": "Ahorra en suscripciones de Higgsfield AI y funciones premium con estos códigos de cupón activos este mes.",
+            "features": "Resultados de video IA, Herramientas creativas",
+            "badge": "70% DE DESCUENTO",
+            "price": "N/A"
+        },
+        "pt": {
+            "description": "Economize em assinaturas e recursos premium do Higgsfield AI com esses códigos de cupom ativos este mês.",
+            "features": "Resultados de vídeo de IA, Ferramentas criativas",
+            "badge": "70% DE DESCONTO",
+            "price": "N/A"
+        },
+        "fr": {
+            "description": "Économisez sur les abonnements Higgsfield AI et les fonctionnalités premium avec ces codes promo actifs ce mois-ci.",
+            "features": "Résultats vidéo IA, Outils créatifs",
+            "badge": "70% DE REMISE",
+            "price": "N/A"
+        },
+        "de": {
+            "description": "Sparen Sie bei Higgsfield AI-Abonnements und Premium-Funktionen mit diesen aktiven Gutscheincodes in diesem Monat.",
+            "features": "KI-Videoergebnisse, Kreativwerkzeuge",
+            "badge": "70% RABATT",
+            "price": "N/A"
+        },
+        "zh": {
+            "description": "本月通过这些有效的优惠券代码，节省Higgsfield AI订阅和高级功能的费用。",
+            "features": "AI视频结果，创意工具",
+            "badge": "七折优惠",
+            "price": "不适用"
+        },
+        "it": {
+            "description": "Risparmia su abbonamenti e funzionalità premium di Higgsfield AI con questi codici coupon attivi questo mese.",
+            "features": "Risultati video AI, Strumenti creativi",
+            "badge": "70% DI SCONTO",
+            "price": "N/D"
+        }
+    },
+    "Veo 3.1": {
+        "en": {
+            "description": "Veo 3.1 is a cutting-edge AI tool for generating high-quality videos.",
+            "features": [
+                "4K video generation",
+                "AI-powered editing",
+                "Media Studio integration"
+            ],
+            "badge": "100 credits monthly",
+            "price": "$19.99/mo"
+        },
+        "uk": {
+            "description": "Veo 3.1 - це новітній інструмент ШІ для генерації відео високої якості.",
+            "features": [
+                "Генерація відео в 4K",
+                "Редагування на основі ШІ",
+                "Інтеграція з Media Studio"
+            ],
+            "badge": "100 кредитів щомісяця",
+            "price": "$19.99/міс"
+        },
+        "ja": {
+            "description": "Veo 3.1は、高品質なビデオを生成するための最先端のAIツールです。",
+            "features": [
+                "4Kビデオ生成",
+                "AI駆動の編集",
+                "Media Studio統合"
+            ],
+            "badge": "毎月100クレジット",
+            "price": "$19.99/月"
+        },
+        "es": {
+            "description": "Veo 3.1 es una herramienta de IA de vanguardia para generar videos de alta calidad.",
+            "features": [
+                "Generación de video en 4K",
+                "Edición impulsada por IA",
+                "Integración con Media Studio"
+            ],
+            "badge": "100 créditos mensuales",
+            "price": "$19.99/mes"
+        },
+        "pt": {
+            "description": "Veo 3.1 é uma ferramenta de IA de ponta para gerar vídeos de alta qualidade.",
+            "features": [
+                "Geração de vídeo em 4K",
+                "Edição com inteligência artificial",
+                "Integração com Media Studio"
+            ],
+            "badge": "100 créditos mensais",
+            "price": "$19.99/mês"
+        },
+        "fr": {
+            "description": "Veo 3.1 est un outil d'IA de pointe pour générer des vidéos de haute qualité.",
+            "features": [
+                "Génération vidéo 4K",
+                "Édition assistée par IA",
+                "Intégration Media Studio"
+            ],
+            "badge": "100 crédits mensuels",
+            "price": "$19.99/mois"
+        },
+        "de": {
+            "description": "Veo 3.1 ist ein hochmodernes KI-Tool zur Erstellung von hochwertigen Videos.",
+            "features": [
+                "4K Videoerstellung",
+                "KI-gestützte Bearbeitung",
+                "Media Studio-Integration"
+            ],
+            "badge": "100 Credits monatlich",
+            "price": "$19.99/Monat"
+        },
+        "zh": {
+            "description": "Veo 3.1是一款尖端的人工智能工具，用于生成高质量的视频。",
+            "features": [
+                "4K视频生成",
+                "人工智能编辑",
+                "与媒体工作室集成"
+            ],
+            "badge": "每月100个积分",
+            "price": "$19.99/月"
+        },
+        "it": {
+            "description": "Veo 3.1 è uno strumento AI all'avanguardia per generare video di alta qualità.",
+            "features": [
+                "Generazione video in 4K",
+                "Editing supportato da AI",
+                "Integrazione con Media Studio"
+            ],
+            "badge": "100 crediti mensili",
+            "price": "$19.99/mese"
+        }
+    },
+    "OpenAI Codex": {
+        "en": {
+            "description": "OpenAI Codex is a powerful AI coding tool designed to assist developers in writing code efficiently.",
+            "features": [
+                "AI coding assistant",
+                "Multi-agent support",
+                "Integration with existing tools"
+            ],
+            "badge": "75% OFF",
+            "price": "$20/mo"
+        },
+        "uk": {
+            "description": "OpenAI Codex - це потужний інструмент штучного інтелекту для кодування, призначений для допомоги розробникам у написанні коду ефективно.",
+            "features": [
+                "Асистент кодування на основі ШІ",
+                "Підтримка багатьох агентів",
+                "Інтеграція з наявними інструментами"
+            ],
+            "badge": "75% ЗНИЖКА",
+            "price": "$20/місяць"
+        },
+        "ja": {
+            "description": "OpenAI Codexは、開発者が効率的にコードを書くのを支援するために設計された強力なAIコーディングツールです。",
+            "features": [
+                "AIコーディングアシスタント",
+                "マルチエージェントサポート",
+                "既存ツールとの統合"
+            ],
+            "badge": "75% OFF",
+            "price": "$20/月"
+        },
+        "es": {
+            "description": "OpenAI Codex es una poderosa herramienta de codificación con IA diseñada para ayudar a los desarrolladores a escribir código de manera eficiente.",
+            "features": [
+                "Asistente de codificación de IA",
+                "Soporte para múltiples agentes",
+                "Integración con herramientas existentes"
+            ],
+            "badge": "75% DESCUENTO",
+            "price": "$20/mes"
+        },
+        "pt": {
+            "description": "OpenAI Codex é uma poderosa ferramenta de codificação AI projetada para ajudar os desenvolvedores a escrever código de forma eficiente.",
+            "features": [
+                "Assistente de codificação AI",
+                "Suporte a múltiplos agentes",
+                "Integração com ferramentas existentes"
+            ],
+            "badge": "75% DESCONTO",
+            "price": "$20/mês"
+        },
+        "fr": {
+            "description": "OpenAI Codex est un puissant outil de codage IA conçu pour aider les développeurs à écrire du code efficacement.",
+            "features": [
+                "Assistant de codage IA",
+                "Support multi-agent",
+                "Intégration avec les outils existants"
+            ],
+            "badge": "75% DE REMISE",
+            "price": "$20/mois"
+        },
+        "de": {
+            "description": "OpenAI Codex ist ein leistungsstarkes KI-Coding-Tool, das Entwicklern hilft, effizient zu programmieren.",
+            "features": [
+                "KI-Coding-Assistent",
+                "Unterstützung für mehrere Agenten",
+                "Integration mit bestehenden Tools"
+            ],
+            "badge": "75% RABATT",
+            "price": "$20/Monat"
+        },
+        "zh": {
+            "description": "OpenAI Codex是一个强大的AI编码工具，旨在帮助开发人员高效地编写代码。",
+            "features": [
+                "AI编码助手",
+                "多代理支持",
+                "与现有工具的集成"
+            ],
+            "badge": "75% 折扣",
+            "price": "$20/月"
+        },
+        "it": {
+            "description": "OpenAI Codex è un potente strumento di codifica AI progettato per aiutare gli sviluppatori a scrivere codice in modo efficiente.",
+            "features": [
+                "Assistente alla codifica AI",
+                "Supporto multi-agente",
+                "Integrazione con strumenti esistenti"
+            ],
+            "badge": "75% DI SCONTO",
+            "price": "$20/mese"
+        }
+    },
+    "Google Gemini": {
+        "en": {
+            "description": "Google Gemini offers advanced generative AI models integrated into Google Workspace.",
+            "features": "AI-driven productivity tools, Integration with Google Workspace apps",
+            "badge": "20% OFF",
+            "price": "Starting from $15/mo."
+        },
+        "uk": {
+            "description": "Google Gemini пропонує розвинені генеративні моделі штучного інтелекту, інтегровані в Google Workspace.",
+            "features": "Інструменти продуктивності на основі штучного інтелекту, інтеграція з додатками Google Workspace",
+            "badge": "20% ЗНИЖКА",
+            "price": "Від $15/міс."
+        },
+        "ja": {
+            "description": "Google Geminiは、Google Workspaceに統合された高度な生成AIモデルを提供します。",
+            "features": "AI駆動の生産性ツール、Google Workspaceアプリとの統合",
+            "badge": "20%割引",
+            "price": "$15/月から"
+        },
+        "es": {
+            "description": "Google Gemini ofrece modelos avanzados de IA generativa integrados en Google Workspace.",
+            "features": "Herramientas de productividad impulsadas por IA, Integración con aplicaciones de Google Workspace",
+            "badge": "20% DE DESCUENTO",
+            "price": "Desde $15/mes."
+        },
+        "pt": {
+            "description": "O Google Gemini oferece modelos avançados de IA generativa integrados ao Google Workspace.",
+            "features": "Ferramentas de produtividade impulsionadas por IA, Integração com aplicativos do Google Workspace",
+            "badge": "20% DE DESCONTO",
+            "price": "A partir de $15/mês."
+        },
+        "fr": {
+            "description": "Google Gemini propose des modèles avancés d'IA générative intégrés dans Google Workspace.",
+            "features": "Outils de productivité alimentés par l'IA, Intégration avec les applications Google Workspace",
+            "badge": "20% DE REMISE",
+            "price": "À partir de 15 $/mois."
+        },
+        "de": {
+            "description": "Google Gemini bietet fortschrittliche generative KI-Modelle, die in Google Workspace integriert sind.",
+            "features": "KI-gesteuerte Produktivitätswerkzeuge, Integration mit Google Workspace-Apps",
+            "badge": "20% RABATT",
+            "price": "Ab 15 $/Monat."
+        },
+        "zh": {
+            "description": "Google Gemini 提供与 Google Workspace 集成的高级生成 AI 模型。",
+            "features": "基于 AI 的生产力工具，集成 Google Workspace 应用",
+            "badge": "优惠 20%",
+            "price": "起价 $15/月。"
+        },
+        "it": {
+            "description": "Google Gemini offre modelli avanzati di IA generativa integrati in Google Workspace.",
+            "features": "Strumenti di produttività basati su IA, Integrazione con le app di Google Workspace",
+            "badge": "20% DI SCONTO",
+            "price": "A partire da $15/mese."
+        }
     }
 }
