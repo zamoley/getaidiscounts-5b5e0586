@@ -1,58 +1,58 @@
 {
     "Midjourney": {
-        "English": {
+        "en": {
             "description": "The world's leading AI image generation tool.",
-            "features": "Pro Image Generation, High Res",
+            "feats": "Pro Image Generation, High Res",
             "badge": "20% OFF",
-            "pricing": "Starts at $10/mo."
+            "price": "Starts at $10/mo."
         },
-        "Ukrainian": {
-            "description": "Найкращій у світі інструмент для генерації зображень на основі ШІ.",
-            "features": "Професійна генерація зображень, Висока роздільна здатність",
-            "badge": "20% ЗНИЖКА",
-            "pricing": "Починається від $10/міс."
+        "uk": {
+            "description": "Найкращий у світі інструмент генерації зображень на основі ШІ.",
+            "feats": "Професійна генерація зображень, Висока роздільна здатність",
+            "badge": "Знижка 20%",
+            "price": "Починається від 10 доларів на місяць."
         },
-        "Japanese": {
-            "description": "世界で最も優れたAI画像生成ツール。",
-            "features": "プロ画像生成、高解像度",
-            "badge": "20%オフ",
-            "pricing": "月額$10から"
+        "ja": {
+            "description": "世界をリードするAIイメージ生成ツールです。",
+            "feats": "プロイメージ生成, 高解像度",
+            "badge": "20％オフ",
+            "price": "月額10ドルから"
         },
-        "Spanish": {
-            "description": "La herramienta de generación de imágenes por IA líder en el mundo.",
-            "features": "Generación de imágenes Pro, Alta resolución",
-            "badge": "20% DE DESCUENTO",
-            "pricing": "A partir de $10/mes."
+        "es": {
+            "description": "La herramienta de generación de imágenes AI líder en el mundo.",
+            "feats": "Generación de imágenes profesional, Alta resolución",
+            "badge": "20 % de descuento",
+            "price": "A partir de $10/mes."
         },
-        "Portuguese": {
-            "description": "A principal ferramenta de geração de imagens por IA do mundo.",
-            "features": "Geração de Imagem Profissional, Alta Resolução",
-            "badge": "20% DE DESCONTO",
-            "pricing": "A partir de $10/mês."
+        "pt": {
+            "description": "A principal ferramenta de geração de imagens de IA do mundo.",
+            "feats": "Geração de Imagens Profissional, Alta Resolução",
+            "badge": "20% OFF",
+            "price": "A partir de $10/mês."
         },
-        "French": {
-            "description": "L'outil de génération d'images IA leader mondial.",
-            "features": "Génération d'images professionnelle, Haute résolution",
-            "badge": "20% DE RÉDUCTION",
-            "pricing": "À partir de 10 $/mois."
+        "fr": {
+            "description": "L'outil de génération d'images AI leader mondial.",
+            "feats": "Génération d'Images Pro, Haute Résolution",
+            "badge": "20 % de réduction",
+            "price": "À partir de 10 $/mois."
         },
-        "German": {
+        "de": {
             "description": "Das weltweit führende KI-Bildgenerierungstool.",
-            "features": "Professionelle Bildgenerierung, Hohe Auflösung",
-            "badge": "20% RABATT",
-            "pricing": "Ab 10 $/Monat."
+            "feats": "Professionelle Bildgenerierung, Hohe Auflösung",
+            "badge": "20 % Rabatt",
+            "price": "Ab 10 $/Monat."
         },
-        "Chinese": {
-            "description": "全球领先的人工智能图像生成工具。",
-            "features": "专业图像生成，高分辨率",
-            "badge": "20% 折扣",
-            "pricing": "起价 $10/月。"
+        "zh": {
+            "description": "全球领先的AI图像生成工具。",
+            "feats": "专业图像生成，高分辨率",
+            "badge": "20%优惠",
+            "price": "起价10美元/月。"
         },
-        "Italian": {
-            "description": "Lo strumento di generazione di immagini AI leader al mondo.",
-            "features": "Generazione di immagini professionale, Alta risoluzione",
-            "badge": "20% DI SCONTO",
-            "pricing": "A partire da $10/mese."
+        "it": {
+            "description": "Lo strumento di generazione di immagini AI leader mondiale.",
+            "feats": "Generazione di immagini pro, Alta risoluzione",
+            "badge": "20% di sconto",
+            "price": "A partire da $10/mese."
         }
     },
     "ElevenLabs": {
@@ -69,212 +69,194 @@
             "description": "Найреалістичніший генератор голосу ШІ, доступний на ринку.",
             "features": [
                 "Реалістичне клонування голосу",
-                "Текст у мовлення"
+                "Перетворення тексту в мовлення"
             ],
-            "badge": "10% ЗНИЖКА",
-            "price": "Починається від $5/міс."
+            "badge": "Знижка 10%",
+            "price": "Ціна починається від 5 доларів на місяць."
         },
         "ja": {
-            "description": "利用可能な最もリアルなAI音声生成器です。",
+            "description": "最もリアルなAI音声生成器です。",
             "features": [
                 "リアルな声のクローン",
-                "テキストから音声へ"
+                "テキスト読み上げ"
             ],
             "badge": "10%オフ",
-            "price": "月額$5から"
+            "price": "月額5ドルから。"
         },
         "es": {
-            "description": "El generador de voz AI más realista disponible.",
+            "description": "El generador de voz de IA más realista disponible.",
             "features": [
                 "Clonación de voz realista",
                 "Texto a voz"
             ],
-            "badge": "10% DESCUENTO",
+            "badge": "10% de descuento",
             "price": "A partir de $5/mes."
         },
         "pt": {
-            "description": "O gerador de voz IA mais realista disponível.",
+            "description": "O gerador de voz de IA mais realista disponível.",
             "features": [
                 "Clonagem de voz realista",
-                "Texto para fone"
+                "Texto para fala"
             ],
-            "badge": "10% DESCONTO",
+            "badge": "Desconto de 10%",
             "price": "A partir de $5/mês."
         },
         "fr": {
             "description": "Le générateur de voix IA le plus réaliste disponible.",
             "features": [
-                "Clonage vocal réaliste",
+                "Clonage de voix réaliste",
                 "Texte en parole"
             ],
-            "badge": "10% DE RÉDUCTION",
+            "badge": "10% de réduction",
             "price": "À partir de 5 $/mois."
         },
         "de": {
-            "description": "Der realistischste AI-Stimmengenerator, der verfügbar ist.",
+            "description": "Der realistischste KI-Stimmengenerator, der erhältlich ist.",
             "features": [
-                "Realistisches Sprachklonen",
-                "Text-zu-Sprache"
+                "Realistisches Sprachcloning",
+                "Text-to-Speech"
             ],
-            "badge": "10% RABATT",
+            "badge": "10% Rabatt",
             "price": "Ab $5/Monat."
         },
         "zh": {
-            "description": "最真实的可用AI语音生成器。",
+            "description": "最真实的AI语音生成器。",
             "features": [
-                "真实的语音克隆",
+                "逼真的语音克隆",
                 "文本转语音"
             ],
-            "badge": "10%折扣",
-            "price": "起价$5/月。"
+            "badge": "九折优惠",
+            "price": "价格从每月5美元起。"
         },
         "it": {
             "description": "Il generatore di voce AI più realistico disponibile.",
             "features": [
                 "Clonazione vocale realistica",
-                "Testo in voce"
+                "Da testo a voce"
             ],
-            "badge": "10% DI SCONTO",
-            "price": "A partire da $5/mese."
+            "badge": "10% di sconto",
+            "price": "A partire da 5 $/mese."
         }
     },
     "HeyGen": {
         "en": {
             "description": "Create professional AI videos with digital avatars.",
-            "features": "AI Avatars, Video Translation",
+            "features": [
+                "AI Avatars",
+                "Video Translation"
+            ],
             "badge": "25% OFF",
-            "price": "Starts at $24/mo"
+            "price": "Starts at $24/mo."
         },
         "uk": {
-            "description": "Створюйте професійні AI відео з цифровими аватарами.",
-            "features": "AI Аватари, Переклад відео",
+            "description": "Створюйте професійні AI-відео з цифровими аватарами.",
+            "features": [
+                "AI Аватари",
+                "Переклад відео"
+            ],
             "badge": "25% ЗНИЖКА",
-            "price": "Вартість від $24/міс"
+            "price": "Починаючи з $24/міс."
         },
         "ja": {
-            "description": "デジタルアバターを使用してプロフェッショナルなAIビデオを作成します。",
-            "features": "AIアバター、ビデオ翻訳",
-            "badge": "25%オフ",
-            "price": "$24/月から"
+            "description": "デジタルアバターを使ったプロフェッショナルなAI動画を作成します。",
+            "features": [
+                "AIアバター",
+                "動画翻訳"
+            ],
+            "badge": "25%OFF",
+            "price": "月額$24から"
         },
         "es": {
             "description": "Crea videos profesionales de IA con avatares digitales.",
-            "features": "Avatares AI, Traducción de video",
-            "badge": "25% DE DESCUENTO",
-            "price": "Desde $24/mes"
+            "features": [
+                "Avatares de IA",
+                "Traducción de videos"
+            ],
+            "badge": "25% DESCUENTO",
+            "price": "A partir de $24/mes."
         },
         "pt": {
             "description": "Crie vídeos profissionais de IA com avatares digitais.",
-            "features": "Avatares de IA, Tradução de vídeo",
-            "badge": "25% OFF",
-            "price": "A partir de $24/mês"
+            "features": [
+                "Avatares de IA",
+                "Tradução de Vídeos"
+            ],
+            "badge": "25% DESCONTO",
+            "price": "A partir de $24/mês."
         },
         "fr": {
-            "description": "Créez des vidéos professionnelles d'IA avec des avatars numériques.",
-            "features": "Avatars IA, Traduction vidéo",
-            "badge": "25% DE RÉDUCTION",
-            "price": "À partir de 24 $/mois"
+            "description": "Créez des vidéos professionnelles avec des avatars numériques.",
+            "features": [
+                "Avatars IA",
+                "Traduction de Vidéo"
+            ],
+            "badge": "25 % DE REMISE",
+            "price": "À partir de 24 $/mois."
         },
         "de": {
             "description": "Erstellen Sie professionelle KI-Videos mit digitalen Avataren.",
-            "features": "KI-Avatare, Videoübersetzung",
-            "badge": "25% RABATT",
-            "price": "Ab $24/Monat"
+            "features": [
+                "KI-Avatare",
+                "Videoübersetzung"
+            ],
+            "badge": "25 % RABATT",
+            "price": "Ab $24/Monat."
         },
         "zh": {
-            "description": "创建使用数字化身的专业AI视频。",
-            "features": "AI化身，视频翻译",
+            "description": "使用数字化身创建专业的AI视频。",
+            "features": [
+                "AI头像",
+                "视频翻译"
+            ],
             "badge": "25% OFF",
-            "price": "起价$24/月"
+            "price": "从每月24美元起。"
         },
         "it": {
-            "description": "Crea video professionali di IA con avatar digitali.",
-            "features": "Avatar AI, Traduzione video",
+            "description": "Crea video professionali AI con avatar digitali.",
+            "features": [
+                "Avatar AI",
+                "Traduzione Video"
+            ],
             "badge": "25% DI SCONTO",
-            "price": "A partire da $24/mese"
+            "price": "A partire da 24 $/mese."
         }
     },
     "Perplexity": {
         "en": {
             "description": "The AI-powered answer engine for research.",
-            "features": [
-                "AI Search Engine",
-                "Real-time Citations"
-            ],
-            "badge": "$10 Credit",
-            "price": "Free or $20/mo Pro"
+            "badge": "$10 Credit"
         },
         "uk": {
-            "description": "Інтелектуальна відповідь для досліджень.",
-            "features": [
-                "Штучний інтелект Пошукова система",
-                "Цитати в реальному часі"
-            ],
-            "badge": "$10 Кредит",
-            "price": "Безкоштовно або $20/міс Профі"
+            "description": "Штучний інтелект, що відповідає на запитання для досліджень.",
+            "badge": "$10 Кредит"
         },
-        "jp": {
+        "ja": {
             "description": "研究のためのAI駆動の回答エンジン。",
-            "features": [
-                "AI検索エンジン",
-                "リアルタイム引用"
-            ],
-            "badge": "$10クレジット",
-            "price": "無料または月額$20のPro"
+            "badge": "$10 クレジット"
         },
         "es": {
             "description": "El motor de respuestas impulsado por IA para la investigación.",
-            "features": [
-                "Motor de búsqueda de IA",
-                "Citas en tiempo real"
-            ],
-            "badge": "$10 de crédito",
-            "price": "Gratis o $20/mes Pro"
+            "badge": "$10 Crédito"
         },
         "pt": {
-            "description": "O motor de respostas potenciado por IA para pesquisa.",
-            "features": [
-                "Motor de busca com IA",
-                "Citações em tempo real"
-            ],
-            "badge": "$10 de crédito",
-            "price": "Gratuito ou $20/mês Pro"
+            "description": "O motor de respostas alimentado por IA para pesquisa.",
+            "badge": "$10 Crédito"
         },
         "fr": {
             "description": "Le moteur de réponse alimenté par IA pour la recherche.",
-            "features": [
-                "Moteur de recherche IA",
-                "Citations en temps réel"
-            ],
-            "badge": "$10 de crédit",
-            "price": "Gratuit ou 20$/mois Pro"
+            "badge": "$10 Crédit"
         },
         "de": {
-            "description": "Die KI-gestützte Antwortmaschine für Forschung.",
-            "features": [
-                "KI-Suchmaschine",
-                "Echtzeit-Zitationen"
-            ],
-            "badge": "$10 Guthaben",
-            "price": "Kostenlos oder $20/Monat Pro"
+            "description": "Die KI-gesteuerte Antwortmaschine für Forschung.",
+            "badge": "$10 Guthaben"
         },
         "zh": {
-            "description": "用于研究的人工智能驱动回答引擎。",
-            "features": [
-                "AI搜索引擎",
-                "实时引用"
-            ],
-            "badge": "$10信用",
-            "price": "免费或每月$20专业版"
+            "description": "用于研究的人工智能驱动的回答引擎。",
+            "badge": "$10 信用"
         },
         "it": {
-            "description": "Il motore di risposta potenziato dall'IA per la ricerca.",
-            "features": [
-                "Motore di ricerca AI",
-                "Citazioni in tempo reale"
-            ],
-            "badge": "$10 di credito",
-            "price": "Gratuito o $20/mese Pro"
+            "description": "Il motore di risposte alimentato da IA per la ricerca.",
+            "badge": "$10 Credito"
         }
     },
     "Cursor": {
@@ -285,50 +267,50 @@
             "price": "Starts at $20/mo."
         },
         "uk": {
-            "description": "Найпотужніше кодувальне середовище з інтеграцією штучного інтелекту.",
-            "features": "AI Редактор коду, Автозаповнення",
-            "badge": "20% ЗНИЖКИ",
+            "description": "Найпотужніше середовище кодування з інтегрованим ШІ.",
+            "features": "Редактор коду з ШІ, Автоматичне доповнення",
+            "badge": "20% ЗНИЖКА",
             "price": "Починається від $20/міс."
         },
         "ja": {
-            "description": "最も強力なAI統合コーディング環境。",
-            "features": "AIコードエディタ、オートコンプリート",
-            "badge": "20％割引",
-            "price": "月額$20からスタート。"
+            "description": "最も強力なAI統合型コーディング環境です。",
+            "features": "AIコードエディタ、自動補完",
+            "badge": "20%引き",
+            "price": "月額$20から"
         },
         "es": {
-            "description": "El entorno de codificación más poderoso integrado con inteligencia artificial.",
-            "features": "Editor de Código AI, Autocompletar",
+            "description": "El entorno de codificación integrado con IA más poderoso.",
+            "features": "Editor de código AI, Autocompletar",
             "badge": "20% DESCUENTO",
-            "price": "Comienza en $20/mes."
+            "price": "A partir de $20/mes."
         },
         "pt": {
-            "description": "O ambiente de codificação mais potente integrado com IA.",
-            "features": "Editor de Código AI, Autocompletar",
+            "description": "O ambiente de codificação integrado com IA mais poderoso.",
+            "features": "Editor de código AI, Autocompletar",
             "badge": "20% DE DESCONTO",
             "price": "A partir de $20/mês."
         },
         "fr": {
-            "description": "L'environnement de codage le plus puissant intégré à l'IA.",
+            "description": "L'environnement de codage intégré à l'IA le plus puissant.",
             "features": "Éditeur de code IA, Autocomplétion",
-            "badge": "20% DE RÉDUCTION",
+            "badge": "20% DE REMISE",
             "price": "À partir de 20 $/mois."
         },
         "de": {
-            "description": "Die leistungsstärkste KI-integrierte Codierungsumgebung.",
-            "features": "AI-Code-Editor, Autokomplettierung",
+            "description": "Die leistungsstärkste mit KI integrierte Programmierumgebung.",
+            "features": "KI-Code-Editor, Autovervollständigung",
             "badge": "20% RABATT",
             "price": "Ab $20/Monat."
         },
         "zh": {
-            "description": "最强大的AI集成编码环境。",
-            "features": "AI代码编辑器，自动完成",
+            "description": "最强大的集成AI编码环境。",
+            "features": "AI代码编辑器，自动补全",
             "badge": "20%折扣",
-            "price": "每月起价$20。"
+            "price": "起价$20/月。"
         },
         "it": {
-            "description": "L'ambiente di codifica più potente integrato con l'intelligenza artificiale.",
-            "features": "Editor di Codice AI, Completamento Automatico",
+            "description": "Il più potente ambiente di codifica integrato con IA.",
+            "features": "Editor di codice AI, Autocompletamento",
             "badge": "20% DI SCONTO",
             "price": "A partire da $20/mese."
         }
@@ -336,167 +318,140 @@
     "Lovable": {
         "en": {
             "description": "Build and deploy apps in seconds using AI.",
-            "features": "Full-stack AI App Builder",
-            "badge": "20% OFF",
-            "price": "Paid plans vary."
+            "badge": "20% OFF"
         },
         "uk": {
-            "description": "Створюйте та запускайте додатки за кілька секунд, використовуючи ШІ.",
-            "features": "Повноцінний конструктор додатків на основі ШІ",
-            "badge": "20% ЗНИЖКА",
-            "price": "Платні плани варіюються."
+            "description": "Створюйте та розгортайте додатки за кілька секунд, використовуючи ШІ.",
+            "badge": "20% ЗНИЖКА"
         },
         "ja": {
-            "description": "AIを使用して数秒でアプリを構築および展開します。",
-            "features": "フルスタックAIアプリビルダー",
-            "badge": "20％オフ",
-            "price": "有料プランは様々です。"
+            "description": "AIを使用して数秒でアプリを構築し、展開します。",
+            "badge": "20%オフ"
         },
         "es": {
             "description": "Crea y despliega aplicaciones en segundos utilizando IA.",
-            "features": "Constructor de aplicaciones de IA de pila completa",
-            "badge": "20% DESCUENTO",
-            "price": "Los planes de pago varían."
+            "badge": "20% DE DESCUENTO"
         },
         "pt": {
             "description": "Crie e implante aplicativos em segundos usando IA.",
-            "features": "Construtor de Aplicativos de IA Full-Stack",
-            "badge": "20% DE DESCONTO",
-            "price": "Os planos pagos variam."
+            "badge": "20% DE DESCONTO"
         },
         "fr": {
-            "description": "Construisez et déployez des applications en quelques secondes avec l'IA.",
-            "features": "Créateur d'Application IA Full-Stack",
-            "badge": "20% DE REMISE",
-            "price": "Les plans payants varient."
+            "description": "Créez et déployez des applications en quelques secondes avec l'IA.",
+            "badge": "20% DE RÉDUCTION"
         },
         "de": {
-            "description": "Bauen Sie Apps in Sekundenschnelle mit KI und setzen Sie sie ein.",
-            "features": "Full-Stack KI-App-Builder",
-            "badge": "20% RABATT",
-            "price": "Bezahlte Pläne variieren."
+            "description": "Erstellen und deployen Sie Apps in Sekunden mit KI.",
+            "badge": "20% RABATT"
         },
         "zh": {
             "description": "使用人工智能在几秒钟内构建和部署应用程序。",
-            "features": "全栈AI应用程序生成器",
-            "badge": "8折",
-            "price": "付费计划有所不同。"
+            "badge": "20% 折扣"
         },
         "it": {
             "description": "Crea e distribuisci app in pochi secondi utilizzando l'IA.",
-            "features": "Costruttore di App AI Full-Stack",
-            "badge": "20% DI SCONTO",
-            "price": "I piani a pagamento variano."
+            "badge": "20% DI SCONTO"
         }
     },
     "Base44": {
         "en": {
             "description": "N/A",
-            "features": "AI Web Scraping & Proxies",
+            "feats": "AI Web Scraping & Proxies",
             "badge": "Free Credits",
             "price": "Usage-based pricing"
         },
         "uk": {
             "description": "Н/Д",
-            "features": "AI Веб-скрапінг та проксі",
+            "feats": "ШІ Веб-скрапінг та проксі",
             "badge": "Безкоштовні кредити",
-            "price": "Ціна залежить від використання"
+            "price": "Ціноутворення на основі використання"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "AIウェブスクレイピング＆プロキシ",
+            "description": "N/A",
+            "feats": "AIウェブスクレイピングとプロキシ",
             "badge": "無料クレジット",
-            "price": "使用量ベースの価格設定"
+            "price": "使用量ベースの料金"
         },
         "es": {
             "description": "N/A",
-            "features": "Scraping web con IA y proxies",
+            "feats": "Raspado web de IA y proxies",
             "badge": "Créditos gratis",
             "price": "Precios basados en el uso"
         },
         "pt": {
             "description": "N/A",
-            "features": "Raspagem web com IA e proxies",
+            "feats": "Web Scraping de IA e Proxies",
             "badge": "Créditos Grátis",
             "price": "Preços baseados no uso"
         },
         "fr": {
             "description": "N/A",
-            "features": "Web scraping AI & proxys",
-            "badge": "Crédits gratuits",
+            "feats": "Collecte de données web par IA et Proxys",
+            "badge": "Crédits Gratuits",
             "price": "Tarification basée sur l'utilisation"
         },
         "de": {
             "description": "N/A",
-            "features": "KI-Webscraping & Proxys",
+            "feats": "KI Web-Scraping & Proxys",
             "badge": "Kostenlose Credits",
-            "price": "Nutzungsabhängige Preisgestaltung"
+            "price": "Nutzungsbasierte Preisgestaltung"
         },
         "zh": {
-            "description": "无",
-            "features": "人工智能网页抓取与代理",
-            "badge": "免费信用",
+            "description": "N/A",
+            "feats": "人工智能网络抓取和代理",
+            "badge": "免费积分",
             "price": "基于使用的定价"
         },
         "it": {
             "description": "N/A",
-            "features": "Web scraping AI e proxy",
-            "badge": "Crediti gratuiti",
+            "feats": "Web Scraping AI e Proxy",
+            "badge": "Crediti Gratuiti",
             "price": "Prezzi basati sull'uso"
         }
     },
     "Synthesia": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "$22/mo when billed annually"
         },
         "uk": {
-            "description": "N/A",
-            "features": "N/A",
+            "description": "Н/Д",
             "badge": "35%",
-            "price": "$22/міс при щорічній оплаті"
+            "price": "$22/міс при річній оплаті"
         },
         "ja": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
-            "price": "$22/月（年払い時）"
+            "price": "$22/月、年払い時"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "$22/mes cuando se factura anualmente"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
-            "price": "$22/mês quando faturado anualmente"
+            "price": "$22/mês quando cobrado anualmente"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "$22/mois facturé annuellement"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "$22/Monat bei jährlicher Abrechnung"
         },
         "zh": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
-            "price": "$22/月（按年计费）"
+            "price": "$22/月，年支付时"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "$22/mese se fatturato annualmente"
         }
@@ -504,167 +459,140 @@
     "HappyHorse-1.0": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "N/A",
-            "price": "Starting from $0.14/SEC."
+            "price": "Starting from $0.14/SEC"
         },
         "uk": {
-            "description": "НД",
-            "features": "НД",
-            "badge": "НД",
-            "price": "Від $0.14/ХВ."
+            "description": "Н/Д",
+            "badge": "Н/Д",
+            "price": "Починаючи з $0.14/SEC"
         },
-        "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
-            "badge": "該当なし",
-            "price": "$0.14/SECから始まります。"
+        "jp": {
+            "description": "N/A",
+            "badge": "N/A",
+            "price": "¥0.14/SECから"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "N/A",
-            "price": "A partir de $0.14/SEC."
+            "price": "A partir de $0.14/SEC"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "N/A",
-            "price": "A partir de $0.14/SEC."
+            "price": "A partir de $0.14/SEC"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "N/A",
-            "price": "À partir de 0,14 $/SEC."
+            "price": "À partir de $0.14/SEC"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "N/A",
-            "price": "Ab $0.14/SEC."
+            "price": "Ab $0.14/SEC"
         },
         "zh": {
-            "description": "不适用",
-            "features": "不适用",
-            "badge": "不适用",
-            "price": "起价为每秒 $0.14."
+            "description": "N/A",
+            "badge": "N/A",
+            "price": "起价为 $0.14/SEC"
         },
         "it": {
-            "description": "N/D",
-            "features": "N/D",
-            "badge": "N/D",
-            "price": "A partire da $0.14/SEC."
+            "description": "N/A",
+            "badge": "N/A",
+            "price": "A partire da $0.14/SEC"
         }
     },
     "Kling 3.0": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "$10/mo",
             "price": "Starting from $10/mo"
         },
         "uk": {
-            "description": "Н/Д",
-            "features": "Н/Д",
-            "badge": "$10/міс",
-            "price": "Починаючи з $10/міс"
+            "description": "N/A",
+            "badge": "10 дол./міс",
+            "price": "Починаючи з 10 дол./міс"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
-            "badge": "$10/月",
-            "price": "$10/月から"
+            "description": "N/A",
+            "badge": "月額10ドル",
+            "price": "月額10ドルから"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "$10/mes",
-            "price": "A partir de $10/mes"
+            "badge": "10 $/mes",
+            "price": "A partir de 10 $/mes"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "$10/mês",
-            "price": "A partir de $10/mês"
+            "badge": "10 $/mês",
+            "price": "A partir de 10 $/mês"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "10 $/mois",
-            "price": "À partir de 10 $/mois"
+            "badge": "10 €/mois",
+            "price": "À partir de 10 €/mois"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "10 $/Monat",
-            "price": "Ab 10 $/Monat"
+            "badge": "10 €/Monat",
+            "price": "Ab 10 €/Monat"
         },
         "zh": {
-            "description": "不适用",
-            "features": "不适用",
-            "badge": "$10/月",
-            "price": "起价$10/月"
+            "description": "N/A",
+            "badge": "10美元/月",
+            "price": "从10美元/月起"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "$10/mese",
-            "price": "A partire da $10/mese"
+            "badge": "10 €/mese",
+            "price": "A partire da 10 €/mese"
         }
     },
     "AIWriteBook": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "40%",
             "price": "Monthly price / billed yearly"
         },
         "uk": {
             "description": "Н/Д",
-            "features": "Н/Д",
             "badge": "40%",
-            "price": "Щомісячна ціна / виставляється рахунок раз на рік"
+            "price": "Щомісячна ціна / оплачено щорічно"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
+            "description": "N/A",
             "badge": "40%",
-            "price": "月額料金 / 年間請求"
+            "price": "月額料金 / 年払い"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "40%",
             "price": "Precio mensual / facturado anualmente"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "40%",
             "price": "Preço mensal / faturado anualmente"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "40%",
             "price": "Prix mensuel / facturé annuellement"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "40%",
-            "price": "Monatsgebühr / jährlich abgerechnet"
+            "price": "Monatlicher Preis / jährlich abgerechnet"
         },
         "zh": {
-            "description": "不适用",
-            "features": "不适用",
+            "description": "N/A",
             "badge": "40%",
-            "price": "每月价格 / 每年账单"
+            "price": "每月价格 / 每年结算"
         },
         "it": {
-            "description": "N/D",
-            "features": "N/D",
+            "description": "N/A",
             "badge": "40%",
             "price": "Prezzo mensile / fatturato annualmente"
         }
@@ -677,23 +605,23 @@
         },
         "uk": {
             "description": "Н/Д",
-            "badge": "До 50% ЗНИЖЕННЯ",
-            "price": "До 45% ЗНИЖЕННЯ"
+            "badge": "До 50% ЗНИЖКИ",
+            "price": "До 45% ЗНИЖКИ"
         },
         "ja": {
             "description": "N/A",
-            "badge": "最大50％OFF",
-            "price": "最大45％OFF"
+            "badge": "最大50%OFF",
+            "price": "最大45%OFF"
         },
         "es": {
             "description": "N/A",
-            "badge": "Hasta 50% de DESCUENTO",
-            "price": "Hasta 45% de DESCUENTO"
+            "badge": "Hasta un 50% de DESCUENTO",
+            "price": "Hasta un 45% de DESCUENTO"
         },
         "pt": {
             "description": "N/A",
-            "badge": "Até 50% de DESCONTO",
-            "price": "Até 45% de DESCONTO"
+            "badge": "Até 50% DE DESCONTO",
+            "price": "Até 45% DE DESCONTO"
         },
         "fr": {
             "description": "N/A",
@@ -702,13 +630,13 @@
         },
         "de": {
             "description": "N/A",
-            "badge": "Bis zu 50% Rabatt",
-            "price": "Bis zu 45% Rabatt"
+            "badge": "Bis zu 50% RABATT",
+            "price": "Bis zu 45% RABATT"
         },
         "zh": {
             "description": "N/A",
-            "badge": "最高50％OFF",
-            "price": "最高45％OFF"
+            "badge": "最高50% OFF",
+            "price": "最高45% OFF"
         },
         "it": {
             "description": "N/A",
@@ -719,55 +647,55 @@
     "WordHero": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/month"
         },
         "uk": {
-            "description": "НД",
-            "features": "НД",
+            "description": "Н/Д",
+            "feats": "Н/Д",
             "badge": "20%",
             "price": "$49/місяць"
         },
         "ja": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/月"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/mes"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/mês"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/mois"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/Monat"
         },
         "zh": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/月"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "20%",
             "price": "$49/mese"
         }
@@ -775,214 +703,224 @@
     "GitHub Copilot Pro": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$10/mo with $10 in monthly AI Credits."
+            "badge": "N/A"
         },
         "uk": {
             "description": "Н/Д",
-            "features": "Н/Д",
-            "badge": "Н/Д",
-            "price": "$10/міс з $10 щомісячних кредитів на ШІ."
+            "badge": "Н/Д"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
-            "badge": "該当なし",
-            "price": "$10/月、$10の月額AIクレジット付き。"
+            "description": "N/A",
+            "badge": "N/A"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$10/mes con $10 en créditos de IA mensuales."
+            "badge": "N/A"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$10/mês com $10 em créditos mensais de IA."
+            "badge": "N/A"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$10/mois avec $10 de crédits AI mensuels."
+            "badge": "N/A"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$10/Monat mit $10 in monatlichen KI-Gutschriften."
+            "badge": "N/A"
         },
         "zh": {
-            "description": "无",
-            "features": "无",
-            "badge": "无",
-            "price": "$10/月，附带每月$10的人工智能积分。"
+            "description": "N/A",
+            "badge": "N/A"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$10/mese con $10 di crediti mensili in IA."
-        }
+            "badge": "N/A"
+        },
+        "price": "$10/mo with $10 in monthly AI Credits"
     },
     "Cursor Pro": {
         "en": {
             "description": "AI-native IDE with advanced agent capabilities; optimal for complex tasks and multi-file editing.",
-            "badge": "20%",
-            "price": "$20"
+            "badge": "20%"
         },
         "uk": {
-            "description": "Інтегроване середовище розробки на базі штучного інтелекту з розвиненими можливостями агентів; оптимально для складних завдань та редагування кількох файлів.",
-            "badge": "20%",
-            "price": "$20"
+            "description": "Інтегроване середовище розробки з використанням штучного інтелекту та розширеними можливостями агентів; оптимальне для складних завдань та редагування кількох файлів.",
+            "badge": "20%"
         },
         "ja": {
-            "description": "高度なエージェント機能を備えたAIネイティブIDE; 複雑なタスクと複数ファイルの編集に最適です。",
-            "badge": "20%",
-            "price": "$20"
+            "description": "高度なエージェント機能を備えたAIネイティブIDEです。複雑なタスクや複数ファイルの編集に最適です。",
+            "badge": "20%"
         },
         "es": {
-            "description": "IDE nativa de IA con capacidades avanzadas de agente; óptimo para tareas complejas y edición de múltiples archivos.",
-            "badge": "20%",
-            "price": "$20"
+            "description": "IDE nativo de IA con capacidades avanzadas de agente; óptimo para tareas complejas y edición de múltiples archivos.",
+            "badge": "20%"
         },
         "pt": {
-            "description": "IDE nativa de IA com capacidades avançadas de agente; ideal para tarefas complexas e edição de vários arquivos.",
-            "badge": "20%",
-            "price": "$20"
+            "description": "IDE nativo de IA com capacidades avançadas de agente; ideal para tarefas complexas e edição de múltiplos arquivos.",
+            "badge": "20%"
         },
         "fr": {
-            "description": "IDE natif AI avec des capacités d'agent avancées ; optimal pour des tâches complexes et l'édition de plusieurs fichiers.",
-            "badge": "20%",
-            "price": "$20"
+            "description": "IDE natif IA avec des capacités avancées d'agent ; optimal pour les tâches complexes et l'édition de plusieurs fichiers.",
+            "badge": "20%"
         },
         "de": {
-            "description": "KI-natives IDE mit fortschrittlichen Agentenfähigkeiten; optimal für komplexe Aufgaben und die Bearbeitung mehrerer Dateien.",
-            "badge": "20%",
-            "price": "$20"
+            "description": "KI-natives IDE mit fortschrittlichen Agentenfunktionen; optimal für komplexe Aufgaben und die Bearbeitung mehrerer Dateien.",
+            "badge": "20%"
         },
         "zh": {
-            "description": "具有先进代理功能的AI原生IDE；适合复杂任务和多文件编辑。",
-            "badge": "20%",
-            "price": "$20"
+            "description": "具有高级代理功能的AI原生IDE；适用于复杂任务和多文件编辑。",
+            "badge": "20%"
         },
         "it": {
-            "description": "IDE nativa AI con capacità avanzate di agente; ottimale per compiti complessi e modifica di più file.",
-            "badge": "20%",
-            "price": "$20"
+            "description": "IDE nativo dell'IA con avanzate capacità di agente; ottimale per compiti complessi e modifica di più file.",
+            "badge": "20%"
         }
     },
     "Claude Code": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "50% OFF for 3 Months",
             "price": "$20/mo"
         },
         "uk": {
             "description": "Н/Д",
-            "features": "Н/Д",
-            "badge": "50% ЗНИЖКИ на 3 місяці",
+            "badge": "50% ЗНИЖКА на 3 Місяці",
             "price": "$20/міс"
         },
         "ja": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "3ヶ月間50%オフ",
             "price": "$20/月"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "50% de DESCUENTO por 3 Meses",
+            "badge": "50% de descuento en 3 meses",
             "price": "$20/mes"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "50% OFF por 3 Meses",
+            "badge": "50% de desconto por 3 meses",
             "price": "$20/mês"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "50% de RÉDUCTION pendant 3 Mois",
+            "badge": "50% de réduction pendant 3 mois",
             "price": "$20/mois"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "50% RABATT für 3 Monate",
+            "badge": "50% Rabatt für 3 Monate",
             "price": "$20/Monat"
         },
         "zh": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "3个月50%折扣",
+            "badge": "3个月打五折",
             "price": "$20/月"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "50% DI SCONTO per 3 Mesi",
+            "badge": "50% di sconto per 3 mesi",
             "price": "$20/mese"
         }
     },
     "AssemblyAI": {
         "en": {
             "description": "N/A",
-            "features": "Core transcription, Sentiment analysis, Entity detection, Content moderation",
+            "features": [
+                "Core transcription",
+                "Sentiment analysis",
+                "Entity detection",
+                "Content moderation"
+            ],
             "badge": "$50 in free credits for new accounts",
             "price": "$0.00025 per second; custom pricing for enterprise plans."
         },
         "uk": {
             "description": "Н/Д",
-            "features": "Основна транскрипція, Аналіз настроїв, Визначення сутностей, Модерація контенту",
-            "badge": "$50 безкоштовних кредитів для нових акаунтів",
-            "price": "$0.00025 за секунду; індивідуальне ціноутворення для корпоративних планів."
+            "features": [
+                "Основна транскрипція",
+                "Аналіз настроїв",
+                "Виявлення сутностей",
+                "Модерація контенту"
+            ],
+            "badge": "$50 безкоштовних кредитів для нових облікових записів",
+            "price": "$0.00025 за секунду; спеціальні ціни для корпоративних планів."
         },
         "ja": {
-            "description": "該当なし",
-            "features": "コアトランスクリプション、感情分析、エンティティ検出、コンテンツモデレーション",
-            "badge": "新規アカウント向けに$50の無料クレジット",
-            "price": "$0.00025毎秒; 企業プラン向けのカスタムプライシング。"
+            "description": "N/A",
+            "features": [
+                "コアトランスクリプション",
+                "感情分析",
+                "エンティティ検出",
+                "コンテンツモデレーション"
+            ],
+            "badge": "新しいアカウントに対して$50の無料クレジット",
+            "price": "$0.00025毎秒; 企業プランのカスタム価格。"
         },
         "es": {
             "description": "N/A",
-            "features": "Transcripción básica, Análisis de sentimientos, Detección de entidades, Moderación de contenido",
+            "features": [
+                "Transcripción básica",
+                "Análisis de sentimientos",
+                "Detección de entidades",
+                "Moderación de contenido"
+            ],
             "badge": "$50 en créditos gratuitos para nuevas cuentas",
             "price": "$0.00025 por segundo; precios personalizados para planes empresariales."
         },
         "pt": {
             "description": "N/A",
-            "features": "Transcrição principal, Análise de sentimentos, Detecção de entidades, Moderação de conteúdo",
+            "features": [
+                "Transcrição básica",
+                "Análise de sentimentos",
+                "Detecção de entidades",
+                "Moderação de conteúdo"
+            ],
             "badge": "$50 em créditos gratuitos para novas contas",
             "price": "$0.00025 por segundo; preços personalizados para planos empresariais."
         },
         "fr": {
             "description": "N/A",
-            "features": "Transcription principale, Analyse de sentiments, Détection d'entités, Modération de contenu",
-            "badge": "$50 de crédits gratuits pour les nouveaux comptes",
-            "price": "$0.00025 par seconde; tarification personnalisée pour les plans d'entreprise."
+            "features": [
+                "Transcription de base",
+                "Analyse des sentiments",
+                "Détection d'entités",
+                "Modération de contenu"
+            ],
+            "badge": "$50 de crédits gratuits pour de nouveaux comptes",
+            "price": "$0.00025 par seconde; prix sur mesure pour les plans d'entreprise."
         },
         "de": {
             "description": "N/A",
-            "features": "Kerntranskription, Sentimentanalyse, Entitätserkennung, Inhaltsmoderation",
-            "badge": "$50 an kostenlosen Guthaben für neue Konten",
-            "price": "$0.00025 pro Sekunde; individuelle Preise für Unternehmenspläne."
+            "features": [
+                "Kerntranskription",
+                "Sentimentanalyse",
+                "Entitätenerkennung",
+                "Inhaltsmoderation"
+            ],
+            "badge": "$50 an kostenlosen Krediten für neue Konten",
+            "price": "$0.00025 pro Sekunde; individuelle Preisgestaltung für Unternehmenspläne."
         },
         "zh": {
-            "description": "无",
-            "features": "核心转录, 情感分析, 实体检测, 内容审核",
-            "badge": "新账户可获得50美元免费积分",
-            "price": "每秒0.00025美元; 企业计划的自定义定价。"
+            "description": "N/A",
+            "features": [
+                "核心转录",
+                "情感分析",
+                "实体检测",
+                "内容审核"
+            ],
+            "badge": "新账户可获得$50的免费积分",
+            "price": "$0.00025每秒；企业计划的自定义定价。"
         },
         "it": {
             "description": "N/A",
-            "features": "Trascrizione di base, Analisi del sentimento, Rilevamento delle entità, Moderazione dei contenuti",
+            "features": [
+                "Trascrizione di base",
+                "Analisi del sentimento",
+                "Rilevamento delle entità",
+                "Moderazione dei contenuti"
+            ],
             "badge": "$50 in crediti gratuiti per nuovi account",
             "price": "$0.00025 al secondo; prezzi personalizzati per piani aziendali."
         }
@@ -995,16 +933,16 @@
             "price": "N/A"
         },
         "uk": {
-            "description": "N/A",
-            "features": "Гнучкі варіанти, рівні зобов'язань з знижками, високоякісний звуковий вихід.",
+            "description": "Немає",
+            "features": "Гнучкі варіанти, рівні зобов'язань із знижками, висока якість голосового виходу.",
             "badge": "55%",
-            "price": "N/A"
+            "price": "Немає"
         },
         "ja": {
-            "description": "N/A",
-            "features": "柔軟なオプション、割引のあるコミットメントティア、高品質の音声出力。",
+            "description": "該当なし",
+            "features": "柔軟なオプション、割引のあるコミットメント層、高品質の音声出力。",
             "badge": "55%",
-            "price": "N/A"
+            "price": "該当なし"
         },
         "es": {
             "description": "N/A",
@@ -1020,21 +958,21 @@
         },
         "fr": {
             "description": "N/A",
-            "features": "Options flexibles, niveaux d'engagement avec réductions, sortie vocale de haute qualité.",
+            "features": "Options flexibles, niveaux d'engagement avec remises, sortie vocale de haute qualité.",
             "badge": "55%",
             "price": "N/A"
         },
         "de": {
             "description": "N/A",
-            "features": "Flexible Optionen, Engagementstufen mit Rabatten, hochwertige Sprachausgabe.",
+            "features": "Flexible Optionen, Verpflichtungsstufen mit Rabatten, hochwertige Sprachausgabe.",
             "badge": "55%",
             "price": "N/A"
         },
         "zh": {
-            "description": "N/A",
-            "features": "灵活的选项、带折扣的承诺等级、高质量的语音输出。",
+            "description": "不适用",
+            "features": "灵活的选项、具有折扣的承诺层、高质量的语音输出。",
             "badge": "55%",
-            "price": "N/A"
+            "price": "不适用"
         },
         "it": {
             "description": "N/A",
@@ -1046,111 +984,156 @@
     "Amazon Polly and Amazon Transcribe": {
         "en": {
             "description": "N/A",
-            "features": "Neural TTS, Speech recognition, Custom vocabulary, Integration with AWS",
+            "features": [
+                "Neural TTS",
+                "Speech recognition",
+                "Custom vocabulary",
+                "Integration with AWS"
+            ],
             "badge": "0%",
             "price": "$4 per million characters for standard voices, $16 for neural."
         },
         "uk": {
             "description": "Н/Д",
-            "features": "Нейронний TTS, Розпізнавання мови, Налаштовуваний словник, Інтеграція з AWS",
+            "features": [
+                "Нейронне ТТС",
+                "Розпізнавання мови",
+                "Користувацький словник",
+                "Інтеграція з AWS"
+            ],
             "badge": "0%",
-            "price": "$4 за мільйон символів для стандартних голосів, $16 за нейронні."
+            "price": "$4 за мільйон символів для стандартних голосів, $16 для нейронних."
         },
         "ja": {
             "description": "N/A",
-            "features": "ニューラルTTS、音声認識、カスタムボキャブラリー、AWSとの統合",
+            "features": [
+                "ニューラルTTS",
+                "音声認識",
+                "カスタム語彙",
+                "AWSとの統合"
+            ],
             "badge": "0%",
-            "price": "$4ごとに100万文字（標準音声）、$16（ニューラル）。"
+            "price": "$4毎百万文字（標準音声）、$16（ニューラル）。"
         },
         "es": {
             "description": "N/A",
-            "features": "TTS neuronal, Reconocimiento de voz, Vocabulario personalizado, Integración con AWS",
+            "features": [
+                "TTS neuronal",
+                "Reconocimiento de voz",
+                "Vocabulario personalizado",
+                "Integración con AWS"
+            ],
             "badge": "0%",
-            "price": "$4 por millón de caracteres para voces estándar, $16 para voces neuronales."
+            "price": "$4 por millón de caracteres para voces estándar, $16 para neural."
         },
         "pt": {
             "description": "N/A",
-            "features": "TTS Neural, Reconhecimento de fala, Vocabulário personalizado, Integração com AWS",
+            "features": [
+                "TTS Neural",
+                "Reconhecimento de fala",
+                "Vocabulário personalizado",
+                "Integração com AWS"
+            ],
             "badge": "0%",
-            "price": "$4 por milhão de caracteres para vozes padrão, $16 para neural."
+            "price": "$4 por milhão de caracteres para vozes padrão, $16 para vozes neurais."
         },
         "fr": {
             "description": "N/A",
-            "features": "TTS neural, Reconnaissance vocale, Vocabulaire personnalisé, Intégration avec AWS",
+            "features": [
+                "TTS neuronal",
+                "Reconnaissance vocale",
+                "Vocabulaire personnalisé",
+                "Intégration avec AWS"
+            ],
             "badge": "0%",
             "price": "$4 par million de caractères pour les voix standard, $16 pour les voix neuronales."
         },
         "de": {
             "description": "N/A",
-            "features": "Neuronales TTS, Sprachrecognition, Benutzerdefiniertes Vokabular, Integration mit AWS",
+            "features": [
+                "Neurales TTS",
+                "Spracherkennung",
+                "Benutzerdefiniertes Vokabular",
+                "Integration mit AWS"
+            ],
             "badge": "0%",
-            "price": "$4 pro Million Zeichen für Standardstimmen, $16 für neuronale."
+            "price": "$4 pro Millionen Zeichen für Standardstimmen, $16 für neurale."
         },
         "zh": {
             "description": "N/A",
-            "features": "神经TTS、语音识别、自定义词汇、与AWS集成",
+            "features": [
+                "神经TTS",
+                "语音识别",
+                "自定义词汇",
+                "与AWS集成"
+            ],
             "badge": "0%",
-            "price": "$4每百万字符（标准声音），$16（神经）。"
+            "price": "$4每百万字符（标准声音），$16（神经）."
         },
         "it": {
             "description": "N/A",
-            "features": "TTS neurale, Riconoscimento vocale, Vocabolario personalizzato, Integrazione con AWS",
+            "features": [
+                "TTS neurale",
+                "Riconoscimento vocale",
+                "Vocabolario personalizzato",
+                "Integrazione con AWS"
+            ],
             "badge": "0%",
-            "price": "$4 per milione di caratteri per voci standard, $16 per neurali."
+            "price": "$4 per milione di caratteri per voci standard, $16 per voci neurali."
         }
     },
     "Midjourney v7": {
         "en": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
-            "price": "$30 / mo"
+            "price": "$30 / mo."
         },
         "uk": {
             "description": "Н/Д",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
-            "price": "$30 / мес"
+            "price": "$30 / міс."
         },
         "ja": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
             "price": "$30 / 月"
         },
         "es": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
             "price": "$30 / mes"
         },
         "pt": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
             "price": "$30 / mês"
         },
         "fr": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
             "price": "$30 / mois"
         },
         "de": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
             "price": "$30 / Monat"
         },
         "zh": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
             "price": "$30 / 月"
         },
         "it": {
             "description": "N/A",
-            "features": "4096 x 4096",
+            "feats": "4096 x 4096",
             "badge": "20%",
             "price": "$30 / mese"
         }
@@ -1163,8 +1146,8 @@
             "price": "$20 / mo"
         },
         "uk": {
-            "description": "Немає",
-            "features": "Немає",
+            "description": "N/A",
+            "features": "N/A",
             "badge": "35%",
             "price": "$20 / міс"
         },
@@ -1199,8 +1182,8 @@
             "price": "$20 / Monat"
         },
         "zh": {
-            "description": "不适用",
-            "features": "不适用",
+            "description": "N/A",
+            "features": "N/A",
             "badge": "35%",
             "price": "$20 / 月"
         },
@@ -1216,111 +1199,111 @@
             "description": "N/A",
             "features": "2048 x 2048",
             "badge": "75% OFF for select plans",
-            "price": "$19.99 / mo."
+            "price": "$19.99 / mo"
         },
         "uk": {
-            "description": "Немає даних",
+            "description": "Н/Д",
             "features": "2048 x 2048",
-            "badge": "Знижка 75% на вибрані плани",
-            "price": "$19,99 / міс."
+            "badge": "75% ЗНИЖКА на вибрані плани",
+            "price": "$19.99 / міс"
         },
         "ja": {
-            "description": "該当なし",
+            "description": "N/A",
             "features": "2048 x 2048",
-            "badge": "特定のプランで75％オフ",
+            "badge": "選択されたプランで75%オフ",
             "price": "$19.99 / 月"
         },
         "es": {
             "description": "N/A",
             "features": "2048 x 2048",
-            "badge": "75% de descuento en planes seleccionados",
+            "badge": "75% DE DESCUENTO en planes seleccionados",
             "price": "$19.99 / mes"
         },
         "pt": {
             "description": "N/A",
             "features": "2048 x 2048",
-            "badge": "75% de desconto em planos selecionados",
+            "badge": "75% DE DESCONTO em planos selecionados",
             "price": "$19.99 / mês"
         },
         "fr": {
             "description": "N/A",
             "features": "2048 x 2048",
-            "badge": "75% de réduction pour certains plans",
+            "badge": "75% DE REMISE pour certains forfaits",
             "price": "$19.99 / mois"
         },
         "de": {
             "description": "N/A",
             "features": "2048 x 2048",
-            "badge": "75% Rabatt für ausgewählte Pläne",
+            "badge": "75% RABATT auf ausgewählte Pläne",
             "price": "$19.99 / Monat"
         },
         "zh": {
-            "description": "无",
+            "description": "N/A",
             "features": "2048 x 2048",
-            "badge": "精选计划75%折扣",
+            "badge": "选择计划享受75%的折扣",
             "price": "$19.99 / 月"
         },
         "it": {
             "description": "N/A",
             "features": "2048 x 2048",
-            "badge": "75% di sconto per piani selezionati",
+            "badge": "75% DI SCONTO su piani selezionati",
             "price": "$19.99 / mese"
         }
     },
     "Surfer SEO": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "N/A",
-            "price": "Starts at $99/month."
+            "price": "Starts at $99/month"
         },
         "uk": {
-            "description": "Немає",
-            "features": "Немає",
-            "badge": "Немає",
-            "price": "Починається від 99 доларів США на місяць."
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "Починається від $99/місяць"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
-            "badge": "該当なし",
-            "price": "月額99ドルから。"
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "月額99ドルから"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "N/A",
-            "price": "A partir de $99/mes."
+            "price": "Comienza en $99/mes"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "N/A",
-            "price": "A partir de $99/mês."
+            "price": "A partir de $99/mês"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "N/A",
-            "price": "À partir de 99 $/mois."
+            "price": "À partir de 99 $/mois"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "N/A",
-            "price": "Ab 99 $/Monat."
+            "price": "Ab 99 $/Monat"
         },
         "zh": {
-            "description": "不适用",
-            "features": "不适用",
-            "badge": "不适用",
-            "price": "价格从每月99美元起。"
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "每月99美元起"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
+            "feats": "N/A",
             "badge": "N/A",
-            "price": "A partire da 99$/mese."
+            "price": "A partire da 99 $/mese"
         }
     },
     "HubSpot AEO Grader": {
@@ -1331,9 +1314,9 @@
             "price": "Free"
         },
         "uk": {
-            "description": "Н/Д",
-            "features": "Н/Д",
-            "badge": "Н/Д",
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
             "price": "Безкоштовно"
         },
         "ja": {
@@ -1382,55 +1365,46 @@
     "Jasper": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "10,000 Bonus Words",
             "price": "$69"
         },
         "uk": {
-            "description": "Н/Д",
-            "features": "Н/Д",
-            "badge": "10,000 Бонусних Слів",
+            "description": "N/A",
+            "badge": "10,000 бонусних слів",
             "price": "$69"
         },
         "ja": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "10,000ボーナス単語",
+            "badge": "10,000ボーナスワード",
             "price": "$69"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "10,000 Palabras Bonificadas",
             "price": "$69"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "10.000 Palavras Bônus",
             "price": "$69"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "10 000 Mots Bonus",
             "price": "$69"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "10.000 Bonuswörter",
             "price": "$69"
         },
         "zh": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "10,000个额外单词",
+            "badge": "10,000个奖金词",
             "price": "$69"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "10.000 Parole Bonus",
             "price": "$69"
         }
@@ -1438,315 +1412,207 @@
     "HappyHorse-1.0 Text-to-video": {
         "en": {
             "description": "Generates videos from text prompts with support for 720P or 1080P output and flexible aspect ratios.",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "From $0.14/SEC"
+            "badge": "N/A"
         },
         "uk": {
-            "description": "Генерує відео з текстових запитів з підтримкою виходу 720P або 1080P та гнучкими аспектами.",
-            "features": "НД",
-            "badge": "НД",
-            "price": "Від $0.14/сек"
+            "description": "Генерує відео з текстових підказок з підтримкою виводу 720P або 1080P та гнучкими співвідношеннями сторін.",
+            "badge": "N/A"
         },
         "ja": {
-            "description": "テキストプロンプトからビデオを生成し、720Pまたは1080P出力および柔軟なアスペクト比をサポートします。",
-            "features": "該当なし",
-            "badge": "該当なし",
-            "price": "$0.14/SECから"
+            "description": "テキストプロンプトからビデオを生成し、720Pまたは1080P出力と柔軟なアスペクト比をサポートします。",
+            "badge": "N/A"
         },
         "es": {
-            "description": "Genera videos a partir de texto con soporte para salida de 720P o 1080P y relaciones de aspecto flexibles.",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "Desde $0.14/SEG"
+            "description": "Genera videos a partir de indicaciones de texto con soporte para salida en 720P o 1080P y relaciones de aspecto flexibles.",
+            "badge": "N/A"
         },
         "pt": {
             "description": "Gera vídeos a partir de prompts de texto com suporte para saída em 720P ou 1080P e proporções de aspecto flexíveis.",
-            "features": "N/D",
-            "badge": "N/D",
-            "price": "A partir de $0.14/SEG"
+            "badge": "N/A"
         },
         "fr": {
-            "description": "Génère des vidéos à partir de textes avec support pour des sorties en 720P ou 1080P et des rapports d'aspect flexibles.",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "À partir de 0,14 $/SEC"
+            "description": "Génère des vidéos à partir d'invites textuelles avec prise en charge de la sortie en 720P ou 1080P et des rapports d'aspect flexibles.",
+            "badge": "N/A"
         },
         "de": {
-            "description": "Generiert Videos aus Textaufforderungen mit Unterstützung für 720P oder 1080P Ausgaben und flexibler Seitenverhältnisse.",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "Ab $0.14/SEK"
+            "description": "Generiert Videos aus Text-Prompts mit Unterstützung für 720P- oder 1080P-Ausgabe und flexibele Seitenverhältnisse.",
+            "badge": "N/A"
         },
         "zh": {
-            "description": "从文本提示生成视频，支持720P或1080P输出，并具有灵活的宽高比。",
-            "features": "不适用",
-            "badge": "不适用",
-            "price": "从每秒$0.14起"
+            "description": "根据文本提示生成视频，支持720P或1080P输出以及灵活的纵横比。",
+            "badge": "N/A"
         },
         "it": {
-            "description": "Genera video da prompt testuali con supporto per output a 720P o 1080P e rapporti di aspetto flessibili.",
-            "features": "N/D",
-            "badge": "N/D",
-            "price": "A partire da $0.14/SEC"
+            "description": "Genera video a partire da prompt di testo con supporto per output a 720P o 1080P e rapporti di aspetto flessibili.",
+            "badge": "N/A"
         }
     },
     "ChatGPT": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20% OFF",
-            "price": "$20/month for subscription"
+            "badge": "20% OFF"
         },
         "uk": {
-            "description": "N/A",
-            "features": "N/A",
-            "badge": "20% ЗНИЖКА",
-            "price": "$20/місяць за підписку"
+            "description": "Немає даних",
+            "badge": "20% ЗНИЖКА"
         },
         "ja": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20%オフ",
-            "price": "$20/月のサブスクリプション"
+            "badge": "20%割引"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20% DE DESCUENTO",
-            "price": "$20/mes por suscripción"
+            "badge": "20% DESCUENTO"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20% DE DESCONTO",
-            "price": "$20/mês para assinatura"
+            "badge": "20% DE DESCONTO"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20% DE RÉDUCTION",
-            "price": "$20/mois pour l'abonnement"
+            "badge": "20% DE RÉDUCTION"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20% RABATT",
-            "price": "$20/Monat für Abonnement"
+            "badge": "20% RABATT"
         },
         "zh": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20% 折扣",
-            "price": "$20/月的订阅"
+            "badge": "20%OFF"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "20% DI SCONTO",
-            "price": "$20/mese per abbonamento"
+            "badge": "20% DI SCONTO"
         }
     },
     "Rytr": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "40% OFF",
-            "price": "Available with limited features."
+            "badge": "40% OFF"
         },
         "uk": {
-            "description": "Немає",
-            "features": "Немає",
-            "badge": "40% ЗНИЖКА",
-            "price": "Доступно з обмеженими функціями."
+            "description": "Н/Д",
+            "badge": "40% ЗНИЖКА"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
-            "badge": "40%オフ",
-            "price": "限定機能で利用可能。"
+            "description": "N/A",
+            "badge": "40％オフ"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "40% DESCUENTO",
-            "price": "Disponible con funciones limitadas."
+            "badge": "40% DESCUENTO"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "40% DE DESCONTO",
-            "price": "Disponível com recursos limitados."
+            "badge": "40% DE DESCONTO"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "40% DE RÉDUCTION",
-            "price": "Disponible avec des fonctionnalités limitées."
+            "badge": "40 % DE RÉDUCTION"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "40% RABATT",
-            "price": "Verfügbar mit eingeschränkten Funktionen."
+            "badge": "40 % RABATT"
         },
         "zh": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "享受40%优惠",
-            "price": "有出售的有限功能。"
+            "badge": "降价 40%"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "40% DI SCONTO",
-            "price": "Disponibile con funzioni limitate."
+            "badge": "40% DI SCONTO"
         }
     },
     "GitHub Copilot": {
         "en": {
-            "description": "GitHub Copilot is an AI-powered code completion tool that helps developers write code faster and with more accuracy.",
-            "features": "Intelligent code suggestions, support for multiple programming languages, context-aware completions, integration with popular IDEs.",
-            "badge": "Official GitHub Tool",
-            "price": "Yes"
+            "description": "GitHub Copilot is an AI-powered code completion tool that helps developers write code faster and with fewer errors.",
+            "badge": "GitHub Copilot"
         },
         "uk": {
-            "description": "GitHub Copilot – це інструмент автоматичного завершення коду на базі ШІ, який допомагає розробникам швидше і точніше писати код.",
-            "features": "Інтелектуальні пропозиції коду, підтримка кількох мов програмування, завершення з урахуванням контексту, інтеграція з популярними IDE.",
-            "badge": "Офіційний інструмент GitHub",
-            "price": "Так"
+            "description": "GitHub Copilot - це інструмент автозаповнення коду на базі ШІ, який допомагає розробникам швидше писати код і з меншими помилками.",
+            "badge": "GitHub Copilot"
         },
         "ja": {
-            "description": "GitHub Copilotは、開発者がコードをより迅速かつ正確に記述するのを支援するAI駆動のコード補完ツールです。",
-            "features": "インテリジェントなコード提案、複数のプログラミング言語のサポート、コンテキストに基づく補完、人気IDEとの統合。",
-            "badge": "公式GitHubツール",
-            "price": "はい"
+            "description": "GitHub Copilotは、開発者がより速く、エラーを減らしてコードを書くのを助けるAI駆動のコード補完ツールです。",
+            "badge": "GitHub Copilot"
         },
         "es": {
-            "description": "GitHub Copilot es una herramienta de autocompletado de código impulsada por IA que ayuda a los desarrolladores a escribir código más rápido y con más precisión.",
-            "features": "Sugerencias de código inteligentes, soporte para múltiples lenguajes de programación, completaciones conscientes del contexto, integración con IDE populares.",
-            "badge": "Herramienta oficial de GitHub",
-            "price": "Sí"
+            "description": "GitHub Copilot es una herramienta de autocompletado de código impulsada por IA que ayuda a los desarrolladores a escribir código más rápido y con menos errores.",
+            "badge": "GitHub Copilot"
         },
         "pt": {
-            "description": "O GitHub Copilot é uma ferramenta de autocompletar código impulsionada por IA que ajuda os desenvolvedores a escrever código mais rápido e com mais precisão.",
-            "features": "Sugestões de código inteligentes, suporte para várias linguagens de programação, completas com base no contexto, integração com IDEs populares.",
-            "badge": "Ferramenta oficial do GitHub",
-            "price": "Sim"
+            "description": "O GitHub Copilot é uma ferramenta de autocompletar código movida por IA que ajuda os desenvolvedores a escrever código mais rápido e com menos erros.",
+            "badge": "GitHub Copilot"
         },
         "fr": {
-            "description": "GitHub Copilot est un outil de complétion de code alimenté par IA qui aide les développeurs à écrire du code plus rapidement et avec plus de précision.",
-            "features": "Suggestions de code intelligentes, support pour plusieurs langages de programmation, complétions conscientes du contexte, intégration avec des IDE populaires.",
-            "badge": "Outil officiel de GitHub",
-            "price": "Oui"
+            "description": "GitHub Copilot est un outil d'auto-complétion de code alimenté par l'IA qui aide les développeurs à écrire du code plus rapidement et avec moins d'erreurs.",
+            "badge": "GitHub Copilot"
         },
         "de": {
-            "description": "GitHub Copilot ist ein KI-gestütztes Code-Vervollständigungswerkzeug, das Entwicklern hilft, Code schneller und genauer zu schreiben.",
-            "features": "Intelligente Code-Vorschläge, Unterstützung für mehrere Programmiersprachen, kontextabhängige Vervollständigungen, Integration mit beliebten IDEs.",
-            "badge": "Offizielles GitHub-Werkzeug",
-            "price": "Ja"
+            "description": "GitHub Copilot ist ein KI-gestütztes Tool zur Codevervollständigung, das Entwicklern hilft, schneller und fehlerfreier zu programmieren.",
+            "badge": "GitHub Copilot"
         },
         "zh": {
-            "description": "GitHub Copilot 是一款由 AI 驱动的代码补全工具，帮助开发者更快、更准确地编写代码。",
-            "features": "智能代码建议，支持多种编程语言，基于上下文的补全，集成流行的 IDE。",
-            "badge": "官方 GitHub 工具",
-            "price": "是"
+            "description": "GitHub Copilot 是一个由 AI 驱动的代码补全工具，可以帮助开发人员更快地编写代码并减少错误。",
+            "badge": "GitHub Copilot"
         },
         "it": {
-            "description": "GitHub Copilot è uno strumento di completamento del codice alimentato da IA che aiuta gli sviluppatori a scrivere codice più velocemente e con maggiore precisione.",
-            "features": "Suggerimenti di codice intelligenti, supporto per più linguaggi di programmazione, completamenti consapevoli del contesto, integrazione con IDE popolari.",
-            "badge": "Strumento ufficiale di GitHub",
-            "price": "Sì"
+            "description": "GitHub Copilot è uno strumento di completamento automatico del codice alimentato da IA che aiuta gli sviluppatori a scrivere codice più velocemente e con meno errori.",
+            "badge": "GitHub Copilot"
         }
     },
     "Tabnine": {
         "en": {
             "description": "N/A",
-            "features": [
-                "Privacy-first with local execution",
-                "IDE extension",
-                "Free plan available"
-            ],
+            "feats": "Privacy-first with local execution, IDE extension, Free plan available",
             "badge": "15%",
             "price": "$39/user per month"
         },
         "uk": {
-            "description": "Немає даних",
-            "features": [
-                "Конфіденційність на першому місці з локальним виконанням",
-                "Розширення IDE",
-                "Безкоштовний план доступний"
-            ],
+            "description": "Н/Д",
+            "feats": "Пріоритет конфіденційності з локальним виконанням, розширення IDE, доступний безкоштовний план",
             "badge": "15%",
             "price": "$39/користувача на місяць"
         },
         "ja": {
             "description": "N/A",
-            "features": [
-                "ローカル実行によるプライバシー優先",
-                "IDE拡張",
-                "無料プラン利用可能"
-            ],
+            "feats": "プライバシー重視のローカル実行、IDE拡張、無料プランあり",
             "badge": "15%",
             "price": "$39/ユーザーあたり月"
         },
         "es": {
             "description": "N/A",
-            "features": [
-                "Prioridad a la privacidad con ejecución local",
-                "Extensión de IDE",
-                "Plan gratuito disponible"
-            ],
+            "feats": "Primero en privacidad con ejecución local, extensión de IDE, plan gratuito disponible",
             "badge": "15%",
             "price": "$39/usuario por mes"
         },
         "pt": {
             "description": "N/A",
-            "features": [
-                "Privacidade em primeiro lugar com execução local",
-                "Extensão de IDE",
-                "Plano gratuito disponível"
-            ],
+            "feats": "Privacidade em primeiro lugar com execução local, extensão de IDE, plano gratuito disponível",
             "badge": "15%",
             "price": "$39/usuário por mês"
         },
         "fr": {
             "description": "N/A",
-            "features": [
-                "Confidentialité prioritaire avec exécution locale",
-                "Extension IDE",
-                "Plan gratuit disponible"
-            ],
+            "feats": "Priorité à la confidentialité avec exécution locale, extension IDE, plan gratuit disponible",
             "badge": "15%",
             "price": "$39/utilisateur par mois"
         },
         "de": {
             "description": "N/A",
-            "features": [
-                "Datenschutz zuerst mit lokaler Ausführung",
-                "IDE-Erweiterung",
-                "Kostenloser Plan verfügbar"
-            ],
+            "feats": "Datenschutz zuerst mit lokaler Ausführung, IDE-Erweiterung, kostenloser Plan verfügbar",
             "badge": "15%",
             "price": "$39/Nutzer pro Monat"
         },
         "zh": {
             "description": "N/A",
-            "features": [
-                "以隐私为先，支持本地执行",
-                "IDE扩展",
-                "提供免费计划"
-            ],
+            "feats": "隐私优先，局部执行，IDE扩展，提供免费计划",
             "badge": "15%",
             "price": "$39/用户每月"
         },
         "it": {
             "description": "N/A",
-            "features": [
-                "Privacy-first con esecuzione locale",
-                "Estensione IDE",
-                "Piano gratuito disponibile"
-            ],
+            "feats": "Privacy-first con esecuzione locale, estensione IDE, piano gratuito disponibile",
             "badge": "15%",
             "price": "$39/utente al mese"
         }
@@ -1754,57 +1620,39 @@
     "Resemble.AI": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "$5 off Starter Plan",
-            "price": "N/A"
+            "badge": "$5 off Starter Plan"
         },
         "uk": {
-            "description": "Немає даних",
-            "features": "Немає даних",
-            "badge": "-5 доларів США на стартовий план",
-            "price": "Немає даних"
+            "description": "Н/Д",
+            "badge": "Знижка $5 на стартовий план"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
-            "badge": "スタータープラン $5オフ",
-            "price": "該当なし"
+            "description": "N/A",
+            "badge": "スタータープランで$5オフ"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "$5 de descuento en el plan inicial",
-            "price": "N/A"
+            "badge": "$5 de descuento en el plan Starter"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "R$5 de desconto no Plano Inicial",
-            "price": "N/A"
+            "badge": "$5 de desconto no plano Starter"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "5 $ de réduction sur le projet de démarrage",
-            "price": "N/A"
+            "badge": "5 $ de réduction sur le plan Starter"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "5 $ Rabatt auf den Starter-Plan",
-            "price": "N/A"
+            "badge": "5 $ Rabatt auf den Starter-Plan"
         },
         "zh": {
-            "description": "不适用",
-            "features": "不适用",
-            "badge": "入门计划优惠$5",
-            "price": "不适用"
+            "description": "N/A",
+            "badge": "首个计划减免$5"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "$5 di sconto sul piano di avvio",
-            "price": "N/A"
+            "badge": "$5 di sconto sul piano Starter"
         }
     },
     "Murf AI": {
@@ -1814,42 +1662,42 @@
             "price": "$29 per month for the Creator Starter Plan."
         },
         "uk": {
-            "description": "Пропонує реалістичні голосові озвучки на базі ШІ, що підходять для електронного навчання, корпоративних презентацій та подкастів.",
-            "badge": "Знижка 40%",
-            "price": "$29 на місяць за план Creator Starter."
+            "description": "Пропонує реалістичні голосові озвучення на базі ШІ, придатні для електронного навчання, корпоративних презентацій та подкастів.",
+            "badge": "40% знижка",
+            "price": "29 доларів на місяць за планом Creator Starter."
         },
         "ja": {
-            "description": "Eラーニング、企業プレゼンテーション、ポッドキャストに適したリアルなAIボイスオーバーを提供します。",
+            "description": "eラーニング、企業プレゼンテーション、ポッドキャストに適したリアルなAI音声を提供します。",
             "badge": "40%オフ",
-            "price": "$29/月のクリエイタースタートプラン。"
+            "price": "$29のCreator Starterプランは月額です。"
         },
         "es": {
-            "description": "Ofrece voces en off de IA realistas adecuadas para e-learning, presentaciones corporativas y pódcast.",
+            "description": "Ofrece voces en off de IA realistas adecuadas para e-learning, presentaciones corporativas y podcasts.",
             "badge": "40% de descuento",
-            "price": "$29 por mes para el Plan de Inicio de Creador."
+            "price": "$29 al mes por el Plan de Inicio de Creadores."
         },
         "pt": {
-            "description": "Oferece voiceovers de IA realistas adequados para e-learning, apresentações corporativas e podcasts.",
+            "description": "Oferece narrações realistas com IA adequadas para e-learning, apresentações corporativas e podcasts.",
             "badge": "40% de desconto",
-            "price": "$29 por mês para o Plano Criador Inicial."
+            "price": "$29 por mês para o Plano de Início do Criador."
         },
         "fr": {
-            "description": "Propose des voix off réalistes par IA adaptées aux e-learning, présentations d'entreprise et podcasts.",
+            "description": "Offre des voix off réalistes avec IA adaptées à l'e-learning, aux présentations d'entreprise et aux podcasts.",
             "badge": "40% de réduction",
-            "price": "$29 par mois pour le Plan de Démarrage Créateur."
+            "price": "29 $ par mois pour le plan de démarrage des créateurs."
         },
         "de": {
-            "description": "Bietet realistische KI-Voiceovers, die sich für E-Learning, Unternehmenspräsentationen und Podcasts eignen.",
+            "description": "Bietet realistische KI-Sprachübertragungen, die sich für E-Learning, Unternehmenspräsentationen und Podcasts eignen.",
             "badge": "40% Rabatt",
-            "price": "$29 pro Monat für den Creator Starter Plan."
+            "price": "29 $ pro Monat für den Creator Starter Plan."
         },
         "zh": {
             "description": "提供适合电子学习、企业演示和播客的真实AI配音。",
-            "badge": "优惠40%",
-            "price": "创作者入门计划每月$29。"
+            "badge": "享受40%的折扣",
+            "price": "创作者入门计划每月29美元。"
         },
         "it": {
-            "description": "Offre voiceover IA realistici adatti per e-learning, presentazioni aziendali e podcast.",
+            "description": "Offre voci AI realistiche adatte per e-learning, presentazioni aziendali e podcast.",
             "badge": "40% di sconto",
             "price": "$29 al mese per il piano Creator Starter."
         }
@@ -1857,279 +1705,279 @@
     "Nano Banana 2": {
         "en": {
             "description": "Nano Banana 2 is an advanced AI image generation tool.",
-            "features": "4096 x 4096 Max Resolution, 12s average speed, High-speed iteration",
+            "features": {
+                "max_resolution": "4096 x 4096 Max Resolution",
+                "average_speed": "12s average speed",
+                "high_speed_iteration": "High-speed iteration"
+            },
             "badge": "N/A",
             "price": "$0.067 / img"
         },
         "uk": {
-            "description": "Nano Banana 2 - це передовий інструмент генерації зображень на базі штучного інтелекту.",
-            "features": "Максимальна роздільна здатність 4096 x 4096, середня швидкість 12 с, висока швидкість ітерації",
-            "badge": "Немає",
+            "description": "Nano Banana 2 - це просунутий інструмент генерування зображень на базі ШІ.",
+            "features": {
+                "max_resolution": "Максимальна роздільна здатність 4096 x 4096",
+                "average_speed": "Середня швидкість 12 секунд",
+                "high_speed_iteration": "Високошвидкісна ітерація"
+            },
+            "badge": "Н/Д",
             "price": "$0.067 / зображення"
         },
         "ja": {
-            "description": "Nano Banana 2は、高度なAI画像生成ツールです。",
-            "features": "最大解像度4096 x 4096、平均速度12秒、高速イテレーション",
+            "description": "ナノバナナ2は先進的なAI画像生成ツールです。",
+            "features": {
+                "max_resolution": "最大解像度4096 x 4096",
+                "average_speed": "平均速度12秒",
+                "high_speed_iteration": "高速イテレーション"
+            },
             "badge": "該当なし",
             "price": "$0.067 / 画像"
         },
         "es": {
             "description": "Nano Banana 2 es una herramienta avanzada de generación de imágenes con IA.",
-            "features": "Resolución máxima de 4096 x 4096, velocidad promedio de 12s, iteración de alta velocidad",
+            "features": {
+                "max_resolution": "Resolución máxima de 4096 x 4096",
+                "average_speed": "Velocidad media de 12 segundos",
+                "high_speed_iteration": "Iteración de alta velocidad"
+            },
             "badge": "N/A",
             "price": "$0.067 / img"
         },
         "pt": {
             "description": "Nano Banana 2 é uma ferramenta avançada de geração de imagens com IA.",
-            "features": "Resolução máxima de 4096 x 4096, velocidade média de 12s, iteração em alta velocidade",
-            "badge": "N/D",
-            "price": "$0.067 / img"
+            "features": {
+                "max_resolution": "Resolução máxima de 4096 x 4096",
+                "average_speed": "Velocidade média de 12s",
+                "high_speed_iteration": "Iteração de alta velocidade"
+            },
+            "badge": "N/A",
+            "price": "$0.067 / imagem"
         },
         "fr": {
             "description": "Nano Banana 2 est un outil avancé de génération d'images par IA.",
-            "features": "Résolution maximale de 4096 x 4096, vitesse moyenne de 12s, itération à grande vitesse",
+            "features": {
+                "max_resolution": "Résolution maximale de 4096 x 4096",
+                "average_speed": "Vitesse moyenne de 12s",
+                "high_speed_iteration": "Itération à haute vitesse"
+            },
             "badge": "N/A",
             "price": "$0.067 / image"
         },
         "de": {
-            "description": "Nano Banana 2 ist ein fortschrittliches KI-Bildgenerierungstool.",
-            "features": "4096 x 4096 Maximalauflösung, durchschnittliche Geschwindigkeit von 12s, Hochgeschwindigkeitsiteration",
+            "description": "Nano Banana 2 ist ein fortgeschrittenes KI-Bildgenerierungstool.",
+            "features": {
+                "max_resolution": "Maximale Auflösung 4096 x 4096",
+                "average_speed": "Durchschnittliche Geschwindigkeit 12 Sekunden",
+                "high_speed_iteration": "Hochgeschwindigkeitsiteration"
+            },
             "badge": "N/A",
             "price": "$0.067 / Bild"
         },
         "zh": {
-            "description": "Nano Banana 2 是一款先进的 AI 图像生成工具。",
-            "features": "4096 x 4096 最大分辨率，平均速度 12 秒，高速迭代",
-            "badge": "不适用",
+            "description": "Nano Banana 2 是一款先进的人工智能图像生成工具。",
+            "features": {
+                "max_resolution": "最大分辨率 4096 x 4096",
+                "average_speed": "平均速度 12 秒",
+                "high_speed_iteration": "高速迭代"
+            },
+            "badge": "无",
             "price": "$0.067 / 图像"
         },
         "it": {
-            "description": "Nano Banana 2 è uno strumento avanzato di generazione di immagini AI.",
-            "features": "Risoluzione massima di 4096 x 4096, velocità media di 12s, iterazione ad alta velocità",
-            "badge": "N/D",
-            "price": "$0.067 / img"
+            "description": "Nano Banana 2 è uno strumento avanzato di generazione di immagini tramite IA.",
+            "features": {
+                "max_resolution": "Risoluzione massima di 4096 x 4096",
+                "average_speed": "Velocità media di 12 secondi",
+                "high_speed_iteration": "Iterazione ad alta velocità"
+            },
+            "badge": "N/A",
+            "price": "$0.067 / immagine"
         }
     },
     "Speedybrand": {
         "en": {
             "description": "N/A",
             "badge": "up to 50%",
-            "features": "N/A",
+            "feats": "N/A",
             "price": "N/A"
         },
         "uk": {
-            "description": "Немає даних",
+            "description": "Немає",
             "badge": "до 50%",
-            "features": "Немає даних",
-            "price": "Немає даних"
+            "feats": "Немає",
+            "price": "Немає"
         },
-        "ja": {
-            "description": "該当なし",
+        "jp": {
+            "description": "N/A",
             "badge": "最大50%",
-            "features": "該当なし",
-            "price": "該当なし"
+            "feats": "N/A",
+            "price": "N/A"
         },
         "es": {
             "description": "N/A",
             "badge": "hasta 50%",
-            "features": "N/A",
+            "feats": "N/A",
             "price": "N/A"
         },
         "pt": {
             "description": "N/A",
             "badge": "até 50%",
-            "features": "N/A",
+            "feats": "N/A",
             "price": "N/A"
         },
         "fr": {
             "description": "N/A",
             "badge": "jusqu'à 50%",
-            "features": "N/A",
+            "feats": "N/A",
             "price": "N/A"
         },
         "de": {
             "description": "N/A",
             "badge": "bis zu 50%",
-            "features": "N/A",
+            "feats": "N/A",
             "price": "N/A"
         },
         "zh": {
-            "description": "无",
+            "description": "N/A",
             "badge": "高达50%",
-            "features": "无",
-            "price": "无"
+            "feats": "N/A",
+            "price": "N/A"
         },
         "it": {
             "description": "N/A",
             "badge": "fino al 50%",
-            "features": "N/A",
+            "feats": "N/A",
             "price": "N/A"
         }
     },
     "Descript": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "N/A"
         },
         "uk": {
             "description": "Н/Д",
-            "features": "Н/Д",
             "badge": "35%",
             "price": "Н/Д"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
+            "description": "N/A",
             "badge": "35%",
-            "price": "該当なし"
+            "price": "N/A"
         },
         "es": {
-            "description": "N/D",
-            "features": "N/D",
+            "description": "N/A",
             "badge": "35%",
-            "price": "N/D"
+            "price": "N/A"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "N/A"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "35%",
             "price": "N/A"
         },
         "de": {
-            "description": "N/V",
-            "features": "N/V",
+            "description": "N/A",
             "badge": "35%",
-            "price": "N/V"
+            "price": "N/A"
         },
         "zh": {
-            "description": "无",
-            "features": "无",
+            "description": "N/A",
             "badge": "35%",
-            "price": "无"
+            "price": "N/A"
         },
         "it": {
-            "description": "N/D",
-            "features": "N/D",
+            "description": "N/A",
             "badge": "35%",
-            "price": "N/D"
+            "price": "N/A"
         }
     },
     "SEMrush": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$139.95 - $499.95/month"
+            "badge": "N/A"
         },
         "uk": {
             "description": "Н/Д",
-            "features": "Н/Д",
-            "badge": "Н/Д",
-            "price": "$139.95 - $499.95/місяць"
+            "badge": "Н/Д"
         },
         "ja": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "月額139.95ドル - 499.95ドル"
+            "badge": "N/A"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$139.95 - $499.95/mes"
+            "badge": "N/A"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$139.95 - $499.95/mês"
+            "badge": "N/A"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$139.95 - $499.95/mois"
+            "badge": "N/A"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$139.95 - $499.95/Monat"
+            "badge": "N/A"
         },
         "zh": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$139.95 - $499.95/月"
+            "badge": "N/A"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "N/A",
-            "price": "$139.95 - $499.95/mese"
+            "badge": "N/A"
         }
     },
     "GrowthBar": {
         "en": {
             "description": "GrowthBar is an AI-powered writing and SEO tool.",
-            "features": "N/A",
             "badge": "20%",
             "price": "Starts at $36/mo."
         },
         "uk": {
-            "description": "GrowthBar – це інструмент для написання та SEO, який працює на базі ШІ.",
-            "features": "N/A",
+            "description": "GrowthBar – це інструмент для написання та SEO на основі штучного інтелекту.",
             "badge": "20%",
-            "price": "Вартість від $36/міс."
+            "price": "Починається від 36 доларів на місяць."
         },
         "ja": {
-            "description": "GrowthBarは、AI駆動のライティングおよびSEOツールです。",
-            "features": "N/A",
+            "description": "GrowthBarはAI駆動のライティングおよびSEOツールです。",
             "badge": "20%",
-            "price": "月額36ドルから始まります。"
+            "price": "月額36ドルから。"
         },
         "es": {
-            "description": "GrowthBar es una herramienta de escritura y SEO impulsada por inteligencia artificial.",
-            "features": "N/A",
+            "description": "GrowthBar es una herramienta de redacción y SEO impulsada por IA.",
             "badge": "20%",
             "price": "Empieza en $36/mes."
         },
         "pt": {
-            "description": "GrowthBar é uma ferramenta de redação e SEO movida por IA.",
-            "features": "N/A",
+            "description": "GrowthBar é uma ferramenta de escrita e SEO impulsionada por IA.",
             "badge": "20%",
-            "price": "Começa a partir de $36/mês."
+            "price": "Começa em $36/mês."
         },
         "fr": {
-            "description": "GrowthBar est un outil d'écriture et de SEO alimenté par IA.",
-            "features": "N/A",
+            "description": "GrowthBar est un outil d'écriture et de SEO alimenté par l'IA.",
             "badge": "20%",
             "price": "À partir de 36 $/mois."
         },
         "de": {
             "description": "GrowthBar ist ein KI-gestütztes Schreib- und SEO-Tool.",
-            "features": "N/A",
             "badge": "20%",
-            "price": "Ab 36 $/Monat."
+            "price": "Beginnt bei 36 $/Monat."
         },
         "zh": {
             "description": "GrowthBar是一个由AI驱动的写作和SEO工具。",
-            "features": "N/A",
             "badge": "20%",
             "price": "起价为每月36美元。"
         },
         "it": {
-            "description": "GrowthBar è uno strumento di scrittura e SEO alimentato da intelligenza artificiale.",
-            "features": "N/A",
+            "description": "GrowthBar è uno strumento di scrittura e SEO alimentato dall'IA.",
             "badge": "20%",
             "price": "A partire da $36/mese."
         }
@@ -2137,63 +1985,54 @@
     "Higgsfield": {
         "en": {
             "description": "Save on Higgsfield AI subscriptions and premium features with these active coupon codes this month.",
-            "features": "AI video results, Creative tools",
             "badge": "70% OFF",
             "price": "N/A"
         },
         "uk": {
-            "description": "Зекономте на підписках та преміум-функціях Higgsfield AI за допомогою цих активних купонів цього місяця.",
-            "features": "AI відеорезультати, Креативні інструменти",
-            "badge": "70% ЗНИЖКА",
-            "price": "Немає"
+            "description": "Зекономте на підписках Higgsfield AI та преміум-функціях з цими активними кодами купонів цього місяця.",
+            "badge": "70% ЗНИЖКИ",
+            "price": "Н/A"
         },
         "ja": {
-            "description": "今月のアクティブなクーポンコードを使って、Higgsfield AIのサブスクリプションとプレミアム機能をお得にご利用ください。",
-            "features": "AIビデオ結果、クリエイティブツール",
-            "badge": "70%オフ",
-            "price": "該当なし"
+            "description": "今月の有効なクーポンコードを使用して、Higgsfield AI のサブスクリプションとプレミアム機能を節約してください。",
+            "badge": "70% OFF",
+            "price": "N/A"
         },
         "es": {
-            "description": "Ahorra en suscripciones de Higgsfield AI y funciones premium con estos códigos de cupón activos este mes.",
-            "features": "Resultados de video IA, Herramientas creativas",
+            "description": "Ahorra en suscripciones de Higgsfield AI y características premium con estos códigos de cupón activos este mes.",
             "badge": "70% DE DESCUENTO",
             "price": "N/A"
         },
         "pt": {
-            "description": "Economize em assinaturas e recursos premium do Higgsfield AI com esses códigos de cupom ativos este mês.",
-            "features": "Resultados de vídeo de IA, Ferramentas criativas",
-            "badge": "70% DE DESCONTO",
+            "description": "Economize em assinaturas do Higgsfield AI e recursos premium com estes códigos de cupom ativos este mês.",
+            "badge": "70% OFF",
             "price": "N/A"
         },
         "fr": {
             "description": "Économisez sur les abonnements Higgsfield AI et les fonctionnalités premium avec ces codes promo actifs ce mois-ci.",
-            "features": "Résultats vidéo IA, Outils créatifs",
-            "badge": "70% DE REMISE",
+            "badge": "70% DE RÉDUCTION",
             "price": "N/A"
         },
         "de": {
-            "description": "Sparen Sie bei Higgsfield AI-Abonnements und Premium-Funktionen mit diesen aktiven Gutscheincodes in diesem Monat.",
-            "features": "KI-Videoergebnisse, Kreativwerkzeuge",
+            "description": "Sparen Sie bei Higgsfield AI-Abonnements und Premium-Funktionen mit diesen aktiven Gutschein-Codes in diesem Monat.",
             "badge": "70% RABATT",
             "price": "N/A"
         },
         "zh": {
-            "description": "本月通过这些有效的优惠券代码，节省Higgsfield AI订阅和高级功能的费用。",
-            "features": "AI视频结果，创意工具",
-            "badge": "七折优惠",
-            "price": "不适用"
+            "description": "使用本月这些有效的优惠码，节省Higgsfield AI订阅和高级功能。",
+            "badge": "70% OFF",
+            "price": "N/A"
         },
         "it": {
-            "description": "Risparmia su abbonamenti e funzionalità premium di Higgsfield AI con questi codici coupon attivi questo mese.",
-            "features": "Risultati video AI, Strumenti creativi",
+            "description": "Risparmia sugli abbonamenti Higgsfield AI e sulle funzionalità premium con questi codici coupon attivi di questo mese.",
             "badge": "70% DI SCONTO",
-            "price": "N/D"
+            "price": "N/A"
         }
     },
     "Veo 3.1": {
         "en": {
             "description": "Veo 3.1 is a cutting-edge AI tool for generating high-quality videos.",
-            "features": [
+            "feats": [
                 "4K video generation",
                 "AI-powered editing",
                 "Media Studio integration"
@@ -2202,18 +2041,18 @@
             "price": "$19.99/mo"
         },
         "uk": {
-            "description": "Veo 3.1 - це новітній інструмент ШІ для генерації відео високої якості.",
-            "features": [
-                "Генерація відео в 4K",
-                "Редагування на основі ШІ",
-                "Інтеграція з Media Studio"
+            "description": "Veo 3.1 - це передовий інструмент ШІ для створення відео високої якості.",
+            "feats": [
+                "генерація відео в 4K",
+                "редагування на основі ШІ",
+                "інтеграція з Media Studio"
             ],
             "badge": "100 кредитів щомісяця",
             "price": "$19.99/міс"
         },
         "ja": {
-            "description": "Veo 3.1は、高品質なビデオを生成するための最先端のAIツールです。",
-            "features": [
+            "description": "Veo 3.1は、高品質のビデオを生成する最先端のAIツールです。",
+            "feats": [
                 "4Kビデオ生成",
                 "AI駆動の編集",
                 "Media Studio統合"
@@ -2223,60 +2062,60 @@
         },
         "es": {
             "description": "Veo 3.1 es una herramienta de IA de vanguardia para generar videos de alta calidad.",
-            "features": [
-                "Generación de video en 4K",
-                "Edición impulsada por IA",
-                "Integración con Media Studio"
+            "feats": [
+                "generación de video en 4K",
+                "edición impulsada por IA",
+                "integración de Media Studio"
             ],
             "badge": "100 créditos mensuales",
             "price": "$19.99/mes"
         },
         "pt": {
             "description": "Veo 3.1 é uma ferramenta de IA de ponta para gerar vídeos de alta qualidade.",
-            "features": [
-                "Geração de vídeo em 4K",
-                "Edição com inteligência artificial",
-                "Integração com Media Studio"
+            "feats": [
+                "geração de vídeo em 4K",
+                "edição alimentada por IA",
+                "integração com o Media Studio"
             ],
             "badge": "100 créditos mensais",
             "price": "$19.99/mês"
         },
         "fr": {
-            "description": "Veo 3.1 est un outil d'IA de pointe pour générer des vidéos de haute qualité.",
-            "features": [
-                "Génération vidéo 4K",
-                "Édition assistée par IA",
-                "Intégration Media Studio"
+            "description": "Veo 3.1 est un outil d'IA à la pointe de la technologie pour générer des vidéos de haute qualité.",
+            "feats": [
+                "génération de vidéo 4K",
+                "édition alimentée par l'IA",
+                "intégration de Media Studio"
             ],
-            "badge": "100 crédits mensuels",
+            "badge": "100 crédits par mois",
             "price": "$19.99/mois"
         },
         "de": {
-            "description": "Veo 3.1 ist ein hochmodernes KI-Tool zur Erstellung von hochwertigen Videos.",
-            "features": [
-                "4K Videoerstellung",
-                "KI-gestützte Bearbeitung",
+            "description": "Veo 3.1 ist ein modernes KI-Tool zur Erstellung von Videos in hoher Qualität.",
+            "feats": [
+                "4K-Videoerstellung",
+                "KI-gesteuertes Bearbeiten",
                 "Media Studio-Integration"
             ],
             "badge": "100 Credits monatlich",
             "price": "$19.99/Monat"
         },
         "zh": {
-            "description": "Veo 3.1是一款尖端的人工智能工具，用于生成高质量的视频。",
-            "features": [
-                "4K视频生成",
-                "人工智能编辑",
-                "与媒体工作室集成"
+            "description": "Veo 3.1 是一款尖端的人工智能工具，用于生成高质量的视频。",
+            "feats": [
+                "4K 视频生成",
+                "人工智能驱动的编辑",
+                "媒体工作室集成"
             ],
             "badge": "每月100个积分",
             "price": "$19.99/月"
         },
         "it": {
-            "description": "Veo 3.1 è uno strumento AI all'avanguardia per generare video di alta qualità.",
-            "features": [
-                "Generazione video in 4K",
-                "Editing supportato da AI",
-                "Integrazione con Media Studio"
+            "description": "Veo 3.1 è uno strumento di intelligenza artificiale all'avanguardia per generare video di alta qualità.",
+            "feats": [
+                "generazione di video 4K",
+                "editing powered by AI",
+                "integrazione con Media Studio"
             ],
             "badge": "100 crediti mensili",
             "price": "$19.99/mese"
@@ -2285,7 +2124,7 @@
     "OpenAI Codex": {
         "en": {
             "description": "OpenAI Codex is a powerful AI coding tool designed to assist developers in writing code efficiently.",
-            "features": [
+            "feats": [
                 "AI coding assistant",
                 "Multi-agent support",
                 "Integration with existing tools"
@@ -2294,28 +2133,28 @@
             "price": "$20/mo"
         },
         "uk": {
-            "description": "OpenAI Codex - це потужний інструмент штучного інтелекту для кодування, призначений для допомоги розробникам у написанні коду ефективно.",
-            "features": [
-                "Асистент кодування на основі ШІ",
+            "description": "OpenAI Codex - потужний інструмент ІІ для програмування, розроблений для допомоги розробникам у ефективному написанні коду.",
+            "feats": [
+                "Асистент програмування ІІ",
                 "Підтримка багатьох агентів",
-                "Інтеграція з наявними інструментами"
+                "Інтеграція з існуючими інструментами"
             ],
             "badge": "75% ЗНИЖКА",
-            "price": "$20/місяць"
+            "price": "$20/міс"
         },
         "ja": {
             "description": "OpenAI Codexは、開発者が効率的にコードを書くのを支援するために設計された強力なAIコーディングツールです。",
-            "features": [
+            "feats": [
                 "AIコーディングアシスタント",
                 "マルチエージェントサポート",
                 "既存ツールとの統合"
             ],
-            "badge": "75% OFF",
+            "badge": "75%OFF",
             "price": "$20/月"
         },
         "es": {
-            "description": "OpenAI Codex es una poderosa herramienta de codificación con IA diseñada para ayudar a los desarrolladores a escribir código de manera eficiente.",
-            "features": [
+            "description": "OpenAI Codex es una poderosa herramienta de codificación de IA diseñada para ayudar a los desarrolladores a escribir código de manera eficiente.",
+            "feats": [
                 "Asistente de codificación de IA",
                 "Soporte para múltiples agentes",
                 "Integración con herramientas existentes"
@@ -2324,49 +2163,49 @@
             "price": "$20/mes"
         },
         "pt": {
-            "description": "OpenAI Codex é uma poderosa ferramenta de codificação AI projetada para ajudar os desenvolvedores a escrever código de forma eficiente.",
-            "features": [
-                "Assistente de codificação AI",
-                "Suporte a múltiplos agentes",
+            "description": "OpenAI Codex é uma poderosa ferramenta de codificação de IA projetada para ajudar os desenvolvedores a escrever código de forma eficiente.",
+            "feats": [
+                "Assistente de codificação de IA",
+                "Suporte multiagente",
                 "Integração com ferramentas existentes"
             ],
-            "badge": "75% DESCONTO",
+            "badge": "75% DE DESCONTO",
             "price": "$20/mês"
         },
         "fr": {
-            "description": "OpenAI Codex est un puissant outil de codage IA conçu pour aider les développeurs à écrire du code efficacement.",
-            "features": [
+            "description": "OpenAI Codex est un puissant outil de codage alimenté par l'IA, conçu pour aider les développeurs à écrire du code efficacement.",
+            "feats": [
                 "Assistant de codage IA",
-                "Support multi-agent",
-                "Intégration avec les outils existants"
+                "Support multi-agents",
+                "Intégration avec des outils existants"
             ],
             "badge": "75% DE REMISE",
             "price": "$20/mois"
         },
         "de": {
-            "description": "OpenAI Codex ist ein leistungsstarkes KI-Coding-Tool, das Entwicklern hilft, effizient zu programmieren.",
-            "features": [
+            "description": "OpenAI Codex ist ein leistungsstarkes KI-Codierungstool, das Entwicklern hilft, effizient Code zu schreiben.",
+            "feats": [
                 "KI-Coding-Assistent",
-                "Unterstützung für mehrere Agenten",
+                "Multi-Agenten-Unterstützung",
                 "Integration mit bestehenden Tools"
             ],
             "badge": "75% RABATT",
             "price": "$20/Monat"
         },
         "zh": {
-            "description": "OpenAI Codex是一个强大的AI编码工具，旨在帮助开发人员高效地编写代码。",
-            "features": [
-                "AI编码助手",
-                "多代理支持",
-                "与现有工具的集成"
+            "description": "OpenAI Codex是一个强大的人工智能编码工具，旨在帮助开发者高效编写代码。",
+            "feats": [
+                "人工智能编码助手",
+                "多智能体支持",
+                "与现有工具集成"
             ],
-            "badge": "75% 折扣",
+            "badge": "75%折扣",
             "price": "$20/月"
         },
         "it": {
-            "description": "OpenAI Codex è un potente strumento di codifica AI progettato per aiutare gli sviluppatori a scrivere codice in modo efficiente.",
-            "features": [
-                "Assistente alla codifica AI",
+            "description": "OpenAI Codex è un potente strumento di codifica AI progettato per assistere gli sviluppatori nella scrittura di codice in modo efficiente.",
+            "feats": [
+                "Assistente di codifica AI",
                 "Supporto multi-agente",
                 "Integrazione con strumenti esistenti"
             ],
@@ -2379,61 +2218,61 @@
             "description": "Google Gemini offers advanced generative AI models integrated into Google Workspace.",
             "features": "AI-driven productivity tools, Integration with Google Workspace apps",
             "badge": "20% OFF",
-            "price": "Starting from $15/mo."
+            "price": "Starting from $15/mo"
         },
         "uk": {
-            "description": "Google Gemini пропонує розвинені генеративні моделі штучного інтелекту, інтегровані в Google Workspace.",
-            "features": "Інструменти продуктивності на основі штучного інтелекту, інтеграція з додатками Google Workspace",
-            "badge": "20% ЗНИЖКА",
-            "price": "Від $15/міс."
+            "description": "Google Gemini пропонує розвинені генеративні моделі ШІ, інтегровані в Google Workspace.",
+            "features": "Інструменти продуктивності на основі ШІ, інтеграція з додатками Google Workspace",
+            "badge": "20% ЗНИЖКИ",
+            "price": "Від $15/місяць"
         },
         "ja": {
             "description": "Google Geminiは、Google Workspaceに統合された高度な生成AIモデルを提供します。",
             "features": "AI駆動の生産性ツール、Google Workspaceアプリとの統合",
-            "badge": "20%割引",
+            "badge": "20% OFF",
             "price": "$15/月から"
         },
         "es": {
             "description": "Google Gemini ofrece modelos avanzados de IA generativa integrados en Google Workspace.",
             "features": "Herramientas de productividad impulsadas por IA, Integración con aplicaciones de Google Workspace",
             "badge": "20% DE DESCUENTO",
-            "price": "Desde $15/mes."
+            "price": "A partir de $15/mes"
         },
         "pt": {
-            "description": "O Google Gemini oferece modelos avançados de IA generativa integrados ao Google Workspace.",
+            "description": "Google Gemini oferece modelos avançados de IA generativa integrados ao Google Workspace.",
             "features": "Ferramentas de produtividade impulsionadas por IA, Integração com aplicativos do Google Workspace",
             "badge": "20% DE DESCONTO",
-            "price": "A partir de $15/mês."
+            "price": "A partir de $15/mês"
         },
         "fr": {
-            "description": "Google Gemini propose des modèles avancés d'IA générative intégrés dans Google Workspace.",
-            "features": "Outils de productivité alimentés par l'IA, Intégration avec les applications Google Workspace",
-            "badge": "20% DE REMISE",
-            "price": "À partir de 15 $/mois."
+            "description": "Google Gemini propose des modèles avancés d'IA générative intégrés à Google Workspace.",
+            "features": "Outils de productivité pilotés par l'IA, Intégration avec les applications Google Workspace",
+            "badge": "20% DE RÉDUCTION",
+            "price": "À partir de 15 $/mois"
         },
         "de": {
             "description": "Google Gemini bietet fortschrittliche generative KI-Modelle, die in Google Workspace integriert sind.",
-            "features": "KI-gesteuerte Produktivitätswerkzeuge, Integration mit Google Workspace-Apps",
+            "features": "KI-gestützte Produktivitätstools, Integration mit Google Workspace Apps",
             "badge": "20% RABATT",
-            "price": "Ab 15 $/Monat."
+            "price": "Ab $15/Monat"
         },
         "zh": {
-            "description": "Google Gemini 提供与 Google Workspace 集成的高级生成 AI 模型。",
-            "features": "基于 AI 的生产力工具，集成 Google Workspace 应用",
-            "badge": "优惠 20%",
-            "price": "起价 $15/月。"
+            "description": "Google Gemini提供先进的生成式AI模型，集成到Google Workspace中。",
+            "features": "基于AI的生产力工具，与Google Workspace应用的集成",
+            "badge": "20%折扣",
+            "price": "起价$15/月"
         },
         "it": {
-            "description": "Google Gemini offre modelli avanzati di IA generativa integrati in Google Workspace.",
-            "features": "Strumenti di produttività basati su IA, Integrazione con le app di Google Workspace",
+            "description": "Google Gemini offre modelli di AI generativa avanzati integrati in Google Workspace.",
+            "features": "Strumenti di produttività basati su AI, Integrazione con le app di Google Workspace",
             "badge": "20% DI SCONTO",
-            "price": "A partire da $15/mese."
+            "price": "A partire da $15/mese"
         }
     },
     "Replit": {
         "en": {
             "description": "Replit is an online platform that lets you write, run, and collaborate on code in real time.",
-            "features": [
+            "feats": [
                 "Online coding platform",
                 "Real-time collaboration",
                 "Supports multiple programming languages"
@@ -2442,28 +2281,28 @@
             "price": "$20 per month (Annual Billing)"
         },
         "uk": {
-            "description": "Replit — це онлайн-платформа, яка дозволяє вам писати, запускати та співпрацювати у коді в режимі реального часу.",
-            "features": [
-                "Онлайн-платформа для кодування",
+            "description": "Replit - це онлайн-платформа, яка дозволяє вам писати, запускати та співпрацювати над кодом в реальному часі.",
+            "feats": [
+                "Онлайн платформа для програмування",
                 "Співпраця в реальному часі",
-                "Підтримка багатьох мов програмування"
+                "Підтримує кілька мов програмування"
             ],
-            "badge": "Знижка до $36",
-            "price": "$20 на місяць (Щорічна оплата)"
+            "badge": "До 36 доларів США знижки",
+            "price": "20 доларів США на місяць (річна передплата)"
         },
         "ja": {
-            "description": "Replitは、リアルタイムでコードを書いたり、実行したり、共同作業を行ったりできるオンラインプラットフォームです。",
-            "features": [
+            "description": "Replitは、リアルタイムでコードを記述、実行、共同作業できるオンラインプラットフォームです。",
+            "feats": [
                 "オンラインコーディングプラットフォーム",
-                "リアルタイムコラボレーション",
+                "リアルタイムのコラボレーション",
                 "複数のプログラミング言語をサポート"
             ],
-            "badge": "$36まで割引",
-            "price": "$20/月（年額課金）"
+            "badge": "最大36ドルオフ",
+            "price": "月額20ドル（年次課金）"
         },
         "es": {
             "description": "Replit es una plataforma en línea que te permite escribir, ejecutar y colaborar en código en tiempo real.",
-            "features": [
+            "feats": [
                 "Plataforma de codificación en línea",
                 "Colaboración en tiempo real",
                 "Soporta múltiples lenguajes de programación"
@@ -2472,60 +2311,60 @@
             "price": "$20 por mes (facturación anual)"
         },
         "pt": {
-            "description": "Replit é uma plataforma online que permite que você escreva, execute e colabore em código em tempo real.",
-            "features": [
+            "description": "Replit é uma plataforma online que permite escrever, executar e colaborar em código em tempo real.",
+            "feats": [
                 "Plataforma de codificação online",
                 "Colaboração em tempo real",
                 "Suporta múltiplas linguagens de programação"
             ],
             "badge": "Até $36 de desconto",
-            "price": "$20 por mês (Cobrança Anual)"
+            "price": "$20 por mês (cobrança anual)"
         },
         "fr": {
             "description": "Replit est une plateforme en ligne qui vous permet d'écrire, d'exécuter et de collaborer sur du code en temps réel.",
-            "features": [
+            "feats": [
                 "Plateforme de codage en ligne",
                 "Collaboration en temps réel",
                 "Prend en charge plusieurs langages de programmation"
             ],
             "badge": "Jusqu'à 36 $ de réduction",
-            "price": "20 $ par mois (Facturation annuelle)"
+            "price": "20 $ par mois (facturation annuelle)"
         },
         "de": {
-            "description": "Replit ist eine Online-Plattform, die es Ihnen ermöglicht, Code in Echtzeit zu schreiben, auszuführen und zusammenzuarbeiten.",
-            "features": [
+            "description": "Replit ist eine Online-Plattform, die es Ihnen ermöglicht, in Echtzeit an Code zu schreiben, auszuführen und zusammenzuarbeiten.",
+            "feats": [
                 "Online-Coding-Plattform",
-                "Echtzeit-Kollaboration",
+                "Echtzeit-Zusammenarbeit",
                 "Unterstützt mehrere Programmiersprachen"
             ],
             "badge": "Bis zu 36 $ Rabatt",
-            "price": "20 $ pro Monat (Jahresabrechnung)"
+            "price": "20 $ pro Monat (jährliche Abrechnung)"
         },
         "zh": {
-            "description": "Replit是一款在线平台，让您能够实时编写、运行和协作代码。",
-            "features": [
+            "description": "Replit是一个在线平台，允许您实时编写、运行和协作代码。",
+            "feats": [
                 "在线编码平台",
                 "实时协作",
                 "支持多种编程语言"
             ],
-            "badge": "最多可享受36美元的折扣",
-            "price": "$20每月（年度账单）"
+            "badge": "最高享受36美元的折扣",
+            "price": "每月20美元（年付）"
         },
         "it": {
-            "description": "Replit è una piattaforma online che ti consente di scrivere, eseguire e collaborare su codice in tempo reale.",
-            "features": [
+            "description": "Replit è una piattaforma online che ti consente di scrivere, eseguire e collaborare al codice in tempo reale.",
+            "feats": [
                 "Piattaforma di codifica online",
                 "Collaborazione in tempo reale",
                 "Supporta più linguaggi di programmazione"
             ],
-            "badge": "Fino a $36 di sconto",
-            "price": "$20 al mese (Fatturazione annuale)"
+            "badge": "Fino a 36 $ di sconto",
+            "price": "20 $ al mese (fatturazione annuale)"
         }
     },
     "Amazon Polly": {
         "en": {
             "description": "Amazon Polly turns text into lifelike speech for applications.",
-            "features": [
+            "feats": [
                 "Text-to-speech",
                 "Lifelike speech",
                 "Custom lexicons"
@@ -2534,80 +2373,80 @@
             "price": "Free for 12 months with usage limits."
         },
         "uk": {
-            "description": "Amazon Polly перетворює текст у реалістичну мову для застосунків.",
-            "features": [
-                "Текст у мову",
-                "Реалістична мова",
-                "Користувацькі лексикони"
+            "description": "Amazon Polly перетворює текст на живу мову для додатків.",
+            "feats": [
+                "Текст в мову",
+                "Жива мова",
+                "Користувацькі лексики"
             ],
             "badge": "50% ЗНИЖКА",
-            "price": "Безкоштовно протягом 12 місяців з обмеженнями використання."
+            "price": "Безкоштовно протягом 12 місяців з обмеженнями з використання."
         },
-        "jp": {
-            "description": "Amazon Pollyは、アプリケーション向けにテキストを生き生きとした音声に変換します。",
-            "features": [
-                "テキスト読み上げ",
+        "ja": {
+            "description": "Amazon Pollyはアプリケーション用にテキストをリアルな音声に変換します。",
+            "feats": [
+                "テキストから音声",
                 "リアルな音声",
-                "カスタムレキシコン"
+                "カスタム詞彙"
             ],
-            "badge": "50%オフ",
-            "price": "使用制限付きで無料（12ヶ月間）"
+            "badge": "50% OFF",
+            "price": "使用制限付きで12か月間無料です。"
         },
         "es": {
             "description": "Amazon Polly convierte texto en voz realista para aplicaciones.",
-            "features": [
+            "feats": [
                 "Texto a voz",
                 "Voz realista",
                 "Léxicos personalizados"
             ],
-            "badge": "50% DESCUENTO",
-            "price": "Gratis por 12 meses con límites de uso."
+            "badge": "50% DE DESCUENTO",
+            "price": "Gratis durante 12 meses con límites de uso."
         },
         "pt": {
-            "description": "Amazon Polly transforma texto em fala realista para aplicações.",
-            "features": [
+            "description": "Amazon Polly transforma texto em fala realista para aplicativos.",
+            "feats": [
                 "Texto para fala",
                 "Fala realista",
                 "Lexicons personalizados"
             ],
-            "badge": "50% DESCONTO",
-            "price": "Grátis por 12 meses com limites de uso."
+            "badge": "50% DE DESCONTO",
+            "price": "Gratuito por 12 meses com limites de uso."
         },
         "fr": {
-            "description": "Amazon Polly transforme le texte en discours réaliste pour les applications.",
-            "features": [
-                "Texte en parole",
-                "Discours réaliste",
+            "description": "Amazon Polly transforme le texte en parole réaliste pour les applications.",
+            "feats": [
+                "Texte à parole",
+                "Parole réaliste",
                 "Lexiques personnalisés"
             ],
-            "badge": "50% DE REMISE",
+            "badge": "50% DE RÉDUCTION",
             "price": "Gratuit pendant 12 mois avec des limites d'utilisation."
         },
         "de": {
-            "description": "Amazon Polly wandelt Text in lebensechte Sprache für Anwendungen um.",
-            "features": [
+            "description": "Amazon Polly verwandelt Text in lebensechte Sprache für Anwendungen.",
+            "feats": [
                 "Text-to-Speech",
                 "Lebensechte Sprache",
                 "Benutzerdefinierte Lexika"
             ],
-            "badge": "50% RABATT",
-            "price": "Kostenlos für 12 Monate mit Nutzungsbeschränkungen."
+            "badge": "50 % RABATT",
+            "price": "12 Monate kostenlos mit Nutzungsbeschränkungen."
         },
         "zh": {
             "description": "Amazon Polly 将文本转换为应用程序的逼真语音。",
-            "features": [
+            "feats": [
                 "文本转语音",
                 "逼真语音",
                 "自定义词汇"
             ],
-            "badge": "五折优惠",
-            "price": "前 12 个月免费，使用限制。"
+            "badge": "50% OFF",
+            "price": "前12个月免费使用，带使用限制。"
         },
         "it": {
-            "description": "Amazon Polly trasforma il testo in parlato realistico per le applicazioni.",
-            "features": [
-                "Da testo a voce",
-                "Voce realistica",
+            "description": "Amazon Polly trasforma il testo in voce viva per le applicazioni.",
+            "feats": [
+                "Testo in voce",
+                "Voce viva",
                 "Lessici personalizzati"
             ],
             "badge": "50% DI SCONTO",
@@ -2617,55 +2456,91 @@
     "Microsoft Azure Speech Services": {
         "en": {
             "description": "Transform voice into text and vice versa with advanced AI capabilities.",
-            "features": "Real-time speech recognition, Text-to-speech conversion, Custom voice models",
+            "feats": [
+                "Real-time speech recognition",
+                "Text-to-speech conversion",
+                "Custom voice models"
+            ],
             "badge": "55% OFF",
             "price": "$1.00 per hour"
         },
         "uk": {
-            "description": "Перетворюйте голос на текст і навпаки з використанням сучасних можливостей штучного інтелекту.",
-            "features": "Визначення мови в реальному часі, Перетворення тексту в мову, Індивідуальні голосові моделі",
+            "description": "Перетворюйте голос на текст і навпаки за допомогою просунутих можливостей ШІ.",
+            "feats": [
+                "Розпізнавання мови в реальному часі",
+                "Перетворення тексту на мову",
+                "Індивідуальні голосові моделі"
+            ],
             "badge": "55% ЗНИЖКА",
             "price": "$1.00 за годину"
         },
         "ja": {
-            "description": "高度なAI機能を使用して音声をテキストに、そしてその逆に変換します。",
-            "features": "リアルタイム音声認識、テキスト音声変換、カスタム音声モデル",
-            "badge": "55%OFF",
-            "price": "$1.00/時間"
+            "description": "高度なAI機能を使用して、音声をテキストに変換し、その逆を行います。",
+            "feats": [
+                "リアルタイム音声認識",
+                "テキストから音声への変換",
+                "カスタム音声モデル"
+            ],
+            "badge": "55% OFF",
+            "price": "$1.00 per hour"
         },
         "es": {
-            "description": "Transforme la voz en texto y viceversa con capacidades avanzadas de IA.",
-            "features": "Reconocimiento de voz en tiempo real, Conversión de texto a voz, Modelos de voz personalizados",
+            "description": "Transforma la voz en texto y viceversa con capacidades avanzadas de IA.",
+            "feats": [
+                "Reconocimiento de voz en tiempo real",
+                "Conversión de texto a voz",
+                "Modelos de voz personalizados"
+            ],
             "badge": "55% DESCUENTO",
             "price": "$1.00 por hora"
         },
         "pt": {
             "description": "Transforme voz em texto e vice-versa com capacidades avançadas de IA.",
-            "features": "Reconhecimento de fala em tempo real, Conversão de texto em fala, Modelos de voz personalizados",
+            "feats": [
+                "Reconhecimento de fala em tempo real",
+                "Conversão de texto para fala",
+                "Modelos de voz personalizados"
+            ],
             "badge": "55% DESCONTO",
-            "price": "$1,00 por hora"
+            "price": "$1.00 por hora"
         },
         "fr": {
-            "description": "Transformez la voix en texte et vice versa avec des capacités avancées de l'IA.",
-            "features": "Reconnaissance vocale en temps réel, Conversion de texte en parole, Modèles de voix personnalisés",
+            "description": "Transformez la voix en texte et vice versa avec des capacités avancées d'IA.",
+            "feats": [
+                "Reconnaissance vocale en temps réel",
+                "Conversion texte-en-parole",
+                "Modèles vocaux personnalisés"
+            ],
             "badge": "55% DE REMISE",
-            "price": "$1,00 par heure"
+            "price": "1,00 $ par heure"
         },
         "de": {
-            "description": "Verwandeln Sie Sprache in Text und umgekehrt mit fortschrittlichen KI-Funktionen.",
-            "features": "Echtzeit-Spracherkennung, Text-zu-Sprache-Konvertierung, Benutzerdefinierte Sprachmodelle",
+            "description": "Wandeln Sie Sprache in Text und umgekehrt mit fortschrittlichen KI-Funktionen um.",
+            "feats": [
+                "Echtzeit-Spracherkennung",
+                "Text-zu-Sprache-Konvertierung",
+                "Benutzerdefinierte Sprachmodelle"
+            ],
             "badge": "55% RABATT",
-            "price": "$1,00 pro Stunde"
+            "price": "$1.00 pro Stunde"
         },
         "zh": {
-            "description": "利用先进的人工智能能力将语音转换为文本，反之亦然。",
-            "features": "实时语音识别, 文字转语音转换, 自定义语音模型",
-            "badge": "55%优惠",
-            "price": "$1.00每小时"
+            "description": "利用先进的AI能力将语音转换为文本，反之亦然。",
+            "feats": [
+                "实时语音识别",
+                "文本转语音转换",
+                "自定义语音模型"
+            ],
+            "badge": "55% 折扣",
+            "price": "$1.00 每小时"
         },
         "it": {
-            "description": "Trasforma la voce in testo e viceversa con capacità avanzate di intelligenza artificiale.",
-            "features": "Riconoscimento vocale in tempo reale, Conversione da testo a voce, Modelli vocali personalizzati",
+            "description": "Trasforma la voce in testo e viceversa con avanzate capacità di intelligenza artificiale.",
+            "feats": [
+                "Riconoscimento vocale in tempo reale",
+                "Conversione da testo a voce",
+                "Modelli vocali personalizzati"
+            ],
             "badge": "55% DI SCONTO",
             "price": "$1.00 all'ora"
         }
@@ -2673,92 +2548,47 @@
     "Google Cloud Text-to-Speech": {
         "en": {
             "description": "Convert text into natural-sounding speech using advanced AI models.",
-            "features": [
-                "WaveNet voices",
-                "Neural2 voices",
-                "Customization options"
-            ],
             "badge": "70% OFF",
             "price": "$0.000004 per character"
         },
         "uk": {
-            "description": "Перетворіть текст на природний звук мови за допомогою сучасних AI моделей.",
-            "features": [
-                "Голоси WaveNet",
-                "Голоси Neural2",
-                "Опції налаштування"
-            ],
-            "badge": "70% ЗНИЖКА",
+            "description": "Перетворіть текст на природний звук голосу, використовуючи передові моделі ШІ.",
+            "badge": "Знижка 70%!",
             "price": "$0.000004 за символ"
         },
         "ja": {
-            "description": "高度なAIモデルを使用してテキストを自然な音声に変換します。",
-            "features": [
-                "WaveNetボイス",
-                "Neural2ボイス",
-                "カスタマイズオプション"
-            ],
-            "badge": "70% OFF",
-            "price": "$0.000004 文字あたり"
+            "description": "高度なAIモデルを使用して、テキストを自然に聞こえる音声に変換します。",
+            "badge": "70%オフ",
+            "price": "$0.000004あたりの文字"
         },
         "es": {
-            "description": "Convierte texto en voz natural utilizando modelos de IA avanzados.",
-            "features": [
-                "Voces WaveNet",
-                "Voces Neural2",
-                "Opciones de personalización"
-            ],
-            "badge": "70% DESCUENTO",
+            "description": "Convierte texto en discurso natural utilizando modelos de IA avanzados.",
+            "badge": "70% de descuento",
             "price": "$0.000004 por carácter"
         },
         "pt": {
             "description": "Converta texto em fala natural usando modelos avançados de IA.",
-            "features": [
-                "Vozes WaveNet",
-                "Vozes Neural2",
-                "Opções de personalização"
-            ],
-            "badge": "70% DE DESCONTO",
+            "badge": "70% de desconto",
             "price": "$0.000004 por caractere"
         },
         "fr": {
-            "description": "Convertissez le texte en discours naturel à l'aide de modèles d'IA avancés.",
-            "features": [
-                "Voix WaveNet",
-                "Voix Neural2",
-                "Options de personnalisation"
-            ],
-            "badge": "70% DE RÉDUCTION",
+            "description": "Convertissez du texte en parole naturelle à l'aide de modèles d'IA avancés.",
+            "badge": "70 % de réduction",
             "price": "$0.000004 par caractère"
         },
         "de": {
-            "description": "Konvertieren Sie Text in natürlich klingende Sprache mit fortschrittlichen KI-Modellen.",
-            "features": [
-                "WaveNet-Stimmen",
-                "Neural2-Stimmen",
-                "Anpassungsoptionen"
-            ],
-            "badge": "70% RABATT",
+            "description": "Konvertieren Sie Text in natürlich klingende Sprache mithilfe fortschrittlicher KI-Modelle.",
+            "badge": "70 % Rabatt",
             "price": "$0.000004 pro Zeichen"
         },
         "zh": {
-            "description": "使用先进的AI模型将文本转换为自然声音的语音。",
-            "features": [
-                "WaveNet语音",
-                "Neural2语音",
-                "定制选项"
-            ],
+            "description": "使用先进的AI模型将文本转换为自然的语音。",
             "badge": "七折优惠",
-            "price": "$0.000004 每个字符"
+            "price": "$0.000004每个字符"
         },
         "it": {
-            "description": "Converti il testo in una voce naturale utilizzando modelli AI avanzati.",
-            "features": [
-                "Voci WaveNet",
-                "Voci Neural2",
-                "Opzioni di personalizzazione"
-            ],
-            "badge": "70% DI SCONTO",
+            "description": "Converti il testo in voce naturale utilizzando modelli di IA avanzati.",
+            "badge": "70% di sconto",
             "price": "$0.000004 per carattere"
         }
     },
@@ -2774,43 +2604,43 @@
             "price": "Starting From Rs 2,693"
         },
         "uk": {
-            "description": "Zapier - це платформа автоматизації робочих процесів, яка об'єднує різні застосунки для спрощення завдань.",
+            "description": "Zapier – це платформа автоматизації робочих процесів, яка підключає різні додатки для оптимізації завдань.",
             "features": [
                 "Автоматизація завдань",
-                "Інтеграція з більш ніж 7,000 додатками",
+                "Інтеграція з понад 7,000 додатків",
                 "Зручний інтерфейс"
             ],
             "badge": "33% ЗНИЖКА",
             "price": "Від Rs 2,693"
         },
         "ja": {
-            "description": "Zapierは、異なるアプリケーションを接続してタスクを効率化するワークフロー自動化プラットフォームです。",
+            "description": "Zapierは、さまざまなアプリケーションを接続してタスクを効率化するワークフロー自動化プラットフォームです。",
             "features": [
                 "タスクの自動化",
-                "7,000以上のアプリとの統合",
-                "ユーザーフレンドリーなインターフェース"
+                "7,000を超えるアプリとの統合",
+                "使いやすいインターフェイス"
             ],
-            "badge": "33%オフ",
-            "price": "Rs 2,693から"
+            "badge": "33% OFF",
+            "price": "Rs 2,693 から"
         },
         "es": {
-            "description": "Zapier es una plataforma de automatización de flujos de trabajo que conecta diferentes aplicaciones para simplificar tareas.",
+            "description": "Zapier es una plataforma de automatización de flujos de trabajo que conecta diferentes aplicaciones para agilizar tareas.",
             "features": [
                 "Automatización de tareas",
                 "Integración con más de 7,000 aplicaciones",
                 "Interfaz fácil de usar"
             ],
-            "badge": "33% DESCUENTO",
-            "price": "Desde Rs 2,693"
+            "badge": "33% DE DESCUENTO",
+            "price": "A partir de Rs 2,693"
         },
         "pt": {
-            "description": "Zapier é uma plataforma de automação de fluxos de trabalho que conecta diferentes aplicativos para simplificar tarefas.",
+            "description": "Zapier é uma plataforma de automação de fluxos de trabalho que conecta diferentes aplicativos para otimizar tarefas.",
             "features": [
                 "Automação de tarefas",
-                "Integração com mais de 7.000 aplicativos",
+                "Integração com mais de 7.000 apps",
                 "Interface amigável"
             ],
-            "badge": "33% DESCONTO",
+            "badge": "33% DE DESCONTO",
             "price": "A partir de Rs 2,693"
         },
         "fr": {
@@ -2826,21 +2656,21 @@
         "de": {
             "description": "Zapier ist eine Workflow-Automatisierungsplattform, die verschiedene Anwendungen verbindet, um Aufgaben zu optimieren.",
             "features": [
-                "Aufgabenautomatisierung",
+                "Automatisierung von Aufgaben",
                 "Integration mit über 7.000 Apps",
                 "Benutzerfreundliche Oberfläche"
             ],
             "badge": "33% RABATT",
-            "price": "Ab Rs 2.693"
+            "price": "Ab Rs 2,693"
         },
         "zh": {
-            "description": "Zapier 是一个工作流程自动化平台，连接不同的应用程序以简化任务。",
+            "description": "Zapier 是一个工作流程自动化平台，可以连接不同的应用程序以简化任务。",
             "features": [
                 "任务自动化",
-                "与超过 7,000 个应用程序的集成",
+                "与超过 7,000 个应用程序集成",
                 "用户友好的界面"
             ],
-            "badge": "折扣 33%",
+            "badge": "33% 优惠",
             "price": "起价 Rs 2,693"
         },
         "it": {
@@ -2857,7 +2687,7 @@
     "Copy.ai": {
         "en": {
             "description": "N/A",
-            "features": [
+            "feats": [
                 "Easy to use",
                 "Versatile content types",
                 "Multilingual",
@@ -2867,146 +2697,137 @@
             "price": "$49/Month"
         },
         "uk": {
-            "description": "Немає",
-            "features": [
-                "Легко у використанні",
-                "Універсальні типи контенту",
-                "Мультимовний",
-                "Підвищує креативність"
+            "description": "НД",
+            "feats": [
+                "Легкий у використанні",
+                "Різноманітні типи контенту",
+                "Багатомовний",
+                "Підвищуйте креативність"
             ],
-            "badge": "40% ЗНИЖКА",
-            "price": "$49/Місяць"
+            "badge": "Знижка 40%",
+            "price": "$49/місяць"
         },
         "ja": {
-            "description": "該当なし",
-            "features": [
+            "description": "N/A",
+            "feats": [
                 "使いやすい",
                 "多様なコンテンツタイプ",
                 "多言語対応",
-                "創造力を高める"
+                "創造性を高める"
             ],
             "badge": "40% OFF",
             "price": "$49/月"
         },
         "es": {
             "description": "N/A",
-            "features": [
+            "feats": [
                 "Fácil de usar",
                 "Tipos de contenido versátiles",
                 "Multilingüe",
-                "Aumenta la creatividad"
+                "Aumentar la creatividad"
             ],
-            "badge": "40% DESCUENTO",
-            "price": "$49/Mes"
+            "badge": "40% de descuento",
+            "price": "$49/mes"
         },
         "pt": {
             "description": "N/A",
-            "features": [
+            "feats": [
                 "Fácil de usar",
                 "Tipos de conteúdo versáteis",
                 "Multilíngue",
                 "Aumentar a criatividade"
             ],
-            "badge": "40% DESCONTO",
-            "price": "$49/Mês"
+            "badge": "40% de desconto",
+            "price": "$49/mês"
         },
         "fr": {
             "description": "N/A",
-            "features": [
+            "feats": [
                 "Facile à utiliser",
                 "Types de contenu polyvalents",
                 "Multilingue",
-                "Stimule la créativité"
+                "Stimulez la créativité"
             ],
-            "badge": "40% DE RÉDUCTION",
-            "price": "$49/Mois"
+            "badge": "40 % de réduction",
+            "price": "$49/mois"
         },
         "de": {
-            "description": "Nicht zutreffend",
-            "features": [
+            "description": "N/A",
+            "feats": [
                 "Einfach zu bedienen",
                 "Vielseitige Inhaltstypen",
                 "Mehrsprachig",
                 "Kreativität steigern"
             ],
-            "badge": "40% RABATT",
+            "badge": "40 % Rabatt",
             "price": "$49/Monat"
         },
         "zh": {
-            "description": "不适用",
-            "features": [
+            "description": "N/A",
+            "feats": [
                 "易于使用",
-                "多功能内容类型",
+                "多样化的内容类型",
                 "多语言",
                 "提升创造力"
             ],
-            "badge": "优惠40%",
-            "price": "$49/每月"
+            "badge": "减免40%",
+            "price": "$49/月"
         },
         "it": {
             "description": "N/A",
-            "features": [
+            "feats": [
                 "Facile da usare",
                 "Tipi di contenuto versatili",
                 "Multilingue",
-                "Aumenta la creatività"
+                "Stimolare la creatività"
             ],
-            "badge": "40% DI SCONTO",
-            "price": "$49/Mese"
+            "badge": "40% di sconto",
+            "price": "$49/mese"
         }
     },
     "VoiceType AI": {
         "en": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "84% OFF",
             "price": "$29.99"
         },
         "uk": {
-            "description": "N/A",
-            "features": "N/A",
+            "description": "Немає",
             "badge": "84% ЗНИЖКИ",
             "price": "$29.99"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "該当なし",
-            "badge": "84% OFF",
+            "description": "N/A",
+            "badge": "84%オフ",
             "price": "$29.99"
         },
         "es": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "84% DESCUENTO",
+            "badge": "84% DE DESCUENTO",
             "price": "$29.99"
         },
         "pt": {
             "description": "N/A",
-            "features": "N/A",
-            "badge": "84% DE DESCONTO",
+            "badge": "84% OFF",
             "price": "$29.99"
         },
         "fr": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "84% DE RÉDUCTION",
             "price": "$29.99"
         },
         "de": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "84% RABATT",
             "price": "$29.99"
         },
         "zh": {
-            "description": "不适用",
-            "features": "不适用",
-            "badge": "84% 折扣",
+            "description": "N/A",
+            "badge": "享受84%优惠",
             "price": "$29.99"
         },
         "it": {
             "description": "N/A",
-            "features": "N/A",
             "badge": "84% DI SCONTO",
             "price": "$29.99"
         }
@@ -3014,149 +2835,140 @@
     "Claude": {
         "en": {
             "description": "Claude is Anthropic’s AI assistant for coding, research, writing, and complex reasoning.",
-            "features": [
-                "Advanced Natural Language Understanding",
-                "Coding Assistance",
-                "Multimodal Inputs"
-            ],
             "badge": "50% OFF for the first three months",
             "price": "$20/month"
         },
         "uk": {
-            "description": "Клод - це AI-асистент Anthropic для програмування, досліджень, написання текстів і складного міркування.",
-            "features": [
-                "Розвинута природна мова",
-                "Допомога в програмуванні",
-                "Мультимодальні входи"
-            ],
+            "description": "Claude - це AI помічник Anthropic для кодування, досліджень, письма та складного міркування.",
             "badge": "50% знижка на перші три місяці",
             "price": "$20/місяць"
         },
         "ja": {
-            "description": "クロードは、コーディング、リサーチ、ライティング、複雑な推論のためのAnthropicのAIアシスタントです。",
-            "features": [
-                "高度な自然言語理解",
-                "コーディング支援",
-                "マルチモーダル入力"
-            ],
-            "badge": "最初の3ヶ月間50%割引",
+            "description": "ClaudeはAnthropicのコーディング、リサーチ、ライティング、複雑な推論のためのAIアシスタントです。",
+            "badge": "最初の3ヶ月間50%オフ",
             "price": "$20/月"
         },
         "es": {
-            "description": "Claude es el asistente de IA de Anthropic para programación, investigación, redacción y razonamiento complejo.",
-            "features": [
-                "Comprensión avanzada del lenguaje natural",
-                "Asistencia en programación",
-                "Entradas multimodales"
-            ],
+            "description": "Claude es el asistente de IA de Anthropic para codificación, investigación, escritura y razonamiento complejo.",
             "badge": "50% de descuento durante los primeros tres meses",
             "price": "$20/mes"
         },
         "pt": {
-            "description": "Claude é o assistente de IA da Anthropic para codificação, pesquisa, redação e raciocínio complexo.",
-            "features": [
-                "Compreensão avançada de linguagem natural",
-                "Assistência em codificação",
-                "Entradas multimídia"
-            ],
+            "description": "Claude é o assistente de IA da Anthropic para codificação, pesquisa, escrita e raciocínio complexo.",
             "badge": "50% de desconto nos primeiros três meses",
-            "price": "R$20/mês"
+            "price": "$20/mês"
         },
         "fr": {
             "description": "Claude est l'assistant IA d'Anthropic pour la programmation, la recherche, l'écriture et le raisonnement complexe.",
-            "features": [
-                "Compréhension avancée du langage naturel",
-                "Assistance à la programmation",
-                "Entrées multimodales"
-            ],
             "badge": "50% de réduction pendant les trois premiers mois",
-            "price": "20$/mois"
+            "price": "$20/mois"
         },
         "de": {
-            "description": "Claude ist Anthropics KI-Assistent für Programmierung, Forschung, Schreiben und komplexes Denken.",
-            "features": [
-                "Fortgeschrittenes Verständnis natürlicher Sprache",
-                "Programmierhilfe",
-                "Multimodale Eingaben"
-            ],
+            "description": "Claude ist Anthropic's KI-Assistent für Kodierung, Forschung, Schreiben und komplexes Denken.",
             "badge": "50% Rabatt für die ersten drei Monate",
-            "price": "20$/Monat"
+            "price": "$20/Monat"
         },
         "zh": {
-            "description": "Claude是Anthropic的AI助手，专注于编码、研究、写作和复杂推理。",
-            "features": [
-                "先进的自然语言理解",
-                "编码协助",
-                "多模态输入"
-            ],
-            "badge": "前三个月享受50%折扣",
+            "description": "Claude是Anthropic的AI助手，适用于编码、研究、写作和复杂推理。",
+            "badge": "前三个月50%优惠",
             "price": "$20/月"
         },
         "it": {
-            "description": "Claude è l'assistente AI di Anthropic per la programmazione, la ricerca, la scrittura e il ragionamento complesso.",
-            "features": [
-                "Comprensione avanzata del linguaggio naturale",
-                "Assistenza alla programmazione",
-                "Input multimodali"
-            ],
+            "description": "Claude è l'assistente AI di Anthropic per la codifica, la ricerca, la scrittura e il ragionamento complesso.",
             "badge": "50% di sconto per i primi tre mesi",
-            "price": "20$/mese"
+            "price": "$20/mese"
         }
     },
     "Voice.AI": {
         "en": {
             "description": "Voice.AI provides advanced solutions for generating and modifying voices using AI technology.",
-            "features": "AI voice generation, Text-to-speech, Voice changing",
+            "features": [
+                "AI voice generation",
+                "Text-to-speech",
+                "Voice changing"
+            ],
             "badge": "75% OFF",
             "price": "N/A"
         },
         "uk": {
-            "description": "Voice.AI пропонує просунуті рішення для генерації та модифікації голосів за допомогою технології штучного інтелекту.",
-            "features": "Генерація голосу AI, Текст у мову, Зміна голосу",
-            "badge": "75% ЗНИЖКИ",
-            "price": "Н/Д"
+            "description": "Voice.AI пропонує передові рішення для генерації та модифікації голосів за допомогою технології ШІ.",
+            "features": [
+                "Генерація голосу за допомогою ШІ",
+                "Текст в мову",
+                "Зміна голосу"
+            ],
+            "badge": "75% ЗНИЖКА",
+            "price": "Немає даних"
         },
         "ja": {
-            "description": "Voice.AIは、AI技術を使用して声を生成および変更するための高度なソリューションを提供します。",
-            "features": "AI音声生成、テキスト読み上げ、声の変更",
+            "description": "Voice.AIは、AI技術を使用して音声を生成および変更するための高度なソリューションを提供します。",
+            "features": [
+                "AI音声生成",
+                "テキスト読み上げ",
+                "声の変更"
+            ],
             "badge": "75% OFF",
             "price": "N/A"
         },
         "es": {
             "description": "Voice.AI ofrece soluciones avanzadas para generar y modificar voces utilizando tecnología de IA.",
-            "features": "Generación de voz AI, Texto a voz, Cambio de voz",
-            "badge": "75% DE DESCUENTO",
+            "features": [
+                "Generación de voz con IA",
+                "Texto a voz",
+                "Cambio de voz"
+            ],
+            "badge": "75% DESCUENTO",
             "price": "N/A"
         },
         "pt": {
             "description": "Voice.AI fornece soluções avançadas para gerar e modificar vozes usando tecnologia de IA.",
-            "features": "Geração de voz AI, Texto-para-fala, Mudança de voz",
-            "badge": "75% OFF",
+            "features": [
+                "Geração de voz com IA",
+                "Texto para fala",
+                "Mudança de voz"
+            ],
+            "badge": "75% DE DESCONTO",
             "price": "N/A"
         },
         "fr": {
-            "description": "Voice.AI propose des solutions avancées pour générer et modifier des voix grâce à la technologie AI.",
-            "features": "Génération de voix IA, Texte en parole, Changement de voix",
-            "badge": "75% DE RÉDUCTION",
+            "description": "Voice.AI propose des solutions avancées pour générer et modifier des voix à l'aide de la technologie IA.",
+            "features": [
+                "Génération de voix IA",
+                "Texte à parole",
+                "Changement de voix"
+            ],
+            "badge": "75% DE RABAIS",
             "price": "N/A"
         },
         "de": {
-            "description": "Voice.AI bietet fortschrittliche Lösungen zur Erstellung und Modifizierung von Stimmen mit KI-Technologie.",
-            "features": "KI-Stimmengenerierung, Text-zu-Sprache, Stimmenänderung",
+            "description": "Voice.AI bietet fortschrittliche Lösungen zur Generierung und Modifikation von Stimmen mit Hilfe von KI-Technologie.",
+            "features": [
+                "KI-Stimmen Generierung",
+                "Text-zu-Sprache",
+                "Stimmenänderung"
+            ],
             "badge": "75% RABATT",
             "price": "N/A"
         },
         "zh": {
-            "description": "Voice.AI 提供先进的解决方案，以使用 AI 技术生成和修改声音。",
-            "features": "AI 语音生成, 文字转语音, 声音更改",
+            "description": "Voice.AI提供基于AI技术生成和修改声音的高级解决方案。",
+            "features": [
+                "AI语音生成",
+                "文本到语音",
+                "声音更改"
+            ],
             "badge": "75% 折扣",
-            "price": "无"
+            "price": "N/A"
         },
         "it": {
             "description": "Voice.AI offre soluzioni avanzate per generare e modificare voci utilizzando la tecnologia AI.",
-            "features": "Generazione di voce AI, Testo in voce, Cambio di voce",
+            "features": [
+                "Generazione di voce AI",
+                "Testo in voce",
+                "Cambiamento di voce"
+            ],
             "badge": "75% DI SCONTO",
-            "price": "N/D"
+            "price": "N/A"
         }
     },
     "Semrush One": {
@@ -3168,51 +2980,255 @@
         },
         "uk": {
             "description": "Немає даних",
-            "features": "Інструмент SEO, Інструмент видимості на основі ІІ, Контент-маркетинг, Централізоване робоче місце",
-            "badge": "17% ЗНИЖКИ",
-            "price": "$199/місяць"
+            "features": "Інструмент для SEO, Інструмент видимості на основі ШІ, Контентний маркетинг, Централізоване робоче місце",
+            "badge": "Знижка 17%",
+            "price": "199 $/місяць"
         },
         "ja": {
-            "description": "該当なし",
-            "features": "SEOツールキット, AI可視性ツールキット, コンテンツマーケティング, 集中ワークスペース",
-            "badge": "17% OFF",
+            "description": "N/A",
+            "features": "SEOツールキット、AI可視性ツールキット、コンテンツマーケティング、中央集約型ワークスペース",
+            "badge": "17%オフ",
             "price": "$199/月"
         },
         "es": {
             "description": "N/A",
-            "features": "Herramienta SEO, Herramienta de Visibilidad de IA, Marketing de Contenidos, Espacio de trabajo Centralizado",
-            "badge": "17% DESCUENTO",
+            "features": "Kit de herramientas SEO, Kit de herramientas de visibilidad de IA, Marketing de contenido, Espacio de trabajo centralizado",
+            "badge": "17% de DESCUENTO",
             "price": "$199/mes"
         },
         "pt": {
             "description": "N/A",
-            "features": "Kit de ferramentas de SEO, Kit de Visibilidade de IA, Marketing de Conteúdo, Espaço de trabalho centralizado",
-            "badge": "17% DESCONTO",
+            "features": "Kit de ferramentas SEO, Kit de Visibilidade de IA, Marketing de Conteúdo, Espaço de trabalho centralizado",
+            "badge": "17% de DESCONTO",
             "price": "$199/mês"
         },
         "fr": {
             "description": "N/A",
-            "features": "Boîte à outils SEO, Outil de visibilité IA, Marketing de contenu, Espace de travail centralisé",
+            "features": "Outil SEO, Outil de Visibilité IA, Marketing de contenu, Espace de travail centralisé",
             "badge": "17% DE RÉDUCTION",
             "price": "$199/mois"
         },
         "de": {
             "description": "N/A",
-            "features": "SEO-Toolkit, KI-Sichtbarkeitstool, Content-Marketing, Zentraler Arbeitsbereich",
+            "features": "SEO-Toolbox, KI-Sichtbarkeits-Toolkit, Content-Marketing, Zentralisiertes Arbeitsumfeld",
             "badge": "17% RABATT",
             "price": "$199/Monat"
         },
         "zh": {
-            "description": "无",
-            "features": "SEO工具包，人工智能可见性工具包，内容营销，集中工作区",
-            "badge": "17% 折扣",
+            "description": "N/A",
+            "features": "SEO工具包，AI可见性工具包，内容营销，集中式工作区",
+            "badge": "减少17%",
             "price": "$199/月"
         },
         "it": {
             "description": "N/A",
-            "features": "Toolkit SEO, Toolkit di Visibilità AI, Marketing dei Contenuti, Spazio di lavoro centralizzato",
+            "features": "Kit SEO, Kit di visibilità AI, Marketing dei contenuti, Spazio di lavoro centralizzato",
             "badge": "17% DI SCONTO",
             "price": "$199/mese"
+        }
+    },
+    "Search Atlas": {
+        "en": {
+            "description": "Search Atlas is an all-in-one AI and SEO platform and an alternative to Writesonic.",
+            "badge": "75% OFF"
+        },
+        "uk": {
+            "description": "Search Atlas - це універсальна платформа ШІ та SEO, альтернатива Writesonic.",
+            "badge": "75% ЗНИЖКА"
+        },
+        "ja": {
+            "description": "Search Atlasはオールインワンプラットフォームであり、Writesonicの代替となるAIおよびSEOプラットフォームです。",
+            "badge": "75% OFF"
+        },
+        "es": {
+            "description": "Search Atlas es una plataforma de IA y SEO todo en uno y una alternativa a Writesonic.",
+            "badge": "75% DESCUENTO"
+        },
+        "pt": {
+            "description": "Search Atlas é uma plataforma de IA e SEO tudo em um e uma alternativa ao Writesonic.",
+            "badge": "75% DESCONTO"
+        },
+        "fr": {
+            "description": "Search Atlas est une plateforme AI et SEO tout-en-un et une alternative à Writesonic.",
+            "badge": "75% DE RÉDUCTION"
+        },
+        "de": {
+            "description": "Search Atlas ist eine All-in-One-KI- und SEO-Plattform und eine Alternative zu Writesonic.",
+            "badge": "75% RABATT"
+        },
+        "zh": {
+            "description": "Search Atlas是一个集成AI和SEO的平台，是Writesonic的替代品。",
+            "badge": "75% 折扣"
+        },
+        "it": {
+            "description": "Search Atlas è una piattaforma AI e SEO tutto-in-uno e un'alternativa a Writesonic.",
+            "badge": "75% DI SCONTO"
+        }
+    },
+    "Writesonic": {
+        "en": {
+            "description": "N/A",
+            "badge": "20% OFF",
+            "features": [
+                "AI writing tool",
+                "SEO optimization",
+                "Content generation",
+                "Email campaigns",
+                "Ad copy"
+            ],
+            "price": "$249/month"
+        },
+        "uk": {
+            "description": "Немає даних",
+            "badge": "20% ЗНИЖКА",
+            "features": [
+                "Інструмент написання на основі ШІ",
+                "Оптимізація SEO",
+                "Генерація контенту",
+                "Email-кампанії",
+                "Рекламний текст"
+            ],
+            "price": "249 доларів США/місяць"
+        },
+        "ja": {
+            "description": "N/A",
+            "badge": "20% OFF",
+            "features": [
+                "AIライティングツール",
+                "SEO最適化",
+                "コンテンツ生成",
+                "メールキャンペーン",
+                "広告コピー"
+            ],
+            "price": "$249/月"
+        },
+        "es": {
+            "description": "N/A",
+            "badge": "20% DESCUENTO",
+            "features": [
+                "Herramienta de escritura AI",
+                "Optimización SEO",
+                "Generación de contenido",
+                "Campañas de email",
+                "Texto de anuncio"
+            ],
+            "price": "$249/mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "badge": "20% DESCONTO",
+            "features": [
+                "Ferramenta de escrita de IA",
+                "Otimização de SEO",
+                "Geração de conteúdo",
+                "Campanhas de e-mail",
+                "Cópia de anúncios"
+            ],
+            "price": "$249/mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "badge": "20% DE RÉDUCTION",
+            "features": [
+                "Outil d'écriture IA",
+                "Optimisation SEO",
+                "Génération de contenu",
+                "Campagnes d'e-mail",
+                "Texte publicitaire"
+            ],
+            "price": "$249/mois"
+        },
+        "de": {
+            "description": "N/A",
+            "badge": "20% RABATT",
+            "features": [
+                "KI-Schreibwerkzeug",
+                "SEO-Optimierung",
+                "Inhaltserstellung",
+                "E-Mail-Kampagnen",
+                "Anzeigentext"
+            ],
+            "price": "$249/Monat"
+        },
+        "zh": {
+            "description": "N/A",
+            "badge": "20% 折扣",
+            "features": [
+                "人工智能写作工具",
+                "搜索引擎优化",
+                "内容生成",
+                "电子邮件活动",
+                "广告文案"
+            ],
+            "price": "$249/月"
+        },
+        "it": {
+            "description": "N/A",
+            "badge": "20% DI SCONTO",
+            "features": [
+                "Strumento di scrittura AI",
+                "Ottimizzazione SEO",
+                "Generazione di contenuti",
+                "Campagne email",
+                "Testo pubblicitario"
+            ],
+            "price": "$249/mese"
+        }
+    },
+    "Unknown": {
+        "en": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "feats": "Н/Д",
+            "badge": "Н/Д",
+            "price": "Н/Д"
+        },
+        "ja": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
+        },
+        "es": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
+        },
+        "pt": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
+        },
+        "fr": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
+        },
+        "de": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
+        },
+        "zh": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
+        },
+        "it": {
+            "description": "N/A",
+            "feats": "N/A",
+            "badge": "N/A",
+            "price": "N/A"
         }
     }
 }
