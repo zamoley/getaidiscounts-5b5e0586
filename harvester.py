@@ -1,95 +1,60 @@
 import os
 import json
-import requests
 import re
 from datetime import datetime
 
-TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY")
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-
-def search_tavily(query):
-    url = "https://api.tavily.com/search"
-    payload = {"api_key": TAVILY_API_KEY, "query": query, "search_depth": "basic", "max_results": 5}
-    try:
-        response = requests.post(url, json=payload, timeout=15)
-        return response.json().get("results", [])
-    except: return []
-
-def call_ai(prompt):
-    headers = {"Authorization": f"Bearer {OPENAI_API_KEY}", "Content-Type": "application/json"}
-    payload = {"model": "gpt-4o-mini", "messages": [{"role": "user", "content": prompt}], "response_format": {"type": "json_object"}}
-    try:
-        response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload, timeout=30)
-        return response.json()['choices'][0]['message']['content']
-    except: return None
-
-def discover_categories():
-    """Scouts for 10-12 trending AI niches (Legal, Music, Medical, etc.)"""
-    print("Scouting for new AI trends...")
-    results = search_tavily("hottest trending AI tool categories May 2026")
-    context = "\n".join([r['content'] for r in results])
-    prompt = f"Based on: {context}\nReturn JSON list of 12 diverse AI categories. Format: {{'categories': ['Cat1', 'Cat2', ...]}}"
-    res = call_ai(prompt)
-    try: return json.loads(res).get('categories', ["Music AI", "Legal AI", "Video AI", "Voice AI", "Medical AI"])
-    except: return ["Music AI", "Legal AI", "Video AI", "Voice AI", "Medical AI"]
-
-def clean_value(key, val):
-    """Ensures everything is a clean string and fixes the 'Ghost Name' bug."""
-    if val is None: return "N/A"
-    s_val = str(val).strip()
-    # Fix the 'Ghost Name' (Objects disguised as strings)
-    if s_val.startswith("{") or s_val.startswith("[") or len(s_val) > 100:
-        if key == "tool_name":
-            match = re.search(r"['\"]name['\"]:\s*['\"]([^'\"]+)['\"]", s_val)
-            return match.group(1) if match else "AI Tool"
-        return "N/A"
-    # Filter out common placeholders
-    placeholders = ["official_url", "code_or_null", "null", "none", "http://", "https://"]
-    if s_val.lower() in placeholders or len(s_val) < 2: return "N/A"
-    return s_val
-
 def normalize(name):
-    """Removes symbols and 'AI' to find hidden duplicates."""
-    return re.sub(r'[^a-z0-9]', '', str(name).lower().replace('ai', ''))
+    """Turns 'HappyHorse-1.0' or 'Kling 3.0' into 'happyhorse' or 'kling'."""
+    n = str(name).lower().strip()
+    # Remove version numbers, 'ai', and special characters
+    n = re.sub(r'[^a-z0-9]', '', n)
+    n = n.replace('ai', '').replace('v1', '').replace('v2', '').replace('v3', '')
+    return "".join(re.split(r'\d+', n)) # Removes numbers to match versions
+
+def is_working(url):
+    u = str(url).lower()
+    return len(u) > 10 and not any(p in u for p in ["n/a", "official", "null", "none"])
 
 def main():
-    database = {}
-    # 1. Load & Clean Existing Data
-    if os.path.exists("ai_deals.json"):
-        with open("ai_deals.json", "r") as f:
-            try:
-                existing = json.load(f)
-                for item in existing:
-                    key = normalize(item.get('tool_name'))
-                    database[key] = {k: clean_value(k, v) for k, v in item.items()}
-            except: pass
+    if not os.path.exists("ai_deals.json"): return
+    with open("ai_deals.json", "r") as f:
+        try: deals = json.load(f)
+        except: return
 
-    # 2. Dynamic Discovery & Harvesting
-    categories = discover_categories()
-    for cat in categories:
-        print(f"Hunting in: {cat}...")
-        tools = search_tavily(f"best {cat} tools with discount codes 2026")
-        target_names = [r['title'].split('-')[0].split('|')[0].strip() for r in tools[:2]]
-        for name in target_names:
-            if not name or len(name) < 2: continue
-            key = normalize(name)
-            # Only search if it's a new tool or the current one is broken (N/A)
-            if key not in database or database[key].get('tool_url') == "N/A":
-                res = search_tavily(f"'{name}' official website and promo code 2026")
-                ctx = "\n".join([r['content'] for r in res])
-                prompt = f"Extract details for '{name}' in '{cat}' from: {ctx}. Return JSON. Official URL only. Strings only."
-                raw = call_ai(prompt)
-                if raw:
-                    try:
-                        data = json.loads(raw)
-                        database[key] = {k: clean_value(k, v) for k, v in data.items()}
-                        database[key]['category'] = cat # Ensure category matches search
-                    except: continue
+    # THE MASTER BOUNCER: Only one tool per 'Stem Name'
+    unique_database = {}
 
-    # 3. Final Save (Deduplicated & Clean)
+    for tool in deals:
+        original_name = str(tool.get('tool_name', 'Unknown')).strip()
+        stem = normalize(original_name)
+        url = tool.get('tool_url', 'N/A')
+        working = is_working(url)
+
+        # PRIORITY RULE: If we find a duplicate, keep the one that actually WORKS.
+        if stem not in unique_database or (not unique_database[stem]['is_working'] and working):
+            clean_item = {
+                "tool_name": original_name,
+                "tool_url": url if working else "N/A",
+                "code": str(tool.get("code", "N/A")),
+                "discount_amount": str(tool.get("discount_amount", "N/A")),
+                "pricing_info": str(tool.get("pricing_info", "N/A")),
+                "key_features": str(tool.get("key_features", "N/A")),
+                "description": str(tool.get("description", "N/A")),
+                "last_verified": str(tool.get("last_verified", datetime.now().strftime('%Y-%m-%d'))),
+                "category": str(tool.get("category", "General AI")),
+                "is_working": working
+            }
+            unique_database[stem] = clean_item
+
+    # Convert back to list and remove internal flag
+    final_list = []
+    for t in unique_database.values():
+        del t['is_working']
+        final_list.append(t)
+
     with open("ai_deals.json", "w") as f:
-        json.dump(list(database.values()), f, indent=4)
-    print(f"Success! Database has {len(database)} unique, clean tools.")
+        json.dump(final_list, f, indent=4)
+    print(f"Sanitization Complete. {len(final_list)} unique tools remaining.")
 
 if __name__ == "__main__":
     main()
