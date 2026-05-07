@@ -1210,5 +1210,601 @@
             "badge": "35%",
             "price": "$20 / mese"
         }
+    },
+    "Adobe Firefly 3": {
+        "en": {
+            "description": "N/A",
+            "features": "2048 x 2048",
+            "badge": "75% OFF for select plans",
+            "price": "$19.99 / mo."
+        },
+        "uk": {
+            "description": "Немає даних",
+            "features": "2048 x 2048",
+            "badge": "Знижка 75% на вибрані плани",
+            "price": "$19,99 / міс."
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "2048 x 2048",
+            "badge": "特定のプランで75％オフ",
+            "price": "$19.99 / 月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "2048 x 2048",
+            "badge": "75% de descuento en planes seleccionados",
+            "price": "$19.99 / mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "2048 x 2048",
+            "badge": "75% de desconto em planos selecionados",
+            "price": "$19.99 / mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "2048 x 2048",
+            "badge": "75% de réduction pour certains plans",
+            "price": "$19.99 / mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "2048 x 2048",
+            "badge": "75% Rabatt für ausgewählte Pläne",
+            "price": "$19.99 / Monat"
+        },
+        "zh": {
+            "description": "无",
+            "features": "2048 x 2048",
+            "badge": "精选计划75%折扣",
+            "price": "$19.99 / 月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "2048 x 2048",
+            "badge": "75% di sconto per piani selezionati",
+            "price": "$19.99 / mese"
+        }
+    },
+    "Surfer SEO": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Starts at $99/month."
+        },
+        "uk": {
+            "description": "Немає",
+            "features": "Немає",
+            "badge": "Немає",
+            "price": "Починається від 99 доларів США на місяць."
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "該当なし",
+            "badge": "該当なし",
+            "price": "月額99ドルから。"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "A partir de $99/mes."
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "A partir de $99/mês."
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "À partir de 99 $/mois."
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Ab 99 $/Monat."
+        },
+        "zh": {
+            "description": "不适用",
+            "features": "不适用",
+            "badge": "不适用",
+            "price": "价格从每月99美元起。"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "A partire da 99$/mese."
+        }
+    },
+    "HubSpot AEO Grader": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Free"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Н/Д",
+            "badge": "Н/Д",
+            "price": "Безкоштовно"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "無料"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Gratis"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Grátis"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Gratuit"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Kostenlos"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "免费"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Gratuito"
+        }
+    },
+    "Jasper": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10,000 Bonus Words",
+            "price": "$69"
+        },
+        "uk": {
+            "description": "Н/Д",
+            "features": "Н/Д",
+            "badge": "10,000 Бонусних Слів",
+            "price": "$69"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10,000ボーナス単語",
+            "price": "$69"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10,000 Palabras Bonificadas",
+            "price": "$69"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10.000 Palavras Bônus",
+            "price": "$69"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10 000 Mots Bonus",
+            "price": "$69"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10.000 Bonuswörter",
+            "price": "$69"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10,000个额外单词",
+            "price": "$69"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "10.000 Parole Bonus",
+            "price": "$69"
+        }
+    },
+    "HappyHorse-1.0 Text-to-video": {
+        "en": {
+            "description": "Generates videos from text prompts with support for 720P or 1080P output and flexible aspect ratios.",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "From $0.14/SEC"
+        },
+        "uk": {
+            "description": "Генерує відео з текстових запитів з підтримкою виходу 720P або 1080P та гнучкими аспектами.",
+            "features": "НД",
+            "badge": "НД",
+            "price": "Від $0.14/сек"
+        },
+        "ja": {
+            "description": "テキストプロンプトからビデオを生成し、720Pまたは1080P出力および柔軟なアスペクト比をサポートします。",
+            "features": "該当なし",
+            "badge": "該当なし",
+            "price": "$0.14/SECから"
+        },
+        "es": {
+            "description": "Genera videos a partir de texto con soporte para salida de 720P o 1080P y relaciones de aspecto flexibles.",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Desde $0.14/SEG"
+        },
+        "pt": {
+            "description": "Gera vídeos a partir de prompts de texto com suporte para saída em 720P ou 1080P e proporções de aspecto flexíveis.",
+            "features": "N/D",
+            "badge": "N/D",
+            "price": "A partir de $0.14/SEG"
+        },
+        "fr": {
+            "description": "Génère des vidéos à partir de textes avec support pour des sorties en 720P ou 1080P et des rapports d'aspect flexibles.",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "À partir de 0,14 $/SEC"
+        },
+        "de": {
+            "description": "Generiert Videos aus Textaufforderungen mit Unterstützung für 720P oder 1080P Ausgaben und flexibler Seitenverhältnisse.",
+            "features": "N/A",
+            "badge": "N/A",
+            "price": "Ab $0.14/SEK"
+        },
+        "zh": {
+            "description": "从文本提示生成视频，支持720P或1080P输出，并具有灵活的宽高比。",
+            "features": "不适用",
+            "badge": "不适用",
+            "price": "从每秒$0.14起"
+        },
+        "it": {
+            "description": "Genera video da prompt testuali con supporto per output a 720P o 1080P e rapporti di aspetto flessibili.",
+            "features": "N/D",
+            "badge": "N/D",
+            "price": "A partire da $0.14/SEC"
+        }
+    },
+    "ChatGPT": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% OFF",
+            "price": "$20/month for subscription"
+        },
+        "uk": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% ЗНИЖКА",
+            "price": "$20/місяць за підписку"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20%オフ",
+            "price": "$20/月のサブスクリプション"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% DE DESCUENTO",
+            "price": "$20/mes por suscripción"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% DE DESCONTO",
+            "price": "$20/mês para assinatura"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% DE RÉDUCTION",
+            "price": "$20/mois pour l'abonnement"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% RABATT",
+            "price": "$20/Monat für Abonnement"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% 折扣",
+            "price": "$20/月的订阅"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "20% DI SCONTO",
+            "price": "$20/mese per abbonamento"
+        }
+    },
+    "Rytr": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "40% OFF",
+            "price": "Available with limited features."
+        },
+        "uk": {
+            "description": "Немає",
+            "features": "Немає",
+            "badge": "40% ЗНИЖКА",
+            "price": "Доступно з обмеженими функціями."
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "該当なし",
+            "badge": "40%オフ",
+            "price": "限定機能で利用可能。"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "40% DESCUENTO",
+            "price": "Disponible con funciones limitadas."
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "40% DE DESCONTO",
+            "price": "Disponível com recursos limitados."
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "40% DE RÉDUCTION",
+            "price": "Disponible avec des fonctionnalités limitées."
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "40% RABATT",
+            "price": "Verfügbar mit eingeschränkten Funktionen."
+        },
+        "zh": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "享受40%优惠",
+            "price": "有出售的有限功能。"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "40% DI SCONTO",
+            "price": "Disponibile con funzioni limitate."
+        }
+    },
+    "GitHub Copilot": {
+        "en": {
+            "description": "GitHub Copilot is an AI-powered code completion tool that helps developers write code faster and with more accuracy.",
+            "features": "Intelligent code suggestions, support for multiple programming languages, context-aware completions, integration with popular IDEs.",
+            "badge": "Official GitHub Tool",
+            "price": "Yes"
+        },
+        "uk": {
+            "description": "GitHub Copilot – це інструмент автоматичного завершення коду на базі ШІ, який допомагає розробникам швидше і точніше писати код.",
+            "features": "Інтелектуальні пропозиції коду, підтримка кількох мов програмування, завершення з урахуванням контексту, інтеграція з популярними IDE.",
+            "badge": "Офіційний інструмент GitHub",
+            "price": "Так"
+        },
+        "ja": {
+            "description": "GitHub Copilotは、開発者がコードをより迅速かつ正確に記述するのを支援するAI駆動のコード補完ツールです。",
+            "features": "インテリジェントなコード提案、複数のプログラミング言語のサポート、コンテキストに基づく補完、人気IDEとの統合。",
+            "badge": "公式GitHubツール",
+            "price": "はい"
+        },
+        "es": {
+            "description": "GitHub Copilot es una herramienta de autocompletado de código impulsada por IA que ayuda a los desarrolladores a escribir código más rápido y con más precisión.",
+            "features": "Sugerencias de código inteligentes, soporte para múltiples lenguajes de programación, completaciones conscientes del contexto, integración con IDE populares.",
+            "badge": "Herramienta oficial de GitHub",
+            "price": "Sí"
+        },
+        "pt": {
+            "description": "O GitHub Copilot é uma ferramenta de autocompletar código impulsionada por IA que ajuda os desenvolvedores a escrever código mais rápido e com mais precisão.",
+            "features": "Sugestões de código inteligentes, suporte para várias linguagens de programação, completas com base no contexto, integração com IDEs populares.",
+            "badge": "Ferramenta oficial do GitHub",
+            "price": "Sim"
+        },
+        "fr": {
+            "description": "GitHub Copilot est un outil de complétion de code alimenté par IA qui aide les développeurs à écrire du code plus rapidement et avec plus de précision.",
+            "features": "Suggestions de code intelligentes, support pour plusieurs langages de programmation, complétions conscientes du contexte, intégration avec des IDE populaires.",
+            "badge": "Outil officiel de GitHub",
+            "price": "Oui"
+        },
+        "de": {
+            "description": "GitHub Copilot ist ein KI-gestütztes Code-Vervollständigungswerkzeug, das Entwicklern hilft, Code schneller und genauer zu schreiben.",
+            "features": "Intelligente Code-Vorschläge, Unterstützung für mehrere Programmiersprachen, kontextabhängige Vervollständigungen, Integration mit beliebten IDEs.",
+            "badge": "Offizielles GitHub-Werkzeug",
+            "price": "Ja"
+        },
+        "zh": {
+            "description": "GitHub Copilot 是一款由 AI 驱动的代码补全工具，帮助开发者更快、更准确地编写代码。",
+            "features": "智能代码建议，支持多种编程语言，基于上下文的补全，集成流行的 IDE。",
+            "badge": "官方 GitHub 工具",
+            "price": "是"
+        },
+        "it": {
+            "description": "GitHub Copilot è uno strumento di completamento del codice alimentato da IA che aiuta gli sviluppatori a scrivere codice più velocemente e con maggiore precisione.",
+            "features": "Suggerimenti di codice intelligenti, supporto per più linguaggi di programmazione, completamenti consapevoli del contesto, integrazione con IDE popolari.",
+            "badge": "Strumento ufficiale di GitHub",
+            "price": "Sì"
+        }
+    },
+    "Tabnine": {
+        "en": {
+            "description": "N/A",
+            "features": [
+                "Privacy-first with local execution",
+                "IDE extension",
+                "Free plan available"
+            ],
+            "badge": "15%",
+            "price": "$39/user per month"
+        },
+        "uk": {
+            "description": "Немає даних",
+            "features": [
+                "Конфіденційність на першому місці з локальним виконанням",
+                "Розширення IDE",
+                "Безкоштовний план доступний"
+            ],
+            "badge": "15%",
+            "price": "$39/користувача на місяць"
+        },
+        "ja": {
+            "description": "N/A",
+            "features": [
+                "ローカル実行によるプライバシー優先",
+                "IDE拡張",
+                "無料プラン利用可能"
+            ],
+            "badge": "15%",
+            "price": "$39/ユーザーあたり月"
+        },
+        "es": {
+            "description": "N/A",
+            "features": [
+                "Prioridad a la privacidad con ejecución local",
+                "Extensión de IDE",
+                "Plan gratuito disponible"
+            ],
+            "badge": "15%",
+            "price": "$39/usuario por mes"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": [
+                "Privacidade em primeiro lugar com execução local",
+                "Extensão de IDE",
+                "Plano gratuito disponível"
+            ],
+            "badge": "15%",
+            "price": "$39/usuário por mês"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": [
+                "Confidentialité prioritaire avec exécution locale",
+                "Extension IDE",
+                "Plan gratuit disponible"
+            ],
+            "badge": "15%",
+            "price": "$39/utilisateur par mois"
+        },
+        "de": {
+            "description": "N/A",
+            "features": [
+                "Datenschutz zuerst mit lokaler Ausführung",
+                "IDE-Erweiterung",
+                "Kostenloser Plan verfügbar"
+            ],
+            "badge": "15%",
+            "price": "$39/Nutzer pro Monat"
+        },
+        "zh": {
+            "description": "N/A",
+            "features": [
+                "以隐私为先，支持本地执行",
+                "IDE扩展",
+                "提供免费计划"
+            ],
+            "badge": "15%",
+            "price": "$39/用户每月"
+        },
+        "it": {
+            "description": "N/A",
+            "features": [
+                "Privacy-first con esecuzione locale",
+                "Estensione IDE",
+                "Piano gratuito disponibile"
+            ],
+            "badge": "15%",
+            "price": "$39/utente al mese"
+        }
+    },
+    "Resemble.AI": {
+        "en": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "$5 off Starter Plan",
+            "price": "N/A"
+        },
+        "uk": {
+            "description": "Немає даних",
+            "features": "Немає даних",
+            "badge": "-5 доларів США на стартовий план",
+            "price": "Немає даних"
+        },
+        "ja": {
+            "description": "該当なし",
+            "features": "該当なし",
+            "badge": "スタータープラン $5オフ",
+            "price": "該当なし"
+        },
+        "es": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "$5 de descuento en el plan inicial",
+            "price": "N/A"
+        },
+        "pt": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "R$5 de desconto no Plano Inicial",
+            "price": "N/A"
+        },
+        "fr": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "5 $ de réduction sur le projet de démarrage",
+            "price": "N/A"
+        },
+        "de": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "5 $ Rabatt auf den Starter-Plan",
+            "price": "N/A"
+        },
+        "zh": {
+            "description": "不适用",
+            "features": "不适用",
+            "badge": "入门计划优惠$5",
+            "price": "不适用"
+        },
+        "it": {
+            "description": "N/A",
+            "features": "N/A",
+            "badge": "$5 di sconto sul piano di avvio",
+            "price": "N/A"
+        }
     }
 }
