@@ -1,62 +1,68 @@
 import os
 import json
-import requests
-import re
 from datetime import datetime
 
-TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY")
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-
-def call_ai(prompt):
-    headers = {"Authorization": f"Bearer {OPENAI_API_KEY}", "Content-Type": "application/json"}
-    payload = {"model": "gpt-4o-mini", "messages": [{"role": "user", "content": prompt}], "response_format": {"type": "json_object"}}
-    try:
-        res = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload, timeout=30)
-        return res.json()['choices'][0]['message']['content']
-    except: return None
-
-def clean_string(val):
-    """Deep-cleans any data into a clean string. Fixes the 'Ghost Name' bug."""
-    if not val: return "N/A"
+def clean_value(val):
+    """Removes messy placeholders like OFFICIAL_URL or CODE_OR_NULL."""
     s_val = str(val).strip()
-    # Check if AI returned a JSON string instead of a name
-    if s_val.startswith("{") or s_val.startswith("['") or len(s_val) > 100:
-        try:
-            prompt = f"Extract ONLY the official name of the AI tool from this text: {s_val}. Return JSON: {{'name': '...'}}"
-            res = call_ai(prompt)
-            return json.loads(res).get('name', 'AI Tool')
-        except: 
-            # Fallback: regex to find the first quoted name or title
-            match = re.search(r"['\"]name['\"]:\s*['\"]([^'\"]+)['\"]", s_val)
-            return match.group(1) if match else "AI Tool"
+    placeholders = ["OFFICIAL_URL", "CODE_OR_NULL", "NULL", "Not Applicable", "not specified"]
+    if any(p.lower() in s_val.lower() for p in placeholders) or len(s_val) < 2:
+        return "N/A"
     return s_val
 
 def main():
-    final_data = []
-    # 1. Load and Fix current database (Sanitization)
-    if os.path.exists("ai_deals.json"):
-        with open("ai_deals.json", "r") as f:
-            try:
-                existing = json.load(f)
-                for item in existing:
-                    clean_item = {
-                        "tool_name": clean_string(item.get("tool_name")),
-                        "tool_url": str(item.get("tool_url", "")),
-                        "code": str(item.get("code", "N/A")),
-                        "discount_amount": str(item.get("discount_amount", "N/A")),
-                        "pricing_info": str(item.get("pricing_info", "N/A")),
-                        "key_features": str(item.get("key_features", "N/A")),
-                        "description": str(item.get("description", "N/A")),
-                        "last_verified": str(item.get("last_verified", datetime.now().strftime('%Y-%m-%d'))),
-                        "category": str(item.get("category", "General AI"))
-                    }
-                    final_data.append(clean_item)
-            except: pass
+    if not os.path.exists("ai_deals.json"):
+        print("Error: ai_deals.json not found.")
+        return
 
-    # 2. Save the perfectly sanitized database
+    with open("ai_deals.json", "r") as f:
+        try:
+            raw_data = json.load(f)
+        except:
+            print("Error: Could not read JSON.")
+            return
+
+    # THE BOUNCER LOGIC
+    # We use a dictionary where the key is the tool name. 
+    # This automatically deletes duplicates!
+    unique_tools = {}
+
+    for item in raw_data:
+        name = str(item.get("tool_name", "Unknown")).strip()
+        url = str(item.get("tool_url", ""))
+        
+        # QUALITY CHECK:
+        # If we already have this tool, we only replace it if the NEW one has a real URL.
+        # This keeps the version with the working logo/link!
+        is_placeholder = "official_url" in url.lower() or len(url) < 5
+        
+        if name not in unique_tools or (unique_tools[name]['is_placeholder'] and not is_placeholder):
+            # Clean the data before saving
+            clean_item = {
+                "tool_name": name,
+                "tool_url": clean_value(item.get("tool_url")),
+                "code": clean_value(item.get("code")),
+                "discount_amount": clean_value(item.get("discount_amount")),
+                "pricing_info": clean_value(item.get("pricing_info")),
+                "key_features": clean_value(item.get("key_features")),
+                "description": clean_value(item.get("description")),
+                "last_verified": str(item.get("last_verified", datetime.now().strftime('%Y-%m-%d'))),
+                "category": clean_value(item.get("category")),
+                "is_placeholder": is_placeholder # Internal flag for cleaning
+            }
+            unique_tools[name] = clean_item
+
+    # Remove the internal flag and convert back to a list
+    final_list = []
+    for t in unique_tools.values():
+        del t['is_placeholder']
+        final_list.append(t)
+
+    # Save the perfectly clean list
     with open("ai_deals.json", "w") as f:
-        json.dump(final_data, f, indent=4)
-    print(f"Database sanitized. {len(final_data)} tools cleaned.")
+        json.dump(final_list, f, indent=4)
+    
+    print(f"Cleanup complete! Removed duplicates. {len(final_list)} unique tools remain.")
 
 if __name__ == "__main__":
     main()
