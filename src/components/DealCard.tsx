@@ -55,8 +55,11 @@ export function DealCard({
     } catch {}
   };
 
+  const isUrlMissing = !deal.url || deal.url === "#" || /^n\/?a$/i.test(deal.url.trim());
+
   const handleGetDeal = async (e: React.MouseEvent) => {
     e.preventDefault();
+    if (isUrlMissing) return;
     gaEvent("deal_click", {
       tool_name: toolName,
       deal_id: deal.id,
@@ -68,7 +71,7 @@ export function DealCard({
         toast.success("Code Copied!", { description: deal.code });
       } catch {}
     }
-    window.location.href = smartLink(deal.url, toolName);
+    window.open(smartLink(deal.url, toolName), "_blank", "noopener,noreferrer");
   };
 
   return (
@@ -126,10 +129,11 @@ export function DealCard({
         </Button>
         <Button
           onClick={handleGetDeal}
+          disabled={isUrlMissing}
           className="w-full basis-full px-4 bg-electric text-electric-foreground hover:bg-electric-glow sm:w-auto sm:basis-auto sm:flex-none"
         >
-          <span className="truncate">{t("card.get_deal")}</span>
-          <ExternalLink className="ml-1.5 h-3.5 w-3.5 shrink-0" />
+          <span className="truncate">{isUrlMissing ? t("card.coming_soon", { defaultValue: "Coming Soon" }) : t("card.get_deal")}</span>
+          {!isUrlMissing && <ExternalLink className="ml-1.5 h-3.5 w-3.5 shrink-0" />}
         </Button>
       </div>
 

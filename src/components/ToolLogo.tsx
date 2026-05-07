@@ -6,8 +6,11 @@ import {
 import type { LucideIcon } from "lucide-react";
 
 function domainFromUrl(url: string): string | null {
+  if (!url) return null;
+  const trimmed = url.trim();
+  if (!trimmed || trimmed === "#" || /^n\/?a$/i.test(trimmed)) return null;
   try {
-    const u = new URL(url);
+    const u = new URL(trimmed);
     return u.hostname.replace(/^www\./, "");
   } catch {
     return null;
