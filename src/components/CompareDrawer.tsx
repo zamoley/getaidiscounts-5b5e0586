@@ -7,12 +7,15 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
 import { useCategoryLabel } from "@/i18n/use-category-label";
+import { useLocale } from "@/i18n/use-locale";
+import { translations } from "@/i18n/translate-tool";
 
 export function CompareDrawer({
   deals, onRemove, onClear,
 }: { deals: Deal[]; onRemove: (id: string) => void; onClear: () => void }) {
   const { t } = useTranslation();
   const tCat = useCategoryLabel();
+  const locale = useLocale();
   return (
     <Sheet>
       <SheetTrigger asChild>
@@ -37,11 +40,13 @@ export function CompareDrawer({
             {deals.map(d => (
               <div key={d.id} className="flex items-center justify-between rounded-xl border border-border bg-background/40 p-4">
                 <div className="min-w-0">
-                  <div className="font-semibold text-foreground">{d.tool}</div>
+                  <div className="font-semibold text-foreground">{d.tool_name}</div>
                   <div className="text-xs text-muted-foreground">{tCat(d.category)} · code <span className="font-mono text-foreground/80">{d.code ?? "—"}</span></div>
                 </div>
                 <div className="flex items-center gap-3">
-                  <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow text-electric-foreground">{d.discount}</Badge>
+                  <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow text-electric-foreground">
+                    {translations[d.tool_name]?.[locale]?.badge ?? d.discount}
+                  </Badge>
                   <button onClick={() => onRemove(d.id)} className="text-muted-foreground hover:text-foreground">
                     <X className="h-4 w-4" />
                   </button>
