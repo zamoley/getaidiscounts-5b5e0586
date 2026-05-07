@@ -13,14 +13,17 @@ import categoriesMatrix from "./i18n_categories.json";
 
 // Build per-language categories namespace from the single source of truth
 // in i18n_categories.json so all locale files share the same labels.
+const LANG_NAME: Record<string, string> = {
+  en: "English", uk: "Ukrainian", ja: "Japanese", es: "Spanish",
+  pt: "Portuguese", fr: "French", de: "German", zh: "Chinese", it: "Italian",
+};
 function categoriesFor(lang: string): Record<string, string> {
   const out: Record<string, string> = {};
-  for (const [key, translations] of Object.entries(
-    categoriesMatrix as Record<string, Record<string, string>>
-  )) {
-    const value = translations[lang] ?? translations.en ?? key;
-    if (value) out[key] = value;
-  }
+  const matrix = (categoriesMatrix as { translations?: Record<string, string[]> }).translations;
+  if (!matrix) return out;
+  const keys = matrix.English ?? [];
+  const values = matrix[LANG_NAME[lang] ?? "English"] ?? keys;
+  keys.forEach((k, i) => { if (k) out[k] = values[i] ?? k; });
   return out;
 }
 
