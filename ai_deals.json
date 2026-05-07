@@ -793,5 +793,132 @@
         "description": "DALL-E 3 creates detailed images from text prompts, making it a powerful tool for generating creative visuals.",
         "category": "Image AI",
         "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "Claude",
+        "tool_url": "OFFICIAL_URL",
+        "code": "START50",
+        "discount_amount": "50% OFF for the first three months",
+        "pricing_info": "$20/month",
+        "key_features": [
+            "Advanced Natural Language Understanding",
+            "Coding Assistance",
+            "Multimodal Inputs"
+        ],
+        "description": "Claude is Anthropic\u2019s AI assistant for coding, research, writing, and complex reasoning.",
+        "category": "Writing AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "Voice.AI",
+        "tool_url": "https://voice.ai",
+        "code": "AETFSTAEESEY",
+        "discount_amount": "75% OFF",
+        "pricing_info": "Not specified",
+        "key_features": [
+            "AI voice generation",
+            "Text-to-speech",
+            "Voice changing"
+        ],
+        "description": "Voice.AI provides advanced solutions for generating and modifying voices using AI technology.",
+        "category": "Voice AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "{'name': 'Semrush One', 'best_for': 'Combines Semrush\u2019s SEO toolkit with new AI search features to help your brand be found in AI.', 'pricing': 'Starts at $199/month'}",
+        "tool_url": "OFFICIAL_URL",
+        "code": "NULL",
+        "discount_amount": "17% OFF",
+        "pricing_info": "$199/month",
+        "key_features": [
+            "SEO toolkit",
+            "AI Visibility Toolkit",
+            "Content Marketing",
+            "Centralized workspace"
+        ],
+        "description": "A comprehensive digital marketing platform that integrates traditional SEO with cutting-edge AI tools.",
+        "category": "SEO AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "{'name': 'Surfer SEO', 'best_for': 'Content SEO toolkit + AI features for monitoring visibility in AI search results.', 'pricing': 'Starts at $99/month'}",
+        "tool_url": "OFFICIAL_URL",
+        "code": "CODE_OR_NULL",
+        "discount_amount": "$528 OFF",
+        "pricing_info": "$99/month",
+        "key_features": [
+            "AI-powered content optimization",
+            "Real-time recommendations for SEO",
+            "Content editing and analysis tools"
+        ],
+        "description": "Surfer SEO is a digital marketing tool that specializes in search engine optimization (SEO) and content creation.",
+        "category": "SEO AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "Search Atlas",
+        "tool_url": "OFFICIAL_URL",
+        "code": null,
+        "discount_amount": "75% OFF",
+        "pricing_info": "$99/month",
+        "key_features": [
+            "All-in-one AI and SEO platform",
+            "Comprehensive organic marketing solutions",
+            "Keyword research capabilities",
+            "Competitor analysis features"
+        ],
+        "description": "Search Atlas is an all-in-one AI and SEO platform and an alternative to Writesonic.",
+        "category": "SEO AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "{'name': 'Writesonic', 'description': 'Best overall AI writing tool for marketers, combining long-form content generation with SEO optimization.', 'best_for': ['Marketing teams producing blog content', 'Landing pages', 'Email campaigns', 'Ad copy'], 'pricing': {'details': 'Various pricing plans available including free options.'}}",
+        "tool_url": "OFFICIAL_URL",
+        "code": "NULL",
+        "discount_amount": "20% OFF",
+        "pricing_info": "$249/month",
+        "key_features": [
+            "AI writing tool",
+            "SEO optimization",
+            "Content generation",
+            "Email campaigns",
+            "Ad copy"
+        ],
+        "description": "Best overall AI writing tool for marketers, combining long-form content generation with SEO optimization.",
+        "category": "Marketing AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "{\"name\": \"Surfer SEO\", \"description\": \"Uses AI for digital marketing content optimization, analyzing top-ranking pages for improvement.\", \"best_for\": [\"Content writers\", \"Bloggers\", \"SEO specialists\"], \"pricing\": {\"Essential\": \"\u20b95,900/month\", \"Scale\": \"\u20b99,900/month\", \"Scale AI\": \"\u20b915,900/month\", \"Enterprise\": \"Custom pricing\"}}",
+        "tool_url": "OFFICIAL_URL",
+        "code": "CODE_OR_NULL",
+        "discount_amount": "20% OFF",
+        "pricing_info": "\u20b95,900/month",
+        "key_features": [
+            "AI content optimization",
+            "Keyword research",
+            "SERP analysis",
+            "Content audits"
+        ],
+        "description": "Surfer SEO helps optimize digital marketing content using AI by analyzing top-ranking pages for improvement.",
+        "category": "Marketing AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "{'name': 'Zapier with AI', 'description': 'Connects different marketing tools and adds AI capabilities through integrations, automating workflows without coding.', 'best_for': ['Marketers focused on ads', 'Social media', 'E-commerce product copy'], 'pricing': {'details': 'Free and paid plans available depending on the number of automations.'}}",
+        "tool_url": "OFFICIAL_URL",
+        "code": "CODE_OR_NULL",
+        "discount_amount": "43% OFF",
+        "pricing_info": "$0/month for Free Plan, ~$29/month for Professional Plan",
+        "key_features": [
+            "Automate repetitive tasks",
+            "User-friendly interface",
+            "Wide range of app integrations",
+            "Cost efficiency",
+            "Reliable automation"
+        ],
+        "description": "Connects different marketing tools and adds AI capabilities through integrations.",
+        "category": "Marketing AI",
+        "last_verified": "2026-05-07"
     }
 ]
