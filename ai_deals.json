@@ -72,7 +72,7 @@
         "discount_amount": "Free Credits",
         "pricing_info": "Usage-based pricing",
         "key_features": "AI Web Scraping & Proxies",
-        "description": "High-performance web scraping and data extraction tool designed for AI developers and no-code builders.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "No-Code AI"
     },
@@ -82,8 +82,8 @@
         "code": "35%OFF",
         "discount_amount": "35%",
         "pricing_info": "$22/mo when billed annually",
-        "key_features": "AI Drivn Presenter Videos, Realistic Avatar Delivery of Scripts, Supports 140+ Languages, User-Friendly Online Editor, Template and Guided Workflow",
-        "description": "The gold standard for creating AI-driven presenter videos, ideal for realistic avatar delivery of scripts.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Video AI"
     },
@@ -93,8 +93,8 @@
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Starting from $0.14/SEC",
-        "key_features": "Generates videos from text prompts, Supports image prompts and reference images, Up to 1080P output, Flexible aspect ratios, Durations from 3 to 15 seconds, Native audio-video synchronization",
-        "description": "Generates videos from text prompts, image prompts, and reference images, supporting various output qualities.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Video AI"
     },
@@ -104,8 +104,8 @@
         "code": "N/A",
         "discount_amount": "$10/mo",
         "pricing_info": "Starting from $10/mo",
-        "key_features": "Cinematic video production, Smooth camera movement, Realistic scene structure, Ideal for high-quality output",
-        "description": "Offers cinematic video production with smooth camera movement and realistic scene structure, ideal for high-quality output.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Video AI"
     },
@@ -115,8 +115,8 @@
         "code": "DISCOUNT40",
         "discount_amount": "40%",
         "pricing_info": "Monthly price / billed yearly",
-        "key_features": "AI-assisted book writing, Character and plot tracking across chapters, Direct export to publishing formats, Built-in cover and audiobook generation, KDP-ready formatting and keyword tools",
-        "description": "AIWriteBook is designed specifically for writing complete books. Unlike general AI assistants, it understands book structure and maintains character consistency across chapters, streamlining the entire writing and publishing process.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Writing AI"
     },
@@ -126,8 +126,8 @@
         "code": "NOCODE",
         "discount_amount": "Up to 50% OFF",
         "pricing_info": "Up to 45% OFF",
-        "key_features": "AI-powered content generation, Unlimited credits with Select plans, 14-Day Money Back Guarantee, Free shipping on purchases",
-        "description": "Writecream is an AI writing assistant designed to help users create high-quality content efficiently. With various pricing plans and a generous free trial offer, it's a great tool for anyone looking to enhance their writing workflow.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Writing AI"
     },
@@ -137,8 +137,8 @@
         "code": "SPRING10",
         "discount_amount": "20%",
         "pricing_info": "$49/month",
-        "key_features": "Generate unlimited content, Access to Enhanced Mode for smarter outputs, Create unique brand voices for multiple brands, Long-form editor with built-in SEO tools, Brainstorm ideas with WordHero Chat",
-        "description": "WordHero is an AI-powered content writing tool that helps users create high-quality, original content effortlessly. It focuses on generating SEO-friendly content for blogs, sales copy, emails, and more.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Writing AI"
     },
@@ -148,8 +148,8 @@
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$10/mo with $10 in monthly AI Credits",
-        "key_features": "Unlimited completions, 300 premium requests per month, Best overall value for general developers, Ideal for GitHub ecosystem users",
-        "description": "Best overall value with unlimited completions; ideal for general developers and GitHub ecosystem users.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Coding AI"
     },
@@ -159,7 +159,7 @@
         "code": "N/A",
         "discount_amount": "20%",
         "pricing_info": "$20",
-        "key_features": "Unlimited Tab completions, Extended Agent limits, Background Agents, $20 monthly credits for premium model usage",
+        "key_features": "N/A",
         "description": "AI-native IDE with advanced agent capabilities; optimal for complex tasks and multi-file editing.",
         "last_verified": "2026-05-06",
         "category": "Coding AI"
@@ -170,8 +170,8 @@
         "code": "START50",
         "discount_amount": "50% OFF for 3 Months",
         "pricing_info": "$20/mo",
-        "key_features": "Terminal-based AI tool, Autonomous coding capabilities, Complex architecture adjustments, Deep project understanding",
-        "description": "Terminal-based AI tool for autonomous coding and complex architecture tasks; suited for terminal-focused developers.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Coding AI"
     },
@@ -182,7 +182,7 @@
         "discount_amount": "$50 in free credits for new accounts",
         "pricing_info": "$0.00025 per second; custom pricing for enterprise plans.",
         "key_features": "Core transcription, Sentiment analysis, Entity detection, Content moderation",
-        "description": "AssemblyAI focuses on making audio data easy to process, analyze, and integrate into modern applications. Its APIs go beyond basic transcription, offering features like speaker detection, sentiment analysis, summarization, topic detection, and content moderation.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Voice AI"
     },
@@ -191,9 +191,9 @@
         "tool_url": "https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/",
         "code": "GYYGAYFG",
         "discount_amount": "55%",
-        "pricing_info": "$4 per million characters for standard TTS; $16 for neural voices; $1 per audio hour for STT; 5 hours free STT and 0.5M characters TTS monthly.",
+        "pricing_info": "N/A",
         "key_features": "Flexible options, commitment tiers with discounts, high-quality voice output.",
-        "description": "Microsoft Azure Cognitive Services Speech provides high-quality speech recognition and text-to-speech capabilities, enabling users to develop applications that require voice processing.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Voice AI"
     },
@@ -204,7 +204,7 @@
         "discount_amount": "0%",
         "pricing_info": "$4 per million characters for standard voices, $16 for neural",
         "key_features": "Neural TTS, Speech recognition, Custom vocabulary, Integration with AWS",
-        "description": "Amazon Polly provides lifelike text-to-speech capabilities while Amazon Transcribe converts speech to text with high accuracy, supporting multiple languages.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Voice AI"
     },
@@ -215,7 +215,7 @@
         "discount_amount": "20%",
         "pricing_info": "$30 / mo",
         "key_features": "4096 x 4096",
-        "description": "Midjourney v7 is an advanced AI image generation platform that allows users to create stunning visuals based on text prompts, offering limitless creativity, customizable styles, and fast generation speeds.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Image AI"
     },
@@ -225,8 +225,8 @@
         "code": "EFSNWOEENR",
         "discount_amount": "35%",
         "pricing_info": "$20 / mo",
-        "key_features": "Understands complex prompts with high accuracy, Generates detailed and imaginative images, Includes commercial licensing by default",
-        "description": "DALL-E 3 is OpenAI\u2019s AI image generator that creates images from text descriptions, known for its improved prompt understanding and image quality over its predecessors.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Image AI"
     },
@@ -237,7 +237,7 @@
         "discount_amount": "75% OFF for select plans",
         "pricing_info": "$19.99 / mo",
         "key_features": "2048 x 2048",
-        "description": "Adobe Firefly 3 is the ultimate creative AI solution that enables users to generate brand-consistent visual content safely and efficiently. It offers features suited for various creative tasks, making it ideal for commercial use without the worry of copyright issues.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Image AI"
     },
@@ -247,8 +247,8 @@
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Starts at $99/month",
-        "key_features": "Content optimization using NLP analysis, Real-time scoring and optimization suggestions, Integration of AI writing and optimization in one dashboard",
-        "description": "A content optimization platform that uses NLP analysis to score content against top-ranking pages in search results. It helps streamline the content creation workflow with real-time scoring and optimization suggestions.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "SEO AI"
     },
@@ -258,21 +258,21 @@
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Free",
-        "key_features": "Evaluates brand\u2019s presence across AI search platforms, Performs share of voice analysis against competitors, Highlights keywords associated with your brand",
-        "description": "A free tool that evaluates your brand\u2019s presence across AI search platforms. It performs a share of voice analysis against competitors and highlights keywords associated with your brand.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "SEO AI"
     },
     {
-        "tool_name": "Jasper AI",
+        "tool_name": "Jasper",
         "tool_url": "https://www.jasper.ai",
-        "code": "SAVE20%OFF",
-        "discount_amount": "20%",
-        "pricing_info": "Starts at $49/month",
-        "key_features": "Fast and consistent content generation, Multilingual support, Integration with Surfer SEO for content optimization, User-friendly interface, Advanced AI algorithms, Customization options for brand voice, Flexible templates for various content formats",
-        "description": "An all-in-one AI tool for content writing and SEO, designed to create blog posts, emails, and web copy. Integrates with Surfer SEO for enhanced content optimization.",
+        "code": "JASPERFREE",
+        "discount_amount": "10,000 Bonus Words",
+        "pricing_info": "$69",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
-        "category": "SEO AI"
+        "category": "Writing AI"
     },
     {
         "tool_name": "HappyHorse-1.0 Text-to-video",
@@ -280,7 +280,7 @@
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "From $0.14/SEC",
-        "key_features": "Generates videos from text prompts, Supports 720P or 1080P output, Flexible aspect ratios, Video durations between 3 to 15 seconds",
+        "key_features": "N/A",
         "description": "Generates videos from text prompts with support for 720P or 1080P output and flexible aspect ratios.",
         "last_verified": "2026-05-06",
         "category": "Video AI"
@@ -291,19 +291,8 @@
         "code": "BUNNY20",
         "discount_amount": "20% OFF",
         "pricing_info": "$20/month for subscription",
-        "key_features": "Best for research, Versatile drafting, Handles a variety of writing tasks including blog posts, emails, and product descriptions",
-        "description": "Best for research and versatile drafting; capable of handling a variety of writing tasks including blog posts, emails, and product descriptions.",
-        "last_verified": "2026-05-06",
-        "category": "Writing AI"
-    },
-    {
-        "tool_name": "Jasper",
-        "tool_url": "https://www.jasper.ai",
-        "code": "JASPERFREE",
-        "discount_amount": "10,000 Bonus Words",
-        "pricing_info": "$69",
-        "key_features": "Brand voice consistency, Long-form content capabilities, Over 70 content templates, Collaboration tools for teams, SEO integration with SurferSEO",
-        "description": "Best for marketing teams managing brand voice; includes features for long-form content and various content templates.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Writing AI"
     },
@@ -313,8 +302,8 @@
         "code": "RYTR40",
         "discount_amount": "40% OFF",
         "pricing_info": "Available with limited features",
-        "key_features": "AI-Powered Content Generation, Natural Language Processing for various content formats, Over 40 content use cases and templates, Supports 30+ languages, Advanced customization options in Premium plan",
-        "description": "Affordable writing tool with free and paid plans, ideal for general content creation; particularly useful for freelancers and small businesses.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Writing AI"
     },
@@ -322,10 +311,10 @@
         "tool_name": "GitHub Copilot",
         "tool_url": "https://github.com/features/copilot",
         "code": "GREAT OFFER",
-        "discount_amount": "None",
+        "discount_amount": "N/A",
         "pricing_info": "Yes",
-        "key_features": "Microsoft-backed with tight VSCode integration, IDE extension, Unlimited code completion and suggestions, Contextualized assistance, Integration with GitHub for issues, PRs, and reviews",
-        "description": "GitHub Copilot is an AI peer programming tool that enhances developer productivity by providing contextual coding assistance directly within your IDE. It is widely adopted and offers features like code completion, explanations, and more.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Coding AI"
     },
@@ -336,7 +325,7 @@
         "discount_amount": "15%",
         "pricing_info": "$39/user per month",
         "key_features": "Privacy-first with local execution, IDE extension, Free plan available",
-        "description": "Tabnine is a privacy-centric AI coding assistant that helps developers with code completions and natural language queries, integrating directly into popular IDEs.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Coding AI"
     },
@@ -345,9 +334,9 @@
         "tool_url": "https://www.resemble.ai",
         "code": "START5",
         "discount_amount": "$5 off Starter Plan",
-        "pricing_info": "Starter Plan starts at $5, Professional Plan starts at $99, Scale Plan starts at $299, Creator Plan starts at $19.",
-        "key_features": "Real-time voice cloning, Emotion-rich voice models, Scalable APIs, Studio-quality TTS/STT workflows, Custom voice generation",
-        "description": "Specializes in voice cloning and synthetic voice generation with real-time capabilities and emotional control.",
+        "pricing_info": "N/A",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Voice AI"
     },
@@ -357,7 +346,7 @@
         "code": "Use Promo Code at Checkout",
         "discount_amount": "40% Off",
         "pricing_info": "$29 per month for the Creator Starter Plan",
-        "key_features": "Realistic AI voiceovers, Suitable for e-learning, corporate presentations, and podcasts, Multiple voice options in various languages, User-friendly interface",
+        "key_features": "N/A",
         "description": "Offers realistic AI voiceovers suitable for e-learning, corporate presentations, and podcasts.",
         "last_verified": "2026-05-06",
         "category": "Voice AI"
@@ -378,9 +367,9 @@
         "tool_url": "https://www.speedybrand.com",
         "code": "N/A",
         "discount_amount": "up to 50%",
-        "pricing_info": "$69 / month (Basic), one subscription with unlimited brand profiles and discounts for additional brands.",
-        "key_features": "Generates blogs, ads, social posts, and visuals., Optimized for search and engagement., Supports multiple languages., Ideal for small-to-mid businesses, teams, and agencies.",
-        "description": "An all-in-one AI SEO and content engine designed to help generate blogs, ads, social posts, and visuals, all optimized for search and engagement.",
+        "pricing_info": "N/A",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "SEO AI"
     },
@@ -389,9 +378,9 @@
         "tool_url": "https://www.descript.com",
         "code": "35% off",
         "discount_amount": "35%",
-        "pricing_info": "Annual Plan discounts available, starting from $24/month for the Creator Plan and $50/month for the Business Plan.",
-        "key_features": "AI video and podcast editing tools, Transcription services, Collaboration features, Flexible billing options",
-        "description": "Descript is an AI-powered video and podcast editing platform that streamlines content creation with advanced editing tools, making it easy for creators to craft high-quality media.",
+        "pricing_info": "N/A",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Video AI"
     },
@@ -401,8 +390,8 @@
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$139.95 - $499.95/month",
-        "key_features": "Copilot AI for automated insights and recommendations, AI Writing Assistant for content generation, Comprehensive keyword database (25B+ keywords), Site audit with automated issue detection, Competitive intelligence and gap analysis",
-        "description": "SEMrush is designed for SEO professionals and agencies, providing comprehensive tools for keyword research, site audits, competitor analysis, and advanced SEO insights through various pricing plans.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "SEO AI"
     },
@@ -412,7 +401,7 @@
         "code": "20% Lifetime Discount",
         "discount_amount": "20%",
         "pricing_info": "Starts at $36/mo",
-        "key_features": "Chrome extension for easy integration, Keyword research and content outlines, Competitor strategy analysis",
+        "key_features": "N/A",
         "description": "GrowthBar is an AI-powered writing and SEO tool.",
         "last_verified": "2026-05-06",
         "category": "SEO AI"
@@ -523,7 +512,7 @@
         "discount_amount": "40% OFF",
         "pricing_info": "$49/Month",
         "key_features": "Easy to use, Versatile content types, Multilingual, Boost creativity",
-        "description": "Copy.ai is a high-quality AI-powered writer designed to streamline processes and optimize performance.",
+        "description": "N/A",
         "last_verified": "2026-05-06",
         "category": "Marketing AI"
     },
@@ -533,8 +522,8 @@
         "code": "N/A",
         "discount_amount": "84% OFF",
         "pricing_info": "$29.99",
-        "key_features": "Converts speech to text, 99.7% accuracy, Lifetime subscription, 20,000 words per month, Real-time formatting",
-        "description": "VoiceType AI is an innovative AI-powered voice generation platform that converts text into natural-sounding speech.",
+        "key_features": "N/A",
+        "description": "N/A",
         "last_verified": "2026-05-07",
         "category": "Voice AI"
     },
@@ -567,7 +556,7 @@
         "discount_amount": "17% OFF",
         "pricing_info": "$199/month",
         "key_features": "SEO toolkit, AI Visibility Toolkit, Content Marketing, Centralized workspace",
-        "description": "A comprehensive digital marketing platform that integrates traditional SEO with cutting-edge AI tools.",
+        "description": "N/A",
         "last_verified": "2026-05-07",
         "category": "SEO AI"
     },
@@ -577,7 +566,7 @@
         "code": "N/A",
         "discount_amount": "75% OFF",
         "pricing_info": "$99/month",
-        "key_features": "All-in-one AI and SEO platform, Comprehensive organic marketing solutions, Keyword research capabilities, Competitor analysis features",
+        "key_features": "N/A",
         "description": "Search Atlas is an all-in-one AI and SEO platform and an alternative to Writesonic.",
         "last_verified": "2026-05-07",
         "category": "SEO AI"
@@ -589,8 +578,139 @@
         "discount_amount": "20% OFF",
         "pricing_info": "$249/month",
         "key_features": "AI writing tool, SEO optimization, Content generation, Email campaigns, Ad copy",
-        "description": "Best overall AI writing tool for marketers, combining long-form content generation with SEO optimization.",
+        "description": "N/A",
         "last_verified": "2026-05-07",
         "category": "Marketing AI"
+    },
+    {
+        "AI_Tools_Coupons": "N/A",
+        "category": "AI Writing Tools"
+    },
+    {
+        "promoCode": "Up To 60% OFF May 2026",
+        "brand": "Reebok",
+        "details": "Get up to 60% off across the entire site when using this Reebok promo code.",
+        "category": "AI Writing Tools"
+    },
+    {
+        "50%_OFF_AI_Image_Generator_Coupon_Codes": "N/A",
+        "category": "AI Image Generators"
+    },
+    {
+        "Top AI Image Generation Tools in 2026": "N/A",
+        "category": "AI Image Generators"
+    },
+    {
+        "VideoEditorAICoupons": "N/A",
+        "category": "AI Video Editing"
+    },
+    {
+        "title": "Best AI Video Editing Software in 2026 (No Editing Skills Needed)",
+        "description": "N/A",
+        "discount_offer": "N/A",
+        "course": "N/A",
+        "top_ai_video_editing_tools": "N/A",
+        "key_points": "N/A",
+        "category": "AI Video Editing"
+    },
+    {
+        "Best AI Productivity Tools": "N/A",
+        "category": "AI Productivity Tools"
+    },
+    {
+        "title": "10 Best AI Productivity Tools 2026 [We Tested Daily for 90 Days]",
+        "tools": "N/A",
+        "description": "N/A",
+        "category": "AI Productivity Tools"
+    },
+    {
+        "title": "Comp AI Promo Codes & Coupons May 2026",
+        "discounts": "N/A",
+        "coupon_application": "To apply your Comp AI promo code, add items to your cart at trycomp.ai, then proceed to checkout.",
+        "summary": "N/A",
+        "source": "Startupworld - Discounts, Coupons and Promo Codes",
+        "category": "AI Collaboration Tools"
+    },
+    {
+        "5_best_AI_Collaboration_Tools": "N/A",
+        "category": "AI Collaboration Tools"
+    },
+    {
+        "coupons": "N/A",
+        "faq": "N/A",
+        "best_time_to_shop": "N/A",
+        "official_url": "https://www.artsmart.ai",
+        "category": "AI Drawing and Illustration"
+    },
+    {
+        "title": "AI Art Generator Coupons & Promo Codes with 60% off",
+        "date": "March 2026",
+        "details": "N/A",
+        "coupon_examples": "N/A",
+        "official_url": "Not Provided",
+        "category": "AI Drawing and Illustration"
+    },
+    {
+        "Coupons_and_Promo_Codes": "N/A",
+        "category": "AI Audio and Voice Generation"
+    },
+    {
+        "coupons": "N/A",
+        "official_url": "https://www.elevenlabs.io",
+        "category": "AI Audio and Voice Generation"
+    },
+    {
+        "title": "10 Best AI Data Analysis Tools in 2026 (By Use Case)",
+        "introduction": "N/A",
+        "leading_tool": "N/A",
+        "key_points": "N/A",
+        "top_tools": "N/A",
+        "category": "AI Data Analysis"
+    },
+    {
+        "title": "My Top AI Marketing Tools in 2026 (Most are a Waste)",
+        "category": "AI Marketing Tools",
+        "tools": "N/A",
+        "best_tools_for_marketing_analysts": "N/A",
+        "features": "N/A",
+        "evaluation_criteria": "N/A",
+        "description": "N/A",
+        "official_url": "Unavailable"
+    },
+    {
+        "title": "7 Best AI Customer Support Tools in 2026: Complete Comparison",
+        "description": "N/A",
+        "main_points": "N/A",
+        "ranking": "N/A",
+        "key_metrics": "N/A",
+        "definition": "N/A",
+        "audience": "N/A",
+        "category": "AI Customer Service Solutions"
+    },
+    {
+        "Top 5 Best AI Customer Service Software Solutions for 2026": "N/A",
+        "category": "AI Customer Service Solutions"
+    },
+    {
+        "Top_Ai_Vendors_in_Healthcare_2026": "N/A",
+        "category": "AI Healthcare Applications"
+    },
+    {
+        "title": "Best Ai Healthcare Software in 2026: Top Solutions Compared",
+        "description": "N/A",
+        "comparison": "N/A",
+        "doctorConnect_details": "N/A",
+        "praxis_emr_description": "N/A",
+        "ai_coding_solutions": "N/A",
+        "top_companies": "N/A",
+        "url": "N/A",
+        "category": "AI Healthcare Applications"
+    },
+    {
+        "title": "7 Popular AI Tools for students in 2026",
+        "description": "Discover the best AI tools for studying and productivity in 2026.",
+        "tools": "N/A",
+        "benefits": "N/A",
+        "category": "AI Education Tools"
     }
 ]

@@ -1,0 +1,58 @@
+{
+    "Midjourney": {
+        "English": {
+            "description": "The world's leading AI image generation tool.",
+            "features": "Pro Image Generation, High Res",
+            "badge": "20% OFF",
+            "pricing": "Starts at $10/mo."
+        },
+        "Ukrainian": {
+            "description": "Найкращій у світі інструмент для генерації зображень на основі ШІ.",
+            "features": "Професійна генерація зображень, Висока роздільна здатність",
+            "badge": "20% ЗНИЖКА",
+            "pricing": "Починається від $10/міс."
+        },
+        "Japanese": {
+            "description": "世界で最も優れたAI画像生成ツール。",
+            "features": "プロ画像生成、高解像度",
+            "badge": "20%オフ",
+            "pricing": "月額$10から"
+        },
+        "Spanish": {
+            "description": "La herramienta de generación de imágenes por IA líder en el mundo.",
+            "features": "Generación de imágenes Pro, Alta resolución",
+            "badge": "20% DE DESCUENTO",
+            "pricing": "A partir de $10/mes."
+        },
+        "Portuguese": {
+            "description": "A principal ferramenta de geração de imagens por IA do mundo.",
+            "features": "Geração de Imagem Profissional, Alta Resolução",
+            "badge": "20% DE DESCONTO",
+            "pricing": "A partir de $10/mês."
+        },
+        "French": {
+            "description": "L'outil de génération d'images IA leader mondial.",
+            "features": "Génération d'images professionnelle, Haute résolution",
+            "badge": "20% DE RÉDUCTION",
+            "pricing": "À partir de 10 $/mois."
+        },
+        "German": {
+            "description": "Das weltweit führende KI-Bildgenerierungstool.",
+            "features": "Professionelle Bildgenerierung, Hohe Auflösung",
+            "badge": "20% RABATT",
+            "pricing": "Ab 10 $/Monat."
+        },
+        "Chinese": {
+            "description": "全球领先的人工智能图像生成工具。",
+            "features": "专业图像生成，高分辨率",
+            "badge": "20% 折扣",
+            "pricing": "起价 $10/月。"
+        },
+        "Italian": {
+            "description": "Lo strumento di generazione di immagini AI leader al mondo.",
+            "features": "Generazione di immagini professionale, Alta risoluzione",
+            "badge": "20% DI SCONTO",
+            "pricing": "A partire da $10/mese."
+        }
+    }
+}
