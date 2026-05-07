@@ -8,8 +8,10 @@ const map = toolTranslations as Record<string, ToolEntry>;
 // Strict shape: { "<ToolName>": { "<lang>": { description, features, badge, pricing } } }
 type LocaleFields = {
   description?: string;
+  feats?: string;
   features?: string;
   badge?: string;
+  price?: string;
   pricing?: string;
 };
 type DealEntry = Partial<Record<LangCode, LocaleFields>>;
