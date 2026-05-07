@@ -8,7 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import type { Deal } from "@/lib/deals";
 import { useCategoryLabel } from "@/i18n/use-category-label";
 import { useLocale } from "@/i18n/use-locale";
-import { translations } from "@/i18n/translate-tool";
+import { translateTool } from "@/i18n/translate-tool";
 
 export function CompareDrawer({
   deals, onRemove, onClear,
@@ -45,7 +45,7 @@ export function CompareDrawer({
                 </div>
                 <div className="flex items-center gap-3">
                   <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow text-electric-foreground">
-                    {translations[d.tool_name]?.[locale]?.badge ?? d.discount}
+                    {translateTool(d.tool_name, locale, "badge", d.discount)}
                   </Badge>
                   <button onClick={() => onRemove(d.id)} className="text-muted-foreground hover:text-foreground">
                     <X className="h-4 w-4" />
