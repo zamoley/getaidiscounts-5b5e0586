@@ -12,14 +12,14 @@ type DealLangEntry = {
   pricing?: string;
 };
 type DealEntry = Partial<Record<LangCode, DealLangEntry>>;
-const dealsMap = dealsTranslations as unknown as Record<string, DealEntry>;
+export const translations = dealsTranslations as unknown as Record<string, DealEntry>;
 
 const dealsLowerMap: Record<string, DealEntry> = Object.fromEntries(
-  Object.entries(dealsMap).map(([k, v]) => [k.toLowerCase().trim(), v])
+  Object.entries(translations).map(([k, v]) => [k.toLowerCase().trim(), v])
 );
 
 function lookupDeal(toolName: string, locale: LangCode): DealLangEntry | undefined {
-  const direct = dealsMap[toolName];
+  const direct = translations[toolName];
   if (direct?.[locale]) return direct[locale];
   const lower = dealsLowerMap[toolName.toLowerCase().trim()];
   return lower?.[locale];
