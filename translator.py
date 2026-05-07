@@ -4,51 +4,73 @@ import requests
 import time
 
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-LANGUAGES = {"en": "English", "uk": "Ukrainian", "ja": "Japanese", "es": "Spanish", "pt": "Portuguese", "fr": "French", "de": "German", "zh": "Chinese", "it": "Italian"}
+LANGUAGES = {
+    "en": "English", "uk": "Ukrainian", "ja": "Japanese", 
+    "es": "Spanish", "pt": "Portuguese", "fr": "French", 
+    "de": "German", "zh": "Chinese", "it": "Italian"
+}
 
 def call_ai(prompt):
     headers = {"Authorization": f"Bearer {OPENAI_API_KEY}", "Content-Type": "application/json"}
-    payload = {"model": "gpt-4o-mini", "messages": [{"role": "system", "content": "Return ONLY valid JSON."}, {"role": "user", "content": prompt}], "response_format": {"type": "json_object"}}
+    payload = {
+        "model": "gpt-4o-mini", 
+        "messages": [
+            {"role": "system", "content": "You are a translation expert. IMPORTANT: For Ukrainian, always use 'ШІ' for 'AI' (not 'штучний інтелект'). Translate EVERYTHING, including short words like 'OFF', 'Credits', and 'Starts at'. Return ONLY valid JSON."}, 
+            {"role": "user", "content": prompt}
+        ], 
+        "response_format": {"type": "json_object"}
+    }
     try:
-        time.sleep(22)
+        time.sleep(22) # Rate limit safety
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload, timeout=45)
-        return response.json()['choices'][0]['message']['content']
+        return response.json()['choices'][0]['message']['content'] if response.status_code == 200 else None
     except: return None
 
 def main():
     os.makedirs("src/i18n", exist_ok=True)
     with open("ai_deals.json", "r") as f: deals = json.load(f)
 
-    # Load existing translations
-    i18n_path = "src/i18n/i18n_deals.json"
-    raw_i18n = {}
-    if os.path.exists(i18n_path):
-        with open(i18n_path, "r") as f: raw_i18n = json.load(f)
+    # 1. BATCH CATEGORY TRANSLATION (Ensures Uniformity)
+    i18n_cats_path = "src/i18n/i18n_categories.json"
+    all_cats = list(set([d.get('category', 'General AI') for d in deals]))
+    print(f"Translating {len(all_cats)} categories in batch...")
+    cat_prompt = f"Translate these AI categories into {list(LANGUAGES.values())}: {all_cats}. Format: {{'CategoryName': {{'en': '...', 'uk': '...', ...}}}}"
+    cat_res = call_ai(cat_prompt)
+    if cat_res:
+        with open(i18n_cats_path, "w") as f:
+            json.dump(json.loads(cat_res), f, indent=4, ensure_ascii=False)
 
-    # KEY ALIGNMENT: Fix 'Ghost Keys' in the translation file
-    clean_i18n = {}
+    # 2. TOOL TRANSLATIONS (Enforcing Format A)
+    i18n_deals_path = "src/i18n/i18n_deals.json"
+    # We start with an empty dict to WIPE the old messy formats
+    new_i18n = {}
+
     for tool in deals:
-        name = tool['tool_name']
-        found = False
-        # Look for a match in the old messy file
-        for old_key in raw_i18n:
-            if name in old_key:
-                clean_i18n[name] = raw_i18n[old_key]
-                found = True
-                break
+        name = str(tool['tool_name'])
+        print(f"Translating: {name}...")
+        prompt = f"""
+        Translate these fields for '{name}' into {list(LANGUAGES.values())}:
+        - description: {tool['description']}
+        - features: {tool['key_features']}
+        - badge: {tool['discount_amount']}
+        - pricing: {tool['pricing_info']}
         
-        # If not found or missing badge, translate now
-        if not found or "badge" not in clean_i18n[name].get("en", {}):
-            print(f"Translating: {name}...")
-            prompt = f"Translate for '{name}' into {list(LANGUAGES.values())}: Desc: {tool['description']}, Features: {tool['key_features']}, Badge: {tool['discount_amount']}, Pricing: {tool['pricing_info']}. Return JSON keys: description, features, badge, pricing."
-            res = call_ai(prompt)
-            if res: clean_i18n[name] = json.loads(res)
+        STRICT FORMAT: {{ '{name}': {{ 'en': {{ 'description': '...', 'badge': '...' }}, 'uk': {{ ... }} }} }}
+        """
+        res = call_ai(prompt)
+        if res:
+            try:
+                # We extract the inner data to keep the file structure clean
+                tool_data = json.loads(res)
+                # If the AI wrapped it in the tool name, unwrap it
+                new_i18n[name] = tool_data.get(name, tool_data)
+                
+                # Save progress after each tool
+                with open(i18n_deals_path, "w") as f:
+                    json.dump(new_i18n, f, indent=4, ensure_ascii=False)
+            except: print(f"Error on {name}")
 
-        # Save progress
-        with open(i18n_path, "w") as f:
-            json.dump(clean_i18n, f, indent=4, ensure_ascii=False)
-
-    print("Success! All translations are now aligned with clean tool names.")
+    print("Success! The translation engine is now unified.")
 
 if __name__ == "__main__":
     main()
