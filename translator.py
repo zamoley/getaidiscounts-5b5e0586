@@ -20,11 +20,25 @@ def main():
     with open("ai_deals.json", "r") as f:
         deals = json.load(f)
 
-    i18n_deals = {} # WE START FRESH TO WIPE THE DIRTY DATA
-    
+    # --- 1. TRANSLATE CATEGORIES ---
+    i18n_cats = {}
+    all_categories = list(set([d.get('category', 'General AI') for d in deals]))
+    for cat in all_categories:
+        print(f"Translating Category: {cat}...")
+        prompt = f"Translate the AI category '{cat}' into these languages: {list(LANGUAGES.values())}. Return JSON: {{'en': '...', 'uk': '...', ...}}"
+        res = call_ai(prompt)
+        if res:
+            try:
+                i18n_cats[cat] = json.loads(res)
+                with open("src/i18n/i18n_categories.json", "w") as f:
+                    json.dump(i18n_cats, f, indent=4, ensure_ascii=False)
+            except: pass
+
+    # --- 2. TRANSLATE TOOLS ---
+    i18n_deals = {}
     for tool in deals:
         name = str(tool['tool_name'])
-        print(f"Translating {name}...")
+        print(f"Translating Tool: {name}...")
         prompt = f"Translate for '{name}' into {list(LANGUAGES.values())}: Desc: {tool['description']}, Features: {tool['key_features']}, Badge: {tool['discount_amount']}, Pricing: {tool['pricing_info']}. Return JSON keys: description, features, badge, pricing."
         
         res = call_ai(prompt)
