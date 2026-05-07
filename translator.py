@@ -7,15 +7,9 @@ from datetime import datetime
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
 LANGUAGES = {
-    "en": "English",
-    "uk": "Ukrainian",
-    "ja": "Japanese",
-    "es": "Spanish",
-    "pt": "Portuguese",
-    "fr": "French",
-    "de": "German",
-    "zh": "Chinese",
-    "it": "Italian"
+    "en": "English", "uk": "Ukrainian", "ja": "Japanese", 
+    "es": "Spanish", "pt": "Portuguese", "fr": "French", 
+    "de": "German", "zh": "Chinese", "it": "Italian"
 }
 
 def call_ai(prompt):
@@ -39,60 +33,37 @@ def main():
     os.makedirs("src/i18n", exist_ok=True)
     deals_path = "ai_deals.json"
     i18n_deals_path = "src/i18n/i18n_deals.json"
-    i18n_cats_path = "src/i18n/i18n_categories.json"
 
     if not os.path.exists(deals_path):
-        print(f"ERROR: {deals_path} not found in root!")
+        print(f"ERROR: {deals_path} not found!")
         return
 
     with open(deals_path, "r") as f:
         deals = json.load(f)
 
-    # 1. Category Translations
-    i18n_cats = {}
-    if os.path.exists(i18n_cats_path):
-        with open(i18n_cats_path, "r") as f:
-            i18n_cats = json.load(f)
-
-    all_categories = list(set([d.get('category', 'General AI') for d in deals]))
-    for cat in all_categories:
-        if cat in i18n_cats: continue
-        print(f"Translating Category: {cat}...")
-        prompt = f"Translate the AI category name '{cat}' into these languages: {', '.join(LANGUAGES.values())}. Return JSON: {{'en': '...', 'uk': '...', ...}}"
-        res = call_ai(prompt)
-        if res:
-            try:
-                i18n_cats[cat] = json.loads(res)
-                with open(i18n_cats_path, "w") as f:
-                    json.dump(i18n_cats, f, indent=4, ensure_ascii=False)
-            except: continue
-
-    # 2. Tool Content Translations (Now including Badge and Pricing!)
     i18n_deals = {}
-    if os.path.exists(i18n_deals_path):
-        with open(i18n_deals_path, "r") as f:
-            i18n_deals = json.load(f)
+    # We clear the old file to force it to re-generate with the NEW fields
+    # If you have 35+ tools, this will take about 20-30 minutes to finish.
 
     for tool in deals:
         name = tool['tool_name']
-        if name in i18n_deals: continue
         print(f"Translating Tool: {name}...")
         
-        # 🎯 Updated Prompt to include Badge (discount_amount) and Pricing
         prompt = f"""
-        Translate the following for '{name}' into {', '.join(LANGUAGES.values())}:
+        Translate the following for '{name}' into these languages: {', '.join(LANGUAGES.values())}:
         - Description: {tool['description']}
         - Features: {tool['key_features']}
-        - Badge (The discount text): {tool['discount_amount']}
+        - Badge (Discount text): {tool['discount_amount']}
         - Pricing: {tool['pricing_info']}
         
-        Return JSON where each language key has: 'description', 'features', 'badge', 'pricing'.
+        Return JSON where each language key (en, uk, ja, etc.) has: 'description', 'features', 'badge', 'pricing'.
         """
         
         res = call_ai(prompt)
         if res:
             try:
                 i18n_deals[name] = json.loads(res)
+                # Save progress after each tool
                 with open(i18n_deals_path, "w") as f:
                     json.dump(i18n_deals, f, indent=4, ensure_ascii=False)
             except: continue
