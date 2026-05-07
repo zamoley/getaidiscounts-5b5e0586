@@ -29,13 +29,20 @@ function lookupDeal(toolName: string): DealEntry | undefined {
 
 export type ToolField = "description" | "key_features" | "badge" | "pricing";
 
-function fieldKey(field: ToolField): keyof LocaleFields {
-  return field === "key_features" ? "features" : field;
+function fieldKeys(field: ToolField): (keyof LocaleFields)[] {
+  if (field === "key_features") return ["features", "feats"];
+  if (field === "pricing") return ["pricing", "price"];
+  return [field];
 }
 
 function pickFromEntry(entry: DealEntry | undefined, locale: LangCode, field: ToolField): string | undefined {
-  const v = entry?.[locale]?.[fieldKey(field)];
-  return typeof v === "string" && v.trim() ? v : undefined;
+  const fields = entry?.[locale];
+  if (!fields) return undefined;
+  for (const k of fieldKeys(field)) {
+    const v = fields[k];
+    if (typeof v === "string" && v.trim()) return v;
+  }
+  return undefined;
 }
 
 export function translateTool(
