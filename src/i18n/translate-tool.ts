@@ -5,11 +5,15 @@ import type { LangCode } from "./index";
 type ToolEntry = Partial<Record<Exclude<LangCode, "en">, { description?: string; key_features?: string }>>;
 const map = toolTranslations as Record<string, ToolEntry>;
 
-type DealLangEntry = { description?: string; features?: string | string[] | Record<string, unknown> };
+type DealLangEntry = {
+  description?: string;
+  features?: string | string[] | Record<string, unknown>;
+  badge?: string;
+  pricing?: string;
+};
 type DealEntry = Partial<Record<LangCode, DealLangEntry>>;
 const dealsMap = dealsTranslations as unknown as Record<string, DealEntry>;
 
-// Lowercased lookup for resilient matching across casings/spaces.
 const dealsLowerMap: Record<string, DealEntry> = Object.fromEntries(
   Object.entries(dealsMap).map(([k, v]) => [k.toLowerCase().trim(), v])
 );
@@ -21,36 +25,44 @@ function lookupDeal(toolName: string, locale: LangCode): DealLangEntry | undefin
   return lower?.[locale];
 }
 
+const toStr = (v: unknown): string | undefined => {
+  if (v == null) return undefined;
+  if (typeof v === "string") return v;
+  if (Array.isArray(v)) return v.filter(Boolean).map((x) => toStr(x) ?? "").join(", ");
+  if (typeof v === "object") {
+    return Object.entries(v as Record<string, unknown>)
+      .map(([k, val]) => {
+        const label = k.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+        return `${label}: ${toStr(val) ?? ""}`;
+      })
+      .join(" • ");
+  }
+  return String(v);
+};
+
+export type ToolField = "description" | "key_features" | "badge" | "pricing";
+
 export function translateTool(
   toolName: string,
   locale: LangCode,
-  field: "description" | "key_features",
+  field: ToolField,
   fallback?: string
 ): string | undefined {
-  // Primary source: i18n_deals.json (covers all 9 languages incl. English).
-  const dealField: "description" | "features" = field === "description" ? "description" : "features";
-  const toStr = (v: string | string[] | Record<string, unknown> | undefined): string | undefined => {
-    if (v == null) return undefined;
-    if (typeof v === "string") return v;
-    if (Array.isArray(v)) return v.filter(Boolean).join(", ");
-    if (typeof v === "object") {
-      return Object.entries(v)
-        .map(([k, val]) => {
-          const label = k.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
-          return `${label}: ${String(val)}`;
-        })
-        .join(" • ");
-    }
-    return String(v);
-  };
+  const dealField: keyof DealLangEntry =
+    field === "description" ? "description"
+    : field === "key_features" ? "features"
+    : field === "badge" ? "badge"
+    : "pricing";
+
   const dealEntry = lookupDeal(toolName, locale);
   const localized = toStr(dealEntry?.[dealField]);
   if (localized) return localized;
+
   const enEntry = lookupDeal(toolName, "en");
   const enVal = toStr(enEntry?.[dealField]);
   if (enVal) return enVal;
-  // Legacy fallback to tool-translations.json.
-  if (locale !== "en") {
+
+  if (locale !== "en" && (field === "description" || field === "key_features")) {
     const entry = map[toolName];
     const legacy = entry?.[locale as Exclude<LangCode, "en">]?.[field];
     if (legacy) return legacy;
