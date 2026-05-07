@@ -1,29 +1,73 @@
 {
+    "Search AI": {
+        "en": "Search AI",
+        "uk": "ШІ пошуку",
+        "ja": "検索AI",
+        "es": "IA de búsqueda",
+        "pt": "IA de busca",
+        "fr": "IA de recherche",
+        "de": "Such-KI",
+        "zh": "搜索AI",
+        "it": "IA di ricerca"
+    },
+    "No-Code AI": {
+        "en": "No-Code AI",
+        "uk": "ШІ без коду",
+        "ja": "ノーコードAI",
+        "es": "IA sin código",
+        "pt": "IA sem código",
+        "fr": "IA sans code",
+        "de": "No-Code KI",
+        "zh": "无代码AI",
+        "it": "IA senza codice"
+    },
     "Video AI": {
         "en": "Video AI",
-        "uk": "Відео ШІ",
-        "ja": "ビデオAI",
-        "es": "IA de Video",
-        "pt": "IA de Vídeo",
-        "fr": "IA Vidéo",
+        "uk": "ШІ відео",
+        "ja": "動画AI",
+        "es": "IA de video",
+        "pt": "IA de vídeo",
+        "fr": "IA vidéo",
         "de": "Video-KI",
         "zh": "视频AI",
-        "it": "IA Video"
+        "it": "IA video"
+    },
+    "Image AI": {
+        "en": "Image AI",
+        "uk": "ШІ зображень",
+        "ja": "画像AI",
+        "es": "IA de imagen",
+        "pt": "IA de imagem",
+        "fr": "IA d'image",
+        "de": "Bild-KI",
+        "zh": "图像AI",
+        "it": "IA immagine"
+    },
+    "Writing AI": {
+        "en": "Writing AI",
+        "uk": "ШІ написання",
+        "ja": "ライティングAI",
+        "es": "IA de escritura",
+        "pt": "IA de escrita",
+        "fr": "IA d'écriture",
+        "de": "Schreib-KI",
+        "zh": "写作AI",
+        "it": "IA di scrittura"
     },
     "Marketing AI": {
         "en": "Marketing AI",
-        "uk": "Маркетинг ШІ",
+        "uk": "ШІ маркетингу",
         "ja": "マーケティングAI",
-        "es": "IA de Marketing",
-        "pt": "IA de Marketing",
-        "fr": "IA Marketing",
+        "es": "IA de marketing",
+        "pt": "IA de marketing",
+        "fr": "IA de marketing",
         "de": "Marketing-KI",
         "zh": "营销AI",
-        "it": "IA Marketing"
+        "it": "IA di marketing"
     },
     "SEO AI": {
         "en": "SEO AI",
-        "uk": "SEO ШІ",
+        "uk": "ШІ SEO",
         "ja": "SEO AI",
         "es": "IA de SEO",
         "pt": "IA de SEO",
@@ -32,70 +76,26 @@
         "zh": "SEO AI",
         "it": "IA SEO"
     },
-    "Image AI": {
-        "en": "Image AI",
-        "uk": "Зображення ШІ",
-        "ja": "画像AI",
-        "es": "IA de Imagen",
-        "pt": "IA de Imagem",
-        "fr": "IA Image",
-        "de": "Bild-KI",
-        "zh": "图像AI",
-        "it": "IA Immagine"
+    "Coding AI": {
+        "en": "Coding AI",
+        "uk": "ШІ кодування",
+        "ja": "コーディングAI",
+        "es": "IA de codificación",
+        "pt": "IA de codificação",
+        "fr": "IA de codage",
+        "de": "Codierungs-KI",
+        "zh": "编码AI",
+        "it": "IA di codifica"
     },
     "Voice AI": {
         "en": "Voice AI",
-        "uk": "Голосовий ШІ",
+        "uk": "ШІ голосу",
         "ja": "音声AI",
-        "es": "IA de Voz",
-        "pt": "IA de Voz",
-        "fr": "IA Voix",
+        "es": "IA de voz",
+        "pt": "IA de voz",
+        "fr": "IA vocale",
         "de": "Sprach-KI",
         "zh": "语音AI",
-        "it": "IA Voce"
-    },
-    "Coding AI": {
-        "en": "Coding AI",
-        "uk": "Кодування ШІ",
-        "ja": "コーディングAI",
-        "es": "IA de Codificación",
-        "pt": "IA de Codificação",
-        "fr": "IA Codage",
-        "de": "Coding-KI",
-        "zh": "编码AI",
-        "it": "IA Codifica"
-    },
-    "No-Code AI": {
-        "en": "No-Code AI",
-        "uk": "Безкодовий ШІ",
-        "ja": "ノーコードAI",
-        "es": "IA Sin Código",
-        "pt": "IA Sem Código",
-        "fr": "IA Sans Code",
-        "de": "No-Code-KI",
-        "zh": "无代码AI",
-        "it": "IA No-Code"
-    },
-    "Writing AI": {
-        "en": "Writing AI",
-        "uk": "Письмовий ШІ",
-        "ja": "ライティングAI",
-        "es": "IA de Escritura",
-        "pt": "IA de Escrita",
-        "fr": "IA Écriture",
-        "de": "Schreib-KI",
-        "zh": "写作AI",
-        "it": "IA Scrittura"
-    },
-    "Search AI": {
-        "en": "Search AI",
-        "uk": "Пошуковий ШІ",
-        "ja": "検索AI",
-        "es": "IA de Búsqueda",
-        "pt": "IA de Pesquisa",
-        "fr": "IA Recherche",
-        "de": "Such-KI",
-        "zh": "搜索AI",
-        "it": "IA Ricerca"
+        "it": "IA vocale"
     }
 }

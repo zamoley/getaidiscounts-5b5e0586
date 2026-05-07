@@ -90,7 +90,7 @@
     {
         "tool_name": "HappyHorse-1.0",
         "tool_url": "https://happyhorse.ai",
-        "code": "Not Applicable",
+        "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Starting from $0.14/SEC",
         "key_features": "Generates videos from text prompts, Supports image prompts and reference images, Up to 1080P output, Flexible aspect ratios, Durations from 3 to 15 seconds, Native audio-video synchronization",
@@ -431,7 +431,7 @@
     {
         "tool_name": "Veo 3.1",
         "tool_url": "aistudio.google.com/models/veo-3",
-        "code": "NULL",
+        "code": "N/A",
         "discount_amount": "100 credits monthly",
         "pricing_info": "$19.99/mo",
         "key_features": "4K video generation, AI-powered editing, Media Studio integration",
@@ -518,7 +518,7 @@
     },
     {
         "tool_name": "Copy.ai",
-        "tool_url": "OFFICIAL_URL",
+        "tool_url": "N/A",
         "code": "STARTCOPY",
         "discount_amount": "40% OFF",
         "pricing_info": "$49/Month",
@@ -529,8 +529,8 @@
     },
     {
         "tool_name": "VoiceType AI",
-        "tool_url": "OFFICIAL_URL",
-        "code": "CODE_OR_NULL",
+        "tool_url": "N/A",
+        "code": "N/A",
         "discount_amount": "84% OFF",
         "pricing_info": "$29.99",
         "key_features": "Converts speech to text, 99.7% accuracy, Lifetime subscription, 20,000 words per month, Real-time formatting",
@@ -539,19 +539,8 @@
         "category": "Voice AI"
     },
     {
-        "tool_name": "DALL-E 3",
-        "tool_url": "https://openai.com/dall-e-3",
-        "code": "EFSNWOEENR",
-        "discount_amount": "35% OFF",
-        "pricing_info": "$20/month",
-        "key_features": "Text-to-image generation, Seamless integration with ChatGPT, Commercial licensing included, Fast image generation, High-quality images",
-        "description": "DALL-E 3 creates detailed images from text prompts, making it a powerful tool for generating creative visuals.",
-        "last_verified": "2026-05-07",
-        "category": "Image AI"
-    },
-    {
         "tool_name": "Claude",
-        "tool_url": "OFFICIAL_URL",
+        "tool_url": "N/A",
         "code": "START50",
         "discount_amount": "50% OFF for the first three months",
         "pricing_info": "$20/month",
@@ -565,7 +554,7 @@
         "tool_url": "https://voice.ai",
         "code": "AETFSTAEESEY",
         "discount_amount": "75% OFF",
-        "pricing_info": "Not specified",
+        "pricing_info": "N/A",
         "key_features": "AI voice generation, Text-to-speech, Voice changing",
         "description": "Voice.AI provides advanced solutions for generating and modifying voices using AI technology.",
         "last_verified": "2026-05-07",
@@ -573,8 +562,8 @@
     },
     {
         "tool_name": "Semrush One",
-        "tool_url": "OFFICIAL_URL",
-        "code": "NULL",
+        "tool_url": "N/A",
+        "code": "N/A",
         "discount_amount": "17% OFF",
         "pricing_info": "$199/month",
         "key_features": "SEO toolkit, AI Visibility Toolkit, Content Marketing, Centralized workspace",
@@ -583,19 +572,8 @@
         "category": "SEO AI"
     },
     {
-        "tool_name": "Surfer SEO",
-        "tool_url": "OFFICIAL_URL",
-        "code": "CODE_OR_NULL",
-        "discount_amount": "$528 OFF",
-        "pricing_info": "$99/month",
-        "key_features": "AI-powered content optimization, Real-time recommendations for SEO, Content editing and analysis tools",
-        "description": "Surfer SEO is a digital marketing tool that specializes in search engine optimization (SEO) and content creation.",
-        "last_verified": "2026-05-07",
-        "category": "SEO AI"
-    },
-    {
         "tool_name": "Search Atlas",
-        "tool_url": "OFFICIAL_URL",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "75% OFF",
         "pricing_info": "$99/month",
@@ -606,34 +584,12 @@
     },
     {
         "tool_name": "Writesonic",
-        "tool_url": "OFFICIAL_URL",
-        "code": "NULL",
+        "tool_url": "N/A",
+        "code": "N/A",
         "discount_amount": "20% OFF",
         "pricing_info": "$249/month",
         "key_features": "AI writing tool, SEO optimization, Content generation, Email campaigns, Ad copy",
         "description": "Best overall AI writing tool for marketers, combining long-form content generation with SEO optimization.",
-        "last_verified": "2026-05-07",
-        "category": "Marketing AI"
-    },
-    {
-        "tool_name": "Surfer SEO",
-        "tool_url": "OFFICIAL_URL",
-        "code": "CODE_OR_NULL",
-        "discount_amount": "20% OFF",
-        "pricing_info": "\u20b95,900/month",
-        "key_features": "AI content optimization, Keyword research, SERP analysis, Content audits",
-        "description": "Surfer SEO helps optimize digital marketing content using AI by analyzing top-ranking pages for improvement.",
-        "last_verified": "2026-05-07",
-        "category": "Marketing AI"
-    },
-    {
-        "tool_name": "Zapier with AI",
-        "tool_url": "OFFICIAL_URL",
-        "code": "CODE_OR_NULL",
-        "discount_amount": "43% OFF",
-        "pricing_info": "$0/month for Free Plan, ~$29/month for Professional Plan",
-        "key_features": "Automate repetitive tasks, User-friendly interface, Wide range of app integrations, Cost efficiency, Reliable automation",
-        "description": "Connects different marketing tools and adds AI capabilities through integrations.",
         "last_verified": "2026-05-07",
         "category": "Marketing AI"
     }
