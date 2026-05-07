@@ -91,18 +91,24 @@ function CompareTable({ deals }: { deals: Deal[] }) {
         </span>
       );
     } },
-    { label: t("compare.row_pricing"), get: d => <span className="font-medium text-foreground">{d.pricing ?? "—"}</span> },
+    { label: t("compare.row_pricing"), get: d => {
+      const localized = translateTool(d.tool, locale, "pricing", d.pricing ?? undefined);
+      return <span className="font-medium text-foreground">{localized ?? "—"}</span>;
+    } },
     { label: t("compare.row_specs"), get: d => {
       const localized = translateTool(d.tool, locale, "key_features", d.specs ?? undefined);
       return <span className="text-foreground/80">{localized ?? "—"}</span>;
     } },
     {
       label: t("compare.row_discount"),
-      get: d => (
-        <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow font-bold text-electric-foreground shadow-[0_0_18px_-4px_var(--electric)]">
-          {d.discount}
-        </Badge>
-      ),
+      get: d => {
+        const localized = translateTool(d.tool, locale, "badge", d.discount);
+        return (
+          <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow font-bold text-electric-foreground shadow-[0_0_18px_-4px_var(--electric)]">
+            {localized ?? d.discount}
+          </Badge>
+        );
+      },
     },
     { label: t("compare.row_code"), get: d => (
       <span className="rounded-md border border-border bg-background/60 px-2 py-1 font-mono text-xs text-foreground">
