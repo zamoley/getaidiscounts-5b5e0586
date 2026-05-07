@@ -3,38 +3,35 @@ import json
 import requests
 from datetime import datetime
 
-# ... (Keep your API keys and search functions at the top) ...
+# ... (Keep search_tavily, call_ai, and discover_categories the same) ...
 
 def main():
     database = []
-    # ... (Keep your categories and searching logic) ...
+    # (Keep your harvesting loop here...)
 
-    # --- THE DATA CLEANER ---
+    # --- THE DEEP CLEANER ---
     final_data = []
     if os.path.exists("ai_deals.json"):
         with open("ai_deals.json", "r") as f:
             existing = json.load(f)
-            
-            # This loop fixes the "Object" names and nested data
             for item in existing:
-                cleaned_item = {}
+                clean_item = {}
                 for key, val in item.items():
+                    # FIX: If value is an object like {'name': 'DALL-E 3'}, extract the string
                     if isinstance(val, dict):
-                        # Extract the string if AI nested it (e.g. {"name": "Semrush"})
-                        if key in val: cleaned_item[key] = str(val[key])
-                        elif "name" in val: cleaned_item[key] = str(val["name"])
-                        else: cleaned_item[key] = str(list(val.values())[0])
+                        if key in val: clean_item[key] = str(val[key])
+                        elif "name" in val: clean_item[key] = str(val["name"])
+                        else: clean_item[key] = str(next(iter(val.values())))
                     elif isinstance(val, list):
-                        cleaned_item[key] = ", ".join([str(i) for i in val])
+                        clean_item[key] = ", ".join([str(i) for i in val])
                     else:
-                        cleaned_item[key] = str(val) if val is not None else ""
-                final_data.append(cleaned_item)
+                        clean_item[key] = str(val) if val is not None else "N/A"
+                final_data.append(clean_item)
 
-    # Add new harvested deals with the same cleaning logic
-    for d in database:
-        # (Cleaning logic for new deals...)
-        pass 
-
-    # Save the cleaned database
+    # Save the cleaned, flat database
     with open("ai_deals.json", "w") as f:
         json.dump(final_data, f, indent=4)
+    print(f"Deep Clean complete. {len(final_data)} tools flattened.")
+
+if __name__ == "__main__":
+    main()
