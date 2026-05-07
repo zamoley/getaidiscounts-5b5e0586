@@ -3455,5 +3455,225 @@
                 "Potenzia la creatività"
             ]
         }
+    },
+    "VoiceType AI": {
+        "English": {
+            "description": "VoiceType AI is an innovative AI-powered voice generation platform that converts text into natural-sounding speech.",
+            "features": [
+                "Converts speech to text",
+                "99.7% accuracy",
+                "Lifetime subscription",
+                "20,000 words per month",
+                "Real-time formatting"
+            ],
+            "badge": "84% OFF",
+            "pricing": "$29.99"
+        },
+        "Ukrainian": {
+            "description": "VoiceType AI - це інноваційна платформа для генерації голосу на основі штучного інтелекту, яка перетворює текст на природно звучащу мову.",
+            "features": [
+                "Перетворює мову в текст",
+                "99,7% точність",
+                "Доступ на все життя",
+                "20 000 слів на місяць",
+                "Форматування в реальному часі"
+            ],
+            "badge": "84% ЗНИЖКА",
+            "pricing": "$29.99"
+        },
+        "Japanese": {
+            "description": "VoiceType AIは、テキストを自然な音声に変換する革新的なAI音声生成プラットフォームです。",
+            "features": [
+                "音声をテキストに変換",
+                "99.7%の精度",
+                "生涯サブスクリプション",
+                "月に20,000単語",
+                "リアルタイムフォーマット"
+            ],
+            "badge": "84%割引",
+            "pricing": "$29.99"
+        },
+        "Spanish": {
+            "description": "VoiceType AI es una plataforma innovadora de generación de voz impulsada por IA que convierte texto en habla natural.",
+            "features": [
+                "Convierte voz en texto",
+                "99.7% de precisión",
+                "Suscripción de por vida",
+                "20,000 palabras por mes",
+                "Formateo en tiempo real"
+            ],
+            "badge": "84% DE DESCUENTO",
+            "pricing": "$29.99"
+        },
+        "Portuguese": {
+            "description": "VoiceType AI é uma plataforma inovadora de geração de voz com tecnologia de IA que converte texto em fala natural.",
+            "features": [
+                "Converte fala em texto",
+                "99,7% de precisão",
+                "Assinatura vitalícia",
+                "20.000 palavras por mês",
+                "Formatação em tempo real"
+            ],
+            "badge": "84% DE DESCONTO",
+            "pricing": "$29.99"
+        },
+        "French": {
+            "description": "VoiceType AI est une plateforme innovante de génération de voix alimentée par IA qui convertit le texte en parole naturelle.",
+            "features": [
+                "Convertit la parole en texte",
+                "Précision de 99,7%",
+                "Abonnement à vie",
+                "20 000 mots par mois",
+                "Mise en forme en temps réel"
+            ],
+            "badge": "84% DE REMISE",
+            "pricing": "$29.99"
+        },
+        "German": {
+            "description": "VoiceType AI ist eine innovative KI-gestützte Sprachgenerierungsplattform, die Text in natürlich klingende Sprache umwandelt.",
+            "features": [
+                "Wandelt Sprache in Text um",
+                "99,7% Genauigkeit",
+                "Lebenslanges Abonnement",
+                "20.000 Wörter pro Monat",
+                "Echtzeit-Formatierung"
+            ],
+            "badge": "84% RABATT",
+            "pricing": "$29.99"
+        },
+        "Chinese": {
+            "description": "VoiceType AI 是一个创新的 AI 驱动的语音生成平台，将文本转换为自然听起来的语音。",
+            "features": [
+                "将语音转换为文本",
+                "99.7% 的准确性",
+                "终身订阅",
+                "每月 20,000 个单词",
+                "实时格式化"
+            ],
+            "badge": "84% 折扣",
+            "pricing": "$29.99"
+        },
+        "Italian": {
+            "description": "VoiceType AI è una piattaforma innovativa di generazione vocale alimentata dall'IA che converte il testo in un parlato naturale.",
+            "features": [
+                "Converte la voce in testo",
+                "99,7% di precisione",
+                "Abbonamento a vita",
+                "20.000 parole al mese",
+                "Formattazione in tempo reale"
+            ],
+            "badge": "84% DI SCONTO",
+            "pricing": "$29.99"
+        }
+    },
+    "{'name': 'DALL-E 3', 'cost': '$20 / mo', 'max_resolution': '1792 x 1024', 'avg_speed': '15s', 'best_for': 'Simple, accurate prompts'}": {
+        "English": {
+            "description": "DALL-E 3 creates detailed images from text prompts, making it a powerful tool for generating creative visuals.",
+            "features": [
+                "Text-to-image generation",
+                "Seamless integration with ChatGPT",
+                "Commercial licensing included",
+                "Fast image generation",
+                "High-quality images"
+            ],
+            "badge": "35% OFF",
+            "pricing": "$20/month"
+        },
+        "Ukrainian": {
+            "description": "DALL-E 3 створює детальні зображення з текстових запитів, що робить його потужним інструментом для генерації креативних візуалізацій.",
+            "features": [
+                "Генерація зображень з тексту",
+                "Безшовна інтеграція з ChatGPT",
+                "Включена комерційна ліцензія",
+                "Швидка генерація зображень",
+                "Високоякісні зображення"
+            ],
+            "badge": "35% ЗНИЖКА",
+            "pricing": "$20/місяць"
+        },
+        "Japanese": {
+            "description": "DALL-E 3はテキストプロンプトから詳細な画像を作成し、クリエイティブなビジュアルを生成するための強力なツールです。",
+            "features": [
+                "テキストから画像への生成",
+                "ChatGPTとのシームレスな統合",
+                "商業ライセンスが含まれています",
+                "高速な画像生成",
+                "高品質な画像"
+            ],
+            "badge": "35% OFF",
+            "pricing": "$20/月"
+        },
+        "Spanish": {
+            "description": "DALL-E 3 crea imágenes detalladas a partir de indicaciones de texto, lo que lo convierte en una herramienta poderosa para generar visuales creativos.",
+            "features": [
+                "Generación de imágenes a partir de texto",
+                "Integración fluida con ChatGPT",
+                "Licenciamiento comercial incluido",
+                "Generación de imágenes rápida",
+                "Imágenes de alta calidad"
+            ],
+            "badge": "35% DESC.",
+            "pricing": "$20/mes"
+        },
+        "Portuguese": {
+            "description": "DALL-E 3 cria imagens detalhadas a partir de prompts de texto, tornando-se uma ferramenta poderosa para gerar visuais criativos.",
+            "features": [
+                "Geração de imagens a partir de texto",
+                "Integração perfeita com o ChatGPT",
+                "Licenciamento comercial incluído",
+                "Geração rápida de imagens",
+                "Imagens de alta qualidade"
+            ],
+            "badge": "35% DESCONTO",
+            "pricing": "$20/mês"
+        },
+        "French": {
+            "description": "DALL-E 3 crée des images détaillées à partir de invites textuelles, ce qui en fait un outil puissant pour générer des visuels créatifs.",
+            "features": [
+                "Génération d'images à partir de texte",
+                "Intégration fluide avec ChatGPT",
+                "Licence commerciale incluse",
+                "Génération d'images rapide",
+                "Images de haute qualité"
+            ],
+            "badge": "35% DE RÉDUCTION",
+            "pricing": "$20/mois"
+        },
+        "German": {
+            "description": "DALL-E 3 erstellt detaillierte Bilder basierend auf Textaufforderungen und ist damit ein leistungsstarkes Werkzeug zur Erstellung kreativer visueller Inhalte.",
+            "features": [
+                "Text-zu-Bild-Generierung",
+                "Nahtlose Integration mit ChatGPT",
+                "Kommerzielle Lizenz enthalten",
+                "Schnelle Bildgeneration",
+                "Hochwertige Bilder"
+            ],
+            "badge": "35% RABATT",
+            "pricing": "$20/Monat"
+        },
+        "Chinese": {
+            "description": "DALL-E 3 从文本提示创建详细图像，使其成为生成创意视觉内容的强大工具。",
+            "features": [
+                "文本到图像的生成",
+                "与 ChatGPT 的无缝集成",
+                "包含商业许可证",
+                "快速图像生成",
+                "高质量图像"
+            ],
+            "badge": "35% 折扣",
+            "pricing": "$20/月"
+        },
+        "Italian": {
+            "description": "DALL-E 3 crea immagini dettagliate da testi, rendendolo uno strumento potente per generare visualizzazioni creative.",
+            "features": [
+                "Generazione di immagini da testo",
+                "Integrazione fluida con ChatGPT",
+                "Licenza commerciale inclusa",
+                "Generazione di immagini veloce",
+                "Immagini di alta qualità"
+            ],
+            "badge": "35% DI SCONTO",
+            "pricing": "$20/mese"
+        }
     }
 }

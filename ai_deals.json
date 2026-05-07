@@ -759,5 +759,39 @@
         "description": "Copy.ai is a high-quality AI-powered writer designed to streamline processes and optimize performance.",
         "category": "Marketing AI",
         "last_verified": "2026-05-06"
+    },
+    {
+        "tool_name": "VoiceType AI",
+        "tool_url": "OFFICIAL_URL",
+        "code": "CODE_OR_NULL",
+        "discount_amount": "84% OFF",
+        "pricing_info": "$29.99",
+        "key_features": [
+            "Converts speech to text",
+            "99.7% accuracy",
+            "Lifetime subscription",
+            "20,000 words per month",
+            "Real-time formatting"
+        ],
+        "description": "VoiceType AI is an innovative AI-powered voice generation platform that converts text into natural-sounding speech.",
+        "category": "Voice AI",
+        "last_verified": "2026-05-07"
+    },
+    {
+        "tool_name": "{'name': 'DALL-E 3', 'cost': '$20 / mo', 'max_resolution': '1792 x 1024', 'avg_speed': '15s', 'best_for': 'Simple, accurate prompts'}",
+        "tool_url": "https://openai.com/dall-e-3",
+        "code": "EFSNWOEENR",
+        "discount_amount": "35% OFF",
+        "pricing_info": "$20/month",
+        "key_features": [
+            "Text-to-image generation",
+            "Seamless integration with ChatGPT",
+            "Commercial licensing included",
+            "Fast image generation",
+            "High-quality images"
+        ],
+        "description": "DALL-E 3 creates detailed images from text prompts, making it a powerful tool for generating creative visuals.",
+        "category": "Image AI",
+        "last_verified": "2026-05-07"
     }
 ]
