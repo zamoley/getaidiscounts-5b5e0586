@@ -5,27 +5,14 @@ import type { LangCode } from "./index";
 type ToolEntry = Partial<Record<Exclude<LangCode, "en">, { description?: string; key_features?: string }>>;
 const map = toolTranslations as Record<string, ToolEntry>;
 
-// i18n_deals.json shape:
-//   { "<ToolName>": { "<Language Name>": { description, features, badge, pricing } } }
-const LANG_NAME: Record<LangCode, string> = {
-  en: "English",
-  zh: "Chinese",
-  ja: "Japanese",
-  es: "Spanish",
-  de: "German",
-  fr: "French",
-  it: "Italian",
-  uk: "Ukrainian",
-  pt: "Portuguese",
-};
-
+// Strict shape: { "<ToolName>": { "<lang>": { description, features, badge, pricing } } }
 type LocaleFields = {
   description?: string;
   features?: string;
   badge?: string;
   pricing?: string;
 };
-type DealEntry = Record<string, LocaleFields>;
+type DealEntry = Partial<Record<LangCode, LocaleFields>>;
 
 export const translations = dealsTranslations as unknown as Record<string, DealEntry>;
 
@@ -41,16 +28,11 @@ function lookupDeal(toolName: string): DealEntry | undefined {
 export type ToolField = "description" | "key_features" | "badge" | "pricing";
 
 function fieldKey(field: ToolField): keyof LocaleFields {
-  if (field === "description") return "description";
-  if (field === "key_features") return "features";
-  if (field === "badge") return "badge";
-  return "pricing";
+  return field === "key_features" ? "features" : field;
 }
 
 function pickFromEntry(entry: DealEntry | undefined, locale: LangCode, field: ToolField): string | undefined {
-  if (!entry) return undefined;
-  const langBlock = entry[LANG_NAME[locale]] ?? entry[locale];
-  const v = langBlock?.[fieldKey(field)];
+  const v = entry?.[locale]?.[fieldKey(field)];
   return typeof v === "string" && v.trim() ? v : undefined;
 }
 
@@ -68,7 +50,6 @@ export function translateTool(
   const en = pickFromEntry(entry, "en", field);
   if (en) return en;
 
-  // Legacy tool-translations.json fallback for description/key_features
   if (locale !== "en" && (field === "description" || field === "key_features")) {
     const legacy = map[toolName]?.[locale as Exclude<LangCode, "en">]?.[field];
     if (legacy) return legacy;
