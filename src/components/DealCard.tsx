@@ -9,7 +9,7 @@ import { smartLink } from "@/lib/smartlink";
 import { VoteButtons } from "@/components/VoteButtons";
 import { ToolLogo } from "@/components/ToolLogo";
 import { useLocale } from "@/i18n/use-locale";
-import { translateTool, translations } from "@/i18n/translate-tool";
+import { translateTool } from "@/i18n/translate-tool";
 import { categoryStyle } from "@/lib/category-style";
 import { useCategoryLabel } from "@/i18n/use-category-label";
 import { gaEvent } from "@/lib/analytics";
@@ -42,7 +42,8 @@ export function DealCard({
   const toolName = deal.tool_name;
   const localizedDesc = translateTool(toolName, locale, "description", deal.description);
   const localizedFeatures = translateTool(toolName, locale, "key_features", deal.specs);
-  const localizedBadge = translations[toolName]?.[locale]?.badge ?? deal.discount;
+  const localizedBadge = translateTool(toolName, locale, "badge", deal.discount);
+  const localizedPricing = translateTool(toolName, locale, "pricing", deal.pricing);
 
   const copy = async () => {
     if (!deal.code) return;

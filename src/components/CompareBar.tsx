@@ -10,7 +10,7 @@ import { ToolLogo } from "@/components/ToolLogo";
 import type { Deal } from "@/lib/deals";
 import { smartLink } from "@/lib/smartlink";
 import { useLocale } from "@/i18n/use-locale";
-import { translateTool, translations } from "@/i18n/translate-tool";
+import { translateTool } from "@/i18n/translate-tool";
 import { categoryStyle } from "@/lib/category-style";
 import { useCategoryLabel } from "@/i18n/use-category-label";
 
@@ -92,7 +92,7 @@ function CompareTable({ deals }: { deals: Deal[] }) {
       );
     } },
     { label: t("compare.row_pricing"), get: d => {
-      const localized = translations[d.tool_name]?.[locale]?.pricing ?? d.pricing;
+      const localized = translateTool(d.tool_name, locale, "pricing", d.pricing);
       return <span className="font-medium text-foreground">{localized ?? "—"}</span>;
     } },
     { label: t("compare.row_specs"), get: d => {
@@ -102,7 +102,7 @@ function CompareTable({ deals }: { deals: Deal[] }) {
     {
       label: t("compare.row_discount"),
       get: d => {
-        const localized = translations[d.tool_name]?.[locale]?.badge ?? d.discount;
+        const localized = translateTool(d.tool_name, locale, "badge", d.discount);
         return (
           <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow font-bold text-electric-foreground shadow-[0_0_18px_-4px_var(--electric)]">
             {localized ?? d.discount}
