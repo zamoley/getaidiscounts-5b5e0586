@@ -74,7 +74,14 @@ const PLACEHOLDER_RE = /OFFICIAL_URL|PLACEHOLDER|TODO|EXAMPLE\.COM/i;
 
 function isValidDeal(d: Deal): boolean {
   if (!d.tool_name || d.tool_name === "Unknown") return false;
-  if (!d.url || d.url === "#" || PLACEHOLDER_RE.test(d.url)) return false;
+  const url = (d.url ?? "").trim();
+  if (!url || url === "#" || /^n\/?a$/i.test(url) || PLACEHOLDER_RE.test(url)) return false;
+  try {
+    const u = new URL(url);
+    if (!/^https?:$/.test(u.protocol)) return false;
+  } catch {
+    return false;
+  }
   return true;
 }
 
