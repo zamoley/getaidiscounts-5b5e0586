@@ -46,7 +46,8 @@
     "verified": "已验证",
     "sourced_via": "来源：",
     "add_compare": "添加至比较",
-    "remove_compare": "从比较中移除"
+    "remove_compare": "从比较中移除",
+    "disclosure": "我们可能从本页面的链接中获得佣金。"
   },
   "empty": {
     "no_results": "没有找到符合您搜索条件的优惠。"

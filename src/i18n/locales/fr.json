@@ -46,7 +46,8 @@
     "verified": "Vérifié",
     "sourced_via": "Source via",
     "add_compare": "Ajouter au comparateur",
-    "remove_compare": "Retirer du comparateur"
+    "remove_compare": "Retirer du comparateur",
+    "disclosure": "Nous pouvons percevoir une commission sur les liens de cette page."
   },
   "empty": {
     "no_results": "Aucune offre ne correspond à votre recherche."
