@@ -47,6 +47,13 @@ def clean_name(name):
     name = re.sub(r'[^a-zA-Z0-9\s]', '', name)
     return name.strip()
 
+def is_real_url(url):
+    """Simple check that won't break real links."""
+    u = str(url or "").lower().strip()
+    if u in ["", "n/a", "none", "null", "http://", "https://", "http://n/a", "https://n/a"]: return False
+    if any(x in u for x in ["example.com", "placeholder", "yourlink", "official-website"]): return False
+    return "." in u
+
 def main():
     print("🚀 Starting Monday Narnia Harvest...")
     
@@ -69,30 +76,28 @@ def main():
     for name, count in broken_tools.items():
         if count >= 5:
             print(f"⚠️ {name} has {count} broken votes. Verifying...")
-            # If still no new code found, we mark as 'Coming Soon' or delete
-            # For simplicity, we search once more
             check = search_tavily(f"active discount promo code for {name} 2026")
             if not check:
                 print(f"❌ Deleting {name} from database.")
                 database.pop(name, None)
 
     # 3. PROACTIVE SCOUTING (NARNIA MODE)
-    # We hunt for Music AI and other niches proactively to prevent user bounce
-    priority_categories = ["Music AI", "Legal AI", "Medical AI", "Industrial AI", "Video AI", "Writing AI"]
+    # Target categories for growth
+    priority_categories = ["Music AI", "Legal AI", "Medical AI", "Industrial AI", "Video AI", "Writing AI", "Marketing AI", "SEO AI", "Image AI", "Coding AI", "Search AI", "Voice AI", "No-Code AI"]
     
-    print("Proactively scouting high-value niches...")
-    # We also check for real deals on high-intent sites to avoid 'Coming Soon' states
-    source_intelligence = "Search specifically for active promo codes on platforms like SimplyCodes to find working links for Higgsfield, Veo, and others."
+    # Extract categories already in our database to ensure they are updated
+    existing_categories = list(set([item.get('category') for item in database.values() if item.get('category')]))
+    all_targets_cats = list(set(priority_categories + existing_categories))
 
+    print("Proactively scouting high-value niches...")
+    
     # 4. HUNT & UPDATE
-    # We update existing top tools + find new ones in scouted categories
     priority_tools = ["Claude", "ChatGPT", "Midjourney", "ElevenLabs", "HeyGen", "Perplexity"]
-    targets = priority_tools + categories
+    targets = list(set(priority_tools + all_targets_cats))
 
     for target in targets:
         print(f"🔍 Searching: {target}")
-        results = search_tavily(f"best {target} AI tools deals and active promo codes 2026")
-        context = "\n".join([r['content'] for r in results])
+        results = search_tavily(f"best {target} AI tools deals and active promo codes 2026 including simplycodes links")
         
         prompt = f"""
         Find deals for tools related to '{target}'. Return a JSON list of objects:
@@ -103,7 +108,7 @@ def main():
         Rules: 
         1. Tool name must be a simple string.
         2. Description must be informative (Wikipedia style).
-        3. Category must be one of {categories + ['Writing', 'Image', 'Video', 'Voice', 'Coding']}.
+        3. Category must be one of {all_targets_cats}.
         """
         raw = call_ai(prompt)
         if raw:
@@ -113,9 +118,7 @@ def main():
                     name = clean_name(t.get('tool_name'))
                     if not name or name == "Unknown AI": continue
                     
-                    # 🛡️ ETHICAL GATEKEEPER: Wikipedia-grade honesty
-                    # If no valid URL is found, we do NOT add the tool.
-                    # We would rather show 40 real deals than 100 fake ones.
+                    # 🛡️ ETHICAL GATEKEEPER
                     if is_real_url(t.get('tool_url')):
                         database[name] = t
                     else:
