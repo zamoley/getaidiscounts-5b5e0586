@@ -111,10 +111,16 @@ export function DealCard({
         <p className="mt-1.5 line-clamp-2 text-xs text-muted-foreground/80 [hyphens:auto] [overflow-wrap:anywhere]">{localizedFeatures}</p>
       )}
 
-      <div className="mt-4">
+      <div className="mt-4 flex flex-wrap items-center gap-2">
         <Badge className="border-0 bg-gradient-to-r from-electric to-electric-glow px-3 py-1 text-sm font-bold text-electric-foreground shadow-[0_0_20px_-5px_var(--electric)]">
           {localizedBadge ?? deal.discount}
         </Badge>
+        {/^group|share|split|seat/i.test(deal.category ?? "") && localizedPricing && (
+          <span className="inline-flex items-center gap-1 rounded-full border border-emerald-400/40 bg-emerald-500/10 px-2.5 py-1 text-xs font-semibold text-emerald-300">
+            <svg viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            {localizedPricing}
+          </span>
+        )}
       </div>
 
       <div className="mt-5 flex flex-wrap items-center gap-2">
