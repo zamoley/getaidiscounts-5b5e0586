@@ -88,41 +88,8 @@
         "category": "Video AI"
     },
     {
-        "tool_name": "HappyHorse-1.0 Text-to-video",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "From $0.14/SEC",
-        "key_features": "N/A",
-        "description": "Generates videos from text prompts with support for 720P or 1080P output and flexible aspect ratios.",
-        "last_verified": "2026-05-06",
-        "category": "Video AI"
-    },
-    {
-        "tool_name": "Kling 3.0",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "$10/mo",
-        "pricing_info": "Starting from $10/mo",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Video AI"
-    },
-    {
-        "tool_name": "AIWriteBook",
-        "tool_url": "N/A",
-        "code": "DISCOUNT40",
-        "discount_amount": "40%",
-        "pricing_info": "Monthly price / billed yearly",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Writing AI"
-    },
-    {
         "tool_name": "Writecream",
-        "tool_url": "N/A",
+        "tool_url": "https://www.writecream.com/",
         "code": "NOCODE",
         "discount_amount": "Up to 50% OFF",
         "pricing_info": "Up to 45% OFF",
@@ -133,7 +100,7 @@
     },
     {
         "tool_name": "WordHero",
-        "tool_url": "N/A",
+        "tool_url": "https://wordhero.co/",
         "code": "SPRING10",
         "discount_amount": "20%",
         "pricing_info": "$49/month",
@@ -143,30 +110,8 @@
         "category": "Writing AI"
     },
     {
-        "tool_name": "GitHub Copilot Pro",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "N/A",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Coding AI"
-    },
-    {
-        "tool_name": "Claude Code",
-        "tool_url": "N/A",
-        "code": "START50",
-        "discount_amount": "50% OFF for 3 Months",
-        "pricing_info": "N/A",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Coding AI"
-    },
-    {
         "tool_name": "AssemblyAI",
-        "tool_url": "N/A",
+        "tool_url": "https://www.assemblyai.com/",
         "code": "N/A",
         "discount_amount": "$50 in free credits for new accounts",
         "pricing_info": "N/A",
@@ -176,30 +121,8 @@
         "category": "Voice AI"
     },
     {
-        "tool_name": "Microsoft Azure Cognitive Services Speech",
-        "tool_url": "N/A",
-        "code": "GYYGAYFG",
-        "discount_amount": "55%",
-        "pricing_info": "N/A",
-        "key_features": "Flexible options, commitment tiers with discounts, high-quality voice output.",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "Amazon Polly and Amazon Transcribe",
-        "tool_url": "N/A",
-        "code": "AWS-AI-VOICES",
-        "discount_amount": "0%",
-        "pricing_info": "N/A",
-        "key_features": "Neural TTS, Speech recognition, Custom vocabulary, Integration with AWS",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "Deepgram",
-        "tool_url": "N/A",
+        "tool_url": "https://deepgram.com/",
         "code": "N/A",
         "discount_amount": "$200 in free credits",
         "pricing_info": "N/A",
@@ -210,7 +133,7 @@
     },
     {
         "tool_name": "Play.ht",
-        "tool_url": "N/A",
+        "tool_url": "https://play.ht/",
         "code": "N/A",
         "discount_amount": "10% OFF",
         "pricing_info": "$39.00 / Month",
@@ -221,7 +144,7 @@
     },
     {
         "tool_name": "Lovo.ai (Genny)",
-        "tool_url": "N/A",
+        "tool_url": "https://lovo.ai/",
         "code": "N/A",
         "discount_amount": "20% OFF",
         "pricing_info": "Starting From $4",
@@ -232,7 +155,7 @@
     },
     {
         "tool_name": "Resemble AI",
-        "tool_url": "N/A",
+        "tool_url": "https://www.resemble.ai/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Starts from $0.006 per second",
@@ -243,7 +166,7 @@
     },
     {
         "tool_name": "Murf.ai",
-        "tool_url": "N/A",
+        "tool_url": "https://murf.ai/",
         "code": "N/A",
         "discount_amount": "33% OFF",
         "pricing_info": "Starts from $19 per user/month",
@@ -254,7 +177,7 @@
     },
     {
         "tool_name": "Speechify",
-        "tool_url": "N/A",
+        "tool_url": "https://speechify.com/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "From $11.58 /month",
@@ -265,7 +188,7 @@
     },
     {
         "tool_name": "Replicate",
-        "tool_url": "N/A",
+        "tool_url": "https://replicate.com/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$0.000001 per second",
@@ -276,7 +199,7 @@
     },
     {
         "tool_name": "Anyscale",
-        "tool_url": "N/A",
+        "tool_url": "https://www.anyscale.com/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Paid plans vary",
@@ -287,7 +210,7 @@
     },
     {
         "tool_name": "Pinecone",
-        "tool_url": "N/A",
+        "tool_url": "https://www.pinecone.io/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Paid plans vary",
@@ -298,7 +221,7 @@
     },
     {
         "tool_name": "OpenAI Codex",
-        "tool_url": "N/A",
+        "tool_url": "https://openai.com/blog/openai-codex/",
         "code": "N/A",
         "discount_amount": "75% OFF",
         "pricing_info": "N/A",
@@ -309,7 +232,7 @@
     },
     {
         "tool_name": "Google Gemini",
-        "tool_url": "N/A",
+        "tool_url": "https://gemini.google.com",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "N/A",
@@ -320,7 +243,7 @@
     },
     {
         "tool_name": "Replit",
-        "tool_url": "N/A",
+        "tool_url": "https://replit.com",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Online coding platform, Real-time collaboration, Supports multiple programming languages",
@@ -331,7 +254,7 @@
     },
     {
         "tool_name": "Amazon Polly",
-        "tool_url": "N/A",
+        "tool_url": "https://aws.amazon.com/polly/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Text-to-speech, Lifelike speech, Custom lexicons",
@@ -342,7 +265,7 @@
     },
     {
         "tool_name": "Microsoft Azure Speech",
-        "tool_url": "N/A",
+        "tool_url": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Real-time speech recognition, Text-to-speech conversion, Advanced voice models",
@@ -353,7 +276,7 @@
     },
     {
         "tool_name": "Google Cloud TTS",
-        "tool_url": "N/A",
+        "tool_url": "https://cloud.google.com/text-to-speech/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Convert text into natural-sounding speech using advanced AI models.",
@@ -364,7 +287,7 @@
     },
     {
         "tool_name": "Zapier AI",
-        "tool_url": "N/A",
+        "tool_url": "https://zapier.com/ai",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Automation of tasks, Integration with over 5,000 apps, User-friendly interface",
@@ -372,28 +295,6 @@
         "description": "Zapier is a workflow automation platform that connects different applications to streamline tasks.",
         "last_verified": "2026-05-05",
         "category": "Marketing AI"
-    },
-    {
-        "tool_name": "Copy.AI",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "Easy to use, Versatile content types, Multilingual, Boost creativity",
-        "key_features": "N/A",
-        "description": "Copy.AI is an AI-powered copywriting tool that helps you create marketing copy in seconds.",
-        "last_verified": "2026-05-05",
-        "category": "Marketing AI"
-    },
-    {
-        "tool_name": "VoiceType",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "84% OFF",
-        "pricing_info": "$29.99",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-06",
-        "category": "Voice AI"
     },
     {
         "tool_name": "Jasper",
@@ -408,7 +309,7 @@
     },
     {
         "tool_name": "GrowthBar",
-        "tool_url": "N/A",
+        "tool_url": "https://www.growthbarseo.com/",
         "code": "N/A",
         "discount_amount": "20%",
         "pricing_info": "N/A",
@@ -418,30 +319,8 @@
         "category": "SEO AI"
     },
     {
-        "tool_name": "Higgsfield",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "70% OFF",
-        "pricing_info": "N/A",
-        "key_features": "AI video results, Creative tools",
-        "description": "Save on Higgsfield AI subscriptions and premium features with these active promo codes.",
-        "last_verified": "2026-05-06",
-        "category": "Video AI"
-    },
-    {
-        "tool_name": "Veo 3.1",
-        "tool_url": "N/A",
-        "code": "100 credits monthly",
-        "discount_amount": "N/A",
-        "pricing_info": "N/A",
-        "key_features": "4K video generation, AI-powered editing, Media Studio integration",
-        "description": "Veo 3.1 is a cutting-edge AI tool for generating high-quality videos.",
-        "last_verified": "2026-05-06",
-        "category": "Video AI"
-    },
-    {
         "tool_name": "Surfer SEO",
-        "tool_url": "N/A",
+        "tool_url": "https://surferseo.com/",
         "code": "N/A",
         "discount_amount": "33% OFF",
         "pricing_info": "Starts from $89 per month",
@@ -452,7 +331,7 @@
     },
     {
         "tool_name": "Frase",
-        "tool_url": "N/A",
+        "tool_url": "https://www.frase.io/",
         "code": "N/A",
         "discount_amount": "60% OFF",
         "pricing_info": "$14.99/mo",
@@ -463,7 +342,7 @@
     },
     {
         "tool_name": "MarketMuse",
-        "tool_url": "N/A",
+        "tool_url": "https://www.marketmuse.com/",
         "code": "N/A",
         "discount_amount": "20% OFF",
         "pricing_info": "$149/mo",
@@ -474,7 +353,7 @@
     },
     {
         "tool_name": "Canva Magic Studio",
-        "tool_url": "N/A",
+        "tool_url": "https://www.canva.com/magic-studio/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Starts at $119.99/year",
@@ -485,7 +364,7 @@
     },
     {
         "tool_name": "Adobe Firefly",
-        "tool_url": "N/A",
+        "tool_url": "https://www.adobe.com/sensei/generative-ai/firefly.html",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$4.99/month",
@@ -496,7 +375,7 @@
     },
     {
         "tool_name": "Leonardo.ai",
-        "tool_url": "N/A",
+        "tool_url": "https://leonardo.ai/",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$10/mo",
@@ -506,30 +385,8 @@
         "category": "Image AI"
     },
     {
-        "tool_name": "Microsoft Azure Speech Services",
-        "tool_url": "N/A",
-        "code": "ATFSDEEFSELDPE",
-        "discount_amount": "55% OFF",
-        "pricing_info": "$1.00 per hour",
-        "key_features": "Real-time speech recognition, Text-to-speech conversion, Custom voice models",
-        "description": "Transform voice into text and vice versa with advanced AI capabilities.",
-        "last_verified": "2026-05-06",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "Google Cloud Text-to-Speech",
-        "tool_url": "cloud.google.com/text-to-speech/",
-        "code": "EOKEOETUERR",
-        "discount_amount": "70% OFF",
-        "pricing_info": "$0.000004 per character",
-        "key_features": "WaveNet voices, Neural2 voices, Customization options",
-        "description": "Convert text into natural-sounding speech using advanced AI models.",
-        "last_verified": "2026-05-06",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "Zapier with AI",
-        "tool_url": "N/A",
+        "tool_url": "https://zapier.com/ai",
         "code": "N/A",
         "discount_amount": "33% OFF",
         "pricing_info": "Starting From Rs 2,693",
@@ -550,41 +407,19 @@
         "category": "Marketing AI"
     },
     {
-        "tool_name": "VoiceType AI",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "84% OFF",
-        "pricing_info": "$29.99",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-07",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "Claude",
         "tool_url": "https://claude.ai",
         "code": "START50",
         "discount_amount": "50% OFF for the first three months",
         "pricing_info": "$20/month",
         "key_features": "Advanced Natural Language Understanding, Coding Assistance, Multimodal Inputs",
-        "description": "Claude is Anthropic\u2019s AI assistant for coding, research, writing, and complex reasoning.",
+        "description": "Claude is Anthropic’s AI assistant for coding, research, writing, and complex reasoning.",
         "last_verified": "2026-05-07",
         "category": "Writing AI"
     },
     {
-        "tool_name": "Voice.AI",
-        "tool_url": "N/A",
-        "code": "AETFSTAEESEY",
-        "discount_amount": "75% OFF",
-        "pricing_info": "N/A",
-        "key_features": "AI voice generation, Text-to-speech, Voice changing",
-        "description": "Voice.AI provides advanced solutions for generating and modifying voices using AI technology.",
-        "last_verified": "2026-05-07",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "Semrush One",
-        "tool_url": "N/A",
+        "tool_url": "https://www.semrush.com/",
         "code": "N/A",
         "discount_amount": "17% OFF",
         "pricing_info": "$199/month",
@@ -614,16 +449,5 @@
         "description": "N/A",
         "last_verified": "2026-05-07",
         "category": "Marketing AI"
-    },
-    {
-        "tool_name": "Unknown",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "N/A",
-        "key_features": "N/A",
-        "description": "N/A",
-        "last_verified": "2026-05-07",
-        "category": "AI Customer Service Solutions"
     }
 ]
