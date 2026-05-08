@@ -9,12 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches all history so we can merge safely
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+
       - name: Install dependencies
         run: pip install requests
+
       - name: Run Harvester
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
@@ -22,14 +27,20 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python harvester.py
+
       - name: Run Translator
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python translator.py
+
       - name: Commit and Push
         run: |
           git config --global user.name "AI Narnia Scout"
           git config --global user.email "scout@getaidiscounts.com"
           git add ai_deals.json src/i18n/*.json
           git commit -m "Monday Narnia Update: New Tools & Categories [skip ci]" || echo "No changes"
-          git push
+          
+          # This is the fix: Grab latest changes from GitHub before pushing
+          git pull --rebase origin main
+          
+          git push origin main
