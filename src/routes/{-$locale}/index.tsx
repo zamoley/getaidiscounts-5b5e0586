@@ -85,16 +85,10 @@ function Index() {
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    const escaped = q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-    const wordRe = q ? new RegExp(`\\b${escaped}\\b`, "i") : null;
     return deals.filter(d => {
       if (selected.size > 0 && (!d.category || !selected.has(d.category))) return false;
-      if (!wordRe) return true;
-      return (
-        wordRe.test(d.tool) ||
-        (d.description ? wordRe.test(d.description) : false) ||
-        (d.code ? wordRe.test(d.code) : false)
-      );
+      if (!q) return true;
+      return (d.tool_name ?? d.tool ?? "").toLowerCase().includes(q);
     });
   }, [deals, query, selected]);
 
