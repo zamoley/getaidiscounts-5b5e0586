@@ -41,7 +41,7 @@ export function SiteHeader() {
                   : "rounded-full px-3 py-1.5 text-foreground/80 hover:text-electric hover:bg-card"
               }
             >
-              {c.featured && <Sparkles className="h-3.5 w-3.5" aria-hidden />}
+              {c.featured && c.icon && <c.icon className="h-3.5 w-3.5" aria-hidden />}
               {c.label}
               {c.featured && <span className="ml-1 rounded-full bg-electric/25 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide">New</span>}
             </Link>
