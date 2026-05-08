@@ -1,18 +1,20 @@
 import { Link } from "@tanstack/react-router";
 import { useTranslation } from "react-i18next";
-import { Sparkles } from "lucide-react";
+import { Sparkles, Users } from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 import { OwlLogo } from "@/components/OwlLogo";
 import { RequestDealButton } from "@/components/RequestDealButton";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 import { useLocale, localizedTo } from "@/i18n/use-locale";
 
-const NAV_CATEGORIES: { slug: string; label: string; featured?: boolean }[] = [
+const NAV_CATEGORIES: { slug: string; label: string; featured?: boolean; icon?: LucideIcon }[] = [
   { slug: "video", label: "Video AI" },
   { slug: "voice", label: "Voice AI" },
   { slug: "writing", label: "Writing AI" },
   { slug: "agents", label: "AI Agents" },
   { slug: "code", label: "Code AI" },
-  { slug: "music", label: "Music AI", featured: true },
+  { slug: "music", label: "Music AI", featured: true, icon: Sparkles },
+  { slug: "groupbuy", label: "Group-Buy", featured: true, icon: Users },
 ];
 
 export function SiteHeader() {
