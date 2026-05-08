@@ -43,13 +43,7 @@ export function CategoryPage({
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     if (!q) return matches;
-    const escaped = q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-    const wordRe = new RegExp(`\\b${escaped}\\b`, "i");
-    return matches.filter(d =>
-      wordRe.test(d.tool) ||
-      (d.description ? wordRe.test(d.description) : false) ||
-      (d.code ? wordRe.test(d.code) : false)
-    );
+    return matches.filter(d => (d.tool_name ?? d.tool ?? "").toLowerCase().includes(q));
   }, [matches, query]);
 
   const today = new Date().toLocaleDateString(undefined, {
