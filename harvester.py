@@ -1,8 +1,4 @@
-import os
-import json
-import requests
-import re
-from datetime import datetime
+import os, json, requests, re
 
 TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
@@ -24,54 +20,47 @@ def call_ai(prompt):
     except: return None
 
 def is_real_url(url):
-    """Detects 'Ghost' or 'Fake' URLs."""
-    u = str(url).lower()
-    fakes = ["official", "placeholder", "example.com", "yourlink", "null", "none", "n/a", "http://", "https://"]
-    if any(p in u for p in fakes) or len(u) < 10 or "." not in u:
-        return False
+    """FIXED: Only detects ACTUAL fake placeholders."""
+    u = str(url).lower().strip()
+    # If the URL is just the protocol or empty, it's fake
+    if u in ["", "n/a", "none", "null", "http://", "https://", "http://n/a", "https://n/a"]: return False
+    # Only block specific placeholder words
+    fakes = ["placeholder", "example.com", "yourlink", "official-website"]
+    if any(p in u for p in fakes): return False
+    if len(u) < 8 or "." not in u: return False
     return True
 
 def clean_item(key, val):
-    """Ensures everything is a clean string."""
     if val is None: return "N/A"
     s_val = str(val).strip()
-    if s_val.startswith("{") or s_val.startswith("[") or len(s_val) > 120:
-        return "N/A"
+    if s_val.startswith("{") or s_val.startswith("[") or len(s_val) > 150: return "N/A"
     return s_val
 
 def main():
     database = {}
-    # 1. Load Existing & Delete Corrupted N/A Cards
     if os.path.exists("ai_deals.json"):
         with open("ai_deals.json", "r") as f:
             try:
                 existing = json.load(f)
                 for item in existing:
                     name = clean_item("tool_name", item.get('tool_name'))
-                    if name == "N/A" or len(name) < 2: continue # Delete empty/NA cards
-                    
+                    if name == "N/A" or len(name) < 2: continue
                     key = re.sub(r'[^a-z0-9]', '', name.lower().replace('ai', ''))
+                    # Restore URLs if they were accidentally set to N/A
                     url = item.get('tool_url', 'N/A')
-                    
                     item['tool_url'] = url if is_real_url(url) else "N/A"
                     database[key] = {k: clean_item(k, v) for k, v in item.items()}
             except: pass
 
-    # 2. Scout Trending Categories (Music, Legal, etc.)
-    print("Scouting for new AI trends...")
-    results = search_tavily("trending AI categories 2026")
-    prompt_cat = f"Return JSON list of 10 AI niches from: {results}. Format: {{'categories': ['Cat1', ...]}}"
-    res_cat = call_ai(prompt_cat)
-    categories = json.loads(res_cat).get('categories', ["Music AI", "Legal AI", "Voice AI"]) if res_cat else ["Music AI", "Legal AI"]
-
+    # Scouting Logic (Keeping it light)
+    categories = ["Music AI", "Legal AI", "Video AI"]
     for cat in categories:
-        print(f"Hunting in: {cat}...")
         tools = search_tavily(f"best {cat} tools with discounts 2026")
         for t in tools[:2]:
             name = t['title'].split('-')[0].strip()
             key = re.sub(r'[^a-z0-9]', '', name.lower().replace('ai', ''))
             if key not in database or database[key].get('tool_url') == "N/A":
-                prompt = f"Extract details for '{name}' in '{cat}'. Return JSON. Official URL only. No objects."
+                prompt = f"Extract details for '{name}' in '{cat}'. JSON only. Official URL."
                 raw = call_ai(prompt)
                 if raw:
                     try:
@@ -82,10 +71,9 @@ def main():
                             database[key] = clean_data
                     except: continue
 
-    # 3. Final Save
     with open("ai_deals.json", "w") as f:
         json.dump(list(database.values()), f, indent=4)
-    print(f"Success! {len(database)} high-quality tools saved.")
+    print(f"Repaired! {len(database)} tools saved with correct URLs.")
 
 if __name__ == "__main__":
     main()
