@@ -51,4 +51,12 @@ export const CATEGORIES: Record<string, CategoryConfig> = {
     matches: ["Music", "Music AI"],
     keywords: ["music", "suno", "udio", "audio", "mastering", "soundraw"],
   },
+  groupbuy: {
+    slug: "groupbuy",
+    label: "Group-Buy & Sharing",
+    h1: `Best Group-Buy AI Deals ${YEAR}`,
+    intro: `Split the cost of premium AI tools with verified group-buy and account-sharing platforms. Real shared savings, hand-checked weekly.`,
+    matches: ["Group-Buy", "Group Buy", "Group-Buy & Sharing", "Sharing", "GroupBuy"],
+    keywords: ["group", "groupbuy", "share", "sharing", "split", "team", "seat"],
+  },
 };
