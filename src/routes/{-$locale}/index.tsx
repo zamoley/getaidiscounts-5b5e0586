@@ -35,9 +35,17 @@ export const Route = createFileRoute("/{-$locale}/")({
     };
   },
   component: Index,
-  errorComponent: ({ error }) => (
-    <div className="p-10 text-center text-muted-foreground">Failed to load deals: {error.message}</div>
-  ),
+  errorComponent: ({ error }) => {
+    if (import.meta.env.DEV) console.error("Failed to load deals", error);
+    return (
+      <div className="p-10 text-center text-muted-foreground">
+        We couldn't load deals — please try again.
+        {import.meta.env.DEV && error?.message ? (
+          <pre className="mt-3 text-xs opacity-70">{error.message}</pre>
+        ) : null}
+      </div>
+    );
+  },
   notFoundComponent: () => <div className="p-10 text-center">Not found</div>,
 });
 
