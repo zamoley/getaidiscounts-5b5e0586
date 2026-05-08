@@ -175,7 +175,7 @@
         "category": "Voice AI"
     },
     {
-        "tool_name": "Microsoft Azure Cognitive Services Speech",
+        "tool_name": "Microsoft Azure Speech",
         "tool_url": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
         "code": "GYYGAYFG",
         "discount_amount": "55% OFF",
@@ -340,18 +340,7 @@
         "category": "Voice AI"
     },
     {
-        "tool_name": "Microsoft Azure Speech",
-        "tool_url": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
-        "code": "N/A",
-        "discount_amount": "Azure Credits Available",
-        "pricing_info": "Usage-based",
-        "key_features": "STT, TTS, Custom Voice Models",
-        "description": "Enterprise speech capabilities including transcription and lifelike voice synthesis.",
-        "last_verified": "2026-05-05",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "Google Cloud TTS",
+        "tool_name": "Google Cloud Text-to-Speech",
         "tool_url": "https://cloud.google.com/text-to-speech/",
         "code": "N/A",
         "discount_amount": "Cloud Credits Available",
@@ -362,7 +351,7 @@
         "category": "Voice AI"
     },
     {
-        "tool_name": "Zapier AI",
+        "tool_name": "Zapier with AI",
         "tool_url": "https://zapier.com/ai",
         "code": "N/A",
         "discount_amount": "Free Version Available",
@@ -373,7 +362,7 @@
         "category": "Marketing AI"
     },
     {
-        "tool_name": "CopyAI",
+        "tool_name": "Copy.ai",
         "tool_url": "https://www.copy.ai",
         "code": "SAVE20",
         "discount_amount": "20%",
@@ -383,7 +372,7 @@
         "category": "Writing AI"
     },
     {
-        "tool_name": "VoiceType",
+        "tool_name": "VoiceType AI",
         "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "84% OFF",
@@ -501,67 +490,13 @@
         "category": "Image AI"
     },
     {
-        "tool_name": "Microsoft Azure Speech Services",
-        "tool_url": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
-        "code": "ATFSDEEFSELDPE",
-        "discount_amount": "55% OFF",
-        "pricing_info": "$1.00 per hour",
-        "key_features": "STT, TTS, Speaker ID, Custom Voice",
-        "description": "Enterprise speech capabilities including real-time recognition and synthesis.",
-        "last_verified": "2026-05-06",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "Google Cloud Text-to-Speech",
-        "tool_url": "https://cloud.google.com/text-to-speech/",
-        "code": "EOKEOETUERR",
-        "discount_amount": "70% OFF",
-        "pricing_info": "Usage-based character pricing",
-        "key_features": "Neural Voice, WaveNet Support, Custom Voices",
-        "description": "Synthesize natural-sounding speech with DeepMind's advanced AI models.",
-        "last_verified": "2026-05-06",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "Zapier with AI",
-        "tool_url": "https://zapier.com/ai",
-        "code": "N/A",
-        "discount_amount": "33% OFF",
-        "pricing_info": "Starting From $32 /mo",
-        "key_features": "AI Workflows, App Integration, Chatbots",
-        "description": "The automation platform that connects your apps and streamlines work with AI.",
-        "last_verified": "2026-05-06",
-        "category": "Marketing AI"
-    },
-    {
-        "tool_name": "Copy.ai",
-        "tool_url": "https://www.copy.ai",
-        "code": "COPY2023",
-        "discount_amount": "15%",
-        "pricing_info": "Free tier available with pro plans starting at $35/month.",
-        "key_features": "AI-generated copy, collaboration features, multiple languages.",
-        "description": "Copy.ai is an AI writing tool that helps users create marketing copy, product descriptions, social media posts, and more with just a few clicks. Designed to save time and enhance productivity, it uses machine learning models to generate creative and engaging content. Copy.ai provides a user-friendly interface and a variety of templates that cater to different writing needs, making it suitable for marketers, bloggers, and entrepreneurs.",
-        "category": "Writing AI"
-    },
-    {
-        "tool_name": "VoiceType AI",
-        "tool_url": "N/A",
-        "code": "N/A",
-        "discount_amount": "84% OFF",
-        "pricing_info": "$29.99",
-        "key_features": "STT, AI Voice Control, Dictation",
-        "description": "Advanced AI-powered speech recognition for faster typing and voice control.",
-        "last_verified": "2026-05-07",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "Claude",
         "tool_url": "https://claude.ai",
         "code": "START50",
         "discount_amount": "50% OFF for 3 Months",
         "pricing_info": "$20/month",
         "key_features": "Advanced NLU, Coding, Large Context",
-        "description": "Anthropic\u2019s leading AI assistant for research, writing, and complex reasoning.",
+        "description": "Anthropic’s leading AI assistant for research, writing, and complex reasoning.",
         "last_verified": "2026-05-07",
         "category": "Writing AI"
     },
