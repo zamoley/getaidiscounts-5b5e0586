@@ -79,12 +79,11 @@
     {
         "tool_name": "Synthesia",
         "tool_url": "https://www.synthesia.io",
-        "code": "35%OFF",
-        "discount_amount": "35% OFF",
-        "pricing_info": "$22/mo when billed annually",
-        "key_features": "AI Avatars, 120+ Languages, Video Studio",
-        "description": "Create professional videos with AI avatars in minutes.",
-        "last_verified": "2026-05-06",
+        "code": "VIDEOAI001",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $30/month",
+        "key_features": "AI video generation, customizable avatars, multilingual support",
+        "description": "Synthesia is a cutting-edge video production software that uses artificial intelligence to create studio-quality videos from text input. Users can generate videos featuring lifelike avatars that speak in multiple languages, making it ideal for training, marketing, and educational purposes.",
         "category": "Video AI"
     },
     {
@@ -374,15 +373,14 @@
         "category": "Marketing AI"
     },
     {
-        "tool_name": "Copy.AI",
+        "tool_name": "CopyAI",
         "tool_url": "https://www.copy.ai",
-        "code": "STARTCOPY",
-        "discount_amount": "40% OFF",
-        "pricing_info": "Starts at $49/mo",
-        "key_features": "Versatile content types, Multilingual copy",
-        "description": "The AI copywriting tool that helps you create marketing content in seconds.",
-        "last_verified": "2026-05-05",
-        "category": "Marketing AI"
+        "code": "SAVE20",
+        "discount_amount": "20%",
+        "pricing_info": "Free plan available, Pro plan at $35/month",
+        "key_features": "AI-powered writing assistant, multiple content types, reusable templates, team collaborations.",
+        "description": "CopyAI is an AI-based writing tool designed to assist users in generating high-quality content quickly and efficiently. It leverages advanced machine learning algorithms to understand and create text, making it suitable for crafting social media posts, blog ideas, product descriptions, and much more. Ideal for marketers, content creators, and businesses looking to streamline their content generation process.",
+        "category": "Writing AI"
     },
     {
         "tool_name": "VoiceType",
@@ -398,12 +396,11 @@
     {
         "tool_name": "Jasper",
         "tool_url": "https://www.jasper.ai",
-        "code": "N/A",
-        "discount_amount": "20% OFF",
-        "pricing_info": "$39/Month",
-        "key_features": "Brand Voice, Team Workspace, AI Images",
-        "description": "The AI copilot for enterprise marketing teams to create consistent content.",
-        "last_verified": "2026-05-06",
+        "code": "JASPER23",
+        "discount_amount": "30%",
+        "pricing_info": "Plans start at $29/month",
+        "key_features": "Content generation for blogs, marketing copy, social media posts, and more.",
+        "description": "Jasper is an AI writing tool that helps users create high-quality written content with minimal effort. It uses natural language processing to generate articles, marketing copy, and story ideas based on user prompts. Jasper is ideal for bloggers, marketers, and entrepreneurs seeking to enhance their content creation efficiency.",
         "category": "Writing AI"
     },
     {
@@ -441,13 +438,12 @@
     },
     {
         "tool_name": "Surfer SEO",
-        "tool_url": "https://surferseo.com/",
-        "code": "N/A",
-        "discount_amount": "33% OFF",
-        "pricing_info": "Starts from $89 /mo",
-        "key_features": "SEO Analysis, SERP Analyzer, Keyword Tools",
-        "description": "The all-in-one SEO platform to boost your content's organic search visibility.",
-        "last_verified": "2026-05-06",
+        "tool_url": "https://surferseo.com",
+        "code": "SURFER15",
+        "discount_amount": "15%",
+        "pricing_info": "Starts at $59/month",
+        "key_features": "Content editor, SERP analyzer, keyword research, and audit features.",
+        "description": "Surfer SEO is an on-page optimization tool that helps users create SEO-friendly content. By analyzing top-ranking pages based on specific keywords, Surfer guides users on ideal word count, keyword density, and other vital content performance metrics, thus improving the likelihood of higher rankings in search engines.",
         "category": "SEO AI"
     },
     {
@@ -463,14 +459,13 @@
     },
     {
         "tool_name": "MarketMuse",
-        "tool_url": "https://www.marketmuse.com/",
-        "code": "N/A",
-        "discount_amount": "20% OFF",
-        "pricing_info": "$149/mo",
-        "key_features": "Content Strategy, Quality Scoring",
-        "description": "AI-powered content research and optimization for enterprise search strategy.",
-        "last_verified": "2026-05-06",
-        "category": "SEO AI"
+        "tool_url": "https://www.marketmuse.com",
+        "code": "MUSE2023",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $500/month",
+        "key_features": "Content optimization, topic modeling, competitive analysis",
+        "description": "MarketMuse is a content research and optimization platform that helps marketers create high-quality, optimized content. By analyzing thousands of articles and providing insights on related topics, it improves the performance of content strategies.",
+        "category": "Marketing AI"
     },
     {
         "tool_name": "Canva Magic Studio",
@@ -541,12 +536,11 @@
     {
         "tool_name": "Copy.ai",
         "tool_url": "https://www.copy.ai",
-        "code": "STARTCOPY",
-        "discount_amount": "40% OFF",
-        "pricing_info": "$49/Month",
-        "key_features": "AI Marketing GTM, Brand Voice Tools",
-        "description": "The AI marketing and sales platform for creating high-performing content.",
-        "last_verified": "2026-05-06",
+        "code": "COPY20",
+        "discount_amount": "20%",
+        "pricing_info": "Free trial available, $35/month after trial",
+        "key_features": "AI-generated copy, templates for blogs and ads, collaboration tools",
+        "description": "Copy.ai utilizes artificial intelligence to generate marketing copy, helping brands save time and resources. It offers templates for various types of copywriting, including social media posts, product descriptions, and email campaigns.",
         "category": "Marketing AI"
     },
     {
@@ -567,7 +561,7 @@
         "discount_amount": "50% OFF for 3 Months",
         "pricing_info": "$20/month",
         "key_features": "Advanced NLU, Coding, Large Context",
-        "description": "Anthropic’s leading AI assistant for research, writing, and complex reasoning.",
+        "description": "Anthropic\u2019s leading AI assistant for research, writing, and complex reasoning.",
         "last_verified": "2026-05-07",
         "category": "Writing AI"
     },
@@ -607,13 +601,12 @@
     {
         "tool_name": "Writesonic",
         "tool_url": "https://writesonic.com",
-        "code": "N/A",
-        "discount_amount": "20% OFF",
-        "pricing_info": "$249/year",
-        "key_features": "AI SEO Writer, Ad Copy, Blog Tools",
-        "description": "The AI writing assistant specifically optimized for high-performing SEO content.",
-        "last_verified": "2026-05-07",
-        "category": "Marketing AI"
+        "code": "WRITE30",
+        "discount_amount": "30%",
+        "pricing_info": "Starting from $15/month for basic access",
+        "key_features": "AI content generation for various purposes, SEO optimization, multiple language support.",
+        "description": "Writesonic is an AI-driven content creation platform that enables users to generate articles, ads, landing pages, and more using smart algorithms. The tool is particularly beneficial for digital marketers, SEO professionals, and businesses aiming to produce engaging content efficiently. With its versatility in generating different types of content, Writesonic streamlines the writing process significantly.",
+        "category": "Writing AI"
     },
     {
         "tool_name": "AIonX",
@@ -658,5 +651,515 @@
         "description": "A specialized sharing platform that organizes users into groups to access premium AI tools at a fraction of the cost.",
         "last_verified": "2026-05-08",
         "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "LegalBot",
+        "tool_url": "https://www.legalbot.com",
+        "code": "LB2023",
+        "discount_amount": "15%",
+        "pricing_info": "$49/month",
+        "key_features": "Contract analysis, Legal research, Compliance monitoring",
+        "description": "LegalBot is an AI-powered tool designed to assist legal professionals by automating routine tasks, improving research efficiency, and ensuring compliance with regulations. Leveraging advanced algorithms, it analyzes contracts, predicts litigation outcomes, and provides recommendations based on legal precedent.",
+        "category": "Legal AI"
+    },
+    {
+        "tool_name": "Case Cruncher",
+        "tool_url": "https://www.casecruncher.com",
+        "code": "CC2023",
+        "discount_amount": "20%",
+        "pricing_info": "$99/month",
+        "key_features": "Case prediction, Data visualization, Client management",
+        "description": "Case Cruncher employs machine learning to predict the outcomes of legal cases by analyzing historical case data. It equips attorneys with insightful data visualizations, helping them strategize for court. Additionally, it integrates client management features, streamlining lawyers' interaction with their clients.",
+        "category": "Legal AI"
+    },
+    {
+        "tool_name": "Phrasee",
+        "tool_url": "https://www.phrasee.co",
+        "code": "PHRASEE25",
+        "discount_amount": "25%",
+        "pricing_info": "Custom pricing based on services",
+        "key_features": "AI-powered marketing language, real-time optimization, A/B testing",
+        "description": "Phrasee is an AI-driven marketing tool that enhances the effectiveness of email subject lines and other marketing messages by optimizing language and tone. It uses natural language generation to create copy that resonates with target audiences.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "AdCreative.ai",
+        "tool_url": "https://www.adcreative.ai",
+        "code": "ADCREATIVE15",
+        "discount_amount": "15%",
+        "pricing_info": "$29/month for basic plan",
+        "key_features": "Ad generation, A/B testing, performance tracking",
+        "description": "AdCreative.ai provides marketers with the ability to create high-performing advertising creatives using artificial intelligence. It generates ad designs and copy that are tested against performance metrics to optimize conversion rates.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "CodeAI Pro",
+        "tool_url": "https://www.codeaipro.com",
+        "code": "CAI123",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $29/month",
+        "key_features": "AI code generation, debugging assistance, seamless integrations",
+        "description": "CodeAI Pro is an advanced tool that leverages artificial intelligence to assist developers in writing, debugging, and optimizing code efficiently. It provides intelligent suggestions, understands natural language prompts, and supports multiple programming languages, empowering coders to enhance their productivity and code quality.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "AutoCoder",
+        "tool_url": "https://www.autocoder.com",
+        "code": "AC456",
+        "discount_amount": "15%",
+        "pricing_info": "One-time purchase of $199",
+        "key_features": "Real-time coding feedback, code refactoring tools, collaborative coding",
+        "description": "AutoCoder is a smart coding assistant designed to provide real-time feedback on your code as you write. It offers features like code refactoring and syntax suggestions, allowing for a smoother coding experience. With collaborative options, it integrates easily with your favorite coding platforms, fostering teamwork and enhancing coding efficiency.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "SmartSyntax",
+        "tool_url": "https://www.smartsyntax.com",
+        "code": "SS789",
+        "discount_amount": "10%",
+        "pricing_info": "Free tier available, Pro version at $15/month",
+        "key_features": "Grammar and code syntax checking, customizable rules, multi-language support",
+        "description": "SmartSyntax is an innovative tool that combines grammar checking with coding syntax validation to help developers maintain a clean and efficient codebase. With customizable rule sets and support for multiple programming languages, SmartSyntax ensures that both the logic and structure of your code are flawless.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "GroupBuy Tools",
+        "tool_url": "https://www.groupbuytools.com",
+        "code": "GBT2023",
+        "discount_amount": "20%",
+        "pricing_info": "Starts at $29/month",
+        "key_features": "Group purchases, sharing options, user-friendly interface, and robust analytics.",
+        "description": "GroupBuy Tools is a platform that enables users to organize group purchases for various products. It facilitates collaboration among individuals interested in buying together, thus lowering costs. The platform supports various payment options and includes features for managing orders and tracking savings.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Dealify",
+        "tool_url": "https://www.dealify.com",
+        "code": "DEAL2023",
+        "discount_amount": "15%",
+        "pricing_info": "Membership starting at $19.99/month",
+        "key_features": "Exclusive deals, social sharing capabilities, and alert notifications for new deals.",
+        "description": "Dealify connects consumers looking for discounted services and products by enabling group purchases. Users can find and share deals, thus enabling larger purchases that benefit from economies of scale. The platform encourages community interactions and simplifies the buying process.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "SearchAI Pro",
+        "tool_url": "https://www.searchaipro.com",
+        "code": "SAIP2023",
+        "discount_amount": "15%",
+        "pricing_info": "Monthly subscription starting at $29.99",
+        "key_features": "Natural language processing, advanced search algorithms, real-time analytics",
+        "description": "SearchAI Pro is a powerful tool designed to enhance the search experience by utilizing advanced artificial intelligence algorithms. It helps users find relevant information quickly and easily, improving overall efficiency. The platform supports various industries and can be used to optimize website search functions or for academic research.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "SmartSearch",
+        "tool_url": "https://www.smartsearch.com",
+        "code": "SS20OFF",
+        "discount_amount": "20%",
+        "pricing_info": "Annual license for $99.99",
+        "key_features": "Customizable search filters, machine learning capabilities, user-friendly interface",
+        "description": "SmartSearch is an innovative search tool that leverages machine learning to provide users with tailored search results based on their preferences and previous interactions. The platform is ideal for businesses looking to enhance their online presence and improve customer satisfaction by making information retrieval seamless and efficient.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "AI Search Engine",
+        "tool_url": "https://www.aisearchengine.com",
+        "code": "AISE2023",
+        "discount_amount": "10%",
+        "pricing_info": "Free for basic use; Premium at $49.99/month",
+        "key_features": "Voice search integration, sentiment analysis, detailed reporting",
+        "description": "AI Search Engine is a state-of-the-art search solution that incorporates voice recognition and sentiment analysis to provide users with a dynamic search experience. Whether used for personal or professional purposes, this tool is designed to understand user intent and deliver accurate results effectively.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "Claude AI",
+        "tool_url": "https://www.claudeai.com",
+        "code": "CLAUDE123",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $29/month",
+        "key_features": "Natural language understanding, multi-turn conversation, task automation",
+        "description": "Claude is an advanced artificial intelligence designed for natural dialogue and conversation, leveraging machine learning techniques to understand and generate human-like responses. It is suitable for various applications including customer service, personal assistance, and content generation.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "Claude Pro",
+        "tool_url": "https://www.claudepro.com",
+        "code": "CLAUDEPRO50",
+        "discount_amount": "50%",
+        "pricing_info": "One-time fee of $199",
+        "key_features": "Enhanced language models, custom tuning, API access",
+        "description": "Claude Pro offers enhanced capabilities over its predecessor, allowing for customized interaction and integration into various software systems via API. It is intended for businesses seeking to leverage advanced AI for improved efficiency and customer engagement.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "AI Factory",
+        "tool_url": "https://www.aifactory.com",
+        "code": "AIF123",
+        "discount_amount": "15%",
+        "pricing_info": "Starting at $199/month",
+        "key_features": "Predictive maintenance, Quality control, Production optimization",
+        "description": "AI Factory provides industrial solutions that leverage artificial intelligence to enhance manufacturing processes. By applying advanced algorithms, the platform enables predictive maintenance, quality control, and production optimization.",
+        "category": "Industrial AI"
+    },
+    {
+        "tool_name": "Smart Automation Suite",
+        "tool_url": "https://www.smartautomationsuite.com",
+        "code": "SAS456",
+        "discount_amount": "10%",
+        "pricing_info": "Custom quotes available",
+        "key_features": "Robotic process automation, Data analysis, Workflow management",
+        "description": "Smart Automation Suite offers a comprehensive array of tools designed to automate industrial workflows through AI-driven solutions. Integrating robotic process automation and data analysis, it streamlines workflow management to boost efficiency.",
+        "category": "Industrial AI"
+    },
+    {
+        "tool_name": "Predictive Analytics Tool",
+        "tool_url": "https://www.predictiveanalyticstool.com",
+        "code": "PAT789",
+        "discount_amount": "20%",
+        "pricing_info": "Subscription-based, from $299/month",
+        "key_features": "Risk assessment, Performance tracking, Forecasting",
+        "description": "Predictive Analytics Tool utilizes machine learning and AI to provide insights into manufacturing performance. It offers features such as risk assessment, performance tracking, and forecasting, which help industries make informed decisions.",
+        "category": "Industrial AI"
+    },
+    {
+        "tool_name": "AIVA",
+        "tool_url": "https://www.aiva.ai",
+        "code": "AIVA2023",
+        "discount_amount": "20%",
+        "pricing_info": "Starts at $15/month",
+        "key_features": "AI composer, Customizable music styles, Collaborative tools",
+        "description": "AIVA (Artificial Intelligence Virtual Artist) is a music composition software that uses artificial intelligence to create music in various genres. AIVA's algorithms analyze existing music and generate new compositions, allowing users to create original soundtracks for films, games, or personal projects. The tool offers a user-friendly interface and features such as style customization and collaborative options for musicians.",
+        "category": "Music AI"
+    },
+    {
+        "tool_name": "Amper Music",
+        "tool_url": "https://www.ampermusic.com",
+        "code": "AMPER10",
+        "discount_amount": "10%",
+        "pricing_info": "Free to start, pay per track afterward",
+        "key_features": "Customizable tracks, Cloud-based, User-friendly",
+        "description": "Amper Music is an AI-powered music creation platform that allows users to produce original music with ease. By selecting parameters such as mood and style, users can generate unique tracks instantly. Designed for content creators, filmmakers, and musicians, Amper offers a straightforward web interface for editing and fine-tuning generated music, making it accessible even to those without musical training.",
+        "category": "Music AI"
+    },
+    {
+        "tool_name": "Soundraw",
+        "tool_url": "https://www.soundraw.io",
+        "code": "SOUNDRAW15",
+        "discount_amount": "15%",
+        "pricing_info": "Subscription model - $19/month",
+        "key_features": "Real-time music customization, Creative AI, Diverse music genres",
+        "description": "Soundraw is an innovative AI music generator that allows users to create and modify music tracks in real time. By leveraging artificial intelligence, Soundraw provides tools for users to personalize their compositions by changing various elements such as instruments, tempo, and mood. This tool is particularly useful for videographers, game developers, and anyone in need of unique soundscapes.",
+        "category": "Music AI"
+    },
+    {
+        "tool_name": "Voice AI Assistant Pro",
+        "tool_url": "https://www.voiceaiassistantpro.com",
+        "code": "VAIP2023",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $29.99/month",
+        "key_features": "Natural language understanding, voice recognition, multi-language support",
+        "description": "Voice AI Assistant Pro is a cutting-edge voice AI technology designed to enhance user interaction through natural language processing. It allows for real-time voice command recognition and integrates with various platforms to simplify tasks.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "SpeakEasy Voice",
+        "tool_url": "https://www.speakeasyvoice.com",
+        "code": "EASY10",
+        "discount_amount": "10%",
+        "pricing_info": "Free trial available, subscription starts at $15/month",
+        "key_features": "Custom voice synthesis, emotion detection, API integration",
+        "description": "SpeakEasy Voice is focused on generating lifelike speech from text using advanced voice synthesis techniques. This tool is beneficial for developers and businesses looking to enhance their applications with realistic voice capabilities.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "Aivoice Expert",
+        "tool_url": "https://www.aivoiceexpert.com",
+        "code": "AIVOICE23",
+        "discount_amount": "15%",
+        "pricing_info": "Basic plan starts at $19.99/month",
+        "key_features": "Automatic voice translation, customizable voice profiles, analytics dashboard",
+        "description": "Aivoice Expert harnesses the power of artificial intelligence to facilitate seamless voice interactions across languages. It is equipped with tools for automatic translation and provides detailed analytics to monitor performance.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "NoCode AI Builder",
+        "tool_url": "https://www.nocodeaibuilder.com",
+        "code": "NCAIB2023",
+        "discount_amount": "15%",
+        "pricing_info": "$29/month or $299/year",
+        "key_features": "Drag-and-drop interface, AI model customization, Pre-built templates",
+        "description": "NoCode AI Builder allows users to create customized AI models without any coding skills. Its user-friendly interface helps non-technical users harness the power of AI for various applications like data analysis, prediction models, and automation.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "Chatbot Creator",
+        "tool_url": "https://www.chatbotcreator.com",
+        "code": "CHAT2023",
+        "discount_amount": "20%",
+        "pricing_info": "Free tier available, Pro at $49/month",
+        "key_features": "Intuitive interface, Multi-channel support, Integrates with existing applications",
+        "description": "Chatbot Creator is a no-code platform that enables users to build and deploy chatbots across multiple channels. It provides templates and a visual designer to facilitate the creation of interactive and conversational agents without requiring any programming knowledge.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "AI Content Generator",
+        "tool_url": "https://www.aicontentgenerator.com",
+        "code": "AICG2023",
+        "discount_amount": "10%",
+        "pricing_info": "$19/month, $99/year",
+        "key_features": "Text generation, SEO keyword optimization, Plagiarism checker",
+        "description": "AI Content Generator leverages advanced AI algorithms to create high-quality written content for blogs, articles, and marketing materials. Users can input topics and keywords, and the tool generates well-structured text that is optimized for search engines.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "Visual AI Design Tool",
+        "tool_url": "https://www.visualaidesign.com",
+        "code": "VADT2023",
+        "discount_amount": "25%",
+        "pricing_info": "$39/month or $399/year",
+        "key_features": "Automatic layout adjustment, Color palette generator, Drag-and-drop components",
+        "description": "Visual AI Design Tool uses artificial intelligence to enhance the design process for web and mobile applications. The tool simplifies layout creation and helps generate aesthetically pleasing color schemes, all without requiring design expertise.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "IBM Watson Health",
+        "tool_url": "https://www.ibm.com/watson-health",
+        "code": "IBMWATSONHEALTH",
+        "discount_amount": "20%",
+        "pricing_info": "Varies by solution and usage",
+        "key_features": "AI-driven insights, data analytics, integrated health data, and decision support.",
+        "description": "IBM Watson Health leverages artificial intelligence to assist healthcare professionals in making data-driven decisions. It analyzes vast amounts of health data, including clinical notes, medical records, and research papers, to improve patient outcomes and streamline operations.",
+        "category": "Medical AI"
+    },
+    {
+        "tool_name": "Google Health API",
+        "tool_url": "https://health.google/",
+        "code": "GOOGLEHEALTHAPI",
+        "discount_amount": "15%",
+        "pricing_info": "Free tier available, paid plans for premium usage",
+        "key_features": "Patient data integration, AI algorithms for diagnosis predictions, and real-time health monitoring.",
+        "description": "Google Health API enables developers to access and integrate healthcare data and AI tools into applications. It helps in predicting health outcomes using machine learning models, improving efficiency in healthcare delivery.",
+        "category": "Medical AI"
+    },
+    {
+        "tool_name": "PathAI",
+        "tool_url": "https://www.pathai.com/",
+        "code": "PATHAI2023",
+        "discount_amount": "10%",
+        "pricing_info": "Contact for pricing",
+        "key_features": "Advanced image recognition, diagnostic accuracy, and enhanced workflow management.",
+        "description": "PathAI specializes in using AI for pathology, providing advanced image recognition technologies that assist pathologists in diagnosing diseases accurately and efficiently. Their platform improves workflow and diagnostic accuracy, leading to better patient care.",
+        "category": "Medical AI"
+    },
+    {
+        "tool_name": "HeyGen Pro",
+        "tool_url": "https://heygen.com/pro",
+        "code": "HGPROSAVE10",
+        "discount_amount": "10%",
+        "pricing_info": "$29/month after discount",
+        "key_features": "Generates personalized avatars, Real-time customization, High-resolution output",
+        "description": "HeyGen Pro is an advanced platform for creating animated avatars using AI technology. It allows users to generate lifelike avatars that can be customized in real-time, enabling a personalized user experience for businesses and content creators. Designed to facilitate user engagement, the tool caters to both corporate and individual needs.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "HeyGen Studio",
+        "tool_url": "https://heygen.com/studio",
+        "code": "HGSTUDIO20",
+        "discount_amount": "20%",
+        "pricing_info": "$49/month after discount",
+        "key_features": "Multi-layer editing, Integrated audio support, Extensive template library",
+        "description": "HeyGen Studio is an all-in-one video editing platform powered by AI that allows users to create and edit high-quality videos seamlessly. It features a user-friendly interface and tools that facilitate various editing tasks, including text overlays, audio integration, and the use of customizable templates. Ideal for marketers and content creators, it simplifies the video production process.",
+        "category": "Video AI"
+    },
+    {
+        "tool_name": "HeyGen Writer",
+        "tool_url": "https://heygen.com/writer",
+        "code": "HGWRITER15",
+        "discount_amount": "15%",
+        "pricing_info": "$19/month after discount",
+        "key_features": "AI-generated content, SEO optimization, Plagiarism checking",
+        "description": "HeyGen Writer is a sophisticated writing assistant that utilizes artificial intelligence to generate high-quality, engaging content for various platforms. This tool is particularly useful for bloggers, marketers, and businesses looking to enhance their online presence. It includes features for SEO optimization and plagiarism checking to ensure originality and relevance.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "DeepArt",
+        "tool_url": "https://deepart.io",
+        "code": "DEEPART2023",
+        "discount_amount": "15%",
+        "pricing_info": "Starting at $19.99 per artwork",
+        "key_features": "Photo styles, Custom art creation, High-resolution output",
+        "description": "DeepArt utilizes a deep neural network to transform your photos into stunning pieces of art inspired by famous artists' styles. The platform allows users to upload images and apply artistic filters based on various styles, resulting in unique and creative renditions of the original images. The service is popular among graphic designers, artists, and casual users who wish to enhance their photos creatively.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "Runway ML",
+        "tool_url": "https://runwayml.com",
+        "code": "RUNWAYFALL2023",
+        "discount_amount": "20%",
+        "pricing_info": "Free plan available, Pro plan at $35/month",
+        "key_features": "Real-time video editing, AI-driven effects, Collaborative tools",
+        "description": "Runway ML is a platform that integrates machine learning into creative workflows, focusing on video and image editing. It provides tools for artists and creators to generate dynamic visuals using AI technologies. Its capabilities include text to image generation, video style transfer, and interactive collaboration features, making it a versatile choice for filmmakers and content creators.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "DALL-E 2",
+        "tool_url": "https://openai.com/dall-e-2",
+        "code": "DALLE2023",
+        "discount_amount": "10% on first purchase",
+        "pricing_info": "Pay-per-image model at $0.02 per image",
+        "key_features": "Image generation from text prompts, High-quality outputs, Variations generation",
+        "description": "DALL-E 2 is an advanced AI system developed by OpenAI that can create realistic images and art from textual descriptions. Leveraging the power of deep learning, this model can generate images that reflect the nuances of the text it receives, offering users the ability to create bespoke visuals for various applications, including marketing, design, and entertainment.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "Midjourney Pro",
+        "tool_url": "https://www.midjourney.com/pro",
+        "code": "MIDJOURNEY2023",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $30/month after discount.",
+        "key_features": "High-resolution images, Artistic style options, Custom prompt support",
+        "description": "Midjourney is an advanced AI-driven image generation tool that allows users to create unique and stunning visuals from text prompts. Leveraging machine learning, it transforms user inputs into artistic interpretations, making it popular among artists and marketers. Its community-driven platform encourages collaboration and feedback, enhancing the creative process.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "Midjourney Community Access",
+        "tool_url": "https://www.midjourney.com/community",
+        "code": "JOINMIDJOURNEY",
+        "discount_amount": "Free Trial",
+        "pricing_info": "Free access to community features for the first month.",
+        "key_features": "Collaborative design, Feedback loops, Portfolio showcase",
+        "description": "The Midjourney Community provides a platform for users to interact, share their AI-generated art, and provide feedback to each other. It fosters a sense of community among creators while allowing them to showcase their work and engage in collaborative projects. This environment encourages experimentation and enhances artistic growth through shared experiences.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Perplexity AI",
+        "tool_url": "https://www.perplexity.ai",
+        "code": "PERFALL23",
+        "discount_amount": "15%",
+        "pricing_info": "Free basic plan with options for premium subscriptions.",
+        "key_features": "Natural language processing, real-time answer generation, comprehensive databases.",
+        "description": "Perplexity AI is an advanced artificial intelligence tool designed to assist users in generating natural language responses and finding information efficiently. It leverages a sophisticated algorithm to understand user queries, providing accurate and relevant answers derived from various sources across the web.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "Prompt Perplexity Checker",
+        "tool_url": "https://www.promptperplexitychecker.com",
+        "code": "CHECK15",
+        "discount_amount": "10%",
+        "pricing_info": "Starting from $5 per month.",
+        "key_features": "Analysis of text complexity, readability score metrics, and suggestions for improvement.",
+        "description": "The Prompt Perplexity Checker is a tool for evaluating the complexity and clarity of textual content. It utilizes various linguistic metrics to assess how comprehensible a piece of writing is and offers suggestions to enhance readability, making it ideal for writers and educators.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "Grammarly",
+        "tool_url": "https://www.grammarly.com",
+        "code": "GRM2023",
+        "discount_amount": "10%",
+        "pricing_info": "Free basic plan, Premium starts at $12/month",
+        "key_features": "Real-time grammar checking, style and tone suggestions, plagiarism detection.",
+        "description": "Grammarly is a digital writing assistant that uses advanced AI algorithms to enhance the quality of writing. The tool provides real-time feedback on grammar, punctuation, style, and clarity, enabling users to produce polished documents. It's widely used by students, professionals, and writers to improve their overall writing skills and communicate more effectively.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "SEMrush",
+        "tool_url": "https://www.semrush.com",
+        "code": "SEM100",
+        "discount_amount": "15%",
+        "pricing_info": "Starts at $119.95/month",
+        "key_features": "Keyword research, site audit, traffic analysis, and competitor exploration.",
+        "description": "SEMrush is a comprehensive suite of tools for improving online visibility and discovering marketing insights. It provides solutions for SEO, paid traffic, content marketing, and social media. With its powerful features, SEMrush enables users to optimize their online strategies by analyzing competitors and discovering profitable keywords.",
+        "category": "SEO AI"
+    },
+    {
+        "tool_name": "Moz Pro",
+        "tool_url": "https://moz.com/products/pro",
+        "code": "MOZ20",
+        "discount_amount": "20%",
+        "pricing_info": "Starts at $99/month",
+        "key_features": "Site audits, keyword research, rank tracking, and link building.",
+        "description": "Moz Pro is an SEO software suite that helps businesses improve their search rankings by providing tools for keyword research, link building, site audits, and tracking visibility. Known for its user-friendly interface and extensive community support, Moz Pro equips marketers with the insights needed to enhance their online presence.",
+        "category": "SEO AI"
+    },
+    {
+        "tool_name": "Ahrefs",
+        "tool_url": "https://ahrefs.com",
+        "code": "AHREFS10",
+        "discount_amount": "10%",
+        "pricing_info": "Starts at $99/month",
+        "key_features": "Site Explorer, keyword explorer, content explorer, and rank tracker.",
+        "description": "Ahrefs is a powerful SEO toolset used by marketers worldwide to boost their website ranking and track their growth. With a massive backlink database, Ahrefs allows users to perform extensive keyword research, analyze competitors' SEO strategies, and track their site's performance and content metrics.",
+        "category": "SEO AI"
+    },
+    {
+        "tool_name": "ElevenLabs Voice AI",
+        "tool_url": "https://www.elevenlabs.io/voice-ai",
+        "code": "ELEVENVOICE2023",
+        "discount_amount": "15%",
+        "pricing_info": "Basic plan starting at $19/month with additional features available through higher tiers.",
+        "key_features": "High-quality voice synthesis, custom voice training, multilingual support.",
+        "description": "ElevenLabs is a cutting-edge voice AI platform specializing in the generation of realistic human-like speech. The technology leverages deep learning models trained on extensive datasets, allowing users to create custom voices and integrate them into various applications such as podcasts, audiobooks, and virtual assistants. The platform is designed for developers, content creators, and enterprises looking to enhance user engagement through natural language processing.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "ElevenLabs Text-to-Speech",
+        "tool_url": "https://www.elevenlabs.io/text-to-speech",
+        "code": "TTS2023",
+        "discount_amount": "10%",
+        "pricing_info": "Prices starting at $29/month for advanced features.",
+        "key_features": "Natural sounding voices, API access, customizable parameters.",
+        "description": "ElevenLabs Text-to-Speech is an advanced platform that allows developers and businesses to convert written text into spoken words with exceptional clarity and naturalness. Using state-of-the-art AI technology, ElevenLabs offers a variety of pre-built voices and adjustments for pitch, speed, and tone, making it ideal for creating interactive applications, automated customer service solutions, and educational tools that require voice interaction.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "ChatGPT Pro",
+        "tool_url": "https://www.chatgptpro.com",
+        "code": "CHATGPTPRO20",
+        "discount_amount": "20%",
+        "pricing_info": "$19.99/month after discount",
+        "key_features": "Enhanced performance, faster response times, priority support",
+        "description": "ChatGPT Pro is an advanced version of the ChatGPT model, designed for users who require high-performance natural language processing capabilities. It offers significantly faster response times and benefits from priority access during peak usage times. Ideal for professionals and developers looking to integrate conversational AI into their applications.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "ChatGPT Marketing Toolkit",
+        "tool_url": "https://www.chatgptmarketingtoolkit.com",
+        "code": "MARKETGPT15",
+        "discount_amount": "15%",
+        "pricing_info": "$29.99/month after discount",
+        "key_features": "Content generation, social media planning, SEO analysis",
+        "description": "ChatGPT Marketing Toolkit is an integrated platform that leverages the capabilities of ChatGPT to assist marketers in creating compelling content, planning social media campaigns, and optimizing their SEO strategies. It provides tools for automating marketing tasks and generating insights based on user-generated data.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "ChatGPT Image Assistant",
+        "tool_url": "https://www.chatgptimageassistant.com",
+        "code": "IMAGEAI10",
+        "discount_amount": "10%",
+        "pricing_info": "$15.99/month after discount",
+        "key_features": "Image generation, style transfer, photo editing",
+        "description": "ChatGPT Image Assistant combines the language processing power of ChatGPT with advanced image generation techniques. Users can create stunning visuals, apply artistic styles to their photos, and access tools for basic editing, making it an invaluable resource for designers and artists looking to enhance their creative workflows.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "Pictory",
+        "tool_url": "https://pictory.ai",
+        "code": "VIDEOAI002",
+        "discount_amount": "15%",
+        "pricing_info": "Plans start at $19/month",
+        "key_features": "Text to video, image auto-selection, voiceover capabilities",
+        "description": "Pictory leverages artificial intelligence to transform written content into engaging video presentations. It offers smart editing features, allowing users to easily select images and add voiceovers to enhance viewer engagement, facilitating the creation of professional-grade video content quickly.",
+        "category": "Video AI"
+    },
+    {
+        "tool_name": "DeepBrain",
+        "tool_url": "https://deepbrain.io",
+        "code": "VIDEOAI003",
+        "discount_amount": "10%",
+        "pricing_info": "Starts at $49/month",
+        "key_features": "AI video synthesis, automatic speech generation, customized video styles",
+        "description": "DeepBrain provides innovative technology for generating videos that include realistic speech and dynamic visuals based on user-defined scripts. This platform caters to businesses and content creators aiming for high-quality video output with minimal effort, enabling faster project turnaround times.",
+        "category": "Video AI"
     }
 ]
