@@ -39,6 +39,7 @@ export function categoryStyle(category: string): CategoryStyle {
   const k = category.toLowerCase();
 
   // Known categories — curated icons + colors
+  if (k.includes("group") || k.includes("share") || k.includes("split") || k.includes("seat")) return { Icon: Users, color: "text-emerald-300", ring: "border-emerald-400/40 bg-emerald-500/10", isKnown: true };
   if (k.includes("image") || k.includes("photo")) return { Icon: ImageIcon, color: "text-fuchsia-300", ring: "border-fuchsia-400/40 bg-fuchsia-500/10", isKnown: true };
   if (k.includes("video")) return { Icon: Video, color: "text-rose-300", ring: "border-rose-400/40 bg-rose-500/10", isKnown: true };
   if (k.includes("voice") || k.includes("audio") || k.includes("speech")) return { Icon: Mic, color: "text-amber-300", ring: "border-amber-400/40 bg-amber-500/10", isKnown: true };
