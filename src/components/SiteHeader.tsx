@@ -6,14 +6,14 @@ import { RequestDealButton } from "@/components/RequestDealButton";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 import { useLocale, localizedTo } from "@/i18n/use-locale";
 
-const NAV_CATEGORIES = [
+const NAV_CATEGORIES: { slug: string; label: string; featured?: boolean }[] = [
   { slug: "video", label: "Video AI" },
   { slug: "voice", label: "Voice AI" },
   { slug: "writing", label: "Writing AI" },
   { slug: "agents", label: "AI Agents" },
   { slug: "code", label: "Code AI" },
   { slug: "music", label: "Music AI", featured: true },
-] as const;
+];
 
 export function SiteHeader() {
   const locale = useLocale();
