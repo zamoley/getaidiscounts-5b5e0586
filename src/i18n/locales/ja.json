@@ -46,7 +46,8 @@
     "verified": "確認済み",
     "sourced_via": "提供元：",
     "add_compare": "比較に追加",
-    "remove_compare": "比較から削除"
+    "remove_compare": "比較から削除",
+    "disclosure": "このページのリンクから手数料を得る場合があります。"
   },
   "empty": {
     "no_results": "検索に一致するディールはありませんでした。"

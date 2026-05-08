@@ -46,7 +46,8 @@
     "verified": "Verified",
     "sourced_via": "Sourced via",
     "add_compare": "Add to compare",
-    "remove_compare": "Remove from compare"
+    "remove_compare": "Remove from compare",
+    "disclosure": "We may earn a commission from links on this page."
   },
   "empty": {
     "no_results": "No deals match your search."
