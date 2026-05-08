@@ -137,6 +137,10 @@ export function DealCard({
         </Button>
       </div>
 
+      <p className="mt-2 text-[10px] leading-tight text-muted-foreground/70">
+        {t("card.disclosure", { defaultValue: "We may earn a commission from links on this page." })}
+      </p>
+
       <div className="mt-4 flex flex-wrap items-center gap-2 text-xs">
         {isToday(deal.lastVerified) ? (
           <span className="inline-flex items-center gap-1 rounded-full border border-emerald-500/30 bg-emerald-500/10 px-2 py-0.5 font-medium text-emerald-400">
