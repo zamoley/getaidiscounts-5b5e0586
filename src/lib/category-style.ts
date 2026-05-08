@@ -1,7 +1,7 @@
 import {
   Image as ImageIcon, Video, Mic, Music, PenLine, MessageSquare,
   Code2, Bot, Globe, Briefcase, Sparkles, Zap, Scale, GraduationCap,
-  Stethoscope, LineChart, ShoppingBag, Camera, FileText, Wand2,
+  Stethoscope, LineChart, ShoppingBag, Camera, FileText, Wand2, Users,
   type LucideIcon,
 } from "lucide-react";
 
