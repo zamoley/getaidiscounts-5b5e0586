@@ -1,42 +1,35 @@
-name: Daily AI Code Harvest
-
+name: Monday Narnia Harvest
 on:
   schedule:
-    - cron: '0 4 * * 1' # Weekly on Monday at 4 AM
+    - cron: '0 0 * * 1' # Every Monday at Midnight
   workflow_dispatch: # Allows manual run
-
-permissions:
-  contents: write
 
 jobs:
   harvest:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
-
+          python-version: '3.10'
       - name: Install dependencies
         run: pip install requests
-
-      - name: Run harvester
+      - name: Run Harvester
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python harvester.py
-
-      - name: Run translator
+      - name: Run Translator
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python translator.py
-
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add ai_deals.json src/i18n/i18n_deals.json src/i18n/i18n_categories.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update deals and i18n: $(date +'%Y-%m-%d')" && git push)
+          git config --global user.name "AI Narnia Scout"
+          git config --global user.email "scout@getaidiscounts.com"
+          git add ai_deals.json src/i18n/*.json
+          git commit -m "Monday Narnia Update: New Tools & Categories [skip ci]" || echo "No changes"
+          git push
