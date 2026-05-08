@@ -614,5 +614,48 @@
         "description": "The AI writing assistant specifically optimized for high-performing SEO content.",
         "last_verified": "2026-05-07",
         "category": "Marketing AI"
-    }
-]
+    },
+    {
+        "tool_name": "AIonX",
+        "tool_url": "https://aionx.co/",
+        "code": "N/A",
+        "discount_amount": "65-73% OFF",
+        "pricing_info": "Starts at $7/mo or $30 for 5-AI Bundle",
+        "key_features": "Group-buy ChatGPT Plus, Claude Pro, Gemini, and Midjourney",
+        "description": "Shared subscription pool allowing up to 5 users to split premium AI costs legally across different countries.",
+        "last_verified": "2026-05-08",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Spliiit",
+        "tool_url": "https://www.spliiit.com/",
+        "code": "N/A",
+        "discount_amount": "Cost-Sharing",
+        "pricing_info": "Varies by group size",
+        "key_features": "Secure Payments, Global Support, Shared Subscriptions",
+        "description": "A leading European platform for sharing the cost of AI, streaming, and software subscriptions with others safely.",
+        "last_verified": "2026-05-08",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Krater.ai (Krater Max)",
+        "tool_url": "https://krater.ai/",
+        "code": "N/A",
+        "discount_amount": "All-in-One Savings",
+        "pricing_info": "$119/mo (Group/Team Plan)",
+        "key_features": "AI SuperApp, Multi-model Access, Shared Dashboard",
+        "description": "An AI SuperApp that replaces multiple subscriptions (ChatGPT, Claude, Midjourney) with one single group-sharable plan.",
+        "last_verified": "2026-05-08",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "GamsGo",
+        "tool_url": "https://www.gamsgo.com/",
+        "code": "GAMSGO5",
+        "discount_amount": "60-70% OFF",
+        "pricing_info": "Approx. $5.99/mo for ChatGPT Plus",
+        "key_features": "Anti-Ban Management, Global Sharing, Instant Delivery",
+        "description": "A specialized sharing platform that organizes users into groups to access premium AI tools at a fraction of the cost.",
+        "last_verified": "2026-05-08",
+        "category": "Group-Buy & Sharing"
+    }]
