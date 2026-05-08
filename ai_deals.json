@@ -1,7 +1,7 @@
 [
     {
         "tool_name": "Midjourney",
-        "tool_url": "https://midjourney.com",
+        "tool_url": "N/A",
         "code": "MIDJOURNEY20",
         "discount_amount": "20% OFF",
         "pricing_info": "Starts at $10/mo",
@@ -12,7 +12,7 @@
     },
     {
         "tool_name": "ElevenLabs",
-        "tool_url": "https://elevenlabs.io",
+        "tool_url": "N/A",
         "code": "ELEVEN10",
         "discount_amount": "10% OFF",
         "pricing_info": "Starts at $5/mo",
@@ -23,7 +23,7 @@
     },
     {
         "tool_name": "HeyGen",
-        "tool_url": "https://heygen.com",
+        "tool_url": "N/A",
         "code": "HEYGEN25",
         "discount_amount": "25% OFF",
         "pricing_info": "Starts at $24/mo",
@@ -34,7 +34,7 @@
     },
     {
         "tool_name": "Perplexity",
-        "tool_url": "https://perplexity.ai",
+        "tool_url": "N/A",
         "code": "PPLX10",
         "discount_amount": "$10 Credit",
         "pricing_info": "Free or $20/mo Pro",
@@ -45,7 +45,7 @@
     },
     {
         "tool_name": "Cursor",
-        "tool_url": "https://cursor.com",
+        "tool_url": "N/A",
         "code": "CURSOR20",
         "discount_amount": "20% OFF",
         "pricing_info": "Starts at $20/mo",
@@ -56,7 +56,7 @@
     },
     {
         "tool_name": "Lovable",
-        "tool_url": "https://lovable.dev",
+        "tool_url": "N/A",
         "code": "LOVABLE20",
         "discount_amount": "20% OFF",
         "pricing_info": "Paid plans vary",
@@ -67,7 +67,7 @@
     },
     {
         "tool_name": "Base44",
-        "tool_url": "https://base44.com",
+        "tool_url": "N/A",
         "code": "FREE_TRIAL",
         "discount_amount": "Free Credits",
         "pricing_info": "Usage-based pricing",
@@ -78,7 +78,7 @@
     },
     {
         "tool_name": "Synthesia",
-        "tool_url": "https://www.synthesia.io",
+        "tool_url": "N/A",
         "code": "35%OFF",
         "discount_amount": "35%",
         "pricing_info": "$22/mo when billed annually",
@@ -89,7 +89,7 @@
     },
     {
         "tool_name": "HappyHorse-1.0 Text-to-video",
-        "tool_url": "https://happyhorse-turbo.org",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "From $0.14/SEC",
@@ -100,7 +100,7 @@
     },
     {
         "tool_name": "Kling 3.0",
-        "tool_url": "https://klingai.com",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "$10/mo",
         "pricing_info": "Starting from $10/mo",
@@ -111,7 +111,7 @@
     },
     {
         "tool_name": "AIWriteBook",
-        "tool_url": "https://aiwritebook.com",
+        "tool_url": "N/A",
         "code": "DISCOUNT40",
         "discount_amount": "40%",
         "pricing_info": "Monthly price / billed yearly",
@@ -122,7 +122,7 @@
     },
     {
         "tool_name": "Writecream",
-        "tool_url": "https://writecream.com",
+        "tool_url": "N/A",
         "code": "NOCODE",
         "discount_amount": "Up to 50% OFF",
         "pricing_info": "Up to 45% OFF",
@@ -133,7 +133,7 @@
     },
     {
         "tool_name": "WordHero",
-        "tool_url": "https://www.wordhero.com",
+        "tool_url": "N/A",
         "code": "SPRING10",
         "discount_amount": "20%",
         "pricing_info": "$49/month",
@@ -144,7 +144,7 @@
     },
     {
         "tool_name": "GitHub Copilot Pro",
-        "tool_url": "https://github.com/features/copilot",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$10/mo with $10 in monthly AI Credits",
@@ -155,7 +155,7 @@
     },
     {
         "tool_name": "Claude Code",
-        "tool_url": "https://claude.ai",
+        "tool_url": "N/A",
         "code": "START50",
         "discount_amount": "50% OFF for 3 Months",
         "pricing_info": "$20/mo",
@@ -166,7 +166,7 @@
     },
     {
         "tool_name": "AssemblyAI",
-        "tool_url": "https://www.assemblyai.com",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "$50 in free credits for new accounts",
         "pricing_info": "$0.00025 per second; custom pricing for enterprise plans.",
@@ -177,7 +177,7 @@
     },
     {
         "tool_name": "Microsoft Azure Cognitive Services Speech",
-        "tool_url": "https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/",
+        "tool_url": "N/A",
         "code": "GYYGAYFG",
         "discount_amount": "55%",
         "pricing_info": "N/A",
@@ -188,7 +188,7 @@
     },
     {
         "tool_name": "Amazon Polly and Amazon Transcribe",
-        "tool_url": "https://aws.amazon.com/polly",
+        "tool_url": "N/A",
         "code": "AWS-AI-VOICES",
         "discount_amount": "0%",
         "pricing_info": "$4 per million characters for standard voices, $16 for neural",
@@ -199,7 +199,7 @@
     },
     {
         "tool_name": "DALL-E 3",
-        "tool_url": "https://openai.com/dall-e-3",
+        "tool_url": "N/A",
         "code": "EFSNWOEENR",
         "discount_amount": "35%",
         "pricing_info": "$20 / mo",
@@ -210,7 +210,7 @@
     },
     {
         "tool_name": "Adobe Firefly 3",
-        "tool_url": "https://www.adobe.com/firefly",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "75% OFF for select plans",
         "pricing_info": "$19.99 / mo",
@@ -221,7 +221,7 @@
     },
     {
         "tool_name": "Surfer SEO",
-        "tool_url": "https://surferseo.com",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Starts at $99/month",
@@ -232,7 +232,7 @@
     },
     {
         "tool_name": "HubSpot AEO Grader",
-        "tool_url": "https://www.hubspot.com/aeo-grader",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "Free",
@@ -243,7 +243,7 @@
     },
     {
         "tool_name": "Jasper",
-        "tool_url": "https://www.jasper.ai",
+        "tool_url": "N/A",
         "code": "JASPERFREE",
         "discount_amount": "10,000 Bonus Words",
         "pricing_info": "$69",
@@ -254,7 +254,7 @@
     },
     {
         "tool_name": "ChatGPT",
-        "tool_url": "https://chatgpt.com",
+        "tool_url": "N/A",
         "code": "BUNNY20",
         "discount_amount": "20% OFF",
         "pricing_info": "$20/month for subscription",
@@ -265,7 +265,7 @@
     },
     {
         "tool_name": "Rytr",
-        "tool_url": "https://rytr.me",
+        "tool_url": "N/A",
         "code": "RYTR40",
         "discount_amount": "40% OFF",
         "pricing_info": "Available with limited features",
@@ -276,7 +276,7 @@
     },
     {
         "tool_name": "Tabnine",
-        "tool_url": "https://www.tabnine.com/",
+        "tool_url": "N/A",
         "code": "OROKMTEGR",
         "discount_amount": "15%",
         "pricing_info": "$39/user per month",
@@ -287,7 +287,7 @@
     },
     {
         "tool_name": "Resemble.AI",
-        "tool_url": "https://www.resemble.ai",
+        "tool_url": "N/A",
         "code": "START5",
         "discount_amount": "$5 off Starter Plan",
         "pricing_info": "N/A",
@@ -298,7 +298,7 @@
     },
     {
         "tool_name": "Murf AI",
-        "tool_url": "https://murf.ai",
+        "tool_url": "N/A",
         "code": "Use Promo Code at Checkout",
         "discount_amount": "40% Off",
         "pricing_info": "$29 per month for the Creator Starter Plan",
@@ -309,7 +309,7 @@
     },
     {
         "tool_name": "Nano Banana 2",
-        "tool_url": "https://nanobanana2.com",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$0.067 / img",
@@ -320,7 +320,7 @@
     },
     {
         "tool_name": "Speedybrand",
-        "tool_url": "https://www.speedybrand.com",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "up to 50%",
         "pricing_info": "N/A",
@@ -331,7 +331,7 @@
     },
     {
         "tool_name": "Descript",
-        "tool_url": "https://www.descript.com",
+        "tool_url": "N/A",
         "code": "35% off",
         "discount_amount": "35%",
         "pricing_info": "N/A",
@@ -342,7 +342,7 @@
     },
     {
         "tool_name": "SEMrush",
-        "tool_url": "https://www.semrush.com",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "N/A",
         "pricing_info": "$139.95 - $499.95/month",
@@ -353,7 +353,7 @@
     },
     {
         "tool_name": "GrowthBar",
-        "tool_url": "https://www.growthbarseo.com",
+        "tool_url": "N/A",
         "code": "20% Lifetime Discount",
         "discount_amount": "20%",
         "pricing_info": "Starts at $36/mo",
@@ -386,7 +386,7 @@
     },
     {
         "tool_name": "OpenAI Codex",
-        "tool_url": "https://openai.com/blog/openai-codex",
+        "tool_url": "N/A",
         "code": "75% OFF",
         "discount_amount": "75% OFF",
         "pricing_info": "$20/mo",
@@ -397,7 +397,7 @@
     },
     {
         "tool_name": "Google Gemini",
-        "tool_url": "https://workspace.google.com/products/gemini/",
+        "tool_url": "N/A",
         "code": "START50",
         "discount_amount": "20% OFF",
         "pricing_info": "Starting from $15/mo",
@@ -408,7 +408,7 @@
     },
     {
         "tool_name": "Replit",
-        "tool_url": "https://replit.com",
+        "tool_url": "N/A",
         "code": "Get Up To $36 Off On Yearly Plans",
         "discount_amount": "Up to $36 Off",
         "pricing_info": "$20 per month (Annual Billing)",
@@ -419,7 +419,7 @@
     },
     {
         "tool_name": "Amazon Polly",
-        "tool_url": "https://aws.amazon.com/polly/",
+        "tool_url": "N/A",
         "code": "NYTUMGATNN",
         "discount_amount": "50% OFF",
         "pricing_info": "Free for 12 months with usage limits",
@@ -430,7 +430,7 @@
     },
     {
         "tool_name": "Microsoft Azure Speech Services",
-        "tool_url": "https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/",
+        "tool_url": "N/A",
         "code": "ATFSDEEFSELDPE",
         "discount_amount": "55% OFF",
         "pricing_info": "$1.00 per hour",
@@ -452,7 +452,7 @@
     },
     {
         "tool_name": "Zapier with AI",
-        "tool_url": "https://zapier.com",
+        "tool_url": "N/A",
         "code": "N/A",
         "discount_amount": "33% OFF",
         "pricing_info": "Starting From Rs 2,693",
@@ -496,7 +496,7 @@
     },
     {
         "tool_name": "Voice.AI",
-        "tool_url": "https://voice.ai",
+        "tool_url": "N/A",
         "code": "AETFSTAEESEY",
         "discount_amount": "75% OFF",
         "pricing_info": "N/A",
