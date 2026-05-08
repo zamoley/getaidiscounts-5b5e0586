@@ -18,6 +18,7 @@ import { Route as Char123LocaleChar125VideoRouteImport } from './routes/{-$local
 import { Route as Char123LocaleChar125TermsRouteImport } from './routes/{-$locale}/terms'
 import { Route as Char123LocaleChar125PrivacyRouteImport } from './routes/{-$locale}/privacy'
 import { Route as Char123LocaleChar125MusicRouteImport } from './routes/{-$locale}/music'
+import { Route as Char123LocaleChar125GroupbuyRouteImport } from './routes/{-$locale}/groupbuy'
 import { Route as Char123LocaleChar125CodeRouteImport } from './routes/{-$locale}/code'
 import { Route as Char123LocaleChar125AgentsRouteImport } from './routes/{-$locale}/agents'
 import { Route as Char123LocaleChar125AffiliateDisclosureRouteImport } from './routes/{-$locale}/affiliate-disclosure'
@@ -74,6 +75,12 @@ const Char123LocaleChar125MusicRoute =
     path: '/{-$locale}/music',
     getParentRoute: () => rootRouteImport,
   } as any)
+const Char123LocaleChar125GroupbuyRoute =
+  Char123LocaleChar125GroupbuyRouteImport.update({
+    id: '/{-$locale}/groupbuy',
+    path: '/{-$locale}/groupbuy',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 const Char123LocaleChar125CodeRoute =
   Char123LocaleChar125CodeRouteImport.update({
     id: '/{-$locale}/code',
@@ -99,6 +106,7 @@ export interface FileRoutesByFullPath {
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/groupbuy': typeof Char123LocaleChar125GroupbuyRoute
   '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
   '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
   '/{-$locale}/terms': typeof Char123LocaleChar125TermsRoute
@@ -113,6 +121,7 @@ export interface FileRoutesByTo {
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/groupbuy': typeof Char123LocaleChar125GroupbuyRoute
   '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
   '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
   '/{-$locale}/terms': typeof Char123LocaleChar125TermsRoute
@@ -128,6 +137,7 @@ export interface FileRoutesById {
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/groupbuy': typeof Char123LocaleChar125GroupbuyRoute
   '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
   '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
   '/{-$locale}/terms': typeof Char123LocaleChar125TermsRoute
@@ -144,6 +154,7 @@ export interface FileRouteTypes {
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
+    | '/{-$locale}/groupbuy'
     | '/{-$locale}/music'
     | '/{-$locale}/privacy'
     | '/{-$locale}/terms'
@@ -158,6 +169,7 @@ export interface FileRouteTypes {
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
+    | '/{-$locale}/groupbuy'
     | '/{-$locale}/music'
     | '/{-$locale}/privacy'
     | '/{-$locale}/terms'
@@ -172,6 +184,7 @@ export interface FileRouteTypes {
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
+    | '/{-$locale}/groupbuy'
     | '/{-$locale}/music'
     | '/{-$locale}/privacy'
     | '/{-$locale}/terms'
@@ -187,6 +200,7 @@ export interface RootRouteChildren {
   Char123LocaleChar125AffiliateDisclosureRoute: typeof Char123LocaleChar125AffiliateDisclosureRoute
   Char123LocaleChar125AgentsRoute: typeof Char123LocaleChar125AgentsRoute
   Char123LocaleChar125CodeRoute: typeof Char123LocaleChar125CodeRoute
+  Char123LocaleChar125GroupbuyRoute: typeof Char123LocaleChar125GroupbuyRoute
   Char123LocaleChar125MusicRoute: typeof Char123LocaleChar125MusicRoute
   Char123LocaleChar125PrivacyRoute: typeof Char123LocaleChar125PrivacyRoute
   Char123LocaleChar125TermsRoute: typeof Char123LocaleChar125TermsRoute
@@ -261,6 +275,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof Char123LocaleChar125MusicRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/{-$locale}/groupbuy': {
+      id: '/{-$locale}/groupbuy'
+      path: '/{-$locale}/groupbuy'
+      fullPath: '/{-$locale}/groupbuy'
+      preLoaderRoute: typeof Char123LocaleChar125GroupbuyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/{-$locale}/code': {
       id: '/{-$locale}/code'
       path: '/{-$locale}/code'
@@ -292,6 +313,7 @@ const rootRouteChildren: RootRouteChildren = {
     Char123LocaleChar125AffiliateDisclosureRoute,
   Char123LocaleChar125AgentsRoute: Char123LocaleChar125AgentsRoute,
   Char123LocaleChar125CodeRoute: Char123LocaleChar125CodeRoute,
+  Char123LocaleChar125GroupbuyRoute: Char123LocaleChar125GroupbuyRoute,
   Char123LocaleChar125MusicRoute: Char123LocaleChar125MusicRoute,
   Char123LocaleChar125PrivacyRoute: Char123LocaleChar125PrivacyRoute,
   Char123LocaleChar125TermsRoute: Char123LocaleChar125TermsRoute,
@@ -303,3 +325,12 @@ const rootRouteChildren: RootRouteChildren = {
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
+
+import type { getRouter } from './router.tsx'
+import type { createStart } from '@tanstack/react-start'
+declare module '@tanstack/react-start' {
+  interface Register {
+    ssr: true
+    router: Awaited<ReturnType<typeof getRouter>>
+  }
+}
