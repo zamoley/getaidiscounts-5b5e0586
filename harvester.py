@@ -48,11 +48,17 @@ def clean_name(name):
     return name.strip()
 
 def is_real_url(url):
-    """Simple check that won't break real links."""
+    """ACTUALLY checks if the site is alive before adding it."""
     u = str(url or "").lower().strip()
-    if u in ["", "n/a", "none", "null", "http://", "https://", "http://n/a", "https://n/a"]: return False
-    if any(x in u for x in ["example.com", "placeholder", "yourlink", "official-website"]): return False
-    return "." in u
+    if not u or u == "n/a" or "." not in u: return False
+    
+    try:
+        # Pings the site. If it doesn't respond (200 OK) in 5 seconds, it's 'Dead'
+        # This keeps your site "Wikipedia-grade" automatically.
+        response = requests.get(u, timeout=5, headers={'User-Agent': 'Mozilla/5.0'})
+        return response.status_code == 200
+    except:
+        return False
 
 def main():
     print("🚀 Starting Monday Narnia Harvest...")
