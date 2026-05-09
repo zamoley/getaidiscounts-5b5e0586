@@ -7,7 +7,8 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Required to push changes back to the repo
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -22,13 +23,11 @@ jobs:
 
       - name: Run Sync Script
         run: python sync_translations.py
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Push to Site
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add src/i18n/tool-translations.json
-          git commit -m "Updating live site translations" || echo "No changes"
+          git commit -m "Updating live site translations" || echo "No changes to commit"
           git push
