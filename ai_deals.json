@@ -987,16 +987,6 @@
         "category": "Marketing AI"
     },
     {
-        "tool_name": "ElevenLabs Voice Generator",
-        "tool_url": "https://www.elevenlabs.io/voice-generator",
-        "code": "ELEVEN2023",
-        "discount_amount": "20%",
-        "pricing_info": "Starting at $19/month after discount",
-        "key_features": "Natural voice synthesis, customizable voice profiles, multilingual support",
-        "description": "ElevenLabs Voice Generator is a cutting-edge artificial intelligence tool that creates hyper-realistic voice soundtracks from text. Leveraging advanced machine learning techniques, it delivers high fidelity audio that can be used in a variety of applications such as video games, podcasts, and audiobooks. By allowing users to customize their voice profiles, ElevenLabs empowers content creators with flexibility in voice generation. It supports multiple languages, making it a versatile choice for international projects.",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "ElevenLabs Text-to-Speech API",
         "tool_url": "https://www.elevenlabs.io/text-to-speech",
         "code": "ELEVENAPI2023",
