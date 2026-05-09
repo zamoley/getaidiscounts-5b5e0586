@@ -857,16 +857,6 @@
         "category": "Image AI"
     },
     {
-        "tool_name": "Midjourney Community Access",
-        "tool_url": "https://www.midjourney.com/community",
-        "code": "JOINMIDJOURNEY",
-        "discount_amount": "Free Trial",
-        "pricing_info": "Free access to community features for the first month.",
-        "key_features": "Collaborative design, Feedback loops, Portfolio showcase",
-        "description": "The Midjourney Community provides a platform for users to interact, share their AI-generated art, and provide feedback to each other. It fosters a sense of community among creators while allowing them to showcase their work and engage in collaborative projects. This environment encourages experimentation and enhances artistic growth through shared experiences.",
-        "category": "Group-Buy & Sharing"
-    },
-    {
         "tool_name": "Perplexity AI",
         "tool_url": "https://perplexity.ai",
         "code": "PERPLX123",
