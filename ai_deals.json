@@ -363,11 +363,11 @@
     {
         "tool_name": "Copy.ai",
         "tool_url": "https://www.copy.ai",
-        "code": "COPYAI20",
-        "discount_amount": "20%",
-        "pricing_info": "Free trial available; premium plans start at $35/month",
-        "key_features": "AI writing tools, content templates, social media copy, blog ideas",
-        "description": "Copy.ai is a writing tool that leverages artificial intelligence to help users generate marketing copy and blog posts in seconds. The platform includes an array of templates tailored for various content needs and aims to enhance the productivity of creators and marketers.",
+        "code": "COPYFREE",
+        "discount_amount": "Free trial available",
+        "pricing_info": "Starts at $35/month after the trial.",
+        "key_features": "AI-generated copy, blog outline generator, multiple languages, collaboration tools.",
+        "description": "Copy.ai harnesses the power of artificial intelligence to generate marketing copy, blog articles, and product descriptions within seconds. Its intuitive interface and versatile features make it an essential tool for marketers and writers who want to elevate their copywriting efficiency.",
         "category": "Writing AI"
     },
     {
@@ -384,11 +384,11 @@
     {
         "tool_name": "Jasper",
         "tool_url": "https://www.jasper.ai",
-        "code": "JSP23",
-        "discount_amount": "10%",
-        "pricing_info": "Starting at $29/month",
-        "key_features": "Content generation, multiple writing templates, AI copywriting, SEO optimization",
-        "description": "Jasper is an AI content generation platform designed to assist writers in creating high-quality content quickly. It offers various templates and integrates SEO best practices, enabling businesses and content creators to streamline their writing process.",
+        "code": "JSP100",
+        "discount_amount": "100 credits free trial",
+        "pricing_info": "Plans start at $29/month.",
+        "key_features": "AI-powered content generation, SEO integration, 25+ templates, multi-language support.",
+        "description": "Jasper is an AI-powered content generation tool that assists users in creating high-quality written content quickly. With its vast array of templates and SEO features, Jasper is particularly useful for marketers, bloggers, and businesses looking to streamline their content creation process.",
         "category": "Writing AI"
     },
     {
@@ -429,9 +429,9 @@
         "tool_url": "https://surferseo.com",
         "code": "SURF20",
         "discount_amount": "20%",
-        "pricing_info": "Starting from $29/month",
-        "key_features": "Content editor, SERP analyzer, keyword research, and audit tools.",
-        "description": "Surfer SEO is a data-driven on-page optimization tool designed to help marketers and content creators optimize their articles and web pages for search engines. It analyzes various factors that contribute to a page's ranking and provides actionable insights to improve content performance.",
+        "pricing_info": "Starting at $29/month",
+        "key_features": "Content editor, keyword research, SERP analyzer, audit tool.",
+        "description": "Surfer SEO is a powerful optimization tool that helps users improve their content and rank better in search engines by providing data-driven guidelines based on SERP analysis.",
         "category": "SEO AI"
     },
     {
@@ -535,11 +535,11 @@
     {
         "tool_name": "Writesonic",
         "tool_url": "https://writesonic.com",
-        "code": "WRITE30",
-        "discount_amount": "30%",
-        "pricing_info": "Starting from $15/month for basic access",
-        "key_features": "AI content generation for various purposes, SEO optimization, multiple language support.",
-        "description": "Writesonic is an AI-driven content creation platform that enables users to generate articles, ads, landing pages, and more using smart algorithms. The tool is particularly beneficial for digital marketers, SEO professionals, and businesses aiming to produce engaging content efficiently. With its versatility in generating different types of content, Writesonic streamlines the writing process significantly.",
+        "code": "WRITE10",
+        "discount_amount": "10% off for annual plans.",
+        "pricing_info": "Free trial available, plans starting from $15/month.",
+        "key_features": "AI writing assistant, blog post creator, product descriptions, integration with SEO tools.",
+        "description": "Writesonic is an AI-driven writing assistant that offers a variety of templates for generating content, including blog posts, ads, and product descriptions. Its focus on SEO and ease of use allows users to create compelling content that ranks well on search engines.",
         "category": "Writing AI"
     },
     {
@@ -669,12 +669,12 @@
     {
         "tool_name": "Claude AI",
         "tool_url": "https://www.anthropic.com/claude",
-        "code": "CLAUDE2023",
-        "discount_amount": "10%",
-        "pricing_info": "Starting at $20/month",
-        "key_features": "Advanced conversational AI, Natural language understanding, Multi-turn dialogue capabilities",
-        "description": "Claude AI is an advanced conversational AI developed by Anthropic, designed to assist in various language-based tasks. It leverages state-of-the-art natural language processing techniques to engage users in multi-turn dialogues, providing coherent and contextually relevant responses. Claude aims to enhance user experience in applications such as customer support, content generation, and interactive AI systems.",
-        "category": "Writing AI"
+        "code": "CLAUDE123",
+        "discount_amount": "15%",
+        "pricing_info": "$10/month for basic access",
+        "key_features": "Advanced natural language understanding, Conversational AI capabilities, Flexible API integration",
+        "description": "Claude is a state-of-the-art conversational AI developed by Anthropic. It is designed to assist users with a wide array of tasks, from answering questions to generating content in a human-like manner. With its advanced algorithms and training on diverse datasets, Claude aims to understand context and provide relevant, coherent responses. The AI can be utilized in various industries including customer support, content creation, and education.",
+        "category": "No-Code AI"
     },
     {
         "tool_name": "Claude Pro",
@@ -708,12 +708,12 @@
     },
     {
         "tool_name": "AIVA",
-        "tool_url": "https://www.aiva.ai",
-        "code": "AIVA2023",
-        "discount_amount": "10%",
-        "pricing_info": "Monthly subscriptions start at $11/month.",
-        "key_features": "Composes music in various styles, customizable workflows, easy export options.",
-        "description": "AIVA (Artificial Intelligence Virtual Artist) is an AI music composition software that enables users to create soundtracks for various purposes, including film, games, and commercials. It uses machine learning algorithms to analyze existing music and generate new compositions that align with the user's required style and mood.",
+        "tool_url": "https://www.aiva.ai/",
+        "code": "AIVA123",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $15/month",
+        "key_features": "Compose music, Customize styles, Generate sheet music",
+        "description": "AIVA (Artificial Intelligence Virtual Artist) is an AI-driven music composition tool that allows users to create original music across various genres and styles. Leveraging advanced machine learning algorithms, AIVA can analyze existing compositions and generate new tracks based on user preferences, simplifying the music creation process for musicians and hobbyists alike.",
         "category": "Music AI"
     },
     {
@@ -728,12 +728,12 @@
     },
     {
         "tool_name": "Soundraw",
-        "tool_url": "https://soundraw.io",
-        "code": "SND2023",
-        "discount_amount": "15%",
-        "pricing_info": "Starts at $19.99/month",
-        "key_features": "Endless music variation, user-driven composition, royalty-free",
-        "description": "Soundraw is an innovative AI music generator that empowers creators by allowing them to customize and adapt music tracks to suit their specific needs. With a focus on offering royalty-free music, Soundraw provides countless variations on compositions, ensuring a unique sound for each project.",
+        "tool_url": "https://soundraw.io/",
+        "code": "SOUNDRAW2023",
+        "discount_amount": "10%",
+        "pricing_info": "Starting at $19.99/month",
+        "key_features": "Generate unique tracks, AI assisted editing, Genre flexibility",
+        "description": "Soundraw is an innovative AI music generator that emphasizes user creativity by allowing them to generate unique musical tracks based on their preferences. Users can edit and arrange generated music in real-time, making it a perfect solution for those in need of customized soundscapes for videos, games, and other multimedia projects.",
         "category": "Music AI"
     },
     {
@@ -778,12 +778,12 @@
     },
     {
         "tool_name": "PathAI",
-        "tool_url": "https://www.pathai.com/",
-        "code": "PATHAI2023",
-        "discount_amount": "10%",
-        "pricing_info": "Contact for pricing",
-        "key_features": "Advanced image recognition, diagnostic accuracy, and enhanced workflow management.",
-        "description": "PathAI specializes in using AI for pathology, providing advanced image recognition technologies that assist pathologists in diagnosing diseases accurately and efficiently. Their platform improves workflow and diagnostic accuracy, leading to better patient care.",
+        "tool_url": "https://www.pathai.com",
+        "code": "PATH30",
+        "discount_amount": "30%",
+        "pricing_info": "Customized solutions based on institution needs",
+        "key_features": "Advanced pathology AI, High accuracy, Robust analytics tools",
+        "description": "PathAI focuses on providing artificial intelligence solutions for pathology that enhance diagnostic accuracy. The platform supports pathologists by automating image analysis and improving workflow efficiency.",
         "category": "Medical AI"
     },
     {
@@ -819,11 +819,11 @@
     {
         "tool_name": "DeepArt",
         "tool_url": "https://deepart.io",
-        "code": "DEEPART2023",
-        "discount_amount": "20%",
-        "pricing_info": "Free tier available; Premium features start at $9.99/month",
-        "key_features": "Artistic style transfer, HD processing, social media sharing",
-        "description": "DeepArt uses a convolutional neural network to transform photographs into artworks, replicating the style of famous artists. Users can upload an image and choose an artistic filter, resulting in unique artwork reminiscent of classic styles.",
+        "code": "DEEPART30",
+        "discount_amount": "30%",
+        "pricing_info": "Starting at $19.99 per artwork.",
+        "key_features": "Style transfer, High-resolution outputs, Fast rendering times.",
+        "description": "DeepArt uses a neural network to create artwork based on user-provided images. It applies artistic styles to photographs, allowing users to create unique representations while maintaining the essence of the original photo.",
         "category": "Image AI"
     },
     {
@@ -879,31 +879,31 @@
     {
         "tool_name": "Grammarly",
         "tool_url": "https://www.grammarly.com",
-        "code": "GRM2023",
+        "code": "GRM20",
         "discount_amount": "20%",
-        "pricing_info": "Free with premium subscription options",
-        "key_features": "Grammar checking, punctuation correction, style suggestions, plagiarism detection",
-        "description": "Grammarly is an AI-powered writing assistant that helps users improve their written communication by providing real-time feedback on grammar, punctuation, and style. It employs advanced algorithms to analyze text and offer contextualized corrections and suggestions.",
+        "pricing_info": "Free basic plan, premium plans starting at $11.66/month.",
+        "key_features": "Real-time grammar check, style suggestions, tone detection, plagiarism detection.",
+        "description": "Grammarly is a writing assistant that helps users improve their writing skills by providing real-time feedback on grammar, punctuation, and style. It uses advanced algorithms and machine learning to detect issues and suggest corrections, making it a valuable tool for writers of all levels.",
         "category": "Writing AI"
     },
     {
         "tool_name": "SEMrush",
         "tool_url": "https://www.semrush.com",
-        "code": "SEMRUSH25",
-        "discount_amount": "25%",
-        "pricing_info": "Starting from $119.95/month",
-        "key_features": "SEO audit, keyword tracking, competitor analysis, and backlink monitoring.",
-        "description": "SEMrush is an all-in-one marketing tool suite for digital marketing professionals. It provides comprehensive solutions for SEO, PPC, content, social media, and competitive research, helping users improve their online visibility and increase organic search traffic.",
+        "code": "SEMRUSH30",
+        "discount_amount": "30%",
+        "pricing_info": "Starting at $119.95/month",
+        "key_features": "Keyword research, site audit, traffic analysis, content marketing tools.",
+        "description": "SEMrush is an all-in-one marketing tool suite designed for improving online visibility and discovering marketing insights, offering features for SEO, PPC, content marketing, and social media.",
         "category": "SEO AI"
     },
     {
         "tool_name": "Moz Pro",
         "tool_url": "https://moz.com/products/pro",
-        "code": "MOZ10",
-        "discount_amount": "10%",
-        "pricing_info": "Starting from $99/month",
-        "key_features": "Keyword research, link building tools, site audits, and rank tracking.",
-        "description": "Moz Pro is a suite of SEO tools designed to help businesses achieve higher rankings in search engine results. It offers features for keyword research, site audits, competitor analysis, and tracking the performance of online campaigns.",
+        "code": "MOZ40",
+        "discount_amount": "40%",
+        "pricing_info": "Starting at $99/month",
+        "key_features": "Site audits, rank tracking, keyword research, on-page optimization recommendations.",
+        "description": "Moz Pro is a comprehensive SEO software suite providing tools to increase search visibility and helps users optimize their sites for better rankings through data-driven insights.",
         "category": "SEO AI"
     },
     {
@@ -969,31 +969,31 @@
     {
         "tool_name": "RunwayML",
         "tool_url": "https://runwayml.com",
-        "code": "RUNWAYML15",
-        "discount_amount": "15%",
-        "pricing_info": "$12 per month with access to professional-grade tools.",
-        "key_features": "Real-time collaboration, Video editing capabilities, AI-driven tools",
-        "description": "RunwayML is a creative toolkit that incorporates machine learning techniques into art and media production. It provides users with various AI models for tasks such as video editing, image generation, and interactive design, allowing for innovative workflows previously unachievable in traditional software.",
+        "code": "RUNWAY20",
+        "discount_amount": "20%",
+        "pricing_info": "Plans starting at $15/month.",
+        "key_features": "Real-time collaboration, A wide variety of AI models, Support for video, image, and text.",
+        "description": "RunwayML provides a platform for creatives to use artificial intelligence in their projects. It connects artists, designers, and developers to advanced machine learning tools that can manipulate images and videos in innovative ways.",
         "category": "Image AI"
     },
     {
         "tool_name": "TensorFlow",
         "tool_url": "https://www.tensorflow.org/",
-        "code": "TF001",
+        "code": "TF1234",
         "discount_amount": "15%",
-        "pricing_info": "Free and open-source",
-        "key_features": "Flexible architecture, strong community support, extensive libraries",
-        "description": "TensorFlow is an open-source library for dataflow and differentiable programming across a range of tasks, primarily used for deep learning applications. It offers a comprehensive ecosystem of tools and libraries for building and deploying machine learning models.",
+        "pricing_info": "Free with premium support options",
+        "key_features": "Support for deep learning, flexible architecture, tools for model training",
+        "description": "TensorFlow is an open-source platform for machine learning created by Google. It is widely used for both research and production to develop complex algorithms in the field of artificial intelligence, particularly for neural networks and deep learning applications.",
         "category": "Industrial AI"
     },
     {
         "tool_name": "IBM Watson",
         "tool_url": "https://www.ibm.com/watson",
-        "code": "IBM002",
+        "code": "IBMW456",
         "discount_amount": "20%",
-        "pricing_info": "Varied pricing based on services",
-        "key_features": "Natural language processing, machine learning, industry-specific solutions",
-        "description": "IBM Watson is a suite of AI services, applications, and tools that provides a wide range of functionality for natural language processing, data analysis, and machine learning. It empowers businesses to leverage AI to enhance productivity and improve operational efficiency.",
+        "pricing_info": "Paid plans starting from $0/month for Lite plan with restrictions",
+        "key_features": "Natural language processing, visual recognition, data insights",
+        "description": "IBM Watson is a suite of enterprise-ready AI services, applications, and tools designed by IBM to help businesses automate tasks, derive insights from data, and enhance customer engagement through the application of machine learning and natural language processing.",
         "category": "Industrial AI"
     },
     {
@@ -1038,12 +1038,12 @@
     },
     {
         "tool_name": "Mailchimp",
-        "tool_url": "https://www.mailchimp.com",
-        "code": "MAILCHIMP2023",
-        "discount_amount": "10%",
-        "pricing_info": "Free and paid plans starting at $9.99/month",
-        "key_features": "Email Campaigns, Marketing Automation, Audience Management, Analytics",
-        "description": "Mailchimp is an all-in-one marketing platform that specializes in email marketing and marketing automation. It allows users to manage email campaigns, track performance metrics, and automate marketing strategies, thus enabling businesses to connect with their customers in a personalized and effective manner.",
+        "tool_url": "https://mailchimp.com/",
+        "code": "MAILCHIMP20",
+        "discount_amount": "20%",
+        "pricing_info": "Free tier available; paid plans start at $10/month.",
+        "key_features": "Email marketing automation, audience management, landing page creation, and performance tracking.",
+        "description": "Mailchimp is an all-in-one marketing platform that specializes in email marketing and automation. It offers various tools for creating and managing email campaigns, as well as analytics to measure campaign performance.",
         "category": "Marketing AI"
     },
     {
@@ -1069,11 +1069,11 @@
     {
         "tool_name": "LawGeex",
         "tool_url": "https://www.lawgeex.com",
-        "code": "Lawgeex123",
-        "discount_amount": "20%",
-        "pricing_info": "Starts at $500/month",
-        "key_features": "Contract review, Compliance checks, AI analytics",
-        "description": "LawGeex is an AI-powered contract review platform designed to streamline the contract approval process for legal professionals. It uses machine learning algorithms to analyze contracts and identify potential risks, ensuring that legal teams can operate more efficiently and make informed decisions.",
+        "code": "LG2023",
+        "discount_amount": "10%",
+        "pricing_info": "Starts at $300/month",
+        "key_features": "Contract review automation, compliance monitoring, AI-driven analysis",
+        "description": "LawGeex is an AI-powered platform designed to automate the contract review process for legal teams. It leverages machine learning algorithms to analyze contracts, ensuring compliance and reducing the time spent on contract negotiation. By providing detailed insights and notifications, LawGeex helps organizations streamline their legal operations, making them faster and more efficient.",
         "category": "Legal AI"
     },
     {
@@ -1090,10 +1090,10 @@
         "tool_name": "ROSS Intelligence",
         "tool_url": "https://www.rossintelligence.com",
         "code": "ROSS2023",
-        "discount_amount": "10%",
-        "pricing_info": "Subscription-based pricing available",
-        "key_features": "Legal research, Natural language processing, Case law analysis",
-        "description": "ROSS Intelligence is a legal research tool powered by artificial intelligence which allows attorneys to quickly find relevant case law and legal precedents using natural language queries. ROSS aims to reduce the time spent on legal research while increasing the accuracy of findings, thus enhancing the effectiveness of lawyers and legal professionals.",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $500/month",
+        "key_features": "Legal research automation, natural language queries, comprehensive database",
+        "description": "ROSS Intelligence is a legal research tool that uses artificial intelligence to help lawyers conduct research more efficiently. By allowing users to pose questions in natural language, ROSS swiftly sifts through vast legal databases to find relevant case law and statutes, saving hours of traditional research time. Its intuitive interface is designed to enhance the workflow of legal professionals.",
         "category": "Legal AI"
     },
     {
@@ -1101,29 +1101,29 @@
         "tool_url": "https://bubble.io",
         "code": "BUBBLE2023",
         "discount_amount": "20%",
-        "pricing_info": "Starting at $29 per month",
-        "key_features": "Drag-and-drop editor, Responsive design, Database integration, API connector",
-        "description": "Bubble is a visual web development platform that allows users to create fully functional web applications without the need for coding. It provides a user-friendly interface that enables non-technical users to design, prototype, and deploy applications quickly.",
+        "pricing_info": "Starts at $25/month",
+        "key_features": "Drag-and-drop editor, Built-in database, API integration",
+        "description": "Bubble is a no-code application development platform where users can build interactive, multi-user apps for desktop and mobile web browsers. It provides a visual programming interface that allows users to design their applications by dragging and dropping elements without the need for traditional coding skills.",
         "category": "No-Code AI"
     },
     {
         "tool_name": "Adalo",
-        "tool_url": "https://adalo.com",
+        "tool_url": "https://www.adalo.com",
         "code": "ADALO2023",
         "discount_amount": "15%",
-        "pricing_info": "Free plan available, pro plans start at $50 per month",
-        "key_features": "Native mobile app builder, Component library, Integrations with external APIs, Real-time database",
-        "description": "Adalo is a no-code platform designed for building mobile and web applications. Users can create apps visually by dragging and dropping components, and it supports databases and API connections to enhance functionality.",
+        "pricing_info": "Free tier available, Pro starts at $50/month",
+        "key_features": "Database management, Component library, Payment processing",
+        "description": "Adalo is a no-code platform designed to let users create powerful applications without the requirement for programming knowledge. It features a user-friendly drag-and-drop interface, a collection of customizable templates, and allows real-time collaboration on app development.",
         "category": "No-Code AI"
     },
     {
         "tool_name": "Webflow",
         "tool_url": "https://webflow.com",
         "code": "WEBFLOW2023",
-        "discount_amount": "10%",
-        "pricing_info": "Starter plan available, paid plans from $12 per month",
-        "key_features": "Responsive design tools, CMS capabilities, E-commerce integration, Hosting services",
-        "description": "Webflow is a web design tool, CMS, and hosting platform that allows users to design, build, and launch responsive websites visually. It combines the ease of use of a visual editor with the power of code, enabling designers to create complex designs without needing to write code.",
+        "discount_amount": "30%",
+        "pricing_info": "Basic plan starts at $12/month",
+        "key_features": "Responsive design, Visual editing, CMS capabilities",
+        "description": "Webflow is a web development platform that allows users to design, build, and launch responsive websites visually, without needing to write any code. It combines the functionalities of a design tool and a website builder, making it an ideal choice for designers and marketers.",
         "category": "No-Code AI"
     },
     {
@@ -1201,9 +1201,9 @@
         "tool_url": "https://zapier.com",
         "code": "ZAPIER2023",
         "discount_amount": "25%",
-        "pricing_info": "Free tier available, paid plans start at $19.99 per month",
-        "key_features": "Workflow automation, Supports 3000+ apps, Multi-step Zaps, Customizable triggers and actions",
-        "description": "Zapier is an online automation tool that connects your favorite apps, allowing you to automate repetitive tasks without coding or relying on developers to build the integration. Users can create 'Zaps' to connect two or more apps and automate workflows.",
+        "pricing_info": "Free tier available, Starter plan starts at $19.99/month",
+        "key_features": "Automations across apps, Workflow creation, Over 2,000 integrations",
+        "description": "Zapier is a web-based service that allows users to automate workflows by connecting different applications to perform tasks without manual input. Users can create Zaps, which are automated workflows that link two or more apps to carry out repetitive tasks seamlessly.",
         "category": "No-Code AI"
     },
     {
@@ -1238,12 +1238,12 @@
     },
     {
         "tool_name": "Artbreeder",
-        "tool_url": "https://www.artbreeder.com",
-        "code": "ART2023",
-        "discount_amount": "10%",
-        "pricing_info": "Free with premium options available.",
-        "key_features": "Collaborative image creation, blending images, adjustable parameters.",
-        "description": "Artbreeder is a platform that allows users to create and blend images through the use of neural networks. By modifying existing images and combining features from multiple sources, users can generate entirely new artwork. The platform emphasizes community collaboration, enabling artists to share their creations and enhance each other's work. It is popular among illustrators and graphic designers seeking inspiration or novel visual styles.",
+        "tool_url": "https://artbreeder.com",
+        "code": "ARTBREEDE20",
+        "discount_amount": "20%",
+        "pricing_info": "Free tier available; Pro tier at $9.99/month.",
+        "key_features": "Collaborative breeding of images, Customizable parameters, Community-driven gallery.",
+        "description": "Artbreeder allows users to blend images together using machine learning algorithms. By adjusting various parameters, users can co-create diverse artworks through collaboration and feedback within a community.",
         "category": "Image AI"
     },
     {
@@ -1345,5 +1345,115 @@
         "key_features": "Voice cloning, Custom voice creation, Wide range of accents",
         "description": "Lovo is an AI voiceover platform that specializes in creating high-quality voiceover content for various applications, including videos, games, and audiobooks. Users can select from a collection of realistic AI voices or even create custom voices with Lovo's voice cloning feature. Its easy-to-use interface and integration options make it a popular choice for marketers and creators.",
         "category": "Voice AI"
+    },
+    {
+        "tool_name": "Airtable",
+        "tool_url": "https://airtable.com",
+        "code": "AIRTABLE2023",
+        "discount_amount": "10%",
+        "pricing_info": "Free version available, Plus starts at $10/month",
+        "key_features": "Customizable tables, Collaboration tools, Rich field types",
+        "description": "Airtable is a cloud collaboration service that is part spreadsheet, part database, making it easy for teams to organize information. Users can create custom applications suited to a variety of use cases ranging from project management to event planning without needing to write a single line of code.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "Kira Systems",
+        "tool_url": "https://www.kirasystems.com",
+        "code": "KIRA2023",
+        "discount_amount": "15%",
+        "pricing_info": "Contact for pricing",
+        "key_features": "Document analysis, contract extraction, customizable AI model",
+        "description": "Kira Systems offers an AI-based document analysis platform that specializes in extracting crucial data from contracts and legal documents. Utilizing natural language processing, Kira enables legal professionals to quickly identify relevant clauses and information, improving due diligence and contract management processes. The platform supports customization to adapt to specific legal needs.",
+        "category": "Legal AI"
+    },
+    {
+        "tool_name": "ConversationalAI",
+        "tool_url": "https://www.conversationalai.com",
+        "code": "SAVE15",
+        "discount_amount": "15%",
+        "pricing_info": "Starting at $49/month",
+        "key_features": "AI-driven chatbots, Customizable voice interactions, Integration with existing systems",
+        "description": "ConversationalAI is a platform designed to create intelligent chatbots that can engage in voice conversations with users. Utilizing sophisticated machine learning techniques, it provides customizable interactions suitable for businesses in customer service, sales, and marketing. The tool easily integrates with other software, facilitating a seamless transition into the AI-enhanced communication landscape.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "QuickVideo AI",
+        "tool_url": "https://www.quickvideoai.com",
+        "code": "QVAI10",
+        "discount_amount": "10%",
+        "pricing_info": "One-time payment of $99",
+        "key_features": "Instant video summarization, Speech-to-text capabilities, Multiple format exports, User-friendly interface",
+        "description": "QuickVideo AI is designed to help users instantly generate summaries of long videos through advanced speech recognition technologies. By converting spoken words into text, users can quickly access key points without watching lengthy content.",
+        "category": "Video AI"
+    },
+    {
+        "tool_name": "HubSpot Marketing Hub",
+        "tool_url": "https://www.hubspot.com/products/marketing",
+        "code": "HUBMARKET2023",
+        "discount_amount": "20%",
+        "pricing_info": "Starts at $50/month after discount",
+        "key_features": "Email marketing, SEO tools, social media management, analytics, and marketing automation.",
+        "description": "HubSpot Marketing Hub is a comprehensive marketing software platform that provides tools for inbound marketing, including content management, email marketing, and analytics. It is designed to help businesses attract visitors, convert leads, and close customers.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "CodexAI Pro",
+        "tool_url": "https://www.codexai.com/pro",
+        "code": "CAI-2023",
+        "discount_amount": "20%",
+        "pricing_info": "$49/month after discount",
+        "key_features": "AI-driven code suggestions, multilingual support, integrated debugging tools",
+        "description": "CodexAI Pro is an advanced coding assistant designed to optimize software development. It leverages machine learning algorithms to understand context and provide relevant code suggestions in real time, making it easier for developers to write efficient and error-free code. The tool supports multiple programming languages and includes integrated debugging features to streamline the coding process.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "AI Code Generator",
+        "tool_url": "https://www.aicodegenerator.com",
+        "code": "AICG2023",
+        "discount_amount": "15%",
+        "pricing_info": "$39/month after discount",
+        "key_features": "Instant code generation, customizable templates, collaborative features",
+        "description": "The AI Code Generator provides an innovative solution for software developers looking to accelerate their coding tasks. It generates code snippets based on user input and templates, facilitating a faster development process. The platform supports collaborative work, allowing teams to share and customize generated code, thus enhancing productivity across projects.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "AI Search Optimizer",
+        "tool_url": "https://www.aisearchoptimizer.com",
+        "code": "SEO2023",
+        "discount_amount": "10%",
+        "pricing_info": "$39/month after discount",
+        "key_features": "SEO integration, AI-driven suggestions, competitor analysis, real-time performance tracking.",
+        "description": "AI Search Optimizer is designed for digital marketers looking to enhance their search engine optimization strategy. It employs AI algorithms to analyze current trends and users' search behavior, offering actionable insights and suggestions to improve website visibility on search engines. The tool also features competitor analysis capabilities to help users stay ahead in their respective markets.",
+        "category": "SEO AI"
+    },
+    {
+        "tool_name": "RadiAnt DICOM Viewer",
+        "tool_url": "https://www.radiantviewer.com",
+        "code": "RAD10",
+        "discount_amount": "20%",
+        "pricing_info": "Starting at $89",
+        "key_features": "Fast and efficient DICOM viewer, Supports multiple files, Easy navigation",
+        "description": "RadiAnt DICOM Viewer is a comprehensive software solution designed for viewing DICOM medical images efficiently. It enables healthcare professionals to analyze radiology data such as X-rays, CT scans, and MRIs with speed and accuracy.",
+        "category": "Medical AI"
+    },
+    {
+        "tool_name": "Aidoc",
+        "tool_url": "https://www.aidoc.com",
+        "code": "AIDO20",
+        "discount_amount": "15%",
+        "pricing_info": "Contact for pricing",
+        "key_features": "AI-powered radiology solutions, Real-time image analysis, Integration with existing systems",
+        "description": "Aidoc offers advanced AI tools that assist radiologists by providing real-time analysis of medical images. The platform enhances diagnostic accuracy and speeds up workflow, thereby improving patient outcomes.",
+        "category": "Medical AI"
+    },
+    {
+        "tool_name": "Zebra Medical Vision",
+        "tool_url": "https://www.zebramed.com",
+        "code": "ZEBRA25",
+        "discount_amount": "25%",
+        "pricing_info": "Custom pricing based on usage",
+        "key_features": "Deep learning algorithms, Extensive database for training, Accessible API",
+        "description": "Zebra Medical Vision uses deep learning algorithms to analyze medical imaging data, providing actionable insights that aid in diagnosis and treatment planning. Their tools are designed to be integrated into existing healthcare IT systems.",
+        "category": "Medical AI"
     }
 ]
