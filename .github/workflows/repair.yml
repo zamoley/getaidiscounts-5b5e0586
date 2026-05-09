@@ -1,0 +1,17 @@
+name: Emergency Repair Sync
+on: workflow_dispatch # This adds a manual "Run" button
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Sync
+        run: python sync_translations.py
+      - name: Commit Fix
+        run: |
+          git config --global user.name "Repair Bot"
+          git config --global user.email "bot@getaidiscounts.com"
+          git add src/i18n/tool-translations.json
+          git commit -m "Emergency Repair: Restoring Translations" || echo "No changes"
+          git push
