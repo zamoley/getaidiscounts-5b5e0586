@@ -69,8 +69,6 @@ export function CompareBar({
           </div>
         </div>
       </div>
-      {/* spacer so floating bar doesn't overlap content */}
-      <div aria-hidden className="h-24" />
     </>
   );
 }
