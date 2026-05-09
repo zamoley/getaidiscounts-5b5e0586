@@ -1,0 +1,8 @@
+      - name: Sync Translations to Live File
+        run: python sync_translations.py
+      
+      - name: Commit and Push
+        run: |
+          git add src/i18n/tool-translations.json
+          git commit -m "Sync all tool translations to live site" || echo "No changes"
+          git push
