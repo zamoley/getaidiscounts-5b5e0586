@@ -587,16 +587,6 @@
         "category": "Group-Buy & Sharing"
     },
     {
-        "tool_name": "Case Cruncher",
-        "tool_url": "https://www.casecruncher.com",
-        "code": "CC2023",
-        "discount_amount": "20%",
-        "pricing_info": "$99/month",
-        "key_features": "Case prediction, Data visualization, Client management",
-        "description": "Case Cruncher employs machine learning to predict the outcomes of legal cases by analyzing historical case data. It equips attorneys with insightful data visualizations, helping them strategize for court. Additionally, it integrates client management features, streamlining lawyers' interaction with their clients.",
-        "category": "Legal AI"
-    },
-    {
         "tool_name": "Phrasee",
         "tool_url": "https://www.phrasee.co",
         "code": "PHRASEE25",
@@ -1349,8 +1339,8 @@
     {
         "tool_name": "Kira Systems",
         "tool_url": "https://www.kirasystems.com",
-        "code": "KIRA2023",
-        "discount_amount": "15%",
+        "code": "LW_BLTF2026",
+        "discount_amount": "25%",
         "pricing_info": "Contact for pricing",
         "key_features": "Document analysis, contract extraction, customizable AI model",
         "description": "Kira Systems offers an AI-based document analysis platform that specializes in extracting crucial data from contracts and legal documents. Utilizing natural language processing, Kira enables legal professionals to quickly identify relevant clauses and information, improving due diligence and contract management processes. The platform supports customization to adapt to specific legal needs.",
