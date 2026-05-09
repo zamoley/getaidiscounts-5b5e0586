@@ -33,6 +33,11 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python translator.py
 
+      - name: Sync Translations to Live Site
+        run: python sync_translations.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
       - name: Commit and Push
         run: |
           git config --global user.name "AI Narnia Scout"
