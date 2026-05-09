@@ -146,5 +146,25 @@
     "email_invalid": "有効なメールを入力",
     "success": "リクエストを受け付けました！",
     "error": "送信できませんでした。再度お試しください。"
-  }
+  },
+  "Starts at $10/mo": "月額$10から",
+  "Starts at $5/mo": "月額$5から",
+  "Starts at $24/mo": "月額$24から",
+  "Starts at $29/mo": "月額$29から",
+  "Starts at $129/mo": "月額$129から",
+  "Starts at $19/mo": "月額$19から",
+  "Free or $15/mo Starter": "無料、または月額$15のStarter",
+  "Free or $13/mo": "無料、または月額$13",
+  "Usage-based": "従量課金制",
+  "Free Trial": "無料トライアル",
+  "20% OFF": "20% オフ",
+  "10% OFF": "10% オフ",
+  "25% OFF": "25% オフ",
+  "15% OFF": "15% オフ",
+  "Free CRM": "無料CRM",
+  "Writing Deal": "ライティングセール",
+  "AI Compute": "AI計算",
+  "Dev Assistant": "開発アシスタント",
+  "SEO Master": "SEOマスター",
+  "Video Expert": "ビデオエキスパート"
 }
