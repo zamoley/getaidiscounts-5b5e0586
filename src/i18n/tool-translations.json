@@ -1,148 +1,58 @@
 {
-  "AWS Free Tier": {
-    "en": "AWS Free Tier"
+  "Starts at $10/mo": {
+    "en": "Starts at $10/mo",
+    "uk": "Від $10/міс",
+    "ja": "月額10ドルから",
+    "es": "Desde $10/mes",
+    "pt": "Desde $10/mês",
+    "fr": "À partir de 10 $/mois",
+    "de": "Ab 10 $/Monat",
+    "zh": "起价$10/月",
+    "it": "Da $10/mese"
   },
-  "$10 Credit": {
-    "en": "$10 Credit",
-    "uk": "Кредит $10",
-    "ja": "10ドルのクレジット",
-    "es": "$10 de crédito",
-    "pt": "$10 de crédito",
-    "fr": "10 $ de crédit",
-    "de": "10 $ Guthaben",
-    "zh": "10 美元额度",
-    "it": "$10 di credito"
+  "20% OFF": {
+    "en": "SEO Helper",
+    "uk": "Помічник SEO",
+    "ja": "SEOヘルパー",
+    "es": "Asistente de SEO",
+    "pt": "Auxiliar de SEO",
+    "fr": "Assistant SEO",
+    "de": "SEO-Helfer",
+    "zh": "SEO 助手",
+    "it": "Aiutante SEO"
   },
-  "50%": {
-    "en": "50%"
-  },
-  "75% OFF": {
-    "en": "75% OFF",
-    "uk": "ЗНИЖКА 75%",
-    "ja": "75% オフ",
-    "es": "75% DTO",
-    "pt": "75% DTO",
-    "fr": "75% DE RABAIS",
-    "de": "75% RABATT",
-    "zh": "75% 折扣",
-    "it": "75% DI SCONTO"
-  },
-  "15%": {
-    "en": "15%"
-  },
-  "50% OFF for 3 Months": {
-    "en": "50% OFF for 3 Months"
-  },
-  "25%": {
-    "en": "25%"
-  },
-  "Free Usage Credits": {
-    "en": "Free Usage Credits"
-  },
-  "API Credit": {
-    "en": "API Credit"
-  },
-  "$50 in free credits": {
-    "en": "$50 in free credits"
-  },
-  "Up to 50% OFF": {
-    "en": "Up to 50% OFF"
-  },
-  "Cloud Credits Available": {
-    "en": "Cloud Credits Available"
-  },
-  "Cost-Sharing": {
-    "en": "Cost-Sharing"
-  },
-  "30%": {
-    "en": "30%"
+  "Starts at $5/mo": {
+    "en": "Starts at $5/mo",
+    "uk": "Від $5/міс",
+    "ja": "月額5ドルから",
+    "es": "Desde $5/mes",
+    "pt": "Desde $5/mês",
+    "fr": "À partir de 5 $/mois",
+    "de": "Ab 5 $/Monat",
+    "zh": "起价$5/月",
+    "it": "Da $5/mese"
   },
   "10% OFF": {
     "en": "10% OFF",
     "uk": "ЗНИЖКА 10%",
-    "ja": "10%オフ",
+    "ja": "10% オフ",
     "es": "10% DTO",
     "pt": "10% DTO",
-    "fr": "10% de rabais",
-    "de": "10% Rabatt",
-    "zh": "10%折扣",
-    "it": "10% di sconto"
+    "fr": "10% DE RABAIS",
+    "de": "10% RABATT",
+    "zh": "10% 折扣",
+    "it": "10% DI SCONTO"
   },
-  "10% on first purchase": {
-    "en": "10% on first purchase"
-  },
-  "84% OFF": {
-    "en": "84% OFF"
-  },
-  "65-73% OFF": {
-    "en": "65-73% OFF"
-  },
-  "Free Trial": {
-    "en": "Free Trial",
-    "uk": "Безкоштовна пробна версія",
-    "ja": "無料トライアル",
-    "es": "Prueba gratis",
-    "pt": "Teste Grátis",
-    "fr": "Essai gratuit",
-    "de": "Kostenlose Testversion",
-    "zh": "免费试用",
-    "it": "Prova gratuita"
-  },
-  "33% OFF": {
-    "en": "33% OFF",
-    "uk": "ЗНИЖКА 33%",
-    "ja": "33% オフ",
-    "es": "33% DTO",
-    "pt": "33% DTO",
-    "fr": "33% DE RABAIS",
-    "de": "33% RABATT",
-    "zh": "33% 折扣",
-    "it": "33% DI SCONTO"
-  },
-  "20% OFF": {
-    "en": "20% OFF",
-    "uk": "ЗНИЖКА 20%",
-    "ja": "20%オフ",
-    "es": "20% DTO",
-    "pt": "20% DTO",
-    "fr": "20% de rabais",
-    "de": "20% Rabatt",
-    "zh": "20%折扣",
-    "it": "20% di sconto"
-  },
-  "70% OFF": {
-    "en": "70% OFF",
-    "uk": "ЗНИЖКА 70%",
-    "ja": "70% オフ",
-    "es": "70% DTO",
-    "pt": "70% DTO",
-    "fr": "70% DE RABAIS",
-    "de": "70% RABATT",
-    "zh": "70% 折扣",
-    "it": "70% DI SCONTO"
-  },
-  "60% OFF": {
-    "en": "60% OFF",
-    "uk": "ЗНИЖКА 60%",
-    "ja": "60% オフ",
-    "es": "60% DTO",
-    "pt": "60% DTO",
-    "fr": "60% DE RABAIS",
-    "de": "60% RABATT",
-    "zh": "60% 折扣",
-    "it": "60% DI SCONTO"
-  },
-  "$10/mo": {
-    "en": "$10/mo"
-  },
-  "Student Plan Credits": {
-    "en": "Student Plan Credits"
-  },
-  "17% OFF": {
-    "en": "17% OFF"
-  },
-  "All-in-One Savings": {
-    "en": "All-in-One Savings"
+  "Starts at $24/mo": {
+    "en": "Starts at $24/mo",
+    "uk": "Від $24/міс",
+    "ja": "月額24ドルから",
+    "es": "Desde $24/mes",
+    "pt": "Desde $24/mês",
+    "fr": "À partir de 24 $/mois",
+    "de": "Ab 24 $/Monat",
+    "zh": "起价$24/月",
+    "it": "Da $24/mese"
   },
   "25% OFF": {
     "en": "25% OFF",
@@ -155,68 +65,1358 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "60-70% OFF": {
-    "en": "60-70% OFF"
+  "Free or $20/mo Pro": {
+    "en": "Free or $20/mo Core",
+    "uk": "Безкоштовно або $20/міс Core",
+    "ja": "無料または月額20ドルのCore",
+    "es": "Gratis o $20/mes Core",
+    "pt": "Grátis ou $20/mês Core",
+    "fr": "Gratuit ou 20 $/mois Core",
+    "de": "Kostenlos oder 20 $/Monat Core",
+    "zh": "免费或 $20/月 Core",
+    "it": "Gratis o $20/mese Core"
+  },
+  "$10 Credit": {
+    "en": "$10 Credit",
+    "uk": "Кредит $10",
+    "ja": "10ドルのクレジット",
+    "es": "$10 de crédito",
+    "pt": "$10 de crédito",
+    "fr": "10 $ de crédit",
+    "de": "10 $ Guthaben",
+    "zh": "10 美元额度",
+    "it": "$10 di credito"
+  },
+  "Starts at $20/mo": {
+    "en": "Starts at $20/mo",
+    "uk": "Від $20/міс",
+    "ja": "月額20ドルから",
+    "es": "Desde $20/mes",
+    "pt": "Desde $20/mês",
+    "fr": "À partir de 20 $/mois",
+    "de": "Ab 20 $/Monat",
+    "zh": "起价$20/月",
+    "it": "Da $20/mese"
+  },
+  "Paid plans vary": {
+    "en": "Free Tier Available",
+    "uk": "Доступний безкоштовний рівень",
+    "ja": "無料枠あり",
+    "es": "Nivel gratuito disponible",
+    "pt": "Nível gratuito disponível",
+    "fr": "Niveau gratuit disponible",
+    "de": "Kostenlose Stufe verfügbar",
+    "zh": "提供免费档位",
+    "it": "Livello gratuito disponibile"
+  },
+  "Usage-based pricing": {
+    "en": "Usage-based",
+    "uk": "Оплата за використання",
+    "ja": "従量課金制",
+    "es": "Pago por uso",
+    "pt": "Pagamento por uso",
+    "fr": "Paiement à l'usage",
+    "de": "Nutzungsbasiert",
+    "zh": "按使用付费",
+    "it": "Pagamento a consumo"
   },
   "Free Credits": {
-    "en": "Free Credits",
-    "uk": "Безкоштовні кредити",
-    "ja": "無料クレジット",
-    "es": "Créditos gratis",
-    "pt": "Créditos grátis",
-    "fr": "Crédits gratuits",
-    "de": "Kostenlose Credits",
-    "zh": "免费额度",
-    "it": "Crediti gratuiti"
+    "en": "Cloud API",
+    "uk": "Хмарний API",
+    "ja": "クラウドAPI",
+    "es": "API en la nube",
+    "pt": "API na Nuvem",
+    "fr": "API Cloud",
+    "de": "Cloud-API",
+    "zh": "云端 API",
+    "it": "API cloud"
   },
-  "40% OFF": {
-    "en": "40% OFF",
-    "uk": "ЗНИЖКА 40%",
-    "ja": "40% オフ",
-    "es": "40% DTO",
-    "pt": "40% DTO",
-    "fr": "40% DE RABAIS",
-    "de": "40% RABATT",
-    "zh": "40% 折扣",
-    "it": "40% DI SCONTO"
-  },
-  "Pro Free Trial": {
-    "en": "Pro Free Trial"
+  "Plans starting from $30/month": {
+    "en": "$22/mo (Annual)",
+    "uk": "$22/міс (Річна)",
+    "ja": "月額22ドル（年払い）",
+    "es": "$22/mes (Anual)",
+    "pt": "$22/mês (Anual)",
+    "fr": "22 $/mois (Annuel)",
+    "de": "22 $/Monat (Jährlich)",
+    "zh": "$22/月（年付）",
+    "it": "$22/mese (Annuale)"
   },
   "20%": {
-    "en": "20%"
+    "en": "Top Art AI",
+    "uk": "Найкращий ШІ-арт",
+    "ja": "トップアートAI",
+    "es": "Top Arte IA",
+    "pt": "Top Arte IA",
+    "fr": "Top IA Artistique",
+    "de": "Top-Kunst-KI",
+    "zh": "顶级艺术 AI",
+    "it": "Top Arte IA"
   },
-  "Free Tier Available": {
-    "en": "Free Tier Available"
-  },
-  "$200 in free credits": {
-    "en": "$200 in free credits"
-  },
-  "Daily Free Tokens": {
-    "en": "Daily Free Tokens"
-  },
-  "Free Version Available": {
-    "en": "Free Version Available"
+  "From $0.14/SEC": {
+    "en": "From $0.14/sec",
+    "uk": "Від $0.14/сек",
+    "ja": "秒間0.14ドルから",
+    "es": "Desde $0.14/seg",
+    "pt": "A partir de $0.14/seg",
+    "fr": "À partir de 0,14 $/sec",
+    "de": "Ab 0,14 $/Sek",
+    "zh": "0.14 美元/秒起",
+    "it": "A partire da $0.14/sec"
   },
   "Coming Soon": {
-    "en": "Coming Soon"
+    "en": "Free Download",
+    "uk": "Безкоштовне завантаження",
+    "ja": "無料ダウンロード",
+    "es": "Descarga gratuita",
+    "pt": "Download Grátis",
+    "fr": "Téléchargement gratuit",
+    "de": "Kostenloser Download",
+    "zh": "免费下载",
+    "it": "Download gratuito"
+  },
+  "Starting from $10/mo": {
+    "en": "Starting from $10/mo",
+    "uk": "Від $10/міс",
+    "ja": "月額10ドルから",
+    "es": "Desde $10/mes",
+    "pt": "A partir de $10/mês",
+    "fr": "À partir de 10 $/mois",
+    "de": "Ab 10 $/Monat",
+    "zh": "10 美元/月起",
+    "it": "A partire da $10/mese"
+  },
+  "$10/mo": {
+    "en": "$10/mo Deal",
+    "uk": "Угода за $10/міс",
+    "ja": "月額10ドルのセール",
+    "es": "Oferta de $10/mes",
+    "pt": "Oferta de $10/mês",
+    "fr": "Offre à 10 $/mois",
+    "de": "10 $/Monat Deal",
+    "zh": "10 美元/月 优惠",
+    "it": "Offerta a $10/mese"
+  },
+  "Paid Monthly/Yearly": {
+    "en": "$29/Month",
+    "uk": "$29/місяць",
+    "ja": "月額29ドル",
+    "es": "$29/mes",
+    "pt": "$29/mês",
+    "fr": "29 $/mois",
+    "de": "29 $/Monat",
+    "zh": "29 美元/月",
+    "it": "29 $/mese"
+  },
+  "40% OFF": {
+    "en": "Author Deal",
+    "uk": "Для авторів",
+    "ja": "著者向けセール",
+    "es": "Oferta para autores",
+    "pt": "Oferta para Autores",
+    "fr": "Offre auteur",
+    "de": "Autoren-Deal",
+    "zh": "作者优惠",
+    "it": "Offerta autore"
+  },
+  "Lifetime options available": {
+    "en": "$59 Lifetime",
+    "uk": "$59 довічно",
+    "ja": "59ドル（買い切り）",
+    "es": "$59 de por vida",
+    "pt": "$59 Vitalício",
+    "fr": "59 $ à vie",
+    "de": "59 $ einmalig",
+    "zh": "59 美元（终身）",
+    "it": "59 $ a vita"
+  },
+  "Up to 50% OFF": {
+    "en": "Lifetime Deal",
+    "uk": "Довічний доступ",
+    "ja": "買い切りセール",
+    "es": "Oferta de por vida",
+    "pt": "Oferta Vitalícia",
+    "fr": "Offre à vie",
+    "de": "Lifetime-Deal",
+    "zh": "终身优惠",
+    "it": "Offerta a vita"
+  },
+  "$49/month": {
+    "en": "$89 Lifetime",
+    "uk": "$89 довічно",
+    "ja": "89ドル（買い切り）",
+    "es": "$89 de por vida",
+    "pt": "$89 Vitalício",
+    "fr": "89 $ à vie",
+    "de": "89 $ einmalig",
+    "zh": "89 美元（终身）",
+    "it": "89 $ a vita"
+  },
+  "N/A": {
+    "en": "Free Monthly Credits",
+    "uk": "Безкоштовні щомісячні кредити",
+    "ja": "毎月の無料クレジット",
+    "es": "Créditos mensuales gratuitos",
+    "pt": "Créditos mensais gratuitos",
+    "fr": "Crédits mensuels gratuits",
+    "de": "Kostenlose monatliche Credits",
+    "zh": "每月免费额度",
+    "it": "Crediti mensili gratuiti"
+  },
+  "50% OFF for 3 Months": {
+    "en": "Free Access",
+    "uk": "Безкоштовно",
+    "ja": "無料アクセス",
+    "es": "Acceso gratuito",
+    "pt": "Acesso Gratuito",
+    "fr": "Accès gratuit",
+    "de": "Kostenloser Zugang",
+    "zh": "免费访问",
+    "it": "Accesso gratuito"
+  },
+  "Usage-based": {
+    "en": "$0.000004 per char",
+    "uk": "$0.000004 за симв",
+    "ja": "1文字あたり0.000004ドル",
+    "es": "$0.000004 por carac.",
+    "pt": "$0.000004 por caractere",
+    "fr": "0,000004 $ par carac.",
+    "de": "0,000004 $ pro Zeichen",
+    "zh": "0.000004 美元/字符",
+    "it": "0,000004 $ per caratt."
+  },
+  "$50 in free credits": {
+    "en": "$50 Free Credit",
+    "uk": "Кредит $50",
+    "ja": "50ドルの無料クレジット",
+    "es": "$50 de crédito gratis",
+    "pt": "$50 de crédito grátis",
+    "fr": "50 $ de crédit gratuit",
+    "de": "50 $ Gratis-Guthaben",
+    "zh": "50 美元免费额度",
+    "it": "$50 di credito gratuito"
   },
   "55% OFF": {
-    "en": "55% OFF",
-    "uk": "ЗНИЖКА 55%",
-    "ja": "55% オフ",
-    "es": "55% DTO",
-    "pt": "55% DTO",
-    "fr": "55% DE RABAIS",
-    "de": "55% RABATT",
-    "zh": "55% 折扣",
-    "it": "55% DI SCONTO"
+    "en": "Cloud Audio",
+    "uk": "Хмарне аудіо",
+    "ja": "クラウドオーディオ",
+    "es": "Audio en la nube",
+    "pt": "Áudio em Nuvem",
+    "fr": "Audio Cloud",
+    "de": "Cloud-Audio",
+    "zh": "云端音频",
+    "it": "Audio cloud"
+  },
+  "Free Tier Available": {
+    "en": "AI Infrastructure",
+    "uk": "Інфраструктура ШІ",
+    "ja": "AIインフラ",
+    "es": "Infraestructura de IA",
+    "pt": "Infraestrutura de IA",
+    "fr": "Infrastructure IA",
+    "de": "KI-Infrastruktur",
+    "zh": "人工智能基础设施",
+    "it": "Infrastruttura IA"
+  },
+  "$200 in free credits": {
+    "en": "$200 Credit",
+    "uk": "Кредит $200",
+    "ja": "200ドルのクレジット",
+    "es": "$200 de crédito",
+    "pt": "$200 de crédito",
+    "fr": "200 $ de crédit",
+    "de": "200 $ Guthaben",
+    "zh": "200 美元额度",
+    "it": "$200 di credito"
+  },
+  "$39.00 / Month": {
+    "en": "Starts from $39/mo",
+    "uk": "Від $39/міс",
+    "ja": "月額39ドルから",
+    "es": "Desde $39/mes",
+    "pt": "A partir de $39/mês",
+    "fr": "À partir de 39 $/mois",
+    "de": "Ab 39 $/Monat",
+    "zh": "39 美元/月起",
+    "it": "A partire da $39/mese"
+  },
+  "Starting From $4": {
+    "en": "Starts from $4",
+    "uk": "Від $4",
+    "ja": "4ドルから",
+    "es": "Desde $4",
+    "pt": "A partir de $4",
+    "fr": "À partir de 4 $",
+    "de": "Ab 4 $",
+    "zh": "4 美元起",
+    "it": "A partire da $4"
+  },
+  "Starts from $0.006 per second": {
+    "en": "Pay-as-you-go",
+    "uk": "Оплата по мірі використання",
+    "ja": "従量課金制",
+    "es": "Pago por uso",
+    "pt": "Pagamento por uso",
+    "fr": "Paiement à l'usage",
+    "de": "Nutzungsbasiert",
+    "zh": "按需付费",
+    "it": "Pagamento a consumo"
+  },
+  "API Credit": {
+    "en": "Developer Deal",
+    "uk": "Пропозиція для розробників",
+    "ja": "開発者向けセール",
+    "es": "Oferta para desarrolladores",
+    "pt": "Oferta para Desenvolvedores",
+    "fr": "Offre développeur",
+    "de": "Entwickler-Deal",
+    "zh": "开发者优惠",
+    "it": "Offerta per sviluppatori"
+  },
+  "Starts from $19 /month": {
+    "en": "Starts from $19/mo",
+    "uk": "Від $19/міс",
+    "ja": "月額19ドルから",
+    "es": "Desde $19/mes",
+    "pt": "A partir de $10/mês",
+    "fr": "À partir de 19 $/mois",
+    "de": "Ab 19 $/Monat",
+    "zh": "19 美元/月起",
+    "it": "A partire da $19/mese"
+  },
+  "33% OFF": {
+    "en": "33% OFF",
+    "uk": "ЗНИЖКА 33%",
+    "ja": "33% オフ",
+    "es": "33% DTO",
+    "pt": "33% DTO",
+    "fr": "33% DE RABAIS",
+    "de": "33% RABATT",
+    "zh": "33% 折扣",
+    "it": "33% DI SCONTO"
+  },
+  "From $11.58 /month": {
+    "en": "From $11.58 /mo",
+    "uk": "Від $11.58 /міс",
+    "ja": "月額11.58ドルから",
+    "es": "Desde $11.58 /mes",
+    "pt": "A partir de $11.58 /mês",
+    "fr": "À partir de 11,58 $/mois",
+    "de": "Ab 11,58 $/Monat",
+    "zh": "11.58 美元/月起",
+    "it": "Da $11.58 /mese"
+  },
+  "Free Version Available": {
+    "en": "Automation King",
+    "uk": "Король автоматизації",
+    "ja": "オートメーションキング",
+    "es": "Rey de la automatización",
+    "pt": "Rei da Automação",
+    "fr": "Roi de l'automatisation",
+    "de": "König der Automatisierung",
+    "zh": "自动化之王",
+    "it": "Re dell'automazione"
   },
   "Usage Credit": {
-    "en": "Usage Credit"
+    "en": "AI Compute",
+    "uk": "Обчислення ШІ",
+    "ja": "AI計算",
+    "es": "Computación de IA",
+    "pt": "Computação de IA",
+    "fr": "Calcul IA",
+    "de": "KI-Compute",
+    "zh": "AI 计算",
+    "it": "Calcolo IA"
+  },
+  "75% OFF": {
+    "en": "75% OFF",
+    "uk": "ЗНИЖКА 75%",
+    "ja": "75% オフ",
+    "es": "75% DTO",
+    "pt": "75% DTO",
+    "fr": "75% DE RABAIS",
+    "de": "75% RABATT",
+    "zh": "75% 折扣",
+    "it": "75% DI SCONTO"
+  },
+  "Student Plan Credits": {
+    "en": "Cloud IDE",
+    "uk": "Хмарна IDE",
+    "ja": "クラウドIDE",
+    "es": "IDE en la nube",
+    "pt": "IDE na Nuvem",
+    "fr": "IDE Cloud",
+    "de": "Cloud-IDE",
+    "zh": "云端 IDE",
+    "it": "IDE cloud"
+  },
+  "AWS Free Tier": {
+    "en": "AWS Deal",
+    "uk": "AWS пропозиція",
+    "ja": "AWSセール",
+    "es": "Oferta de AWS",
+    "pt": "Oferta da AWS",
+    "fr": "Offre AWS",
+    "de": "AWS-Deal",
+    "zh": "AWS 优惠",
+    "it": "Offerta AWS"
+  },
+  "Cloud Credits Available": {
+    "en": "70% OFF",
+    "uk": "ЗНИЖКА 70%",
+    "ja": "70% オフ",
+    "es": "70% DTO",
+    "pt": "70% DTO",
+    "fr": "70% DE RABAIS",
+    "de": "70% RABATT",
+    "zh": "70% 折扣",
+    "it": "70% DI SCONTO"
+  },
+  "Automation plans vary": {
+    "en": "Free or $19.99/mo",
+    "uk": "Безкоштовно або $19.99/міс",
+    "ja": "無料または月額19.99ドル",
+    "es": "Gratis o $19.99/mes",
+    "pt": "Grátis ou $19.99/mês",
+    "fr": "Gratuit ou 19,99 $/mois",
+    "de": "Kostenlos oder 19,99 $/Monat",
+    "zh": "免费或 19.99 美元/月",
+    "it": "Gratis o $19.99/mese"
+  },
+  "Free plan available, Pro plan at $35/month": {
+    "en": "Free or $15/mo Standard",
+    "uk": "Безкоштовно або $15/міс Standard",
+    "ja": "無料または月額15ドルのStandard",
+    "es": "Gratis o $15/mes Standard",
+    "pt": "Grátis ou $15/mês Standard",
+    "fr": "Gratuit ou 15 $/mois Standard",
+    "de": "Kostenlos oder 15 $/Monat Standard",
+    "zh": "免费或 $15/月 标准版",
+    "it": "Gratis o $15/mese Standard"
+  },
+  "Pricing starts at $29/month with a free trial available.": {
+    "en": "$39/Month",
+    "uk": "$39/місяць",
+    "ja": "月額39ドル",
+    "es": "$39/mes",
+    "pt": "$39/mês",
+    "fr": "39 $/mois",
+    "de": "39 $/Monat",
+    "zh": "39 美元/月",
+    "it": "39 $/mese"
   },
   "10%": {
-    "en": "10%"
+    "en": "Design Tool",
+    "uk": "Інструмент дизайну",
+    "ja": "デザインツール",
+    "es": "Herramienta de diseño",
+    "pt": "Ferramenta de Design",
+    "fr": "Outil de conception",
+    "de": "Design-Tool",
+    "zh": "设计工具",
+    "it": "Strumento di design"
+  },
+  "SEO Plans Vary": {
+    "en": "Starts at $29/mo",
+    "uk": "Від $29/міс",
+    "ja": "月額29ドルから",
+    "es": "Desde $29/mes",
+    "pt": "A partir de $29/mês",
+    "fr": "À partir de 29 $/mois",
+    "de": "Ab 29 $/Monat",
+    "zh": "29 美元/月起",
+    "it": "A partire da $29/mese"
+  },
+  "70% OFF": {
+    "en": "70% OFF",
+    "uk": "ЗНИЖКА 70%",
+    "ja": "70% オフ",
+    "es": "70% DTO",
+    "pt": "70% DTO",
+    "fr": "70% DE RABAIS",
+    "de": "70% RABATT",
+    "zh": "70% 折扣",
+    "it": "70% DI SCONTO"
+  },
+  "Starts at $59/month": {
+    "en": "Starts from $89/mo",
+    "uk": "Від $89/міс",
+    "ja": "月額89ドルから",
+    "es": "Desde $89/mes",
+    "pt": "A partir de $89/mês",
+    "fr": "À partir de 89 $/mois",
+    "de": "Ab 89 $/Monat",
+    "zh": "89 美元/月起",
+    "it": "A partire da $89/mese"
+  },
+  "15%": {
+    "en": "Developer Pro",
+    "uk": "Розробник Pro",
+    "ja": "デベロッパーPro",
+    "es": "Desarrollador Pro",
+    "pt": "Desenvolvedor Pro",
+    "fr": "Développeur Pro",
+    "de": "Entwickler Pro",
+    "zh": "开发者专业版",
+    "it": "Sviluppatore Pro"
+  },
+  "$14.99/mo": {
+    "en": "$14.99/mo",
+    "uk": "$14.99/міс",
+    "ja": "月額14.99ドル",
+    "es": "$14.99/mes",
+    "pt": "$14.99/mês",
+    "fr": "14,99 $/mois",
+    "de": "14,99 $/Monat",
+    "zh": "14.99 美元/月",
+    "it": "14,99 $/mese"
+  },
+  "60% OFF": {
+    "en": "60% OFF",
+    "uk": "ЗНИЖКА 60%",
+    "ja": "60% オフ",
+    "es": "60% DTO",
+    "pt": "60% DTO",
+    "fr": "60% DE RABAIS",
+    "de": "60% RABATT",
+    "zh": "60% 折扣",
+    "it": "60% DI SCONTO"
+  },
+  "Starting at $500/month": {
+    "en": "$149/mo",
+    "uk": "$149/міс",
+    "ja": "月額149ドル",
+    "es": "$149/mes",
+    "pt": "$149/mês",
+    "fr": "149 $/mois",
+    "de": "149 $/Monat",
+    "zh": "149 美元/月",
+    "it": "149 $/mese"
+  },
+  "From $119.99/yr": {
+    "en": "Starts at $119/year",
+    "uk": "Від $119/рік",
+    "ja": "年額119ドルから",
+    "es": "Desde $119/año",
+    "pt": "A partir de $119/ano",
+    "fr": "À partir de 119 $/an",
+    "de": "Ab 119 $/Jahr",
+    "zh": "119 美元/年起",
+    "it": "A partire da $119/anno"
+  },
+  "Pro Free Trial": {
+    "en": "Design Pro",
+    "uk": "Design Pro",
+    "ja": "デザインプロ",
+    "es": "Diseño Pro",
+    "pt": "Design Pro",
+    "fr": "Design Pro",
+    "de": "Design Pro",
+    "zh": "设计专业版",
+    "it": "Design Pro"
+  },
+  "$4.99/mo": {
+    "en": "$4.99/month",
+    "uk": "$4.99/місяць",
+    "ja": "月額4.99ドル",
+    "es": "$4.99/mes",
+    "pt": "$4.99/mês",
+    "fr": "4,99 $/mois",
+    "de": "4,99 $/Monat",
+    "zh": "4.99 美元/月",
+    "it": "4,99 $/mese"
+  },
+  "Free Usage Credits": {
+    "en": "Adobe Pro",
+    "uk": "Adobe Pro",
+    "ja": "Adobeプロ",
+    "es": "Adobe Pro",
+    "pt": "Adobe Pro",
+    "fr": "Adobe Pro",
+    "de": "Adobe Pro",
+    "zh": "Adobe 专业版",
+    "it": "Adobe Pro"
+  },
+  "$10/mo Pro": {
+    "en": "$10/mo",
+    "uk": "$10/міс",
+    "ja": "月額10ドル",
+    "es": "$10/mes",
+    "pt": "$10/mês",
+    "fr": "10 $/mois",
+    "de": "10 $/Monat",
+    "zh": "10 美元/月",
+    "it": "10 $/mese"
+  },
+  "Daily Free Tokens": {
+    "en": "Art Deal",
+    "uk": "Арт-угода",
+    "ja": "アートセール",
+    "es": "Oferta de arte",
+    "pt": "Oferta de Arte",
+    "fr": "Offre artistique",
+    "de": "Kunst-Deal",
+    "zh": "艺术优惠",
+    "it": "Offerta arte"
+  },
+  "$20/month": {
+    "en": "Free or $20/mo Pro",
+    "uk": "Безкоштовно або $20/міс Pro",
+    "ja": "無料または月額20ドルのPro",
+    "es": "Gratis o $20/mes Pro",
+    "pt": "Grátis ou $20/mês Pro",
+    "fr": "Gratuit ou 20 $/mois Pro",
+    "de": "Kostenlos oder 20 $/Monat Pro",
+    "zh": "免费或 $20/月 Pro",
+    "it": "Gratis o $20/mese Pro"
+  },
+  "$199/month": {
+    "en": "Starts at $129/mo",
+    "uk": "Від $129/міс",
+    "ja": "月額129ドルから",
+    "es": "Desde $129/mes",
+    "pt": "A partir de $129/mês",
+    "fr": "À partir de 129 $/mois",
+    "de": "Ab 129 $/Monat",
+    "zh": "129 美元/月起",
+    "it": "A partire da $129/mese"
+  },
+  "17% OFF": {
+    "en": "SEO Master",
+    "uk": "SEO Майстер",
+    "ja": "SEOマスター",
+    "es": "Maestro de SEO",
+    "pt": "Mestre em SEO",
+    "fr": "Maître SEO",
+    "de": "SEO-Master",
+    "zh": "SEO 大师",
+    "it": "Maestro SEO"
+  },
+  "$99/month": {
+    "en": "Starting at $199/mo",
+    "uk": "Від $199/міс",
+    "ja": "月額199ドルから",
+    "es": "Desde $199/mes",
+    "pt": "A partir de $199/mês",
+    "fr": "À partir de 199 $/mois",
+    "de": "Ab 199 $/Monat",
+    "zh": "199 美元/月起",
+    "it": "A partire da $199/mese"
+  },
+  "Starting from $15/month for basic access": {
+    "en": "$249/year",
+    "uk": "$249/рік",
+    "ja": "年額249ドル",
+    "es": "$249/año",
+    "pt": "$249/ano",
+    "fr": "249 $/an",
+    "de": "249 $/Jahr",
+    "zh": "249 美元/年",
+    "it": "249 $/anno"
+  },
+  "30%": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
+  },
+  "Starts at $7/mo or $30 for 5-AI Bundle": {
+    "en": "Custom Pricing",
+    "uk": "Індивідуальна ціна",
+    "ja": "個別見積もり",
+    "es": "Precios personalizados",
+    "pt": "Preços Personalizados",
+    "fr": "Tarification sur mesure",
+    "de": "Individuelle Preise",
+    "zh": "定制价格",
+    "it": "Prezzi personalizzati"
+  },
+  "65-73% OFF": {
+    "en": "New Release",
+    "uk": "Новий реліз",
+    "ja": "新着リリース",
+    "es": "Nuevo lanzamiento",
+    "pt": "Novo Lançamento",
+    "fr": "Nouveauté",
+    "de": "Neuerscheinung",
+    "zh": "新发布",
+    "it": "Nuovo rilascio"
+  },
+  "Varies by group size": {
+    "en": "Varies by service",
+    "uk": "Залежить від сервісу",
+    "ja": "サービスにより異なります",
+    "es": "Varía según el servicio",
+    "pt": "Varia por serviço",
+    "fr": "Varie selon le service",
+    "de": "Variiert je nach Dienst",
+    "zh": "因服务而异",
+    "it": "Varia a seconda del servizio"
+  },
+  "Cost-Sharing": {
+    "en": "Save 80%",
+    "uk": "Заощадьте 80%",
+    "ja": "80% 節約",
+    "es": "Ahorra 80%",
+    "pt": "Economize 80%",
+    "fr": "Économisez 80 %",
+    "de": "80 % sparen",
+    "zh": "节省 80%",
+    "it": "Risparmia l'80%"
+  },
+  "$119/mo (Group/Team Plan)": {
+    "en": "Starts at $15/mo",
+    "uk": "Від $15/міс",
+    "ja": "月額15ドルから",
+    "es": "Desde $15/mes",
+    "pt": "A partir de $15/mês",
+    "fr": "À partir de 15 $/mois",
+    "de": "Ab 15 $/Monat",
+    "zh": "15 美元/月起",
+    "it": "A partire da $15/mese"
+  },
+  "All-in-One Savings": {
+    "en": "All-in-One",
+    "uk": "Усе-в-одному",
+    "ja": "オールインワン",
+    "es": "Todo en uno",
+    "pt": "Tudo em um",
+    "fr": "Tout-en-un",
+    "de": "All-in-One",
+    "zh": "全能助手",
+    "it": "Tutto in uno"
+  },
+  "Approx. $5.99/mo for ChatGPT Plus": {
+    "en": "Starts at $5.99/mo",
+    "uk": "Від $5.99/міс",
+    "ja": "月額5.99ドルから",
+    "es": "Desde $5.99/mes",
+    "pt": "A partir de $5.99/mês",
+    "fr": "À partir de 5,99 $/mois",
+    "de": "Ab 5,99 $/Monat",
+    "zh": "5.99 美元/月起",
+    "it": "A partire da $5.99/mese"
+  },
+  "60-70% OFF": {
+    "en": "Best Deal",
+    "uk": "Краща пропозиція",
+    "ja": "ベストセール",
+    "es": "Mejor oferta",
+    "pt": "Melhor Oferta",
+    "fr": "Meilleure offre",
+    "de": "Bester Deal",
+    "zh": "最佳优惠",
+    "it": "Migliore offerta"
+  },
+  "Custom pricing based on services": {
+    "en": "Custom Pricing",
+    "uk": "Індивідуальна ціна",
+    "ja": "個別見積もり",
+    "es": "Precios personalizados",
+    "pt": "Preços Personalizados",
+    "fr": "Tarification sur mesure",
+    "de": "Individuelle Preise",
+    "zh": "定制价格",
+    "it": "Prezzi personalizzati"
+  },
+  "25%": {
+    "en": "AI Powerhouse",
+    "uk": "Потужність ШІ",
+    "ja": "AIパワーハウス",
+    "es": "Potencia de IA",
+    "pt": "Potência de IA",
+    "fr": "Puissance IA",
+    "de": "KI-Kraftpaket",
+    "zh": "AI 算力旗舰",
+    "it": "Potenza IA"
+  },
+  "$29/month for basic plan": {
+    "en": "Starts at $21/mo",
+    "uk": "Від $21/міс",
+    "ja": "月額21ドルから",
+    "es": "Desde $21/mes",
+    "pt": "A partir de $21/mês",
+    "fr": "À partir de 21 $/mois",
+    "de": "Ab 21 $/Monat",
+    "zh": "21 美元/月起",
+    "it": "A partire da $21/mese"
+  },
+  "Starting at $29/month": {
+    "en": "$15/month",
+    "uk": "$15/місяць",
+    "ja": "月額15ドル",
+    "es": "$15/mes",
+    "pt": "$15/mês",
+    "fr": "15 $/mois",
+    "de": "15 $/Monat",
+    "zh": "15 美元/月",
+    "it": "15 $/mese"
+  },
+  "Starts at $29/month": {
+    "en": "Starts at $24/mo",
+    "uk": "Від $24/міс",
+    "ja": "月額24ドルから",
+    "es": "Desde $24/mes",
+    "pt": "A partir de $24/mês",
+    "fr": "À partir de 24 $/mois",
+    "de": "Ab 24 $/Monat",
+    "zh": "24 美元/月起",
+    "it": "A partire da $24/mese"
+  },
+  "Membership starting at $19.99/month": {
+    "en": "Free to Join",
+    "uk": "Приєднатися безкоштовно",
+    "ja": "登録無料",
+    "es": "Unirse gratis",
+    "pt": "Aderir Grátis",
+    "fr": "Inscription gratuite",
+    "de": "Kostenlose Teilnahme",
+    "zh": "免费加入",
+    "it": "Iscrizione gratuita"
+  },
+  "Annual license for $99.99": {
+    "en": "Free Access",
+    "uk": "Безкоштовно",
+    "ja": "無料アクセス",
+    "es": "Acceso gratuito",
+    "pt": "Acesso Gratuito",
+    "fr": "Accès gratuit",
+    "de": "Kostenloser Zugang",
+    "zh": "免费访问",
+    "it": "Accesso gratuito"
+  },
+  "Free for basic use; Premium at $49.99/month": {
+    "en": "Free Access",
+    "uk": "Безкоштовно",
+    "ja": "無料アクセス",
+    "es": "Acceso gratuito",
+    "pt": "Acesso Gratuito",
+    "fr": "Accès gratuit",
+    "de": "Kostenloser Zugang",
+    "zh": "免费访问",
+    "it": "Accesso gratuito"
+  },
+  "Starting at $20/month": {
+    "en": "Free Tier Available",
+    "uk": "Доступний безкоштовний рівень",
+    "ja": "無料枠あり",
+    "es": "Nivel gratuito disponible",
+    "pt": "Nível gratuito disponível",
+    "fr": "Niveau gratuit disponible",
+    "de": "Kostenlose Stufe verfügbar",
+    "zh": "提供免费档位",
+    "it": "Livello gratuito disponibile"
+  },
+  "One-time fee of $199": {
+    "en": "$20/month",
+    "uk": "$20/місяць",
+    "ja": "月額20ドル",
+    "es": "$20/mes",
+    "pt": "$20/mês",
+    "fr": "20 $/mois",
+    "de": "20 $/Monat",
+    "zh": "20 美元/月",
+    "it": "20 $/mese"
+  },
+  "50%": {
+    "en": "Dev Assistant",
+    "uk": "Помічник розробника",
+    "ja": "開発アシスタント",
+    "es": "Asistente de desarrollo",
+    "pt": "Assistente de Dev",
+    "fr": "Assistant développeur",
+    "de": "Entwickler-Assistent",
+    "zh": "开发助手",
+    "it": "Assistente sviluppatore"
+  },
+  "Starting at $199/month": {
+    "en": "Contact for Pricing",
+    "uk": "Зв'яжіться для ціни",
+    "ja": "価格についてはお問い合わせください",
+    "es": "Contactar para precios",
+    "pt": "Contate para Preços",
+    "fr": "Contacter pour les tarifs",
+    "de": "Preise auf Anfrage",
+    "zh": "联系以获取报价",
+    "it": "Contattare per i prezzi"
+  },
+  "Subscription-based, from $299/month": {
+    "en": "Contact for Pricing",
+    "uk": "Зв'яжіться для ціни",
+    "ja": "価格についてはお問い合わせください",
+    "es": "Contactar para precios",
+    "pt": "Contate para Preços",
+    "fr": "Contacter pour les tarifs",
+    "de": "Preise auf Anfrage",
+    "zh": "联系以获取报价",
+    "it": "Contattare per i prezzi"
+  },
+  "Plans start from $15 per month after discount": {
+    "en": "Free or €11/mo Pro",
+    "uk": "Безкоштовно або €11/міс Pro",
+    "ja": "無料または月額11ユーロのPro",
+    "es": "Gratis o €11/mes Pro",
+    "pt": "Grátis ou €11/mês Pro",
+    "fr": "Gratuit ou 11 €/mois Pro",
+    "de": "Kostenlos oder 11 €/Monat Pro",
+    "zh": "免费或 €11/月 Pro",
+    "it": "Gratis o 11 €/mese Pro"
+  },
+  "Starting at $10/month after discount": {
+    "en": "License per Track",
+    "uk": "Ліцензія за трек",
+    "ja": "トラックごとのライセンス",
+    "es": "Licencia por pista",
+    "pt": "Licença por Faixa",
+    "fr": "Licence par piste",
+    "de": "Lizenz pro Track",
+    "zh": "按曲目授权",
+    "it": "Licenza per traccia"
+  },
+  "Starts at $19.99/month": {
+    "en": "$16.99/month",
+    "uk": "$16.99/місяць",
+    "ja": "月額16.99ドル",
+    "es": "$16.99/mes",
+    "pt": "$16.99/mês",
+    "fr": "16,99 $/mois",
+    "de": "16,99 $/Monat",
+    "zh": "16.99 美元/月",
+    "it": "16,99 $/mese"
+  },
+  "Free tier available, Pro at $49/month": {
+    "en": "Starts at $15/mo",
+    "uk": "Від $15/міс",
+    "ja": "月額15ドルから",
+    "es": "Desde $15/mes",
+    "pt": "A partir de $15/mês",
+    "fr": "À partir de 15 $/mois",
+    "de": "Ab 15 $/Monat",
+    "zh": "15 美元/月起",
+    "it": "A partire da $15/mese"
+  },
+  "$19/month, $99/year": {
+    "en": "Free Trial Available",
+    "uk": "Доступна безкоштовна версія",
+    "ja": "無料トライアルあり",
+    "es": "Prueba gratuita disponible",
+    "pt": "Teste Gratuito Disponível",
+    "fr": "Essai gratuit disponible",
+    "de": "Kostenlose Testversion verfügbar",
+    "zh": "提供免费试用",
+    "it": "Prova gratuita disponibile"
+  },
+  "Varies by solution and usage": {
+    "en": "Enterprise Only",
+    "uk": "Тільки для підприємств",
+    "ja": "エンタープライズ限定",
+    "es": "Solo para empresas",
+    "pt": "Apenas Corporativo",
+    "fr": "Entreprise uniquement",
+    "de": "Nur für Unternehmen",
+    "zh": "仅限企业版",
+    "it": "Solo per aziende"
+  },
+  "Free tier available, paid plans for premium usage": {
+    "en": "Usage-based Pricing",
+    "uk": "Оплата за використання",
+    "ja": "従量課金制",
+    "es": "Precios por uso",
+    "pt": "Preços por uso",
+    "fr": "Tarification à l'usage",
+    "de": "Nutzungsbasierte Preise",
+    "zh": "按需计费",
+    "it": "Prezzi a consumo"
+  },
+  "Contact for pricing": {
+    "en": "Enterprise Only",
+    "uk": "Тільки для підприємств",
+    "ja": "エンタープライズ限定",
+    "es": "Solo para empresas",
+    "pt": "Apenas Corporativo",
+    "fr": "Entreprise uniquement",
+    "de": "Nur für Unternehmen",
+    "zh": "仅限企业版",
+    "it": "Solo per aziende"
+  },
+  "$39/month": {
+    "en": "Starts at $59/mo",
+    "uk": "Від $59/міс",
+    "ja": "月額59ドルから",
+    "es": "Desde $59/mes",
+    "pt": "A partir de $59/mês",
+    "fr": "À partir de 59 $/mois",
+    "de": "Ab 59 $/Monat",
+    "zh": "59 美元/月起",
+    "it": "A partire da $59/mese"
+  },
+  "$49/month after discount": {
+    "en": "Enterprise Only",
+    "uk": "Тільки для підприємств",
+    "ja": "エンタープライズ限定",
+    "es": "Solo para empresas",
+    "pt": "Apenas Corporativo",
+    "fr": "Entreprise uniquement",
+    "de": "Nur für Unternehmen",
+    "zh": "仅限企业版",
+    "it": "Solo per aziende"
+  },
+  "Starts at $19.99 per month with various plans available.": {
+    "en": "Free to Try",
+    "uk": "Спробувати безкоштовно",
+    "ja": "無料でお試し",
+    "es": "Prueba gratuita",
+    "pt": "Grátis para testar",
+    "fr": "Essai gratuit",
+    "de": "Kostenlos testen",
+    "zh": "免费试用",
+    "it": "Prova gratuita"
+  },
+  "Pay-per-image model at $0.02 per image": {
+    "en": "Credit-based",
+    "uk": "На основі кредитів",
+    "ja": "クレジット制",
+    "es": "Basado en créditos",
+    "pt": "Baseado em créditos",
+    "fr": "Basé sur des crédits",
+    "de": "Guthaben-basiert",
+    "zh": "按额度计费",
+    "it": "Basato su crediti"
+  },
+  "10% on first purchase": {
+    "en": "OpenAI Deal",
+    "uk": "OpenAI пропозиція",
+    "ja": "OpenAIセール",
+    "es": "Oferta de OpenAI",
+    "pt": "Oferta da OpenAI",
+    "fr": "Offre OpenAI",
+    "de": "OpenAI-Deal",
+    "zh": "OpenAI 优惠",
+    "it": "Offerta OpenAI"
+  },
+  "Annual plan at $99 with a 15% discount available at checkout.": {
+    "en": "$60/month",
+    "uk": "$60/місяць",
+    "ja": "月額60ドル",
+    "es": "$60/mes",
+    "pt": "$60/mês",
+    "fr": "60 $/mois",
+    "de": "60 $/Monat",
+    "zh": "60 美元/月",
+    "it": "60 $/mese"
+  },
+  "Free access to community features for the first month.": {
+    "en": "Free access to community features for the first month.",
+    "uk": "Безкоштовний доступ до функцій спільноти протягом першого місяця.",
+    "ja": "最初の1か月間はコミュニティ機能への無料アクセスが可能です。",
+    "es": "Acceso gratuito a las funciones de la comunidad durante el primer mes.",
+    "pt": "Acesso gratuito aos recursos da comunidade no primeiro mês.",
+    "fr": "Accès gratuit aux fonctionnalités de la communauté pendant le premier mois.",
+    "de": "Kostenloser Zugriff auf Community-Funktionen im ersten Monat.",
+    "zh": "首月免费访问社区功能。",
+    "it": "Accesso gratuito alle funzionalità della comunità per il primo mese."
+  },
+  "Free Trial": {
+    "en": "Free Trial",
+    "uk": "Безкоштовна пробна версія",
+    "ja": "無料トライアル",
+    "es": "Prueba gratis",
+    "pt": "Teste Grátis",
+    "fr": "Essai gratuit",
+    "de": "Kostenlose Testversion",
+    "zh": "免费试用",
+    "it": "Prova gratuita"
+  },
+  "Free basic access with premium plans starting at $10/month": {
+    "en": "Free or $20/mo Pro",
+    "uk": "Безкоштовно або $20/міс Pro",
+    "ja": "無料または月額20ドルのPro",
+    "es": "Gratis o $20/mes Pro",
+    "pt": "Grátis ou $20/mês Pro",
+    "fr": "Gratuit ou 20 $/mois Pro",
+    "de": "Kostenlos oder 20 $/Monat Pro",
+    "zh": "免费或 $20/月 Pro",
+    "it": "Gratis o $20/mese Pro"
+  },
+  "Offers free tier with premium plans starting at $12/month.": {
+    "en": "Free or $12/mo Premium",
+    "uk": "Безкоштовно або $12/міс Premium",
+    "ja": "無料または月額12ドルのPremium",
+    "es": "Gratis o $12/mes Premium",
+    "pt": "Grátis ou $12/mês Premium",
+    "fr": "Gratuit ou 12 $/mois Premium",
+    "de": "Kostenlos oder 12 $/Monat Premium",
+    "zh": "免费或 $12/月 高级版",
+    "it": "Gratis o $12/mese Premium"
+  },
+  "Subscription plans starting from $119.95/month": {
+    "en": "Starts at $129/mo",
+    "uk": "Від $129/міс",
+    "ja": "月額129ドルから",
+    "es": "Desde $129/mes",
+    "pt": "A partir de $129/mês",
+    "fr": "À partir de 129 $/mois",
+    "de": "Ab 129 $/Monat",
+    "zh": "129 美元/月起",
+    "it": "A partire da $129/mese"
+  },
+  "Monthly subscriptions starting at $99": {
+    "en": "Starts at $99/mo",
+    "uk": "Від $99/міс",
+    "ja": "月額99ドルから",
+    "es": "Desde $99/mes",
+    "pt": "A partir de $99/mês",
+    "fr": "À partir de 99 $/mois",
+    "de": "Ab 99 $/Monat",
+    "zh": "99 美元/月起",
+    "it": "A partire da $99/mese"
+  },
+  "Plans start at $99/month": {
+    "en": "Starts at $99/mo",
+    "uk": "Від $99/міс",
+    "ja": "月額99ドルから",
+    "es": "Desde $99/mes",
+    "pt": "A partir de $99/mês",
+    "fr": "À partir de 99 $/mois",
+    "de": "Ab 99 $/Monat",
+    "zh": "99 美元/月起",
+    "it": "A partire da $99/mese"
+  },
+  "Basic plan starting at $19/month with additional features available through higher tiers.": {
+    "en": "Free Tier / Usage-based",
+    "uk": "Безкоштовно / За використання",
+    "ja": "無料枠 / 従量課金制",
+    "es": "Nivel gratuito / por uso",
+    "pt": "Nível Grátis / Por uso",
+    "fr": "Niveau gratuit / À l'usage",
+    "de": "Kostenlose Stufe / Nutzungsbasiert",
+    "zh": "免费档位 / 按量计费",
+    "it": "Livello gratuito / a consumo"
+  },
+  "Prices starting at $29/month for advanced features.": {
+    "en": "Free Tier Available",
+    "uk": "Доступний безкоштовний рівень",
+    "ja": "無料枠あり",
+    "es": "Nivel gratuito disponible",
+    "pt": "Nível gratuito disponível",
+    "fr": "Niveau gratuit disponible",
+    "de": "Kostenlose Stufe verfügbar",
+    "zh": "提供免费档位",
+    "it": "Livello gratuito disponibile"
+  },
+  "Monthly plans starting at $19": {
+    "en": "Starts at $19/mo",
+    "uk": "Від $19/міс",
+    "ja": "月額19ドルから",
+    "es": "Desde $19/mes",
+    "pt": "A partir de $19/mês",
+    "fr": "À partir de 19 $/mois",
+    "de": "Ab 19 $/Monat",
+    "zh": "19 美元/月起",
+    "it": "A partire da $19/mese"
+  },
+  "One-time payment of $79 for a perpetual license.": {
+    "en": "One-time Purchase",
+    "uk": "Одноразова покупка",
+    "ja": "一回限りの購入",
+    "es": "Compra única",
+    "pt": "Compra única",
+    "fr": "Achat unique",
+    "de": "Einmaliger Kauf",
+    "zh": "一次性购买",
+    "it": "Acquisto una tantum"
+  },
+  "$12 per month with access to professional-grade tools.": {
+    "en": "Free or $12/mo",
+    "uk": "Безкоштовно або $12/міс",
+    "ja": "無料または月額12ドル",
+    "es": "Gratis o $12/mes",
+    "pt": "Grátis ou $12/mês",
+    "fr": "Gratuit ou 12 $/mois",
+    "de": "Kostenlos oder 12 $/Monat",
+    "zh": "免费或 12 美元/月",
+    "it": "Gratis o $12/mese"
+  },
+  "Free and open-source": {
+    "en": "Free / Open Source",
+    "uk": "Безкоштовно / Відкритий код",
+    "ja": "無料 / オープンソース",
+    "es": "Gratis / Código abierto",
+    "pt": "Grátis / Código Aberto",
+    "fr": "Gratuit / Open Source",
+    "de": "Kostenlos / Open-Source",
+    "zh": "免费 / 开源",
+    "it": "Gratis / Open Source"
+  },
+  "Varied pricing based on services": {
+    "en": "Free Tier Available",
+    "uk": "Доступний безкоштовний рівень",
+    "ja": "無料枠あり",
+    "es": "Nivel gratuito disponible",
+    "pt": "Nível gratuito disponível",
+    "fr": "Niveau gratuit disponible",
+    "de": "Kostenlose Stufe verfügbar",
+    "zh": "提供免费档位",
+    "it": "Livello gratuito disponibile"
+  },
+  "Pay-as-you-go and subscription-based options": {
+    "en": "Free account available",
+    "uk": "Доступний безкоштовний аккаунт",
+    "ja": "無料アカウントあり",
+    "es": "Cuenta gratuita disponible",
+    "pt": "Conta gratuita disponível",
+    "fr": "Compte gratuit disponible",
+    "de": "Kostenloses Konto verfügbar",
+    "zh": "提供免费账户",
+    "it": "Account gratuito disponibile"
+  },
+  "Based on usage and licensing": {
+    "en": "Hardware/Cloud Costs",
+    "uk": "Витрати на залізо/хмару",
+    "ja": "ハードウェア/クラウド費用",
+    "es": "Costos de hardware/nube",
+    "pt": "Custos de Hardware/Nuvem",
+    "fr": "Coûts matériel/cloud",
+    "de": "Hardware-/Cloud-Kosten",
+    "zh": "硬件/云成本",
+    "it": "Costi hardware/cloud"
+  },
+  "Starting at $895/month": {
+    "en": "Contact for Pricing",
+    "uk": "Ціна за запитом",
+    "ja": "価格についてはお問い合わせください",
+    "es": "Contactar para precio",
+    "pt": "Entre em contato para saber o preço",
+    "fr": "Contacter pour les tarifs",
+    "de": "Preis auf Anfrage",
+    "zh": "联系以获取报价",
+    "it": "Contattare per il prezzo"
+  },
+  "Free and paid plans available": {
+    "en": "Free or $15/mo Starter",
+    "uk": "Безкоштовно або $15/міс Starter",
+    "ja": "無料または月額15ドルのStarter",
+    "es": "Gratis o $15/mes Starter",
+    "pt": "Grátis ou $15/mês Starter",
+    "fr": "Gratuit ou 15 $/mois Starter",
+    "de": "Kostenlos oder 15 $/Monat Starter",
+    "zh": "免费或 $15/月 入门版",
+    "it": "Gratis o $15/mese Starter"
+  },
+  "Free and paid plans starting at $9.99/month": {
+    "en": "Free or $13/mo",
+    "uk": "Безкоштовно або $13/міс",
+    "ja": "無料または月額13ドル",
+    "es": "Gratis o $13/mes",
+    "pt": "Grátis ou $13/mês",
+    "fr": "Gratuit ou 13 $/mois",
+    "de": "Kostenlos oder 13 $/Monat",
+    "zh": "免费或 $13/月",
+    "it": "Gratis o $13/mese"
+  },
+  "Subscription plans start from $10/month": {
+    "en": "Free Tier / Usage-based",
+    "uk": "Безкоштовно / За використання",
+    "ja": "無料枠 / 従量課金制",
+    "es": "Nivel gratuito / por uso",
+    "pt": "Nível Grátis / Por uso",
+    "fr": "Niveau gratuit / À l'usage",
+    "de": "Kostenlose Stufe / Nutzungsbasiert",
+    "zh": "免费档位 / 按量计费",
+    "it": "Livello gratuito / a consumo"
+  },
+  "Starts at $500/month": {
+    "en": "Enterprise Only",
+    "uk": "Тільки для підприємств",
+    "ja": "エンタープライズ限定",
+    "es": "Solo para empresas",
+    "pt": "Apenas Corporativo",
+    "fr": "Entreprise uniquement",
+    "de": "Nur für Unternehmen",
+    "zh": "仅限企业版",
+    "it": "Solo per aziende"
+  },
+  "Subscription-based pricing available": {
+    "en": "Starts at $69/mo",
+    "uk": "Від $69/міс",
+    "ja": "月額69ドルから",
+    "es": "Desde $69/mes",
+    "pt": "A partir de $69/mês",
+    "fr": "À partir de 69 $/mois",
+    "de": "Ab 69 $/Monat",
+    "zh": "69 美元/月起",
+    "it": "A partire da $69/mese"
+  },
+  "Starts at $25/month after discount": {
+    "en": "Free or $29/mo Starter",
+    "uk": "Безкоштовно або $29/міс Starter",
+    "ja": "無料または月額29ドルのStarter",
+    "es": "Gratis o $29/mes Starter",
+    "pt": "Grátis ou $29/mês Starter",
+    "fr": "Gratuit ou 29 $/mois Starter",
+    "de": "Kostenlos oder 29 $/Monat Starter",
+    "zh": "免费或 $29/月 入门版",
+    "it": "Gratis o $29/mese Starter"
+  },
+  "Starts at $50/month after discount": {
+    "en": "Starts at $36/mo",
+    "uk": "Від $36/міс",
+    "ja": "月額36ドルから",
+    "es": "Desde $36/mes",
+    "pt": "A partir de $36/mês",
+    "fr": "À partir de 36 $/mois",
+    "de": "Ab 36 $/Monat",
+    "zh": "36 美元/月起",
+    "it": "A partire da $36/mese"
+  },
+  "Starts at $12/month after discount": {
+    "en": "Free or $14/mo Basic",
+    "uk": "Безкоштовно або $14/міс Basic",
+    "ja": "無料または月額14ドルのBasic",
+    "es": "Gratis o $14/mes Basic",
+    "pt": "Grátis ou $14/mês Basic",
+    "fr": "Gratuit ou 14 $/mois Basic",
+    "de": "Kostenlos oder 14 $/Monat Basic",
+    "zh": "免费或 $14/月 基础版",
+    "it": "Gratis o $14/mese Basic"
+  },
+  "$29/month after discount": {
+    "en": "Usage-based",
+    "uk": "За використання",
+    "ja": "従量課金制",
+    "es": "Por uso",
+    "pt": "Baseado no uso",
+    "fr": "À l'usage",
+    "de": "Nutzungsbasiert",
+    "zh": "按使用量付费",
+    "it": "Basato sull'uso"
+  },
+  "Free tier available, paid plans start at $10/month": {
+    "en": "Free Tier Available",
+    "uk": "Доступний безкоштовний рівень",
+    "ja": "無料枠あり",
+    "es": "Nivel gratuito disponible",
+    "pt": "Nível gratuito disponível",
+    "fr": "Niveau gratuit disponible",
+    "de": "Kostenlose Stufe verfügbar",
+    "zh": "提供免费档位",
+    "it": "Livello gratuito disponibile"
+  },
+  "Monthly subscription for $10 with a 20% discount for the first three months.": {
+    "en": "Starts at $10/mo",
+    "uk": "Від $10/міс",
+    "ja": "月額10ドルから",
+    "es": "Desde $10/mes",
+    "pt": "A partir de $10/mês",
+    "fr": "À partir de 10 $/mois",
+    "de": "Ab 10 $/Monat",
+    "zh": "10 美元/月起",
+    "it": "A partire da $10/mese"
   },
   "Midjourney": {
     "en": {
