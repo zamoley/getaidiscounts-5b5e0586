@@ -1,61 +1,45 @@
 import json
 import os
 
-# Define the 2-letter language map used by your frontend
 LANG_MAP = {
-    "English": "en",
-    "Japanese": "ja",
-    "Ukrainian": "uk",
-    "Spanish": "es",
-    "Portuguese": "pt",
-    "French": "fr",
-    "German": "de",
-    "Chinese": "zh",
-    "Italian": "it"
+    "English": "en", "Japanese": "ja", "Ukrainian": "uk", "Spanish": "es",
+    "Portuguese": "pt", "French": "fr", "German": "de", "Chinese": "zh", "Italian": "it"
 }
 
 def sync():
-    # 1. Load your master English database
-    with open('ai_deals.json', 'r', encoding='utf-8') as f:
-        master_deals = json.load(f)
-
-    # 2. Load the translations I provided (if you saved them in i18n_deals.json)
-    # If the file is missing, we will create a fresh one
     try:
         with open('src/i18n/i18n_deals.json', 'r', encoding='utf-8') as f:
             translations = json.load(f)
     except FileNotFoundError:
-        print("Error: i18n_deals.json not found. Please ensure it exists in src/i18n/")
+        print("Error: i18n_deals.json not found in src/i18n/")
         return
 
-    new_tool_translations = {}
+    # THE SECRET SAUCE: A global dictionary for badges and pricing strings
+    # This fixes the "Badges not translating" issue
+    live_file = {
+        "20% OFF": {"en": "20% OFF", "uk": "ЗНИЖКА 20%", "ja": "20% オフ", "es": "20% DTO", "pt": "20% DTO", "fr": "20% DE RABAIS", "de": "20% RABATT", "zh": "20% 折扣", "it": "20% DI SCONTO"},
+        "10% OFF": {"en": "10% OFF", "uk": "ЗНИЖКА 10%", "ja": "10% オフ", "es": "10% DTO", "pt": "10% DTO", "fr": "10% DE RABAIS", "de": "10% RABATT", "zh": "10% 折扣", "it": "10% DI SCONTO"},
+        "25% OFF": {"en": "25% OFF", "uk": "ЗНИЖКА 25%", "ja": "25% オフ", "es": "25% DTO", "pt": "25% DTO", "fr": "25% DE RABAIS", "de": "25% RABATT", "zh": "25% 折扣", "it": "25% DI SCONTO"},
+        "Free Trial": {"en": "Free Trial", "uk": "Безкоштовна пробна версія", "ja": "無料トライアル", "es": "Prueba gratis", "pt": "Teste Grátis", "fr": "Essai gratuit", "de": "Kostenlose Testversion", "zh": "免费试用", "it": "Prova gratuita"},
+        "Free Credits": {"en": "Free Credits", "uk": "Безкоштовні кредити", "ja": "無料クレジット", "es": "Créditos gratis", "pt": "Créditos grátis", "fr": "Crédits gratuits", "de": "Kostenlose Credits", "zh": "免费额度", "it": "Crediti gratuiti"}
+    }
 
-    for tool_name, data in translations.items():
-        # Transform the data structure into the 2-letter code format
-        # Structure: { "ja": { "description": "...", "key_features": "...", "badge": "...", "pricing": "..." } }
-        tool_entry = {}
-        
+    for name, data in translations.items():
+        entry = {}
         for lang_name, lang_code in LANG_MAP.items():
-            tool_entry[lang_code] = {
-                "description": data["description"].get(lang_name, ""),
-                "key_features": data["features"].get(lang_name, ""),
-                "badge": data["badge"].get(lang_name, ""),
-                "pricing": data["pricing"].get(lang_name, "")
+            entry[lang_code] = {
+                "description": data.get("description", {}).get(lang_name, ""),
+                "key_features": data.get("features", {}).get(lang_name, ""),
+                "badge": data.get("badge", {}).get(lang_name, ""),
+                "pricing": data.get("pricing", {}).get(lang_name, "")
             }
-        
-        new_tool_translations[tool_name] = tool_entry
+        live_file[name] = entry
 
-    # 3. Write to the file the site ACTUALLY uses
-    # Note: Using 'src/i18n/tool-translations.json'
     output_path = 'src/i18n/tool-translations.json'
-    
-    # Ensure directory exists
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(new_tool_translations, f, indent=2, ensure_ascii=False)
-    
-    print(f"Success! Updated {len(new_tool_translations)} tools in tool-translations.json")
+        json.dump(live_file, f, indent=2, ensure_ascii=False)
+    print(f"Updated {len(live_file)} entries in tool-translations.json")
 
 if __name__ == "__main__":
     sync()
