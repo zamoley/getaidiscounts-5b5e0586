@@ -5,6 +5,18 @@ import type { LangCode } from "./index";
 type ToolEntry = Partial<Record<Exclude<LangCode, "en">, { description?: string; key_features?: string }>>;
 const map = toolTranslations as Record<string, ToolEntry>;
 
+// Flat string-keyed dictionary: { "20% OFF": { en, uk, ja, ... } }
+const stringDict = toolTranslations as unknown as Record<string, Partial<Record<LangCode, string>>>;
+export function translateString(raw: string | undefined | null, locale: LangCode): string | undefined {
+  if (!raw) return undefined;
+  const entry = stringDict[raw];
+  if (entry && typeof entry === "object") {
+    const v = entry[locale];
+    if (typeof v === "string" && v.trim()) return v;
+  }
+  return undefined;
+}
+
 // Strict shape: { "<ToolName>": { "<lang>": { description, features, badge, pricing } } }
 type LocaleFields = {
   description?: string;
