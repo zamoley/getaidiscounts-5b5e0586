@@ -17,8 +17,13 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Run Sync Script
         run: python sync_translations.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Push to Site
         run: |
