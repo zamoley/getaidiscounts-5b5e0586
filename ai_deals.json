@@ -639,8 +639,8 @@
     {
         "tool_name": "Dealify",
         "tool_url": "https://www.dealify.com",
-        "code": "DEAL2023",
-        "discount_amount": "15%",
+        "code": "SPRING10",
+        "discount_amount": "10%",
         "pricing_info": "Membership starting at $19.99/month",
         "key_features": "Exclusive deals, social sharing capabilities, and alert notifications for new deals.",
         "description": "Dealify connects consumers looking for discounted services and products by enabling group purchases. Users can find and share deals, thus enabling larger purchases that benefit from economies of scale. The platform encourages community interactions and simplifies the buying process.",
