@@ -989,8 +989,8 @@
     {
         "tool_name": "NVIDIA Deep Learning AI",
         "tool_url": "https://www.nvidia.com/en-us/deep-learning-ai/",
-        "code": "NVD004",
-        "discount_amount": "25%",
+        "code": "DLIGTC50",
+        "discount_amount": "Free Gift Storewide at Nvidia Shield",
         "pricing_info": "Based on usage and licensing",
         "key_features": "GPU acceleration, deep learning frameworks, model optimization",
         "description": "NVIDIA Deep Learning AI provides platforms, tools, and frameworks for developing and deploying AI-powered applications. It leverages GPU acceleration to enhance the speed and efficiency of deep learning tasks across various industries.",
