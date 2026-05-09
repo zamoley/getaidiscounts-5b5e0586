@@ -1367,16 +1367,6 @@
         "category": "Legal AI"
     },
     {
-        "tool_name": "ConversationalAI",
-        "tool_url": "https://www.conversationalai.com",
-        "code": "SAVE15",
-        "discount_amount": "15%",
-        "pricing_info": "Starting at $49/month",
-        "key_features": "AI-driven chatbots, Customizable voice interactions, Integration with existing systems",
-        "description": "ConversationalAI is a platform designed to create intelligent chatbots that can engage in voice conversations with users. Utilizing sophisticated machine learning techniques, it provides customizable interactions suitable for businesses in customer service, sales, and marketing. The tool easily integrates with other software, facilitating a seamless transition into the AI-enhanced communication landscape.",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "QuickVideo AI",
         "tool_url": "https://www.quickvideoai.com",
         "code": "QVAI10",
@@ -1397,36 +1387,6 @@
         "category": "Marketing AI"
     },
     {
-        "tool_name": "CodexAI Pro",
-        "tool_url": "https://www.codexai.com/pro",
-        "code": "CAI-2023",
-        "discount_amount": "20%",
-        "pricing_info": "$49/month after discount",
-        "key_features": "AI-driven code suggestions, multilingual support, integrated debugging tools",
-        "description": "CodexAI Pro is an advanced coding assistant designed to optimize software development. It leverages machine learning algorithms to understand context and provide relevant code suggestions in real time, making it easier for developers to write efficient and error-free code. The tool supports multiple programming languages and includes integrated debugging features to streamline the coding process.",
-        "category": "Coding AI"
-    },
-    {
-        "tool_name": "AI Code Generator",
-        "tool_url": "https://www.aicodegenerator.com",
-        "code": "AICG2023",
-        "discount_amount": "15%",
-        "pricing_info": "$39/month after discount",
-        "key_features": "Instant code generation, customizable templates, collaborative features",
-        "description": "The AI Code Generator provides an innovative solution for software developers looking to accelerate their coding tasks. It generates code snippets based on user input and templates, facilitating a faster development process. The platform supports collaborative work, allowing teams to share and customize generated code, thus enhancing productivity across projects.",
-        "category": "Coding AI"
-    },
-    {
-        "tool_name": "AI Search Optimizer",
-        "tool_url": "https://www.aisearchoptimizer.com",
-        "code": "SEO2023",
-        "discount_amount": "10%",
-        "pricing_info": "$39/month after discount",
-        "key_features": "SEO integration, AI-driven suggestions, competitor analysis, real-time performance tracking.",
-        "description": "AI Search Optimizer is designed for digital marketers looking to enhance their search engine optimization strategy. It employs AI algorithms to analyze current trends and users' search behavior, offering actionable insights and suggestions to improve website visibility on search engines. The tool also features competitor analysis capabilities to help users stay ahead in their respective markets.",
-        "category": "SEO AI"
-    },
-    {
         "tool_name": "RadiAnt DICOM Viewer",
         "tool_url": "https://www.radiantviewer.com",
         "code": "RAD10",
@@ -1444,16 +1404,6 @@
         "pricing_info": "Contact for pricing",
         "key_features": "AI-powered radiology solutions, Real-time image analysis, Integration with existing systems",
         "description": "Aidoc offers advanced AI tools that assist radiologists by providing real-time analysis of medical images. The platform enhances diagnostic accuracy and speeds up workflow, thereby improving patient outcomes.",
-        "category": "Medical AI"
-    },
-    {
-        "tool_name": "Zebra Medical Vision",
-        "tool_url": "https://www.zebramed.com",
-        "code": "ZEBRA25",
-        "discount_amount": "25%",
-        "pricing_info": "Custom pricing based on usage",
-        "key_features": "Deep learning algorithms, Extensive database for training, Accessible API",
-        "description": "Zebra Medical Vision uses deep learning algorithms to analyze medical imaging data, providing actionable insights that aid in diagnosis and treatment planning. Their tools are designed to be integrated into existing healthcare IT systems.",
         "category": "Medical AI"
     }
 ]
