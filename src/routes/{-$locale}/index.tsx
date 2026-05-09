@@ -103,7 +103,7 @@ function Index() {
   const compared = getCompared(deals, compare.ids);
 
   return (
-    <main className="min-h-screen">
+    <main className={`min-h-screen ${compare.ids.length > 0 ? "pb-28" : ""}`}>
       <SiteHeader />
 
       <section className="relative overflow-hidden">
