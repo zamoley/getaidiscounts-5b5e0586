@@ -1049,9 +1049,9 @@
     {
         "tool_name": "Webflow",
         "tool_url": "https://webflow.com",
-        "code": "WEBFLOW2023",
-        "discount_amount": "30%",
-        "pricing_info": "Basic plan starts at $12/month",
+        "code": "violettryout12",
+        "discount_amount": "$21 off",
+        "pricing_info": "Free tier Starter plan. Basic plan starts at $14/month",
         "key_features": "Responsive design, Visual editing, CMS capabilities",
         "description": "Webflow is a web development platform that allows users to design, build, and launch responsive websites visually, without needing to write any code. It combines the functionalities of a design tool and a website builder, making it an ideal choice for designers and marketers.",
         "category": "No-Code AI"
