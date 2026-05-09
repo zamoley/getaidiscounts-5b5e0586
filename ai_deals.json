@@ -647,16 +647,6 @@
         "category": "Search AI"
     },
     {
-        "tool_name": "AI Search Engine",
-        "tool_url": "https://www.aisearchengine.com",
-        "code": "AISE2023",
-        "discount_amount": "10%",
-        "pricing_info": "Free for basic use; Premium at $49.99/month",
-        "key_features": "Voice search integration, sentiment analysis, detailed reporting",
-        "description": "AI Search Engine is a state-of-the-art search solution that incorporates voice recognition and sentiment analysis to provide users with a dynamic search experience. Whether used for personal or professional purposes, this tool is designed to understand user intent and deliver accurate results effectively.",
-        "category": "Search AI"
-    },
-    {
         "tool_name": "Claude AI",
         "tool_url": "https://www.anthropic.com/claude",
         "code": "CLAUDE123",
