@@ -1239,9 +1239,9 @@
     {
         "tool_name": "PromptBase",
         "tool_url": "https://www.promptbase.com",
-        "code": "PROMPT2023",
-        "discount_amount": "15%",
-        "pricing_info": "Prices starting from $5 for basic prompts.",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Try Select for just $14 for your first month — then $19/mo",
         "key_features": "Marketplace for AI prompts, user-generated content, prompt rating system.",
         "description": "PromptBase offers a wide variety of user-generated prompts specifically designed for AI image generation tools like Midjourney. This platform serves as a marketplace where creators can buy and sell prompts that have proven success in producing high-quality outputs. By leveraging community expertise, users can quickly find effective prompts to utilize with their AI tools, enhancing creativity and productivity.",
         "category": "No-Code AI"
