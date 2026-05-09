@@ -1279,9 +1279,9 @@
     {
         "tool_name": "Airtable",
         "tool_url": "https://airtable.com",
-        "code": "AIRTABLE2023",
-        "discount_amount": "10%",
-        "pricing_info": "Free version available, Plus starts at $10/month",
+        "code": "N/A",
+        "discount_amount": "Free Tier available",
+        "pricing_info": "Free version available, Plus starts at $20/month",
         "key_features": "Customizable tables, Collaboration tools, Rich field types",
         "description": "Airtable is a cloud collaboration service that is part spreadsheet, part database, making it easy for teams to organize information. Users can create custom applications suited to a variety of use cases ranging from project management to event planning without needing to write a single line of code.",
         "category": "No-Code AI"
