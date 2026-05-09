@@ -9,7 +9,7 @@ export function SiteHeader() {
   const locale = useLocale();
   useTranslation();
   return (
-    <header className="sticky top-0 z-30 border-b border-border/60 bg-background/70 backdrop-blur-xl">
+    <header className="sticky top-0 z-40 isolate border-b border-border/60 bg-background/85 backdrop-blur-xl">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3">
         <Link to={localizedTo(locale, "/")} className="flex items-center gap-2.5 shrink-0 leading-none">
           <OwlLogo className="h-9 w-9 text-electric drop-shadow-[0_0_10px_oklch(0.72_0.21_245/0.55)]" />
