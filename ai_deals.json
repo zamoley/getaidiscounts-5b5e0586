@@ -789,9 +789,9 @@
     {
         "tool_name": "Runway ML",
         "tool_url": "https://runwayml.com",
-        "code": "RUNWAY2023",
-        "discount_amount": "15%",
-        "pricing_info": "Free to start; paid plans from $12/month for additional features",
+        "code": "MADSAL25",
+        "discount_amount": "25%",
+        "pricing_info": "25% Off Subscription (members Only)",
         "key_features": "Video editing, image generation, real-time collaboration, machine learning integration",
         "description": "Runway ML is a creative suite that leverages artificial intelligence to offer tools for video and image editing, allowing creatives to generate and manipulate visuals with ease. It is popular among filmmakers and designers for its intuitive interface and powerful capabilities.",
         "category": "Image AI"
