@@ -719,9 +719,9 @@
     {
         "tool_name": "IBM Watson Health",
         "tool_url": "https://www.ibm.com/watson-health",
-        "code": "IBM-WH-2023",
-        "discount_amount": "15%",
-        "pricing_info": "Subscription-based pricing available upon request.",
+        "code": "FLEXVSI",
+        "discount_amount": "60%",
+        "pricing_info": "60% Off Select Items at IBM Corporation.",
         "key_features": "AI-driven analytics, clinical decision support, and healthcare data integration.",
         "description": "IBM Watson Health leverages artificial intelligence to improve patient outcomes, optimize healthcare delivery, and enhance medical research. It combines vast amounts of medical data with advanced AI algorithms to assist healthcare providers in making informed decisions based on comprehensive insights.",
         "category": "Medical AI"
