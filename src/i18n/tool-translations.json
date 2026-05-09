@@ -1,36 +1,63 @@
 {
-  "20% OFF": {
-    "en": "20% OFF",
-    "uk": "ЗНИЖКА 20%",
-    "ja": "20% オフ",
-    "es": "20% DTO",
-    "pt": "20% DTO",
-    "fr": "20% DE RABAIS",
-    "de": "20% RABATT",
-    "zh": "20% 折扣",
-    "it": "20% DI SCONTO"
+  "30%": {
+    "en": "30%"
   },
-  "10% OFF": {
-    "en": "10% OFF",
-    "uk": "ЗНИЖКА 10%",
-    "ja": "10% オフ",
-    "es": "10% DTO",
-    "pt": "10% DTO",
-    "fr": "10% DE RABAIS",
-    "de": "10% RABATT",
-    "zh": "10% 折扣",
-    "it": "10% DI SCONTO"
+  "60-70% OFF": {
+    "en": "60-70% OFF"
   },
-  "25% OFF": {
-    "en": "25% OFF",
-    "uk": "ЗНИЖКА 25%",
-    "ja": "25% オフ",
-    "es": "25% DTO",
-    "pt": "25% DTO",
-    "fr": "25% DE RABAIS",
-    "de": "25% RABATT",
-    "zh": "25% 折扣",
-    "it": "25% DI SCONTO"
+  "Free Credits": {
+    "en": "Free Credits",
+    "uk": "Безкоштовні кредити",
+    "ja": "無料クレジット",
+    "es": "Créditos gratis",
+    "pt": "Créditos grátis",
+    "fr": "Crédits gratuits",
+    "de": "Kostenlose Credits",
+    "zh": "免费额度",
+    "it": "Crediti gratuiti"
+  },
+  "55% OFF": {
+    "en": "55% OFF",
+    "uk": "ЗНИЖКА 55%",
+    "ja": "55% オフ",
+    "es": "55% DTO",
+    "pt": "55% DTO",
+    "fr": "55% DE RABAIS",
+    "de": "55% RABATT",
+    "zh": "55% 折扣",
+    "it": "55% DI SCONTO"
+  },
+  "Coming Soon": {
+    "en": "Coming Soon"
+  },
+  "84% OFF": {
+    "en": "84% OFF"
+  },
+  "25%": {
+    "en": "25%"
+  },
+  "10% on first purchase": {
+    "en": "10% on first purchase"
+  },
+  "Student Plan Credits": {
+    "en": "Student Plan Credits"
+  },
+  "17% OFF": {
+    "en": "17% OFF"
+  },
+  "70% OFF": {
+    "en": "70% OFF",
+    "uk": "ЗНИЖКА 70%",
+    "ja": "70% オフ",
+    "es": "70% DTO",
+    "pt": "70% DTO",
+    "fr": "70% DE RABAIS",
+    "de": "70% RABATT",
+    "zh": "70% 折扣",
+    "it": "70% DI SCONTO"
+  },
+  "$200 in free credits": {
+    "en": "$200 in free credits"
   },
   "Free Trial": {
     "en": "Free Trial",
@@ -43,16 +70,153 @@
     "zh": "免费试用",
     "it": "Prova gratuita"
   },
-  "Free Credits": {
-    "en": "Free Credits",
-    "uk": "Безкоштовні кредити",
-    "ja": "無料クレジット",
-    "es": "Créditos gratis",
-    "pt": "Créditos grátis",
-    "fr": "Crédits gratuits",
-    "de": "Kostenlose Credits",
-    "zh": "免费额度",
-    "it": "Crediti gratuiti"
+  "AWS Free Tier": {
+    "en": "AWS Free Tier"
+  },
+  "Free Usage Credits": {
+    "en": "Free Usage Credits"
+  },
+  "50% OFF for 3 Months": {
+    "en": "50% OFF for 3 Months"
+  },
+  "Daily Free Tokens": {
+    "en": "Daily Free Tokens"
+  },
+  "10% OFF": {
+    "en": "10% OFF",
+    "uk": "ЗНИЖКА 10%",
+    "ja": "10%オフ",
+    "es": "10% DTO",
+    "pt": "10% DTO",
+    "fr": "10% de rabais",
+    "de": "10% Rabatt",
+    "zh": "10%折扣",
+    "it": "10% di sconto"
+  },
+  "20%": {
+    "en": "20%"
+  },
+  "Cost-Sharing": {
+    "en": "Cost-Sharing"
+  },
+  "15%": {
+    "en": "15%"
+  },
+  "$10/mo": {
+    "en": "$10/mo"
+  },
+  "75% OFF": {
+    "en": "75% OFF",
+    "uk": "ЗНИЖКА 75%",
+    "ja": "75% オフ",
+    "es": "75% DTO",
+    "pt": "75% DTO",
+    "fr": "75% DE RABAIS",
+    "de": "75% RABATT",
+    "zh": "75% 折扣",
+    "it": "75% DI SCONTO"
+  },
+  "50%": {
+    "en": "50%"
+  },
+  "25% OFF": {
+    "en": "25% OFF",
+    "uk": "ЗНИЖКА 25%",
+    "ja": "25% オフ",
+    "es": "25% DTO",
+    "pt": "25% DTO",
+    "fr": "25% DE RABAIS",
+    "de": "25% RABATT",
+    "zh": "25% 折扣",
+    "it": "25% DI SCONTO"
+  },
+  "$50 in free credits": {
+    "en": "$50 in free credits"
+  },
+  "Free Version Available": {
+    "en": "Free Version Available"
+  },
+  "40% OFF": {
+    "en": "40% OFF",
+    "uk": "ЗНИЖКА 40%",
+    "ja": "40% オフ",
+    "es": "40% DTO",
+    "pt": "40% DTO",
+    "fr": "40% DE RABAIS",
+    "de": "40% RABATT",
+    "zh": "40% 折扣",
+    "it": "40% DI SCONTO"
+  },
+  "$10 Credit": {
+    "en": "$10 Credit",
+    "uk": "Кредит $10",
+    "ja": "10ドルのクレジット",
+    "es": "$10 de crédito",
+    "pt": "$10 de crédito",
+    "fr": "10 $ de crédit",
+    "de": "10 $ Guthaben",
+    "zh": "10 美元额度",
+    "it": "$10 di credito"
+  },
+  "10%": {
+    "en": "10%"
+  },
+  "33% OFF": {
+    "en": "33% OFF",
+    "uk": "ЗНИЖКА 33%",
+    "ja": "33% オフ",
+    "es": "33% DTO",
+    "pt": "33% DTO",
+    "fr": "33% DE RABAIS",
+    "de": "33% RABATT",
+    "zh": "33% 折扣",
+    "it": "33% DI SCONTO"
+  },
+  "API Credit": {
+    "en": "API Credit"
+  },
+  "Pro Free Trial": {
+    "en": "Pro Free Trial"
+  },
+  "Up to 50% OFF": {
+    "en": "Up to 50% OFF"
+  },
+  "Free Tier Available": {
+    "en": "Free Tier Available"
+  },
+  "60% OFF": {
+    "en": "60% OFF",
+    "uk": "ЗНИЖКА 60%",
+    "ja": "60% オフ",
+    "es": "60% DTO",
+    "pt": "60% DTO",
+    "fr": "60% DE RABAIS",
+    "de": "60% RABATT",
+    "zh": "60% 折扣",
+    "it": "60% DI SCONTO"
+  },
+  "All-in-One Savings": {
+    "en": "All-in-One Savings"
+  },
+  "65-73% OFF": {
+    "en": "65-73% OFF"
+  },
+  "Usage Credit": {
+    "en": "Usage Credit"
+  },
+  "20% OFF": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20%オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% de rabais",
+    "de": "20% Rabatt",
+    "zh": "20%折扣",
+    "it": "20% di sconto"
+  },
+  "Cloud Credits Available": {
+    "en": "Cloud Credits Available"
   },
   "Midjourney": {
     "en": {
