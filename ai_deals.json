@@ -448,9 +448,9 @@
     {
         "tool_name": "MarketMuse",
         "tool_url": "https://www.marketmuse.com",
-        "code": "MUSE2023",
-        "discount_amount": "20%",
-        "pricing_info": "Starting at $500/month",
+        "code": "rankmath30",
+        "discount_amount": "30%",
+        "pricing_info": "30% Off Storewide",
         "key_features": "Content optimization, topic modeling, competitive analysis",
         "description": "MarketMuse is a content research and optimization platform that helps marketers create high-quality, optimized content. By analyzing thousands of articles and providing insights on related topics, it improves the performance of content strategies.",
         "category": "Marketing AI"
