@@ -68,6 +68,12 @@ export function translateTool(
   const localized = pickFromEntry(entry, locale, field);
   if (localized) return localized;
 
+  // Raw-string dictionary lookup (badges & pricing): use fallback as key
+  if ((field === "badge" || field === "pricing") && fallback) {
+    const byString = translateString(fallback, locale);
+    if (byString) return byString;
+  }
+
   const en = pickFromEntry(entry, "en", field);
   if (en) return en;
 
