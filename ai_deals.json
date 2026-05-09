@@ -867,16 +867,6 @@
         "category": "SEO AI"
     },
     {
-        "tool_name": "ElevenLabs Voice AI",
-        "tool_url": "https://www.elevenlabs.io/voice-ai",
-        "code": "ELEVENVOICE2023",
-        "discount_amount": "15%",
-        "pricing_info": "Basic plan starting at $19/month with additional features available through higher tiers.",
-        "key_features": "High-quality voice synthesis, custom voice training, multilingual support.",
-        "description": "ElevenLabs is a cutting-edge voice AI platform specializing in the generation of realistic human-like speech. The technology leverages deep learning models trained on extensive datasets, allowing users to create custom voices and integrate them into various applications such as podcasts, audiobooks, and virtual assistants. The platform is designed for developers, content creators, and enterprises looking to enhance user engagement through natural language processing.",
-        "category": "Voice AI"
-    },
-    {
         "tool_name": "ElevenLabs Text-to-Speech",
         "tool_url": "https://elevenlabs.io/text-to-speech",
         "code": "ELEVEN_TTS_2023",
