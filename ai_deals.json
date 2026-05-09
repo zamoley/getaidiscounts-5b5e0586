@@ -588,16 +588,6 @@
         "category": "Group-Buy & Sharing"
     },
     {
-        "tool_name": "LegalBot",
-        "tool_url": "https://www.legalbot.com",
-        "code": "LB2023",
-        "discount_amount": "15%",
-        "pricing_info": "$49/month",
-        "key_features": "Contract analysis, Legal research, Compliance monitoring",
-        "description": "LegalBot is an AI-powered tool designed to assist legal professionals by automating routine tasks, improving research efficiency, and ensuring compliance with regulations. Leveraging advanced algorithms, it analyzes contracts, predicts litigation outcomes, and provides recommendations based on legal precedent.",
-        "category": "Legal AI"
-    },
-    {
         "tool_name": "Case Cruncher",
         "tool_url": "https://www.casecruncher.com",
         "code": "CC2023",
@@ -638,26 +628,6 @@
         "category": "Coding AI"
     },
     {
-        "tool_name": "AutoCoder",
-        "tool_url": "https://www.autocoder.com",
-        "code": "AC456",
-        "discount_amount": "15%",
-        "pricing_info": "One-time purchase of $199",
-        "key_features": "Real-time coding feedback, code refactoring tools, collaborative coding",
-        "description": "AutoCoder is a smart coding assistant designed to provide real-time feedback on your code as you write. It offers features like code refactoring and syntax suggestions, allowing for a smoother coding experience. With collaborative options, it integrates easily with your favorite coding platforms, fostering teamwork and enhancing coding efficiency.",
-        "category": "Coding AI"
-    },
-    {
-        "tool_name": "SmartSyntax",
-        "tool_url": "https://www.smartsyntax.com",
-        "code": "SS789",
-        "discount_amount": "10%",
-        "pricing_info": "Free tier available, Pro version at $15/month",
-        "key_features": "Grammar and code syntax checking, customizable rules, multi-language support",
-        "description": "SmartSyntax is an innovative tool that combines grammar checking with coding syntax validation to help developers maintain a clean and efficient codebase. With customizable rule sets and support for multiple programming languages, SmartSyntax ensures that both the logic and structure of your code are flawless.",
-        "category": "Coding AI"
-    },
-    {
         "tool_name": "GroupBuy Tools",
         "tool_url": "https://www.groupbuytools.com",
         "code": "GBT2023",
@@ -676,16 +646,6 @@
         "key_features": "Exclusive deals, social sharing capabilities, and alert notifications for new deals.",
         "description": "Dealify connects consumers looking for discounted services and products by enabling group purchases. Users can find and share deals, thus enabling larger purchases that benefit from economies of scale. The platform encourages community interactions and simplifies the buying process.",
         "category": "Group-Buy & Sharing"
-    },
-    {
-        "tool_name": "SearchAI Pro",
-        "tool_url": "https://www.searchaipro.com",
-        "code": "SAIP2023",
-        "discount_amount": "15%",
-        "pricing_info": "Monthly subscription starting at $29.99",
-        "key_features": "Natural language processing, advanced search algorithms, real-time analytics",
-        "description": "SearchAI Pro is a powerful tool designed to enhance the search experience by utilizing advanced artificial intelligence algorithms. It helps users find relevant information quickly and easily, improving overall efficiency. The platform supports various industries and can be used to optimize website search functions or for academic research.",
-        "category": "Search AI"
     },
     {
         "tool_name": "SmartSearch",
@@ -738,16 +698,6 @@
         "category": "Industrial AI"
     },
     {
-        "tool_name": "Smart Automation Suite",
-        "tool_url": "https://www.smartautomationsuite.com",
-        "code": "SAS456",
-        "discount_amount": "10%",
-        "pricing_info": "Custom quotes available",
-        "key_features": "Robotic process automation, Data analysis, Workflow management",
-        "description": "Smart Automation Suite offers a comprehensive array of tools designed to automate industrial workflows through AI-driven solutions. Integrating robotic process automation and data analysis, it streamlines workflow management to boost efficiency.",
-        "category": "Industrial AI"
-    },
-    {
         "tool_name": "Predictive Analytics Tool",
         "tool_url": "https://www.predictiveanalyticstool.com",
         "code": "PAT789",
@@ -788,46 +738,6 @@
         "category": "Music AI"
     },
     {
-        "tool_name": "Voice AI Assistant Pro",
-        "tool_url": "https://www.voiceaiassistantpro.com",
-        "code": "VAIP2023",
-        "discount_amount": "20%",
-        "pricing_info": "Starting at $29.99/month",
-        "key_features": "Natural language understanding, voice recognition, multi-language support",
-        "description": "Voice AI Assistant Pro is a cutting-edge voice AI technology designed to enhance user interaction through natural language processing. It allows for real-time voice command recognition and integrates with various platforms to simplify tasks.",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "SpeakEasy Voice",
-        "tool_url": "https://www.speakeasyvoice.com",
-        "code": "EASY10",
-        "discount_amount": "10%",
-        "pricing_info": "Free trial available, subscription starts at $15/month",
-        "key_features": "Custom voice synthesis, emotion detection, API integration",
-        "description": "SpeakEasy Voice is focused on generating lifelike speech from text using advanced voice synthesis techniques. This tool is beneficial for developers and businesses looking to enhance their applications with realistic voice capabilities.",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "Aivoice Expert",
-        "tool_url": "https://www.aivoiceexpert.com",
-        "code": "AIVOICE23",
-        "discount_amount": "15%",
-        "pricing_info": "Basic plan starts at $19.99/month",
-        "key_features": "Automatic voice translation, customizable voice profiles, analytics dashboard",
-        "description": "Aivoice Expert harnesses the power of artificial intelligence to facilitate seamless voice interactions across languages. It is equipped with tools for automatic translation and provides detailed analytics to monitor performance.",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "NoCode AI Builder",
-        "tool_url": "https://www.nocodeaibuilder.com",
-        "code": "NCAIB2023",
-        "discount_amount": "15%",
-        "pricing_info": "$29/month or $299/year",
-        "key_features": "Drag-and-drop interface, AI model customization, Pre-built templates",
-        "description": "NoCode AI Builder allows users to create customized AI models without any coding skills. Its user-friendly interface helps non-technical users harness the power of AI for various applications like data analysis, prediction models, and automation.",
-        "category": "No-Code AI"
-    },
-    {
         "tool_name": "Chatbot Creator",
         "tool_url": "https://www.chatbotcreator.com",
         "code": "CHAT2023",
@@ -845,16 +755,6 @@
         "pricing_info": "$19/month, $99/year",
         "key_features": "Text generation, SEO keyword optimization, Plagiarism checker",
         "description": "AI Content Generator leverages advanced AI algorithms to create high-quality written content for blogs, articles, and marketing materials. Users can input topics and keywords, and the tool generates well-structured text that is optimized for search engines.",
-        "category": "No-Code AI"
-    },
-    {
-        "tool_name": "Visual AI Design Tool",
-        "tool_url": "https://www.visualaidesign.com",
-        "code": "VADT2023",
-        "discount_amount": "25%",
-        "pricing_info": "$39/month or $399/year",
-        "key_features": "Automatic layout adjustment, Color palette generator, Drag-and-drop components",
-        "description": "Visual AI Design Tool uses artificial intelligence to enhance the design process for web and mobile applications. The tool simplifies layout creation and helps generate aesthetically pleasing color schemes, all without requiring design expertise.",
         "category": "No-Code AI"
     },
     {
@@ -978,16 +878,6 @@
         "category": "Search AI"
     },
     {
-        "tool_name": "Prompt Perplexity Checker",
-        "tool_url": "https://www.promptperplexitychecker.com",
-        "code": "CHECK15",
-        "discount_amount": "10%",
-        "pricing_info": "Starting from $5 per month.",
-        "key_features": "Analysis of text complexity, readability score metrics, and suggestions for improvement.",
-        "description": "The Prompt Perplexity Checker is a tool for evaluating the complexity and clarity of textual content. It utilizes various linguistic metrics to assess how comprehensible a piece of writing is and offers suggestions to enhance readability, making it ideal for writers and educators.",
-        "category": "Writing AI"
-    },
-    {
         "tool_name": "Grammarly",
         "tool_url": "https://www.grammarly.com",
         "code": "GRM2023",
@@ -1048,36 +938,6 @@
         "category": "Voice AI"
     },
     {
-        "tool_name": "ChatGPT Pro",
-        "tool_url": "https://www.chatgptpro.com",
-        "code": "CHATGPTPRO20",
-        "discount_amount": "20%",
-        "pricing_info": "$19.99/month after discount",
-        "key_features": "Enhanced performance, faster response times, priority support",
-        "description": "ChatGPT Pro is an advanced version of the ChatGPT model, designed for users who require high-performance natural language processing capabilities. It offers significantly faster response times and benefits from priority access during peak usage times. Ideal for professionals and developers looking to integrate conversational AI into their applications.",
-        "category": "Coding AI"
-    },
-    {
-        "tool_name": "ChatGPT Marketing Toolkit",
-        "tool_url": "https://www.chatgptmarketingtoolkit.com",
-        "code": "MARKETGPT15",
-        "discount_amount": "15%",
-        "pricing_info": "$29.99/month after discount",
-        "key_features": "Content generation, social media planning, SEO analysis",
-        "description": "ChatGPT Marketing Toolkit is an integrated platform that leverages the capabilities of ChatGPT to assist marketers in creating compelling content, planning social media campaigns, and optimizing their SEO strategies. It provides tools for automating marketing tasks and generating insights based on user-generated data.",
-        "category": "Marketing AI"
-    },
-    {
-        "tool_name": "ChatGPT Image Assistant",
-        "tool_url": "https://www.chatgptimageassistant.com",
-        "code": "IMAGEAI10",
-        "discount_amount": "10%",
-        "pricing_info": "$15.99/month after discount",
-        "key_features": "Image generation, style transfer, photo editing",
-        "description": "ChatGPT Image Assistant combines the language processing power of ChatGPT with advanced image generation techniques. Users can create stunning visuals, apply artistic styles to their photos, and access tools for basic editing, making it an invaluable resource for designers and artists looking to enhance their creative workflows.",
-        "category": "Image AI"
-    },
-    {
         "tool_name": "Pictory",
         "tool_url": "https://pictory.ai",
         "code": "PIC10",
@@ -1116,16 +976,6 @@
         "key_features": "Real-time collaboration, Video editing capabilities, AI-driven tools",
         "description": "RunwayML is a creative toolkit that incorporates machine learning techniques into art and media production. It provides users with various AI models for tasks such as video editing, image generation, and interactive design, allowing for innovative workflows previously unachievable in traditional software.",
         "category": "Image AI"
-    },
-    {
-        "tool_name": "Perplexity Books",
-        "tool_url": "https://perplexitybooks.ai",
-        "code": "BOOKS25",
-        "discount_amount": "25%",
-        "pricing_info": "Subscription plans starting from $5/month",
-        "key_features": "Book recommendations, personalized reading lists, community reviews",
-        "description": "Perplexity Books uses AI algorithms to recommend literature based on user preferences. It analyzes reading habits and interests to curate personalized lists, helping users discover new authors and genres, while also allowing for community engagement through reviews and discussions.",
-        "category": "Writing AI"
     },
     {
         "tool_name": "TensorFlow",
@@ -1198,26 +1048,6 @@
         "category": "Marketing AI"
     },
     {
-        "tool_name": "Search AI Pro",
-        "tool_url": "https://searchaipro.com",
-        "code": "SAVE20",
-        "discount_amount": "20%",
-        "pricing_info": "Monthly subscription: $29.99; Annual subscription: $299.99",
-        "key_features": "Advanced algorithm, Natural language processing, Real-time data analysis",
-        "description": "Search AI Pro is a sophisticated search engine optimization tool designed to enhance online visibility. It employs artificial intelligence to understand user intent and provide relevant search results, making it easier for businesses to connect with their target audience and improve conversion rates.",
-        "category": "Search AI"
-    },
-    {
-        "tool_name": "AI Search Intelligence",
-        "tool_url": "https://aisearchintelligence.com",
-        "code": "DISCOUNT15",
-        "discount_amount": "15%",
-        "pricing_info": "Starting at $49.99 per month",
-        "key_features": "Predictive analytics, Customizable dashboards, Integration with various platforms",
-        "description": "AI Search Intelligence offers tools that harness the power of artificial intelligence to optimize search functionalities across various platforms. By utilizing advanced algorithms, this tool significantly improves the accuracy of data retrieval, allowing businesses to deliver more relevant content to users.",
-        "category": "Search AI"
-    },
-    {
         "tool_name": "ElevenLabs Voice Generator",
         "tool_url": "https://www.elevenlabs.io/voice-generator",
         "code": "ELEVEN2023",
@@ -1268,36 +1098,6 @@
         "category": "Legal AI"
     },
     {
-        "tool_name": "VoiceAI Pro",
-        "tool_url": "https://www.voiceaipro.com",
-        "code": "VAIP2023",
-        "discount_amount": "20%",
-        "pricing_info": "Standard pricing is $49/month, now $39.20/month with code.",
-        "key_features": "Real-time voice synthesis, Multilingual support, Custom voice training.",
-        "description": "VoiceAI Pro is an advanced voice artificial intelligence tool that enables users to synthesize human-like speech in various languages. It is extensively used in applications such as virtual assistants, voiceovers for media, and accessibility tools for the hearing impaired. The platform offers features like custom voice training, allowing users to create unique voice profiles for enhanced user interaction.",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "SpeechGenix",
-        "tool_url": "https://www.speechgenix.com",
-        "code": "SG30OFF",
-        "discount_amount": "30%",
-        "pricing_info": "Regular price is $99/month, currently $69.30/month with promo code.",
-        "key_features": "Text to speech, Voice modulation, Emotion detection.",
-        "description": "SpeechGenix is a powerful voice AI tool designed for converting text into high-quality speech. It utilizes cutting-edge algorithms to modulate the voice output based on the emotional context of the text, making it suitable for various applications, including education, entertainment, and training simulations. SpeechGenix supports multiple languages and offers an intuitive interface for users.",
-        "category": "Voice AI"
-    },
-    {
-        "tool_name": "Vocaloid AI",
-        "tool_url": "https://www.vocaloidai.com",
-        "code": "VAI10",
-        "discount_amount": "10%",
-        "pricing_info": "Monthly subscription is $25, discounted to $22.50 for members.",
-        "key_features": "Singing voice synthesis, Custom vocal creation, Plugin integration.",
-        "description": "Vocaloid AI is a voice synthesis software widely recognized for its capabilities in creating singing voices. Aimed at music producers and hobbyists, it allows users to compose music using customizable vocal models that mimic real singers. With diverse sound libraries and plugin compatibility, Vocaloid AI is at the forefront of music technology, merging artificial intelligence with creative expression.",
-        "category": "Music AI"
-    },
-    {
         "tool_name": "Bubble",
         "tool_url": "https://bubble.io",
         "code": "NOCODEAI001",
@@ -1338,26 +1138,6 @@
         "category": "Coding AI"
     },
     {
-        "tool_name": "AI Code Generator",
-        "tool_url": "https://www.aicodegenerator.com",
-        "code": "AICG10",
-        "discount_amount": "10%",
-        "pricing_info": "$19.99/month after discount",
-        "key_features": "Automated code generation, customizable templates, real-time collaboration",
-        "description": "AI Code Generator is a tool designed to automate the coding process by generating code snippets based on user input. It features customizable templates to fit varying needs and allows real-time collaboration among team members. This tool is particularly useful for rapid prototyping and streamlining the development workflow.",
-        "category": "Coding AI"
-    },
-    {
-        "tool_name": "Smart Code Review",
-        "tool_url": "https://www.smartcodereview.com",
-        "code": "SCRSAVE20",
-        "discount_amount": "20%",
-        "pricing_info": "$24.99/month after discount",
-        "key_features": "Automated review process, error detection, integration with Git",
-        "description": "Smart Code Review uses artificial intelligence to automate the code review process, significantly reducing the time and effort required by teams. It can detect errors, enforce coding standards, and integrate with Git repositories, making it an essential tool for maintaining code quality in software projects.",
-        "category": "Coding AI"
-    },
-    {
         "tool_name": "Claude Code Assistant",
         "tool_url": "https://www.anthropic.com/claude-code",
         "code": "CLAUDEAI50",
@@ -1376,16 +1156,6 @@
         "key_features": "Natural language processing, voice synthesis, multi-language support",
         "description": "HeyGen Voice is a voice AI tool that transforms written text into natural-sounding speech. It is designed for developers and content creators looking to add voiceovers to their videos, presentations, or applications. The tool provides various voice options and languages to cater to diverse user needs.",
         "category": "Voice AI"
-    },
-    {
-        "tool_name": "HeyGen Image Creator",
-        "tool_url": "https://www.heygenimage.com",
-        "code": "HGIMAGE25",
-        "discount_amount": "25%",
-        "pricing_info": "$49/month",
-        "key_features": "AI-generated images, customizable styles, high-resolution outputs",
-        "description": "HeyGen Image Creator is an image AI tool that generates unique visuals based on user-defined parameters. It is suitable for graphic designers, marketers, and social media managers who require distinct images for campaigns or projects without relying on stock photos.",
-        "category": "Image AI"
     },
     {
         "tool_name": "Midjourney Art Generator",
