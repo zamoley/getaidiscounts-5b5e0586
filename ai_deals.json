@@ -729,9 +729,9 @@
     {
         "tool_name": "Soundraw",
         "tool_url": "https://soundraw.io/",
-        "code": "SOUNDRAW2023",
-        "discount_amount": "10%",
-        "pricing_info": "Starting at $19.99/month",
+        "code": "MIXBUS",
+        "discount_amount": "50%",
+        "pricing_info": "50% Off Subscription Plans (Members Only) ",
         "key_features": "Generate unique tracks, AI assisted editing, Genre flexibility",
         "description": "Soundraw is an innovative AI music generator that emphasizes user creativity by allowing them to generate unique musical tracks based on their preferences. Users can edit and arrange generated music in real-time, making it a perfect solution for those in need of customized soundscapes for videos, games, and other multimedia projects.",
         "category": "Music AI"
