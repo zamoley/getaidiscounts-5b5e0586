@@ -1,58 +1,61 @@
-import json
-import os
+import json, os
 
-# ISO Map for output consistency
-LANG_CODES = ["en", "ja", "uk", "es", "pt", "fr", "de", "zh", "it"]
+# The Bridge: Maps every possible name to the ISO codes the website needs
+LANG_MAP = {
+    "en": ["en", "English"],
+    "uk": ["uk", "Ukrainian"],
+    "ja": ["ja", "Japanese"],
+    "es": ["es", "Spanish"],
+    "pt": ["pt", "Portuguese"],
+    "fr": ["fr", "French"],
+    "de": ["de", "German"],
+    "zh": ["zh", "Chinese"],
+    "it": ["it", "Italian"]
+}
+
+def get_val(data_dict, lang_key):
+    """Looks for ISO code first, then Full Name."""
+    if not data_dict: return ""
+    for variation in LANG_MAP.get(lang_key, [lang_key]):
+        if variation in data_dict:
+            return data_dict[variation]
+    return ""
 
 def sync():
-    # 1. LOAD SOURCE DATA
-    if not os.path.exists("ai_deals.json") or not os.path.exists("src/i18n/i18n_deals.json"):
-        print("Source files missing. Skipping sync.")
+    ai_path, i18n_path = "ai_deals.json", "src/i18n/i18n_deals.json"
+    if not os.path.exists(ai_path) or not os.path.exists(i18n_path):
+        print("Missing files. Sync skipped.")
         return
 
-    with open("ai_deals.json", "r", encoding="utf-8") as f:
-        ai_deals = json.load(f)
-    with open("src/i18n/i18n_deals.json", "r", encoding="utf-8") as f:
-        translations = json.load(f)
+    with open(ai_path, "r", encoding="utf-8") as f: ai_deals = json.load(f)
+    with open(i18n_path, "r", encoding="utf-8") as f: translations = json.load(f)
 
     live_file = {}
 
-    # --- STEP 1: SMART DICTIONARY (FIXES ENGLISH BADGES) ---
-    # This maps English strings like "20% OFF" to their translations
+    # 1. SMART DICTIONARY (Fixes English Badges & Pricing)
     for tool in ai_deals:
-        p = tool.get("pricing_info", "N/A")
-        b = tool.get("discount_amount", "N/A")
-        t_name = tool.get("tool_name")
-
+        p, b, t_name = tool.get("pricing_info", "N/A"), tool.get("discount_amount", "N/A"), tool.get("tool_name")
         if t_name in translations:
             t_data = translations[t_name]
-            # Use the new ISO-based keys from translator.py
-            # Map pricing string to its translation object
-            live_file[p] = t_data.get("pricing", {})
-            # Map badge/discount string to its translation object
-            live_file[b] = t_data.get("discount", {})
+            # Handles both "pricing/price" and "discount/badge" keys automatically
+            live_file[p] = {code: get_val(t_data.get("pricing", t_data.get("price", {})), code) for code in LANG_MAP}
+            live_file[b] = {code: get_val(t_data.get("discount", t_data.get("badge", {})), code) for code in LANG_MAP}
 
-    # --- STEP 2: TOOL DESCRIPTIONS & FEATURES ---
-    # This provides the detailed info for each tool card and comparison window
+    # 2. TOOL DESCRIPTIONS
     for name, data in translations.items():
-        entry = {}
-        for lang in LANG_CODES:
-            entry[lang] = {
-                "description": data.get("description", {}).get(lang, ""),
-                "features": data.get("features", {}).get(lang, ""),
-                # UI expects "badge", so we map our new "discount" key to it
-                "badge": data.get("discount", {}).get(lang, ""),
-                "pricing": data.get("pricing", {}).get(lang, "")
-            }
-        live_file[name] = entry
+        live_file[name] = {
+            code: {
+                "description": get_val(data.get("description", {}), code),
+                "features": get_val(data.get("features", {}), code),
+                "badge": get_val(data.get("discount", data.get("badge", {})), code),
+                "pricing": get_val(data.get("pricing", data.get("price", {})), code)
+            } for code in LANG_MAP
+        }
 
-    # --- STEP 3: SAVE TO LIVE SITE ---
     output_path = "src/i18n/tool-translations.json"
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(live_file, f, indent=2, ensure_ascii=False)
+    print(f"✅ Sync Complete. {len(live_file)} tools restored.")
 
-    print(f"✅ Synced {len(live_file)} tools and UI strings to the live dictionary.")
-
-if __name__ == "__main__":
-    sync()
+if __name__ == "__main__": sync()
