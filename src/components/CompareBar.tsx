@@ -22,7 +22,7 @@ export function CompareBar({
 
   return (
     <>
-      <div className="fixed inset-x-0 bottom-0 z-40 border-t border-electric/30 bg-card/95 backdrop-blur-xl shadow-[0_-10px_40px_-10px_oklch(0.72_0.21_245/0.4)]">
+      <div className="fixed inset-x-0 bottom-0 z-40 border-t border-electric/30 bg-card/95 backdrop-blur-xl shadow-[0_-10px_40px_-10px_oklch(0.72_0.21_245/0.4)] pb-[env(safe-area-inset-bottom)]">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 py-3">
           <div className="mr-2 flex items-center gap-2 text-sm font-semibold">
             <GitCompareArrows className="h-4 w-4 text-electric" />
