@@ -1309,9 +1309,9 @@
     {
         "tool_name": "HubSpot Marketing Hub",
         "tool_url": "https://www.hubspot.com/products/marketing",
-        "code": "HUBMARKET2023",
-        "discount_amount": "20%",
-        "pricing_info": "Starts at $50/month after discount",
+        "code": "N/A",
+        "discount_amount": "Save up to 40% off Starter",
+        "pricing_info": "Get Starter now: $9/mo (was $15) billed annually, or $15/mo (was $20) billed monthly. New customers only.",
         "key_features": "Email marketing, SEO tools, social media management, analytics, and marketing automation.",
         "description": "HubSpot Marketing Hub is a comprehensive marketing software platform that provides tools for inbound marketing, including content management, email marketing, and analytics. It is designed to help businesses attract visitors, convert leads, and close customers.",
         "category": "Marketing AI"
