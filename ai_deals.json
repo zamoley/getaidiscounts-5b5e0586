@@ -707,16 +707,6 @@
         "category": "Music AI"
     },
     {
-        "tool_name": "Chatbot Creator",
-        "tool_url": "https://www.chatbotcreator.com",
-        "code": "CHAT2023",
-        "discount_amount": "20%",
-        "pricing_info": "Free tier available, Pro at $49/month",
-        "key_features": "Intuitive interface, Multi-channel support, Integrates with existing applications",
-        "description": "Chatbot Creator is a no-code platform that enables users to build and deploy chatbots across multiple channels. It provides templates and a visual designer to facilitate the creation of interactive and conversational agents without requiring any programming knowledge.",
-        "category": "No-Code AI"
-    },
-    {
         "tool_name": "AI Content Generator",
         "tool_url": "https://www.aicontentgenerator.com",
         "code": "AICG2023",
