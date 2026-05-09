@@ -1159,9 +1159,9 @@
     {
         "tool_name": "LANDR",
         "tool_url": "https://www.landr.com",
-        "code": "LANDR2023",
-        "discount_amount": "20%",
-        "pricing_info": "Starting from $5/month for basic features.",
+        "code": "35OFF",
+        "discount_amount": "35%",
+        "pricing_info": "Starting from $8.25/month for basic features.",
         "key_features": "Automated mastering, sample library, collaboration tools.",
         "description": "LANDR is an online music production platform that provides automated mastering services along with tools for mixing, distribution, and collaboration. It uses artificial intelligence to analyze audio tracks and apply mastering techniques, enabling musicians to achieve studio-quality sound effortlessly.",
         "category": "Music AI"
