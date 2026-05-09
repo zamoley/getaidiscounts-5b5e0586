@@ -677,16 +677,6 @@
         "category": "Coding AI"
     },
     {
-        "tool_name": "AI Factory",
-        "tool_url": "https://www.aifactory.com",
-        "code": "AIF123",
-        "discount_amount": "15%",
-        "pricing_info": "Starting at $199/month",
-        "key_features": "Predictive maintenance, Quality control, Production optimization",
-        "description": "AI Factory provides industrial solutions that leverage artificial intelligence to enhance manufacturing processes. By applying advanced algorithms, the platform enables predictive maintenance, quality control, and production optimization.",
-        "category": "Industrial AI"
-    },
-    {
         "tool_name": "Predictive Analytics Tool",
         "tool_url": "https://www.predictiveanalyticstool.com",
         "code": "PAT789",
