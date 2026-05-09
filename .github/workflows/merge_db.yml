@@ -6,6 +6,9 @@ on:
 jobs:
   merge:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes back to the repo
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -13,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
       - name: Run Merge Script
         run: python merge_tools.py
