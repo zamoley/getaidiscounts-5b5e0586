@@ -1,6 +1,6 @@
 import json, os
 
-# The Bridge: Maps every possible name to the ISO codes the website needs
+# Standard ISO mapping
 LANG_MAP = {
     "en": ["en", "English"],
     "uk": ["uk", "Ukrainian"],
@@ -14,7 +14,7 @@ LANG_MAP = {
 }
 
 def get_val(data_dict, lang_key):
-    """Looks for ISO code first, then Full Name."""
+    """Deep lookup: handles ISO codes AND Full Names."""
     if not data_dict: return ""
     for variation in LANG_MAP.get(lang_key, [lang_key]):
         if variation in data_dict:
@@ -32,17 +32,18 @@ def sync():
 
     live_file = {}
 
-    # 1. SMART DICTIONARY (Fixes English Badges & Pricing)
+    # 1. FIX THE BADGES & PRICING (The UI Pills)
     for tool in ai_deals:
         p, b, t_name = tool.get("pricing_info", "N/A"), tool.get("discount_amount", "N/A"), tool.get("tool_name")
         if t_name in translations:
             t_data = translations[t_name]
-            # Handles both "pricing/price" and "discount/badge" keys automatically
+            # Map the exact English string to its Japanese/Ukrainian counterpart
             live_file[p] = {code: get_val(t_data.get("pricing", t_data.get("price", {})), code) for code in LANG_MAP}
             live_file[b] = {code: get_val(t_data.get("discount", t_data.get("badge", {})), code) for code in LANG_MAP}
 
-    # 2. TOOL DESCRIPTIONS
+    # 2. FIX THE CARDS (Descriptions & Features)
     for name, data in translations.items():
+        # This structure works for both 'Modern' and 'Classic' Lovable code
         live_file[name] = {
             code: {
                 "description": get_val(data.get("description", {}), code),
@@ -56,6 +57,6 @@ def sync():
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(live_file, f, indent=2, ensure_ascii=False)
-    print(f"✅ Sync Complete. {len(live_file)} tools restored.")
+    print(f"✅ Master Repair Complete. {len(live_file)} tools restored.")
 
 if __name__ == "__main__": sync()
