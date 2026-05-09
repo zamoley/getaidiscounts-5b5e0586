@@ -1,16 +1,21 @@
 name: Monday Narnia Harvest
+
 on:
   schedule:
-    - cron: '0 0 * * 1' # Every Monday at Midnight
+    - cron: '0 0 * * 1' # Every Monday at Midnight UTC
   workflow_dispatch: # Allows manual run
 
 jobs:
   harvest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes back to the repo
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches all history so we can merge safely
+          fetch-depth: 0 # Fetches all history so we can rebase safely
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,17 +40,15 @@ jobs:
 
       - name: Sync Translations to Live Site
         run: python sync_translations.py
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Commit and Push
         run: |
           git config --global user.name "AI Narnia Scout"
           git config --global user.email "scout@getaidiscounts.com"
-          git add ai_deals.json src/i18n/*.json
-          git commit -m "Monday Narnia Update: New Tools & Categories [skip ci]" || echo "No changes"
-          
-          # This is the fix: Grab latest changes from GitHub before pushing
+
+          # Pull latest remote changes BEFORE committing to avoid rebase conflicts
           git pull --rebase origin main
-          
+
+          git add ai_deals.json src/i18n/*.json
+          git commit -m "Monday Narnia Update: New Tools & Categories [skip ci]" || echo "No changes to commit"
           git push origin main
