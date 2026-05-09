@@ -1,4 +1,59 @@
 {
+  "20% OFF": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
+  },
+  "10% OFF": {
+    "en": "10% OFF",
+    "uk": "ЗНИЖКА 10%",
+    "ja": "10% オフ",
+    "es": "10% DTO",
+    "pt": "10% DTO",
+    "fr": "10% DE RABAIS",
+    "de": "10% RABATT",
+    "zh": "10% 折扣",
+    "it": "10% DI SCONTO"
+  },
+  "25% OFF": {
+    "en": "25% OFF",
+    "uk": "ЗНИЖКА 25%",
+    "ja": "25% オフ",
+    "es": "25% DTO",
+    "pt": "25% DTO",
+    "fr": "25% DE RABAIS",
+    "de": "25% RABATT",
+    "zh": "25% 折扣",
+    "it": "25% DI SCONTO"
+  },
+  "Free Trial": {
+    "en": "Free Trial",
+    "uk": "Безкоштовна пробна версія",
+    "ja": "無料トライアル",
+    "es": "Prueba gratis",
+    "pt": "Teste Grátis",
+    "fr": "Essai gratuit",
+    "de": "Kostenlose Testversion",
+    "zh": "免费试用",
+    "it": "Prova gratuita"
+  },
+  "Free Credits": {
+    "en": "Free Credits",
+    "uk": "Безкоштовні кредити",
+    "ja": "無料クレジット",
+    "es": "Créditos gratis",
+    "pt": "Créditos grátis",
+    "fr": "Crédits gratuits",
+    "de": "Kostenlose Credits",
+    "zh": "免费额度",
+    "it": "Crediti gratuiti"
+  },
   "Midjourney": {
     "en": {
       "description": "The world's leading AI image generation tool.",
@@ -7221,6 +7276,62 @@
       "key_features": "Canto IA, sintesi vocale, tuning espressivo",
       "badge": "IA musicale",
       "pricing": "A partire da $150"
+    }
+  },
+  "Midjourney Community Access": {
+    "en": {
+      "description": "The Midjourney Community provides a platform for users to interact, share their AI-generated art, and provide feedback to each other. It fosters a sense of community among creators while allowing them to showcase their work and engage in collaborative projects.",
+      "key_features": "Collaborative design, Feedback loops, Portfolio showcase",
+      "badge": "Free Trial",
+      "pricing": "Free access to community features for the first month."
+    },
+    "ja": {
+      "description": "Midjourneyコミュニティは、ユーザーが交流し、AI生成アートを共有し、お互いにフィードバックを提供するためのプラットフォームを提供します。クリエイター間の連帯感を育みながら、作品を展示し、共同プロジェクトに参加することを可能にします。",
+      "key_features": "共同デザイン、フィードバックループ、ポートフォリオ展示",
+      "badge": "無料トライアル",
+      "pricing": "最初の1か月間はコミュニティ機能への無料アクセスが可能です。"
+    },
+    "uk": {
+      "description": "Спільнота Midjourney надає платформу для взаємодії користувачів, обміну ШІ-мистецтвом та відгуками. Це сприяє згуртованості творців, дозволяючи їм демонструвати роботи та брати участь у спільних проектах.",
+      "key_features": "Спільний дизайн, Цикли зворотного зв'язку, Демонстрація портфоліо",
+      "badge": "Безкоштовна пробна версія",
+      "pricing": "Безкоштовний доступ до функцій спільноти протягом першого місяця."
+    },
+    "es": {
+      "description": "La comunidad de Midjourney proporciona una plataforma para que los usuarios interactúen, compartan su arte generado por IA y se brinden comentarios entre sí. Fomenta un sentido de comunidad entre los creadores.",
+      "key_features": "Diseño colaborativo, bucles de retroalimentación, exhibición de portafolio",
+      "badge": "Prueba gratis",
+      "pricing": "Acceso gratuito a las funciones de la comunidad durante el primer mes."
+    },
+    "pt": {
+      "description": "A Comunidade Midjourney fornece uma plataforma para os usuários interagirem, compartilharem sua arte gerada por IA e fornecerem feedback uns aos outros.",
+      "key_features": "Design colaborativo, ciclos de feedback, vitrine de portfólio",
+      "badge": "Teste Grátis",
+      "pricing": "Acesso gratuito aos recursos da comunidade no primeiro mês."
+    },
+    "fr": {
+      "description": "La communauté Midjourney offre une plateforme permettant aux utilisateurs d'interagir, de partager leur art généré par l'IA et de se donner des retours mutuels.",
+      "key_features": "Design collaborativo, boucles de rétroaction, présentation de portfolio",
+      "badge": "Essai gratuit",
+      "pricing": "Accès gratuit aux fonctionnalités de la communauté pendant le premier mois."
+    },
+    "de": {
+      "description": "Die Midjourney-Community bietet eine Plattform für Benutzer, um zu interagieren, ihre KI-generierte Kunst zu teilen und sich gegenseitig Feedback zu geben.",
+      "key_features": "Kollaboratives Design, Feedback-Schleifen, Portfolio-Präsentation",
+      "badge": "Kostenlose Testversion",
+      "pricing": "Kostenloser Zugriff auf Community-Funktionen im ersten Monat."
+    },
+    "zh": {
+      "description": "Midjourney 社区为用户提供了一个互动、分享 AI 生成艺术并互相提供反馈的平台。",
+      "key_features": "协作设计、反馈循环、投资组合展示",
+      "badge": "免费试用",
+      "pricing": "首月免费访问社区功能。"
+    },
+    "it": {
+      "description": "La Midjourney Community fornisce una piattaforma in cui gli utenti possono interagire, condividere la propria arte generata dall'IA e fornirsi feedback a vicenda.",
+      "key_features": "Design collaborativo, loop di feedback, vetrina del portfolio",
+      "badge": "Prova gratuita",
+      "pricing": "Accesso gratuito alle funzionalità della comunità per il primo mese."
     }
   }
 }
