@@ -61,7 +61,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
     try {
       const result = await castVoteFn({ data: { dealId: dealId, vote: v } });
       if (!result.ok) {
-        toast.error("You've already voted on this deal");
+        toast.error(t("vote.already_voted"));
         const map = { ...getVoted(), [dealId]: v };
         setVoted(map);
         setMyVote(v);
@@ -71,9 +71,9 @@ export function VoteButtons({ dealId }: { dealId: string }) {
       setVoted(map);
       setMyVote(v);
       setCounts(result.counts);
-      toast.success(v === "worked" ? "Thanks — marked as Worked" : "Thanks — flagged as Broken");
+      toast.success(v === "worked" ? t("vote.thanks_worked") : t("vote.thanks_broken"));
     } catch {
-      toast.error("Couldn't record your vote");
+      toast.error(t("vote.vote_error"));
     } finally {
       setLoading(null);
     }
