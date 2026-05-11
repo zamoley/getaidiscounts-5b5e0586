@@ -4,6 +4,7 @@ import { createServerFn, useServerFn } from "@tanstack/react-start";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 import { z } from "zod";
+import { useTranslation } from "react-i18next";
 
 const STORAGE_KEY = "gad_votes_v1";
 
