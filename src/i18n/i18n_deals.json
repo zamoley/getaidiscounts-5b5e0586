@@ -5885,6 +5885,115 @@
       "German": "",
       "Chinese": "",
       "Italian": ""
+    },
+     "1min.ai": {
+        "description": {
+            "en": "All-in-one platform for creative needs with multi-model access.",
+            "zh": "一站式创意平台，支持多种模型访问。",
+            "uk": "Все-в-одному платформа для творчих потреб з доступом до багатьох моделей."
+        },
+        "features": {
+            "en": "Chat, Image, Audio, Video, Coding",
+            "zh": "聊天、图像、音频、视频、编程",
+            "uk": "Чат, зображення, аудіо, відео, кодування"
+        },
+        "discount": {
+            "en": "20% OFF",
+            "zh": "20% 折扣",
+            "uk": "ЗНИЖКА 20%"
+        },
+        "pricing": {
+            "en": "Starts at $9/mo",
+            "zh": "起价$9/月",
+            "uk": "Від $9/міс"
+        }
+    },
+    "Monica.im": {
+        "description": {
+            "en": "Powerful browser-based AI copilot with unified model access.",
+            "zh": "强大的浏览器 AI 助手，统一模型访问。",
+            "uk": "Потужний браузерний ШІ-копілот з уніфікованим доступом до моделей."
+        },
+        "features": {
+            "en": "Multi-LLM Chat, Coding, Artifacts, Browser Integration",
+            "zh": "多模型聊天、编程、Artifacts、浏览器集成",
+            "uk": "Мульти-LLM чат, кодування, артефакти, інтеграція в браузер"
+        },
+        "discount": {
+            "en": "15% OFF",
+            "zh": "15% 折扣",
+            "uk": "ЗНИЖКА 15%"
+        },
+        "pricing": {
+            "en": "Starts at $10/mo",
+            "zh": "起价$10/月",
+            "uk": "Від $10/міс"
+        }
+    },
+    "Poe": {
+        "description": {
+            "en": "Quora's unified AI chat platform for nearly every major model.",
+            "zh": "Quora 的统一 AI 聊天平台，支持几乎所有主流模型。",
+            "uk": "Уніфікована чат-платформа ШІ від Quora для майже всіх основних моделей."
+        },
+        "features": {
+            "en": "GPT-4o, Claude 3.5, Gemini 1.5, Custom Bots",
+            "zh": "GPT-4o, Claude 3.5, Gemini 1.5, 自定义机器人",
+            "uk": "GPT-4o, Claude 3.5, Gemini 1.5, кастомні боти"
+        },
+        "discount": {
+            "en": "Free Credits",
+            "zh": "免费额度",
+            "uk": "Безкоштовні кредити"
+        },
+        "pricing": {
+            "en": "$20/mo for Pro",
+            "zh": "Pro版 $20/月",
+            "uk": "$20/міс за Pro"
+        }
+    },
+    "Magai": {
+        "description": {
+            "en": "A professional AI interface designed for creators and teams.",
+            "zh": "为创作者和团队设计的专业 AI 界面。",
+            "uk": "Професійний інтерфейс ШІ, розроблений для творців та команд."
+        },
+        "features": {
+            "en": "Multi-model integration, Team Chat, Project Organization",
+            "zh": "多模型集成、团队聊天、项目组织",
+            "uk": "Інтеграція багатьох моделей, командний чат, організація проектів"
+        },
+        "discount": {
+            "en": "20% OFF",
+            "zh": "20% 折扣",
+            "uk": "ЗНИЖКА 20%"
+        },
+        "pricing": {
+            "en": "Starts at $9/mo",
+            "zh": "起价$9/月",
+            "uk": "Від $9/міс"
+        }
+    },
+    "i10X.ai": {
+        "description": {
+            "en": "Aggregator of 3000+ specialized AI tools under one roof.",
+            "zh": "汇集 3000+ 专业 AI 工具的聚合平台。",
+            "uk": "Агрегатор 3000+ спеціалізованих інструментів ШІ під одним дахом."
+        },
+        "features": {
+            "en": "3000+ AI Tools, Unified Search, One Subscription",
+            "zh": "3000+ AI 工具、统一搜索、单一订阅",
+            "uk": "3000+ інструментів ШІ, уніфікований пошук, одна підписка"
+        },
+        "discount": {
+            "en": "15% OFF",
+            "zh": "15% 折扣",
+            "uk": "ЗНИЖКА 15%"
+        },
+        "pricing": {
+            "en": "Varies by tool",
+            "zh": "因工具而异",
+            "uk": "Варіюється залежно від інструменту"
+        }
     }
-  }
 }
