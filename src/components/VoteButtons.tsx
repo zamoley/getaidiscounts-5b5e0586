@@ -88,7 +88,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
         <button
           onClick={() => vote("worked")}
           disabled={!!myVote || !!loading}
-          aria-label="Mark as worked"
+          aria-label={t("vote.mark_worked")}
           className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs transition-all ${
             myVote === "worked"
               ? "bg-electric/15 text-electric ring-1 ring-electric/40"
@@ -96,13 +96,13 @@ export function VoteButtons({ dealId }: { dealId: string }) {
           } ${myVote && myVote !== "worked" ? "opacity-50" : ""}`}
         >
           <ThumbsUp className="h-3.5 w-3.5" />
-          Worked
+          {t("vote.worked")}
           <span className="font-mono">{counts.worked}</span>
         </button>
         <button
           onClick={() => vote("broken")}
           disabled={!!myVote || !!loading}
-          aria-label="Mark as broken"
+          aria-label={t("vote.mark_broken")}
           className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs transition-all ${
             myVote === "broken"
               ? "bg-destructive/15 text-destructive ring-1 ring-destructive/40"
@@ -110,13 +110,13 @@ export function VoteButtons({ dealId }: { dealId: string }) {
           } ${myVote && myVote !== "broken" ? "opacity-50" : ""}`}
         >
           <ThumbsDown className="h-3.5 w-3.5" />
-          Broken
+          {t("vote.broken")}
           <span className="font-mono">{counts.broken}</span>
         </button>
       </div>
       {pct !== null && (
         <span className="text-[10px] uppercase tracking-wider text-muted-foreground">
-          {pct}% trust
+          {pct}% {t("vote.trust")}
         </span>
       )}
     </div>
