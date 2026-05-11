@@ -147,5 +147,16 @@
     "email_invalid": "Enter a valid email",
     "success": "Request received! We'll hunt down a deal.",
     "error": "Couldn't submit. Try again."
+  },
+  "vote": {
+    "worked": "Worked",
+    "broken": "Broken",
+    "trust": "trust",
+    "mark_worked": "Mark as worked",
+    "mark_broken": "Mark as broken",
+    "already_voted": "You've already voted on this deal",
+    "thanks_worked": "Thanks — marked as Worked",
+    "thanks_broken": "Thanks — flagged as Broken",
+    "vote_error": "Couldn't record your vote"
   }
 }

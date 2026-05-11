@@ -184,5 +184,16 @@
   "84% OFF": "84% オフ",
   "Free Credits": "無料クレジット",
   "Up to 50% OFF": "最大50%オフ",
-  "Free Tier Available": "無料プランあり"
+  "Free Tier Available": "無料プランあり",
+  "vote": {
+    "worked": "使えた",
+    "broken": "使えない",
+    "trust": "信頼度",
+    "mark_worked": "使えたとマーク",
+    "mark_broken": "使えないとマーク",
+    "already_voted": "このディールには既に投票済みです",
+    "thanks_worked": "ありがとう — 「使えた」と記録しました",
+    "thanks_broken": "ありがとう — 「使えない」と報告しました",
+    "vote_error": "投票を記録できませんでした"
+  }
 }

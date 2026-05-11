@@ -147,5 +147,16 @@
     "email_invalid": "Gültige E-Mail eingeben",
     "success": "Anfrage erhalten! Wir suchen einen Deal.",
     "error": "Konnte nicht gesendet werden. Erneut versuchen."
+  },
+  "vote": {
+    "worked": "Funktioniert",
+    "broken": "Defekt",
+    "trust": "Vertrauen",
+    "mark_worked": "Als funktionierend markieren",
+    "mark_broken": "Als defekt markieren",
+    "already_voted": "Sie haben bereits für dieses Angebot abgestimmt",
+    "thanks_worked": "Danke — als „Funktioniert“ markiert",
+    "thanks_broken": "Danke — als „Defekt“ gemeldet",
+    "vote_error": "Stimme konnte nicht gespeichert werden"
   }
 }

@@ -147,5 +147,16 @@
     "email_invalid": "Inserisci un'email valida",
     "success": "Richiesta ricevuta! Cercheremo un'offerta.",
     "error": "Invio non riuscito. Riprova."
+  },
+  "vote": {
+    "worked": "Ha funzionato",
+    "broken": "Non funziona",
+    "trust": "affidabilità",
+    "mark_worked": "Segna come funzionante",
+    "mark_broken": "Segna come non funzionante",
+    "already_voted": "Hai già votato questa offerta",
+    "thanks_worked": "Grazie — segnato come «Ha funzionato»",
+    "thanks_broken": "Grazie — segnalato come «Non funziona»",
+    "vote_error": "Impossibile registrare il tuo voto"
   }
 }

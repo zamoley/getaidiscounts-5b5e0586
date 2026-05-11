@@ -147,5 +147,16 @@
     "email_invalid": "E-mail invalide",
     "success": "Demande reçue ! Nous cherchons un deal.",
     "error": "Échec de l'envoi. Réessayez."
+  },
+  "vote": {
+    "worked": "Fonctionne",
+    "broken": "Ne fonctionne pas",
+    "trust": "confiance",
+    "mark_worked": "Marquer comme fonctionne",
+    "mark_broken": "Marquer comme ne fonctionne pas",
+    "already_voted": "Vous avez déjà voté pour cette offre",
+    "thanks_worked": "Merci — marqué comme Fonctionne",
+    "thanks_broken": "Merci — signalé comme Ne fonctionne pas",
+    "vote_error": "Impossible d'enregistrer votre vote"
   }
 }

@@ -4,6 +4,7 @@ import { createServerFn, useServerFn } from "@tanstack/react-start";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 import { z } from "zod";
+import { useTranslation } from "react-i18next";
 
 const STORAGE_KEY = "gad_votes_v1";
 
@@ -36,6 +37,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
   const [myVote, setMyVote] = useState<"worked" | "broken" | null>(null);
   const [loading, setLoading] = useState<"worked" | "broken" | null>(null);
   const castVoteFn = useServerFn(castVote);
+  const { t } = useTranslation();
 
   useEffect(() => {
     setMyVote(getVoted()[dealId] ?? null);
@@ -59,7 +61,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
     try {
       const result = await castVoteFn({ data: { dealId: dealId, vote: v } });
       if (!result.ok) {
-        toast.error("You've already voted on this deal");
+        toast.error(t("vote.already_voted"));
         const map = { ...getVoted(), [dealId]: v };
         setVoted(map);
         setMyVote(v);
@@ -69,9 +71,9 @@ export function VoteButtons({ dealId }: { dealId: string }) {
       setVoted(map);
       setMyVote(v);
       setCounts(result.counts);
-      toast.success(v === "worked" ? "Thanks — marked as Worked" : "Thanks — flagged as Broken");
+      toast.success(v === "worked" ? t("vote.thanks_worked") : t("vote.thanks_broken"));
     } catch {
-      toast.error("Couldn't record your vote");
+      toast.error(t("vote.vote_error"));
     } finally {
       setLoading(null);
     }
@@ -86,7 +88,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
         <button
           onClick={() => vote("worked")}
           disabled={!!myVote || !!loading}
-          aria-label="Mark as worked"
+          aria-label={t("vote.mark_worked")}
           className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs transition-all ${
             myVote === "worked"
               ? "bg-electric/15 text-electric ring-1 ring-electric/40"
@@ -94,13 +96,13 @@ export function VoteButtons({ dealId }: { dealId: string }) {
           } ${myVote && myVote !== "worked" ? "opacity-50" : ""}`}
         >
           <ThumbsUp className="h-3.5 w-3.5" />
-          Worked
+          {t("vote.worked")}
           <span className="font-mono">{counts.worked}</span>
         </button>
         <button
           onClick={() => vote("broken")}
           disabled={!!myVote || !!loading}
-          aria-label="Mark as broken"
+          aria-label={t("vote.mark_broken")}
           className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs transition-all ${
             myVote === "broken"
               ? "bg-destructive/15 text-destructive ring-1 ring-destructive/40"
@@ -108,13 +110,13 @@ export function VoteButtons({ dealId }: { dealId: string }) {
           } ${myVote && myVote !== "broken" ? "opacity-50" : ""}`}
         >
           <ThumbsDown className="h-3.5 w-3.5" />
-          Broken
+          {t("vote.broken")}
           <span className="font-mono">{counts.broken}</span>
         </button>
       </div>
       {pct !== null && (
         <span className="text-[10px] uppercase tracking-wider text-muted-foreground">
-          {pct}% trust
+          {pct}% {t("vote.trust")}
         </span>
       )}
     </div>
