@@ -30,7 +30,8 @@
     "Code": "コード",
     "Agents": "エージェント",
     "Chat": "チャット",
-    "Image": "画像"
+    "Image": "画像",
+    "All-in-One AI": "オールインワンAI"
   },
   "hero": {
     "badge": "{{count}}件が有効 · {{date}}更新",
@@ -171,10 +172,7 @@
   "$10/mo": "月額$10",
   "$200 in free credits": "$200分の無料クレジット",
   "$50 in free credits for new accounts": "新規アカウント向けの$50無料クレジット",
-  "10% OFF": "10% オフ",
   "17% OFF": "17% オフ",
-  "20% OFF": "20% オフ",
-  "25% OFF": "25% オフ",
   "33% OFF": "33% オフ",
   "35%": "35% オフ",
   "40% OFF": "40% オフ",
@@ -186,14 +184,5 @@
   "84% OFF": "84% オフ",
   "Free Credits": "無料クレジット",
   "Up to 50% OFF": "最大50%オフ",
-  "Free Tier Available": "無料プランあり",
-  "Starts at $10/mo": "月額$10から",
-  "Starts at $5/mo": "月額$5から",
-  "Starts at $24/mo": "月額$24から",
-  "Starts at $29/mo": "月額$29から",
-  "Starts at $129/mo": "月額$129から",
-  "Starts at $19/mo": "月額$19から",
-  "Free or $15/mo Starter": "無料、または月額$15のStarter",
-  "Free or $13/mo": "無料、または月額$13",
-  "Usage-based": "従量課金制"
+  "Free Tier Available": "無料プランあり"
 }

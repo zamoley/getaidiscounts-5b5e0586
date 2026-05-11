@@ -30,7 +30,8 @@
     "Code": "代码",
     "Agents": "代理",
     "Chat": "聊天",
-    "Image": "图像"
+    "Image": "图像",
+    "All-in-One AI": "一体化人工智能"
   },
   "hero": {
     "badge": "{{count}}个可用 · 更新于{{date}}",

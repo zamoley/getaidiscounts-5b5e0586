@@ -5888,113 +5888,555 @@
     }
   },
   "1min.ai": {
-        "description": {
-            "en": "All-in-one platform for creative needs with multi-model access.",
-            "zh": "一站式创意平台，支持多种模型访问。",
-            "uk": "Все-в-одному платформа для творчих потреб з доступом до багатьох моделей."
-        },
-        "features": {
-            "en": "Chat, Image, Audio, Video, Coding",
-            "zh": "聊天、图像、音频、视频、编程",
-            "uk": "Чат, зображення, аудіо, відео, кодування"
-        },
-        "discount": {
-            "en": "20% OFF",
-            "zh": "20% 折扣",
-            "uk": "ЗНИЖКА 20%"
-        },
-        "pricing": {
-            "en": "Starts at $9/mo",
-            "zh": "起价$9/月",
-            "uk": "Від $9/міс"
-        }
+    "description": {
+      "English": "All-in-one platform for creative needs with multi-model access.",
+      "Ukrainian": "Універсальна платформа для творчих потреб з мультимодельним доступом.",
+      "Japanese": "マルチモデルアクセスを備えたクリエイティブなニーズに対応するオールインワンプラットフォーム。",
+      "Spanish": "Plataforma todo en uno para necesidades creativas con acceso multimotor.",
+      "Portuguese": "Plataforma tudo em um para necessidades criativas com acesso multimodelos.",
+      "French": "Plateforme tout-en-un pour les besoins créatifs avec accès multi-modèles.",
+      "German": "All-in-One-Plattform für kreative Bedürfnisse mit Multi-Modell-Zugriff.",
+      "Chinese": "多模型访问的一体化创意平台。",
+      "Italian": "Piattaforma all-in-one per esigenze creative con accesso multimodello."
     },
-    "Monica.im": {
-        "description": {
-            "en": "Powerful browser-based AI copilot with unified model access.",
-            "zh": "强大的浏览器 AI 助手，统一模型访问。",
-            "uk": "Потужний браузерний ШІ-копілот з уніфікованим доступом до моделей."
-        },
-        "features": {
-            "en": "Multi-LLM Chat, Coding, Artifacts, Browser Integration",
-            "zh": "多模型聊天、编程、Artifacts、浏览器集成",
-            "uk": "Мульти-LLM чат, кодування, артефакти, інтеграція в браузер"
-        },
-        "discount": {
-            "en": "15% OFF",
-            "zh": "15% 折扣",
-            "uk": "ЗНИЖКА 15%"
-        },
-        "pricing": {
-            "en": "Starts at $10/mo",
-            "zh": "起价$10/月",
-            "uk": "Від $10/міс"
-        }
+    "features": {
+      "English": "Chat, Image, Audio, Video, Coding",
+      "Ukrainian": "Чат, Зображення, Аудіо, Відео, Кодування",
+      "Japanese": "チャット、画像、オーディオ、ビデオ、コーディング",
+      "Spanish": "Chat, Imagen, Audio, Video, Codificación",
+      "Portuguese": "Chat, Imagem, Áudio, Vídeo, Codificação",
+      "French": "Chat, Image, Audio, Vidéo, Codage",
+      "German": "Chat, Bild, Audio, Video, Codierung",
+      "Chinese": "聊天、图像、音频、视频、编码",
+      "Italian": "Chat, Immagine, Audio, Video, Codifica"
     },
-    "Poe": {
-        "description": {
-            "en": "Quora's unified AI chat platform for nearly every major model.",
-            "zh": "Quora 的统一 AI 聊天平台，支持几乎所有主流模型。",
-            "uk": "Уніфікована чат-платформа ШІ від Quora для майже всіх основних моделей."
-        },
-        "features": {
-            "en": "GPT-4o, Claude 3.5, Gemini 1.5, Custom Bots",
-            "zh": "GPT-4o, Claude 3.5, Gemini 1.5, 自定义机器人",
-            "uk": "GPT-4o, Claude 3.5, Gemini 1.5, кастомні боти"
-        },
-        "discount": {
-            "en": "Free Credits",
-            "zh": "免费额度",
-            "uk": "Безкоштовні кредити"
-        },
-        "pricing": {
-            "en": "$20/mo for Pro",
-            "zh": "Pro版 $20/月",
-            "uk": "$20/міс за Pro"
-        }
+    "badge": {
+      "English": "20% OFF",
+      "Ukrainian": "ЗНИЖКА 20%",
+      "Japanese": "20% オフ",
+      "Spanish": "20% DE DESCUENTO",
+      "Portuguese": "20% DE DESCONTO",
+      "French": "20% DE RÉDUCTION",
+      "German": "20% RABATT",
+      "Chinese": "八折优惠",
+      "Italian": "SCONTO DEL 20%"
     },
-    "Magai": {
-        "description": {
-            "en": "A professional AI interface designed for creators and teams.",
-            "zh": "为创作者和团队设计的专业 AI 界面。",
-            "uk": "Професійний інтерфейс ШІ, розроблений для творців та команд."
-        },
-        "features": {
-            "en": "Multi-model integration, Team Chat, Project Organization",
-            "zh": "多模型集成、团队聊天、项目组织",
-            "uk": "Інтеграція багатьох моделей, командний чат, організація проектів"
-        },
-        "discount": {
-            "en": "20% OFF",
-            "zh": "20% 折扣",
-            "uk": "ЗНИЖКА 20%"
-        },
-        "pricing": {
-            "en": "Starts at $9/mo",
-            "zh": "起价$9/月",
-            "uk": "Від $9/міс"
-        }
-    },
-    "i10X.ai": {
-        "description": {
-            "en": "Aggregator of 3000+ specialized AI tools under one roof.",
-            "zh": "汇集 3000+ 专业 AI 工具的聚合平台。",
-            "uk": "Агрегатор 3000+ спеціалізованих інструментів ШІ під одним дахом."
-        },
-        "features": {
-            "en": "3000+ AI Tools, Unified Search, One Subscription",
-            "zh": "3000+ AI 工具、统一搜索、单一订阅",
-            "uk": "3000+ інструментів ШІ, уніфікований пошук, одна підписка"
-        },
-        "discount": {
-            "en": "15% OFF",
-            "zh": "15% 折扣",
-            "uk": "ЗНИЖКА 15%"
-        },
-        "pricing": {
-            "en": "Varies by tool",
-            "zh": "因工具而异",
-            "uk": "Варіюється залежно від інструменту"
-        }
+    "pricing": {
+      "English": "Starts at $9/mo",
+      "Ukrainian": "Починається від $9/міс",
+      "Japanese": "月額9ドルから",
+      "Spanish": "Desde $9/mes",
+      "Portuguese": "A partir de $9/mês",
+      "French": "À partir de 9 $/mois",
+      "German": "Ab $9/Monat",
+      "Chinese": "每月9美元起",
+      "Italian": "A partire da $9/mese"
     }
+  },
+  "Monica.im": {
+    "description": {
+      "English": "All-in-one AI assistant offering chat, writing, search, and translation.",
+      "Ukrainian": "Універсальний ШІ-асистент, що пропонує чат, письмо, пошук та переклад.",
+      "Japanese": "チャット、ライティング、検索、翻訳を提供するオールインワンAIアシスタント。",
+      "Spanish": "Asistente de IA todo en uno que ofrece chat, escritura, búsqueda y traducción.",
+      "Portuguese": "Assistente de IA tudo em um que oferece chat, escrita, pesquisa e tradução.",
+      "French": "Assistant IA tout-en-un offrant chat, écriture, recherche et traduction.",
+      "German": "All-in-One-KI-Assistent, der Chat, Schreiben, Suchen und Übersetzen anbietet.",
+      "Chinese": "一体化AI助手，提供聊天、写作、搜索和翻译功能。",
+      "Italian": "Assistente AI tutto in uno che offre chat, scrittura, ricerca e traduzione."
+    },
+    "features": {
+      "English": "Chat, Writing, Search, Translation",
+      "Ukrainian": "Чат, Письмо, Пошук, Переклад",
+      "Japanese": "チャット、ライティング、検索、翻訳",
+      "Spanish": "Chat, Escritura, Búsqueda, Traducción",
+      "Portuguese": "Chat, Escrita, Busca, Tradução",
+      "French": "Chat, Écriture, Recherche, Traduction",
+      "German": "Chat, Schreiben, Suche, Übersetzung",
+      "Chinese": "聊天、写作、搜索、翻译",
+      "Italian": "Chat, Scrittura, Ricerca, Traduzione"
+    },
+    "badge": {
+      "English": "20% OFF",
+      "Ukrainian": "ЗНИЖКА 20%",
+      "Japanese": "20% オフ",
+      "Spanish": "20% DE DESCUENTO",
+      "Portuguese": "20% DE DESCONTO",
+      "French": "20% DE RÉDUCTION",
+      "German": "20% RABATT",
+      "Chinese": "八折优惠",
+      "Italian": "SCONTO DEL 20%"
+    },
+    "pricing": {
+      "English": "Starts at $8.30/mo",
+      "Ukrainian": "Починається від $8.30/міс",
+      "Japanese": "月額8.30ドルから",
+      "Spanish": "Desde $8.30/mes",
+      "Portuguese": "A partir de $8.30/mês",
+      "French": "À partir de 8,30 $/mois",
+      "German": "Ab $8.30/Monat",
+      "Chinese": "每月8.30美元起",
+      "Italian": "A partire da $8.30/mese"
+    }
+  },
+  "Poe": {
+    "description": {
+      "English": "Access multiple top AI models (GPT, Claude, Gemini) in one chat interface.",
+      "Ukrainian": "Доступ до кількох провідних моделей ШІ (GPT, Claude, Gemini) в одному інтерфейсі чату.",
+      "Japanese": "複数のトップAIモデル（GPT、Claude、Gemini）に1つのチャットインターフェースでアクセス。",
+      "Spanish": "Accede a múltiples modelos de IA de primer nivel (GPT, Claude, Gemini) en una única interfaz de chat.",
+      "Portuguese": "Acesse múltiplos modelos de IA de ponta (GPT, Claude, Gemini) em uma única interface de chat.",
+      "French": "Accédez à plusieurs modèles d'IA de premier plan (GPT, Claude, Gemini) dans une seule interface de chat.",
+      "German": "Greifen Sie auf mehrere Top-KI-Modelle (GPT, Claude, Gemini) in einer Chat-Oberfläche zu.",
+      "Chinese": "在一个聊天界面中访问多个顶级AI模型（GPT、Claude、Gemini）。",
+      "Italian": "Accedi a più modelli AI di punta (GPT, Claude, Gemini) in un'unica interfaccia di chat."
+    },
+    "features": {
+      "English": "Multi-model Chat, Bots, Image",
+      "Ukrainian": "Мультимодельний Чат, Боти, Зображення",
+      "Japanese": "マルチモデルチャット、ボット、画像",
+      "Spanish": "Chat multimotor, Bots, Imagen",
+      "Portuguese": "Chat Multi-modelo, Bots, Imagem",
+      "French": "Chat multi-modèles, Bots, Image",
+      "German": "Multi-Modell-Chat, Bots, Bild",
+      "Chinese": "多模型聊天、机器人、图像",
+      "Italian": "Chat multimodello, Bot, Immagine"
+    },
+    "badge": {
+      "English": "Free Trial",
+      "Ukrainian": "Безкоштовна Спроба",
+      "Japanese": "無料トライアル",
+      "Spanish": "Prueba Gratuita",
+      "Portuguese": "Teste Gratuito",
+      "French": "Essai Gratuit",
+      "German": "Kostenlose Testphase",
+      "Chinese": "免费试用",
+      "Italian": "Prova Gratuita"
+    },
+    "pricing": {
+      "English": "Starts at $19.99/mo",
+      "Ukrainian": "Починається від $19.99/міс",
+      "Japanese": "月額19.99ドルから",
+      "Spanish": "Desde $19.99/mes",
+      "Portuguese": "A partir de $19.99/mês",
+      "French": "À partir de 19,99 $/mois",
+      "German": "Ab $19.99/Monat",
+      "Chinese": "每月19.99美元起",
+      "Italian": "A partire da $19.99/mese"
+    }
+  },
+  "Magai": {
+    "description": {
+      "English": "All-in-one AI workspace combining the best AI models for creators.",
+      "Ukrainian": "Універсальний робочий простір ШІ, що поєднує найкращі моделі ШІ для творців.",
+      "Japanese": "クリエイター向けの最高のAIモデルを組み合わせたオールインワンAIワークスペース。",
+      "Spanish": "Espacio de trabajo de IA todo en uno que combina los mejores modelos de IA para creadores.",
+      "Portuguese": "Workspace de IA tudo em um combinando os melhores modelos de IA para criadores.",
+      "French": "Espace de travail IA tout-en-un combinant les meilleurs modèles IA pour les créateurs.",
+      "German": "All-in-One-KI-Arbeitsbereich, der die besten KI-Modelle für Kreative kombiniert.",
+      "Chinese": "一体化AI工作空间，为创作者整合了最佳AI模型。",
+      "Italian": "Spazio di lavoro AI all-in-one che combina i migliori modelli AI per i creatori."
+    },
+    "features": {
+      "English": "Chat, Image, Workspace, Multi-model",
+      "Ukrainian": "Чат, Зображення, Робочий простір, Мультимодель",
+      "Japanese": "チャット、画像、ワークスペース、マルチモデル",
+      "Spanish": "Chat, Imagen, Espacio de trabajo, Multimotor",
+      "Portuguese": "Chat, Imagem, Workspace, Multi-modelo",
+      "French": "Chat, Image, Espace de travail, Multi-modèles",
+      "German": "Chat, Bild, Arbeitsbereich, Multi-Modell",
+      "Chinese": "聊天、图像、工作区、多模型",
+      "Italian": "Chat, Immagine, Spazio di lavoro, Multimodello"
+    },
+    "badge": {
+      "English": "30% OFF",
+      "Ukrainian": "ЗНИЖКА 30%",
+      "Japanese": "30% オフ",
+      "Spanish": "30% DE DESCUENTO",
+      "Portuguese": "30% DE DESCONTO",
+      "French": "30% DE RÉDUCTION",
+      "German": "30% RABATT",
+      "Chinese": "七折优惠",
+      "Italian": "SCONTO DEL 30%"
+    },
+    "pricing": {
+      "English": "Starts at $19/mo",
+      "Ukrainian": "Починається від $19/міс",
+      "Japanese": "月額19ドルから",
+      "Spanish": "Desde $19/mes",
+      "Portuguese": "A partir de $19/mês",
+      "French": "À partir de 19 $/mois",
+      "German": "Ab $19/Monat",
+      "Chinese": "每月19美元起",
+      "Italian": "A partire da $19/mese"
+    }
+  },
+  "i10X.ai": {
+    "description": {
+      "English": "All-in-one AI suite with 100+ tools for content, image, and audio creation.",
+      "Ukrainian": "Універсальний пакет ШІ з понад 100 інструментами для створення контенту, зображень та аудіо.",
+      "Japanese": "コンテンツ、画像、オーディオ作成のための100以上のツールを含むオールインワンAIスイート。",
+      "Spanish": "Suite de IA todo en uno con más de 100 herramientas para la creación de contenido, imágenes y audio.",
+      "Portuguese": "Suite de IA tudo em um com mais de 100 ferramentas para criação de conteúdo, imagem e áudio.",
+      "French": "Suite IA tout-en-un avec plus de 100 outils pour la création de contenu, d'images et d'audio.",
+      "German": "All-in-One-KI-Suite mit über 100 Tools für die Erstellung von Inhalten, Bildern und Audio.",
+      "Chinese": "一体化AI套件，包含100多种用于内容、图像和音频创作的工具。",
+      "Italian": "Suite AI all-in-one con oltre 100 strumenti per la creazione di contenuti, immagini e audio."
+    },
+    "features": {
+      "English": "Multi-tool Suite, Content, Image, Audio",
+      "Ukrainian": "Багатоінструментальний Пакет, Контент, Зображення, Аудіо",
+      "Japanese": "マルチツールスイート、コンテンツ、画像、オーディオ",
+      "Spanish": "Suite multiherramienta, Contenido, Imagen, Audio",
+      "Portuguese": "Suite Multi-ferramentas, Conteúdo, Imagem, Áudio",
+      "French": "Suite multi-outils, Contenu, Image, Audio",
+      "German": "Multi-Tool-Suite, Inhalt, Bild, Audio",
+      "Chinese": "多工具套件、内容、图像、音频",
+      "Italian": "Suite multi-strumento, Contenuto, Immagine, Audio"
+    },
+    "badge": {
+      "English": "50% OFF",
+      "Ukrainian": "ЗНИЖКА 50%",
+      "Japanese": "50% オフ",
+      "Spanish": "50% DE DESCUENTO",
+      "Portuguese": "50% DE DESCONTO",
+      "French": "50% DE RÉDUCTION",
+      "German": "50% RABATT",
+      "Chinese": "五折优惠",
+      "Italian": "SCONTO DEL 50%"
+    },
+    "pricing": {
+      "English": "Starts at $9/mo",
+      "Ukrainian": "Починається від $9/міс",
+      "Japanese": "月額9ドルから",
+      "Spanish": "Desde $9/mes",
+      "Portuguese": "A partir de $9/mês",
+      "French": "À partir de 9 $/mois",
+      "German": "Ab $9/Monat",
+      "Chinese": "每月9美元起",
+      "Italian": "A partire da $9/mese"
+    }
+  },
+  "AIWriteBook": {
+    "description": {
+      "English": "AI-powered tool for writing and structuring full-length books.",
+      "Ukrainian": "Інструмент на основі ШІ для написання та структурування повноцінних книг.",
+      "Japanese": "長編本の執筆と構成のためのAI搭載ツール。",
+      "Spanish": "Herramienta impulsada por IA para escribir y estructurar libros completos.",
+      "Portuguese": "Ferramenta alimentada por IA para escrever e estruturar livros completos.",
+      "French": "Outil alimenté par l'IA pour l'écriture et la structuration de livres entiers.",
+      "German": "KI-gestütztes Tool zum Schreiben und Strukturieren von Büchern in voller Länge.",
+      "Chinese": "AI驱动的工具，用于撰写和构建长篇书籍。",
+      "Italian": "Strumento basato su AI per scrivere e strutturare libri completi."
+    },
+    "features": {
+      "English": "Book Writing, Structure, AI Drafting",
+      "Ukrainian": "Написання Книг, Структура, ШІ-Чернетка",
+      "Japanese": "本の執筆、構成、AIによるドラフト作成",
+      "Spanish": "Escritura de libros, Estructura, Borrador de IA",
+      "Portuguese": "Escrita de Livros, Estrutura, Rascunho de IA",
+      "French": "Écriture de livres, Structure, Rédaction par IA",
+      "German": "Buchschreiben, Struktur, KI-Entwurf",
+      "Chinese": "书籍写作、结构、AI起草",
+      "Italian": "Scrittura di libri, Struttura, Bozza AI"
+    },
+    "badge": {
+      "English": "Exclusive Deal",
+      "Ukrainian": "Ексклюзивна Пропозиція",
+      "Japanese": "限定セール",
+      "Spanish": "Oferta Exclusiva",
+      "Portuguese": "Oferta Exclusiva",
+      "French": "Offre Exclusive",
+      "German": "Exklusivangebot",
+      "Chinese": "独家优惠",
+      "Italian": "Offerta Esclusiva"
+    },
+    "pricing": {
+      "English": "Contact for pricing",
+      "Ukrainian": "Зв'яжіться для отримання цін",
+      "Japanese": "価格についてはお問い合わせください",
+      "Spanish": "Contactar para precios",
+      "Portuguese": "Entre em contato para preços",
+      "French": "Contactez-nous pour les tarifs",
+      "German": "Preis auf Anfrage",
+      "Chinese": "联系获取价格",
+      "Italian": "Contattaci per i prezzi"
+    }
+  },
+  "GitHub Copilot Pro": {
+    "description": {
+      "English": "The world's most widely adopted AI developer tool.",
+      "Ukrainian": "Найбільш поширений у світі інструмент розробника ШІ.",
+      "Japanese": "世界で最も広く採用されているAI開発者ツール。",
+      "Spanish": "La herramienta de desarrollo de IA más adoptada en el mundo.",
+      "Portuguese": "A ferramenta de desenvolvimento de IA mais amplamente adotada no mundo.",
+      "French": "L'outil de développement IA le plus largement adopté au monde.",
+      "German": "Das weltweit am häufigsten verwendete KI-Entwicklertool.",
+      "Chinese": "全球最广泛采用的AI开发者工具。",
+      "Italian": "Lo strumento per sviluppatori AI più adottato al mondo."
+    },
+    "features": {
+      "English": "Code Completion, IDE Integration, Chat",
+      "Ukrainian": "Завершення Коду, Інтеграція з IDE, Чат",
+      "Japanese": "コード補完、IDE統合、チャット",
+      "Spanish": "Autocompletado de código, Integración con IDE, Chat",
+      "Portuguese": "Preenchimento de Código, Integração IDE, Chat",
+      "French": "Complétion de code, Intégration IDE, Chat",
+      "German": "Code-Vervollständigung, IDE-Integration, Chat",
+      "Chinese": "代码补全、IDE集成、聊天",
+      "Italian": "Completamento codice, Integrazione IDE, Chat"
+    },
+    "badge": {
+      "English": "Free Trial",
+      "Ukrainian": "Безкоштовна Спроба",
+      "Japanese": "無料トライアル",
+      "Spanish": "Prueba Gratuita",
+      "Portuguese": "Teste Gratuito",
+      "French": "Essai Gratuit",
+      "German": "Kostenlose Testphase",
+      "Chinese": "免费试用",
+      "Italian": "Prova Gratuita"
+    },
+    "pricing": {
+      "English": "Starts at $10/mo",
+      "Ukrainian": "Починається від $10/міс",
+      "Japanese": "月額10ドルから",
+      "Spanish": "Desde $10/mes",
+      "Portuguese": "A partir de $10/mês",
+      "French": "À partir de 10 $/mois",
+      "German": "Ab $10/Monat",
+      "Chinese": "每月10美元起",
+      "Italian": "A partire da $10/mese"
+    }
+  },
+  "HappyHorse-1.0 Text-to-video": {
+    "description": {
+      "English": "Generates high-quality videos from text prompts with customizable output.",
+      "Ukrainian": "Генерує високоякісні відео з текстових підказок з можливістю налаштування виводу.",
+      "Japanese": "カスタマイズ可能な出力で、テキストプロンプトから高品質なビデオを生成します。",
+      "Spanish": "Genera videos de alta calidad a partir de indicaciones de texto con salida personalizable.",
+      "Portuguese": "Gera vídeos de alta qualidade a partir de prompts de texto com saída personalizável.",
+      "French": "Génère des vidéos de haute qualité à partir de invites textuelles avec une sortie personnalisable.",
+      "German": "Erzeugt hochwertige Videos aus Textaufforderungen mit anpassbarer Ausgabe.",
+      "Chinese": "从文本提示生成高质量视频，并提供可定制的输出。",
+      "Italian": "Genera video di alta qualità da prompt di testo con output personalizzabile."
+    },
+    "features": {
+      "English": "Text-to-Video, Custom Output, HD",
+      "Ukrainian": "Текст-у-Відео, Налаштовуваний Вивід, HD",
+      "Japanese": "テキストからビデオ、カスタムアウトプット、HD",
+      "Spanish": "Texto a Video, Salida Personalizada, HD",
+      "Portuguese": "Texto para Vídeo, Saída Personalizada, HD",
+      "French": "Texte-vers-Vidéo, Sortie personnalisée, HD",
+      "German": "Text-zu-Video, benutzerdefinierte Ausgabe, HD",
+      "Chinese": "文本转视频、自定义输出、高清",
+      "Italian": "Testo-a-Video, Output Personalizzato, HD"
+    },
+    "badge": {
+      "English": "Exclusive Deal",
+      "Ukrainian": "Ексклюзивна Пропозиція",
+      "Japanese": "限定セール",
+      "Spanish": "Oferta Exclusiva",
+      "Portuguese": "Oferta Exclusiva",
+      "French": "Offre Exclusive",
+      "German": "Exklusivangebot",
+      "Chinese": "独家优惠",
+      "Italian": "Offerta Esclusiva"
+    },
+    "pricing": {
+      "English": "Contact for pricing",
+      "Ukrainian": "Зв'яжіться для отримання цін",
+      "Japanese": "価格についてはお問い合わせください",
+      "Spanish": "Contactar para precios",
+      "Portuguese": "Entre em contato para preços",
+      "French": "Contactez-nous pour les tarifs",
+      "German": "Preis auf Anfrage",
+      "Chinese": "联系获取价格",
+      "Italian": "Contattaci per i prezzi"
+    }
+  },
+  "Higgsfield": {
+    "description": {
+      "English": "Save on Higgsfield AI subscriptions for cinematic-grade video generation.",
+      "Ukrainian": "Заощаджуйте на підписках Higgsfield AI для створення відео кінематографічної якості.",
+      "Japanese": "Higgsfield AIサブスクリプションで映画レベルのビデオ生成を節約。",
+      "Spanish": "Ahorre en suscripciones a Higgsfield AI para la generación de videos con calidad cinematográfica.",
+      "Portuguese": "Economize em assinaturas do Higgsfield AI para geração de vídeo de nível cinematográfico.",
+      "French": "Économisez sur les abonnements Higgsfield AI pour la génération de vidéos de qualité cinématographique.",
+      "German": "Sparen Sie bei Higgsfield AI-Abonnements für die Erstellung von Videos in Kinoqualität.",
+      "Chinese": "通过Higgsfield AI订阅，享受电影级视频生成的优惠。",
+      "Italian": "Risparmia sugli abbonamenti Higgsfield AI per la generazione di video di qualità cinematografica."
+    },
+    "features": {
+      "English": "Cinematic Video, Camera Control, AI Generation",
+      "Ukrainian": "Кінематографічне Відео, Керування Камерою, Генерація ШІ",
+      "Japanese": "映画のようなビデオ、カメラ制御、AI生成",
+      "Spanish": "Video Cinematográfico, Control de Cámara, Generación de IA",
+      "Portuguese": "Vídeo Cinematográfico, Controle de Câmera, Geração por IA",
+      "French": "Vidéo cinématographique, Contrôle de caméra, Génération par IA",
+      "German": "Kinematografisches Video, Kamerasteuerung, KI-Generierung",
+      "Chinese": "电影级视频、相机控制、AI生成",
+      "Italian": "Video Cinematografico, Controllo Telecamera, Generazione AI"
+    },
+    "badge": {
+      "English": "Discount Available",
+      "Ukrainian": "Знижка Доступна",
+      "Japanese": "割引あり",
+      "Spanish": "Descuento Disponible",
+      "Portuguese": "Desconto Disponível",
+      "French": "Remise Disponible",
+      "German": "Rabatt verfügbar",
+      "Chinese": "有折扣",
+      "Italian": "Sconto Disponibile"
+    },
+    "pricing": {
+      "English": "Contact for pricing",
+      "Ukrainian": "Зв'яжіться для отримання цін",
+      "Japanese": "価格についてはお問い合わせください",
+      "Spanish": "Contactar para precios",
+      "Portuguese": "Entre em contato para preços",
+      "French": "Contactez-nous pour les tarifs",
+      "German": "Preis auf Anfrage",
+      "Chinese": "联系获取价格",
+      "Italian": "Contattaci per i prezzi"
+    }
+  },
+  "Veo 3.1": {
+    "description": {
+      "English": "Cutting-edge AI tool for generating and editing high-quality 4K videos.",
+      "Ukrainian": "Передовий інструмент ШІ для генерації та редагування високоякісних 4K відео.",
+      "Japanese": "高品質な4Kビデオの生成と編集のための最先端AIツール。",
+      "Spanish": "Herramienta de IA de vanguardia para generar y editar videos 4K de alta calidad.",
+      "Portuguese": "Ferramenta de IA de ponta para gerar e editar vídeos 4K de alta qualidade.",
+      "French": "Outil d'IA de pointe pour générer et éditer des vidéos 4K de haute qualité.",
+      "German": "Modernes KI-Tool zur Generierung und Bearbeitung hochwertiger 4K-Videos.",
+      "Chinese": "用于生成和编辑高质量4K视频的尖端AI工具。",
+      "Italian": "Strumento AI all'avanguardia per generare e modificare video 4K di alta qualità."
+    },
+    "features": {
+      "English": "4K Video Generation, Editing, AI",
+      "Ukrainian": "Генерація 4K Відео, Редагування, ШІ",
+      "Japanese": "4Kビデオ生成、編集、AI",
+      "Spanish": "Generación de video 4K, Edición, IA",
+      "Portuguese": "Geração de Vídeo 4K, Edição, IA",
+      "French": "Génération vidéo 4K, Édition, IA",
+      "German": "4K-Video-Generierung, Bearbeitung, KI",
+      "Chinese": "4K视频生成、编辑、AI",
+      "Italian": "Generazione Video 4K, Modifica, AI"
+    },
+    "badge": {
+      "English": "Exclusive Deal",
+      "Ukrainian": "Ексклюзивна Пропозиція",
+      "Japanese": "限定セール",
+      "Spanish": "Oferta Exclusiva",
+      "Portuguese": "Oferta Exclusiva",
+      "French": "Offre Exclusive",
+      "German": "Exklusivangebot",
+      "Chinese": "独家优惠",
+      "Italian": "Offerta Esclusiva"
+    },
+    "pricing": {
+      "English": "Contact for pricing",
+      "Ukrainian": "Зв'яжіться для отримання цін",
+      "Japanese": "価格についてはお問い合わせください",
+      "Spanish": "Contactar para precios",
+      "Portuguese": "Entre em contato para preços",
+      "French": "Contactez-nous pour les tarifs",
+      "German": "Preis auf Anfrage",
+      "Chinese": "联系获取价格",
+      "Italian": "Contattaci per i prezzi"
+    }
+  },
+  "Voice.AI": {
+    "description": {
+      "English": "Advanced AI solutions for real-time voice modification and voice cloning.",
+      "Ukrainian": "Передові рішення ШІ для модифікації голосу в реальному часі та клонування голосу.",
+      "Japanese": "リアルタイムの音声変更と音声クローン作成のための高度なAIソリューション。",
+      "Spanish": "Soluciones avanzadas de IA para la modificación de voz en tiempo real y la clonación de voz.",
+      "Portuguese": "Soluções avançadas de IA para modificação de voz em tempo real e clonagem de voz.",
+      "French": "Solutions IA avancées pour la modification et le clonage vocal en temps réel.",
+      "German": "Fortschrittliche KI-Lösungen für Sprachmodifikation und Stimmklonung in Echtzeit.",
+      "Chinese": "用于实时语音修改和语音克隆的高级AI解决方案。",
+      "Italian": "Soluzioni AI avanzate per la modifica vocale in tempo reale e la clonazione vocale."
+    },
+    "features": {
+      "English": "Voice Cloning, Real-time Modification, Library",
+      "Ukrainian": "Клонування Голосу, Модифікація в Реальному Часі, Бібліотека",
+      "Japanese": "音声クローン、リアルタイム変更、ライブラリ",
+      "Spanish": "Clonación de voz, Modificación en tiempo real, Biblioteca",
+      "Portuguese": "Clonagem de Voz, Modificação em Tempo Real, Biblioteca",
+      "French": "Clonage vocal, Modification en temps réel, Bibliothèque",
+      "German": "Stimmklonung, Echtzeit-Modifikation, Bibliothek",
+      "Chinese": "语音克隆、实时修改、图书馆",
+      "Italian": "Clonazione Vocale, Modifica in Tempo Reale, Libreria"
+    },
+    "badge": {
+      "English": "Free Plan",
+      "Ukrainian": "Безкоштовний План",
+      "Japanese": "無料プラン",
+      "Spanish": "Plan Gratuito",
+      "Portuguese": "Plano Gratuito",
+      "French": "Plan Gratuit",
+      "German": "Kostenloser Plan",
+      "Chinese": "免费计划",
+      "Italian": "Piano Gratuito"
+    },
+    "pricing": {
+      "English": "Starts at $15/mo",
+      "Ukrainian": "Починається від $15/міс",
+      "Japanese": "月額15ドルから",
+      "Spanish": "Desde $15/mes",
+      "Portuguese": "A partir de $15/mês",
+      "French": "À partir de 15 $/mois",
+      "German": "Ab $15/Monat",
+      "Chinese": "每月15美元起",
+      "Italian": "A partire da $15/mese"
+    }
+  },
+  "VoiceType AI": {
+    "description": {
+      "English": "Efficient voice-to-text conversion for faster typing and documentation.",
+      "Ukrainian": "Ефективне перетворення голосу в текст для швидшого набору та документування.",
+      "Japanese": "より速いタイピングとドキュメント作成のための効率的な音声-テキスト変換。",
+      "Spanish": "Conversión eficiente de voz a texto para una escritura y documentación más rápidas.",
+      "Portuguese": "Conversão eficiente de voz para texto para digitação e documentação mais rápidas.",
+      "French": "Conversion voix-texte efficace pour une saisie et une documentation plus rapides.",
+      "German": "Effiziente Sprach-zu-Text-Konvertierung für schnelleres Tippen und Dokumentation.",
+      "Chinese": "高效的语音转文本转换，实现更快的打字和文档处理。",
+      "Italian": "Conversione voce-testo efficiente per una digitazione e documentazione più rapide."
+    },
+    "features": {
+      "English": "Voice-to-Text, Dictation, Productivity",
+      "Ukrainian": "Голос-у-Текст, Диктування, Продуктивність",
+      "Japanese": "音声からテキスト、ディクテーション、生産性",
+      "Spanish": "Voz a texto, Dictado, Productividad",
+      "Portuguese": "Voz para Texto, Ditado, Produtividade",
+      "French": "Voix-texte, Dictée, Productivité",
+      "German": "Sprach-zu-Text, Diktat, Produktivität",
+      "Chinese": "语音转文本、听写、生产力",
+      "Italian": "Voce-a-Testo, Dettatura, Produttività"
+    },
+    "badge": {
+      "English": "Free Trial",
+      "Ukrainian": "Безкоштовна Спроба",
+      "Japanese": "無料トライアル",
+      "Spanish": "Prueba Gratuita",
+      "Portuguese": "Teste Gratuito",
+      "French": "Essai Gratuit",
+      "German": "Kostenlose Testphase",
+      "Chinese": "免费试用",
+      "Italian": "Prova Gratuita"
+    },
+    "pricing": {
+      "English": "Starts at $12/mo",
+      "Ukrainian": "Починається від $12/міс",
+      "Japanese": "月額12ドルから",
+      "Spanish": "Desde $12/mes",
+      "Portuguese": "A partir de $12/mês",
+      "French": "À partir de 12 $/mois",
+      "German": "Ab $12/Monat",
+      "Chinese": "每月12美元起",
+      "Italian": "A partire da $12/mese"
+    }
+  }
 }
