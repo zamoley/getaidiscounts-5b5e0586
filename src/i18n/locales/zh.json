@@ -147,5 +147,16 @@
     "email_invalid": "请输入有效邮箱",
     "success": "已收到您的申请！我们将寻找优惠。",
     "error": "提交失败，请重试。"
+  },
+  "vote": {
+    "worked": "有效",
+    "broken": "失效",
+    "trust": "信任度",
+    "mark_worked": "标记为有效",
+    "mark_broken": "标记为失效",
+    "already_voted": "您已对此优惠投过票",
+    "thanks_worked": "感谢 — 已标记为「有效」",
+    "thanks_broken": "感谢 — 已标记为「失效」",
+    "vote_error": "无法记录您的投票"
   }
 }

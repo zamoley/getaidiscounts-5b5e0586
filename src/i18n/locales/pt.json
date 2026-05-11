@@ -147,5 +147,16 @@
     "email_invalid": "E-mail inválido",
     "success": "Recebido! Vamos buscar uma oferta.",
     "error": "Não foi possível enviar. Tente novamente."
+  },
+  "vote": {
+    "worked": "Funcionou",
+    "broken": "Não funcionou",
+    "trust": "confiança",
+    "mark_worked": "Marcar como funcionou",
+    "mark_broken": "Marcar como não funcionou",
+    "already_voted": "Você já votou nesta oferta",
+    "thanks_worked": "Obrigado — marcado como Funcionou",
+    "thanks_broken": "Obrigado — marcado como Não funcionou",
+    "vote_error": "Não foi possível registrar seu voto"
   }
 }
