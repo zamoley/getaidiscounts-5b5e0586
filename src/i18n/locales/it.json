@@ -30,7 +30,8 @@
     "Code": "Codice",
     "Agents": "Agenti",
     "Chat": "Chat",
-    "Image": "Immagini"
+    "Image": "Immagini",
+    "All-in-One AI": "IA tutto in uno"
   },
   "hero": {
     "badge": "{{count}} attive · Aggiornato il {{date}}",
