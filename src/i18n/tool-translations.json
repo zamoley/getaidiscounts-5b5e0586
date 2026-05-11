@@ -1,5 +1,5 @@
 {
-  "Starts at $10/mo": {
+  "Applicable on All Annual Subscription Plans": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
     "ja": "月額10ドルから",
@@ -10,7 +10,7 @@
     "zh": "起价$10/月",
     "it": "Da $10/mese"
   },
-  "20% OFF": {
+  "20%": {
     "en": "20% OFF",
     "uk": "ЗНИЖКА 20%",
     "ja": "20%オフ",
@@ -32,7 +32,7 @@
     "zh": "起价$5/月",
     "it": "Da $5/mese"
   },
-  "10% OFF": {
+  "60%": {
     "en": "10% OFF",
     "uk": "ЗНИЖКА 10%",
     "ja": "10%オフ",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "25% OFF": {
+  "22%": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -65,7 +65,7 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "Free or $20/mo Pro": {
+  "Annual subscription discounts available.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -76,7 +76,7 @@
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
   },
-  "$10 Credit": {
+  "50%": {
     "en": "$10 Credit",
     "uk": "Кредит $10",
     "ja": "10ドルのクレジット",
@@ -97,6 +97,17 @@
     "de": "Ab 20 $/Monat",
     "zh": "起价$20/月",
     "it": "Da $20/mese"
+  },
+  "20% OFF": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
   },
   "Paid plans vary": {
     "en": "Paid plans vary",
@@ -142,38 +153,27 @@
     "zh": "$22/月（年付）",
     "it": "$22/mese (Annuale)"
   },
-  "20%": {
-    "en": "35% OFF",
-    "uk": "ЗНИЖКА 35%",
-    "ja": "35% オフ",
-    "es": "35% DTO",
-    "pt": "35% DTO",
-    "fr": "35% DE RABAIS",
-    "de": "35% RABATT",
-    "zh": "35% 折扣",
-    "it": "35% DI SCONTO"
-  },
   "From $0.14/SEC": {
-    "en": "From $0.14/SEC",
-    "uk": "From $0.14/SEC",
-    "ja": "From $0.14/SEC",
-    "es": "From $0.14/SEC",
-    "pt": "From $0.14/SEC",
-    "fr": "From $0.14/SEC",
-    "de": "From $0.14/SEC",
-    "zh": "From $0.14/SEC",
-    "it": "From $0.14/SEC"
+    "en": "Contact for pricing",
+    "uk": "Зв'яжіться для отримання цін",
+    "ja": "価格についてはお問い合わせください",
+    "es": "Contactar para precios",
+    "pt": "Entre em contato para preços",
+    "fr": "Contactez-nous pour les tarifs",
+    "de": "Preis auf Anfrage",
+    "zh": "联系获取价格",
+    "it": "Contattaci per i prezzi"
   },
   "Coming Soon": {
-    "en": "Coming Soon",
-    "uk": "Coming Soon",
-    "ja": "Coming Soon",
-    "es": "Coming Soon",
-    "pt": "Coming Soon",
-    "fr": "Coming Soon",
-    "de": "Coming Soon",
-    "zh": "Coming Soon",
-    "it": "Coming Soon"
+    "en": "Exclusive Deal",
+    "uk": "Ексклюзивна Пропозиція",
+    "ja": "限定セール",
+    "es": "Oferta Exclusiva",
+    "pt": "Oferta Exclusiva",
+    "fr": "Offre Exclusive",
+    "de": "Exklusivangebot",
+    "zh": "独家优惠",
+    "it": "Offerta Esclusiva"
   },
   "Starting from $10/mo": {
     "en": "Starting from $10/mo",
@@ -198,26 +198,26 @@
     "it": "Offerta a $10/mese"
   },
   "Paid Monthly/Yearly": {
-    "en": "Paid Monthly/Yearly",
-    "uk": "Paid Monthly/Yearly",
-    "ja": "Paid Monthly/Yearly",
-    "es": "Paid Monthly/Yearly",
-    "pt": "Paid Monthly/Yearly",
-    "fr": "Paid Monthly/Yearly",
-    "de": "Paid Monthly/Yearly",
-    "zh": "Paid Monthly/Yearly",
-    "it": "Paid Monthly/Yearly"
+    "en": "Contact for pricing",
+    "uk": "Зв'яжіться для отримання цін",
+    "ja": "価格についてはお問い合わせください",
+    "es": "Contactar para precios",
+    "pt": "Entre em contato para preços",
+    "fr": "Contactez-nous pour les tarifs",
+    "de": "Preis auf Anfrage",
+    "zh": "联系获取价格",
+    "it": "Contattaci per i prezzi"
   },
   "40% OFF": {
-    "en": "40% OFF",
-    "uk": "40% OFF",
-    "ja": "40% OFF",
-    "es": "40% OFF",
-    "pt": "40% OFF",
-    "fr": "40% OFF",
-    "de": "40% OFF",
-    "zh": "40% OFF",
-    "it": "40% OFF"
+    "en": "Exclusive Deal",
+    "uk": "Ексклюзивна Пропозиція",
+    "ja": "限定セール",
+    "es": "Oferta Exclusiva",
+    "pt": "Oferta Exclusiva",
+    "fr": "Offre Exclusive",
+    "de": "Exklusivangebot",
+    "zh": "独家优惠",
+    "it": "Offerta Esclusiva"
   },
   "Lifetime options available": {
     "en": "$59 Lifetime",
@@ -253,15 +253,15 @@
     "it": "89 $ a vita"
   },
   "N/A": {
-    "en": "N/A",
-    "uk": "N/A",
-    "ja": "N/A",
-    "es": "N/A",
-    "pt": "N/A",
-    "fr": "N/A",
-    "de": "N/A",
-    "zh": "N/A",
-    "it": "N/A"
+    "en": "Starts at $10/mo",
+    "uk": "Починається від $10/міс",
+    "ja": "月額10ドルから",
+    "es": "Desde $10/mes",
+    "pt": "A partir de $10/mês",
+    "fr": "À partir de 10 $/mois",
+    "de": "Ab $10/Monat",
+    "zh": "每月10美元起",
+    "it": "A partire da $10/mese"
   },
   "50% OFF for 3 Months": {
     "en": "50% OFF",
@@ -339,6 +339,17 @@
     "de": "Ab 39 $/Monat",
     "zh": "39 美元/月起",
     "it": "A partire da $39/mese"
+  },
+  "10% OFF": {
+    "en": "10% OFF",
+    "uk": "ЗНИЖКА 10%",
+    "ja": "10% オフ",
+    "es": "10% DTO",
+    "pt": "10% DTO",
+    "fr": "10% DE RABAIS",
+    "de": "10% RABATT",
+    "zh": "10% 折扣",
+    "it": "10% DI SCONTO"
   },
   "Starting From $4": {
     "en": "Starts from $4",
@@ -450,6 +461,17 @@
     "zh": "免费档位",
     "it": "Livello gratuito"
   },
+  "Free or $20/mo Pro": {
+    "en": "Free or $20/mo Core",
+    "uk": "Безкоштовно або $20/міс Core",
+    "ja": "無料または月額20ドルのCore",
+    "es": "Gratis o $20/mes Core",
+    "pt": "Grátis ou $20/mês Core",
+    "fr": "Gratuit ou 20 $/mois Core",
+    "de": "Kostenlos oder 20 $/Monat Core",
+    "zh": "免费或 $20/月 Core",
+    "it": "Gratis o $20/mese Core"
+  },
   "Student Plan Credits": {
     "en": "Cloud IDE",
     "uk": "Хмарна IDE",
@@ -517,26 +539,26 @@
     "it": "Offerta scrittura"
   },
   "$29.99": {
-    "en": "$29.99",
-    "uk": "$29.99",
-    "ja": "$29.99",
-    "es": "$29.99",
-    "pt": "$29.99",
-    "fr": "$29.99",
-    "de": "$29.99",
-    "zh": "$29.99",
-    "it": "$29.99"
+    "en": "Starts at $12/mo",
+    "uk": "Починається від $12/міс",
+    "ja": "月額12ドルから",
+    "es": "Desde $12/mes",
+    "pt": "A partir de $12/mês",
+    "fr": "À partir de 12 $/mois",
+    "de": "Ab $12/Monat",
+    "zh": "每月12美元起",
+    "it": "A partire da $12/mese"
   },
   "84% OFF": {
-    "en": "84% OFF",
-    "uk": "84% OFF",
-    "ja": "84% OFF",
-    "es": "84% OFF",
-    "pt": "84% OFF",
-    "fr": "84% OFF",
-    "de": "84% OFF",
-    "zh": "84% OFF",
-    "it": "84% OFF"
+    "en": "Free Trial",
+    "uk": "Безкоштовна Спроба",
+    "ja": "無料トライアル",
+    "es": "Prueba Gratuita",
+    "pt": "Teste Gratuito",
+    "fr": "Essai Gratuit",
+    "de": "Kostenlose Testphase",
+    "zh": "免费试用",
+    "it": "Prova Gratuita"
   },
   "Plans start at $29/month.": {
     "en": "$39/Month",
@@ -572,15 +594,15 @@
     "it": "A partire da $29/mese"
   },
   "70% OFF": {
-    "en": "70% OFF",
-    "uk": "70% OFF",
-    "ja": "70% OFF",
-    "es": "70% OFF",
-    "pt": "70% OFF",
-    "fr": "70% OFF",
-    "de": "70% OFF",
-    "zh": "70% OFF",
-    "it": "70% OFF"
+    "en": "Discount Available",
+    "uk": "Знижка Доступна",
+    "ja": "割引あり",
+    "es": "Descuento Disponible",
+    "pt": "Desconto Disponível",
+    "fr": "Remise Disponible",
+    "de": "Rabatt verfügbar",
+    "zh": "有折扣",
+    "it": "Sconto Disponibile"
   },
   "Starting at $29/month": {
     "en": "Starts from $89/mo",
@@ -703,7 +725,7 @@
     "zh": "艺术优惠",
     "it": "Offerta arte"
   },
-  "$20/month": {
+  "Valid for the first 3 months for new users.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -945,7 +967,7 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
-  "One-time fee of $199": {
+  "Annual billing available.": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "月額20ドル",
@@ -956,7 +978,7 @@
     "zh": "20 美元/月",
     "it": "20 $/mese"
   },
-  "50%": {
+  "17%": {
     "en": "Pro Deal",
     "uk": "Pro пропозиція",
     "ja": "Proセール",
@@ -1044,17 +1066,6 @@
     "zh": "仅限企业版",
     "it": "Solo per aziende"
   },
-  "60%": {
-    "en": "Health Tech",
-    "uk": "Медтех",
-    "ja": "ヘルステック",
-    "es": "Tecnología de salud",
-    "pt": "Tecnologia em Saúde",
-    "fr": "Health Tech",
-    "de": "Health-Tech",
-    "zh": "医疗科技",
-    "it": "Health Tech"
-  },
   "Free tier available, paid plans for premium usage": {
     "en": "Usage-based Pricing",
     "uk": "Оплата за використання",
@@ -1101,14 +1112,14 @@
   },
   "$19/month after discount": {
     "en": "$19/month after discount",
-    "uk": "$19/month after discount",
-    "ja": "$19/month after discount",
-    "es": "$19/month after discount",
-    "pt": "$19/month after discount",
-    "fr": "$19/month after discount",
-    "de": "$19/month after discount",
-    "zh": "$19/month after discount",
-    "it": "$19/month after discount"
+    "uk": "$19/місяць після знижки",
+    "ja": "割引後$19/月",
+    "es": "$19/mes después del descuento",
+    "pt": "$19/mês após desconto",
+    "fr": "$19/mois après réduction",
+    "de": "$19/Monat nach Rabatt",
+    "zh": "折扣后$19/月",
+    "it": "$19/mese dopo lo sconto"
   },
   "Starting at $19.99 per artwork.": {
     "en": "Free to Try",
@@ -1165,7 +1176,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Free basic access with premium plans starting at $10/month": {
+  "Monthly plans starting from $20.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1175,6 +1186,17 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
+  },
+  "$40 OFF": {
+    "en": "Search Deal",
+    "uk": "Пошукова угода",
+    "ja": "サーチセール",
+    "es": "Oferta de búsqueda",
+    "pt": "Oferta de Busca",
+    "fr": "Offre de recherche",
+    "de": "Such-Deal",
+    "zh": "搜索优惠",
+    "it": "Offerta ricerca"
   },
   "Free basic plan, premium plans starting at $11.66/month.": {
     "en": "Free or $12/mo Premium",
@@ -1495,6 +1517,17 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
+  "$20/month": {
+    "en": "$20/month",
+    "uk": "$20/місяць",
+    "ja": "月額20ドル",
+    "es": "$20/mes",
+    "pt": "$20/mês",
+    "fr": "20 $/mois",
+    "de": "20 $/Monat",
+    "zh": "20 美元/月",
+    "it": "20 $/mese"
+  },
   "Monthly subscription for $10 with a 20% discount for the first three months.": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
@@ -1761,47 +1794,201 @@
   },
   "Starts at $9/mo": {
     "en": "Starts at $9/mo",
-    "uk": "Від $9/міс",
-    "ja": "Starts at $9/mo",
-    "es": "Starts at $9/mo",
-    "pt": "Starts at $9/mo",
-    "fr": "Starts at $9/mo",
-    "de": "Starts at $9/mo",
-    "zh": "起价$9/月",
-    "it": "Starts at $9/mo"
+    "uk": "Починається від $9/міс",
+    "ja": "月額9ドルから",
+    "es": "Desde $9/mes",
+    "pt": "A partir de $9/mês",
+    "fr": "À partir de 9 $/mois",
+    "de": "Ab $9/Monat",
+    "zh": "每月9美元起",
+    "it": "A partire da $9/mese"
+  },
+  "Starts at $10/mo": {
+    "en": "Starts at $8.30/mo",
+    "uk": "Починається від $8.30/міс",
+    "ja": "月額8.30ドルから",
+    "es": "Desde $8.30/mes",
+    "pt": "A partir de $8.30/mês",
+    "fr": "À partir de 8,30 $/mois",
+    "de": "Ab $8.30/Monat",
+    "zh": "每月8.30美元起",
+    "it": "A partire da $8.30/mese"
   },
   "15% OFF": {
-    "en": "15% OFF",
-    "uk": "ЗНИЖКА 15%",
-    "ja": "15% OFF",
-    "es": "15% OFF",
-    "pt": "15% OFF",
-    "fr": "15% OFF",
-    "de": "15% OFF",
-    "zh": "15% 折扣",
-    "it": "15% OFF"
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DE DESCUENTO",
+    "pt": "20% DE DESCONTO",
+    "fr": "20% DE RÉDUCTION",
+    "de": "20% RABATT",
+    "zh": "八折优惠",
+    "it": "SCONTO DEL 20%"
   },
   "$20/mo for Pro": {
-    "en": "$20/mo for Pro",
-    "uk": "$20/міс за Pro",
-    "ja": "$20/mo for Pro",
-    "es": "$20/mo for Pro",
-    "pt": "$20/mo for Pro",
-    "fr": "$20/mo for Pro",
-    "de": "$20/mo for Pro",
-    "zh": "Pro版 $20/月",
-    "it": "$20/mo for Pro"
+    "en": "Starts at $19.99/mo",
+    "uk": "Починається від $19.99/міс",
+    "ja": "月額19.99ドルから",
+    "es": "Desde $19.99/mes",
+    "pt": "A partir de $19.99/mês",
+    "fr": "À partir de 19,99 $/mois",
+    "de": "Ab $19.99/Monat",
+    "zh": "每月19.99美元起",
+    "it": "A partire da $19.99/mese"
   },
   "Varies by tool": {
-    "en": "Varies by tool",
-    "uk": "Варіюється залежно від інструменту",
-    "ja": "Varies by tool",
-    "es": "Varies by tool",
-    "pt": "Varies by tool",
-    "fr": "Varies by tool",
-    "de": "Varies by tool",
-    "zh": "因工具而异",
-    "it": "Varies by tool"
+    "en": "Starts at $9/mo",
+    "uk": "Починається від $9/міс",
+    "ja": "月額9ドルから",
+    "es": "Desde $9/mes",
+    "pt": "A partir de $9/mês",
+    "fr": "À partir de 9 $/mois",
+    "de": "Ab $9/Monat",
+    "zh": "每月9美元起",
+    "it": "A partire da $9/mese"
+  },
+  "Save up to 20% on all yearly plans.": {
+    "en": "Save up to 20% on all yearly plans.",
+    "uk": "Зекономте до 20% на всіх річних планах.",
+    "ja": "すべての年次プランで最大20%節約できます。",
+    "es": "Ahorre hasta un 20% en todos los planes anuales.",
+    "pt": "Economize até 20% em todos os planos anuais.",
+    "fr": "Économisez jusqu'à 20% sur tous les plans annuels.",
+    "de": "Sparen Sie bis zu 20% bei allen Jahresplänen.",
+    "zh": "在所有年度计划中节省高达20%。",
+    "it": "Risparmia fino al 20% su tutti i piani annuali."
+  },
+  "15% off with verified discount codes.": {
+    "en": "15% off with verified discount codes.",
+    "uk": "15% знижки за наявності перевірених промокодів.",
+    "ja": "確認済みの割引コードで15%オフ。",
+    "es": "15% de descuento con códigos de descuento verificados.",
+    "pt": "15% de desconto com códigos de desconto verificados.",
+    "fr": "15% de réduction avec des codes de réduction vérifiés.",
+    "de": "15% Rabatt mit verifizierten Rabattcodes.",
+    "zh": "凭借经过验证的折扣码享受15%的折扣。",
+    "it": "15% di sconto con codici sconto verificati."
+  },
+  "Valid on all plans.": {
+    "en": "Valid on all plans.",
+    "uk": "Діє на всі плани.",
+    "ja": "すべてのプランに対して有効です。",
+    "es": "Válido para todos los planes.",
+    "pt": "Válido em todos os planos.",
+    "fr": "Valide sur tous les forfaits.",
+    "de": "Gültig für alle Pläne.",
+    "zh": "适用于所有计划。",
+    "it": "Valido per tutti i piani."
+  },
+  "April 2026": {
+    "en": "April 2026",
+    "uk": "Квітень 2026",
+    "ja": "2026年4月",
+    "es": "Abril 2026",
+    "pt": "Abril de 2026",
+    "fr": "Avril 2026",
+    "de": "April 2026",
+    "zh": "2026年4月",
+    "it": "Aprile 2026"
+  },
+  "65%": {
+    "en": "65%",
+    "uk": "65%",
+    "ja": "65%",
+    "es": "65%",
+    "pt": "65%",
+    "fr": "65%",
+    "de": "65%",
+    "zh": "65%",
+    "it": "65%"
+  },
+  "Coupons for AI tools and apps.": {
+    "en": "Coupons for AI tools and apps.",
+    "uk": "Купони для інструментів та додатків ШІ.",
+    "ja": "AIツールとアプリ用のクーポン。",
+    "es": "Cupones para herramientas y aplicaciones de IA.",
+    "pt": "Cupons para ferramentas e aplicativos de IA.",
+    "fr": "Coupons pour les outils et applications d'IA.",
+    "de": "Gutscheine für KI-Tools und -Apps.",
+    "zh": "用于AI工具和应用程序的优惠券。",
+    "it": "Coupon per strumenti e app di IA."
+  },
+  "$1320/month plan available.": {
+    "en": "$1320/month plan available.",
+    "uk": "Доступний план за $1320 на місяць.",
+    "ja": "月額$1320のプランが利用可能です。",
+    "es": "Plan disponible por $1320 al mes.",
+    "pt": "Plano disponível por $1320/mês.",
+    "fr": "Plan disponible à 1320 $/mois.",
+    "de": "Plan verfügbar für 1320 $/Monat.",
+    "zh": "每月$1320的计划可用。",
+    "it": "Piano disponibile a $1320/mese."
+  },
+  "Plus Plan Starts $20/Month, Pro Plan $25/Month": {
+    "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
+    "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
+    "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
+    "es": "El Plan Plus comienza en $20/mes, el Plan Pro en $25/mes.",
+    "pt": "O Plano Plus começa a $20/mês, o Plano Pro a $25/mês.",
+    "fr": "Le plan Plus commence à 20 $/mois, le plan Pro à 25 $/mois.",
+    "de": "Der Plus-Plan beginnt bei 20 $/Monat, der Pro-Plan bei 25 $/Monat.",
+    "zh": "Plus计划起价$20/月，Pro计划$25/月。",
+    "it": "Il Piano Plus parte da $20/mese, il Piano Pro a $25/mese."
+  },
+  "Get a free trial for 12 months followed by a discount on annual plans.": {
+    "en": "Get a free trial for 12 months followed by a discount on annual plans.",
+    "uk": "Отримайте безкоштовний пробний доступ на 12 місяців, а потім - знижку на річні плани.",
+    "ja": "12ヶ月間の無料トライアルを取得し、その後、年間プランに割引が適用されます。",
+    "es": "Obtén una prueba gratuita de 12 meses seguida de un descuento en planes anuales.",
+    "pt": "Obtenha um teste gratuito de 12 meses seguido de um desconto em planos anuais.",
+    "fr": "Bénéficiez d'un essai gratuit de 12 mois suivi d'une réduction sur les plans annuels.",
+    "de": "Erhalten Sie eine 12-monatige kostenlose Testversion, gefolgt von einem Rabatt auf Jahrespläne.",
+    "zh": "获得12个月的免费试用，然后在年度计划上享受折扣。",
+    "it": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
+  },
+  "14 active coupons and deals listed for May 2026.": {
+    "en": "14 active coupons and deals listed for May 2026.",
+    "uk": "14 активних купонів та акцій, зазначених на травень 2026 року.",
+    "ja": "2026年5月に掲載された14件のアクティブクーポンと特典。",
+    "es": "14 cupones y ofertas activos listados para mayo de 2026.",
+    "pt": "14 cupons e ofertas ativas listadas para maio de 2026.",
+    "fr": "14 coupons et offres actifs répertoriés pour mai 2026.",
+    "de": "14 aktive Coupons und Angebote, die für Mai 2026 aufgeführt sind.",
+    "zh": "列出14个有效的优惠券和交易，适用于2026年5月。",
+    "it": "14 coupon e offerte attive elencate per maggio 2026."
+  },
+  "7 active AI Lawyer promo codes for March 2026.": {
+    "en": "7 active AI Lawyer promo codes for March 2026.",
+    "uk": "7 активних промокодів ШІ Адвоката на березень 2026 року.",
+    "ja": "2026年3月のための7つのアクティブなAI弁護士のプロモーションコード。",
+    "es": "7 códigos promocionales activos de AI Lawyer para marzo de 2026.",
+    "pt": "7 códigos promocionais ativos da AI Lawyer para março de 2026.",
+    "fr": "7 codes promo actifs pour AI Lawyer pour mars 2026.",
+    "de": "7 aktive Promo-Codes für AI Lawyer im März 2026.",
+    "zh": "2026年3月的7个有效AI律师促销代码。",
+    "it": "7 codici promozionali attivi di AI Lawyer per marzo 2026."
+  },
+  "20% Off": {
+    "en": "20% Off",
+    "uk": "Знижка 20%",
+    "ja": "20%オフ",
+    "es": "20% de descuento",
+    "pt": "Desconto de 20%",
+    "fr": "20 % de réduction",
+    "de": "20% Rabatt",
+    "zh": "20%折扣",
+    "it": "20% di sconto"
+  },
+  "15 active AI-Lawyer coupons & deals for May 2026.": {
+    "en": "15 active AI-Lawyer coupons & deals for May 2026.",
+    "uk": "15 активних купонів та пропозицій AI-Lawyer на травень 2026 року.",
+    "ja": "2026年5月のための15件の有効なAI-Lawyerクーポンとディール。",
+    "es": "15 cupones y ofertas activas de AI-Lawyer para mayo de 2026.",
+    "pt": "15 cupons e ofertas ativos da AI-Lawyer para maio de 2026.",
+    "fr": "15 coupons et offres actifs d'AI-Lawyer pour mai 2026.",
+    "de": "15 aktive AI-Lawyer-Coupons und Angebote für Mai 2026.",
+    "zh": "2026年5月的15个有效的AI-Lawyer优惠券和交易。",
+    "it": "15 coupon e offerte attive di AI-Lawyer per maggio 2026."
   },
   "Midjourney": {
     "en": {
@@ -8861,58 +9048,58 @@
   },
   "HeyGen Writer": {
     "en": {
-      "description": "HeyGen Writer is an AI-powered writing assistant that generates high-quality content for blogs, marketing copy, and social platforms, with built-in SEO optimization and plagiarism checking.",
+      "description": "HeyGen Writer is a sophisticated writing assistant that utilizes artificial intelligence to generate high-quality, engaging content for various platforms. This tool is particularly useful for bloggers, marketers, and businesses looking to enhance their online presence. It includes features for SEO optimization and plagiarism checking to ensure originality and relevance.",
       "features": "AI-generated content, SEO optimization, Plagiarism checking",
       "badge": "15%",
       "pricing": "$19/month after discount"
     },
     "uk": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writer - це складний письменницький помічник, який використовує штучний інтелект для створення високоякісного, захоплюючого контенту для різних платформ. Цей інструмент особливо корисний для блогерів, маркетологів та бізнесу, що прагне покращити свою онлайн-присутність. Він включає функції SEO-оптимізації та перевірки на плагіат, щоб забезпечити оригінальність та актуальність.",
+      "features": "Контент, згенерований ШІ, SEO-оптимізація, перевірка на плагіат",
+      "badge": "15%",
+      "pricing": "$19/місяць після знижки"
     },
     "ja": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writerは、人工知能を利用してさまざまなプラットフォーム向けに高品質で魅力的なコンテンツを生成する洗練されたライティングアシスタントです。このツールは、特にブロガー、マーケティング担当者、オンラインプレゼンスを向上させたいビジネスに便利です。オリジナリティと関連性を確保するために、SEO最適化および盗作チェックの機能が含まれています。",
+      "features": "AI生成コンテンツ、SEO最適化、盗作チェック",
+      "badge": "15%",
+      "pricing": "割引後$19/月"
     },
     "es": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writer es un asistente de escritura sofisticado que utiliza inteligencia artificial para generar contenido atractivo y de alta calidad para varias plataformas. Esta herramienta es particularmente útil para bloggers, marketers y empresas que buscan mejorar su presencia en línea. Incluye características para la optimización SEO y la verificación de plagio para garantizar originalidad y relevancia.",
+      "features": "Contenido generado por IA, optimización SEO, verificación de plagio",
+      "badge": "15%",
+      "pricing": "$19/mes después del descuento"
     },
     "pt": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writer é um assistente de escrita sofisticado que utiliza inteligência artificial para gerar conteúdo de alta qualidade e envolvente para várias plataformas. Esta ferramenta é particularmente útil para blogueiros, profissionais de marketing e empresas que desejam melhorar sua presença online. Inclui recursos para otimização de SEO e verificação de plágio para garantir originalidade e relevância.",
+      "features": "Conteúdo gerado por IA, otimização SEO, verificação de plágio",
+      "badge": "15%",
+      "pricing": "$19/mês após desconto"
     },
     "fr": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writer est un assistant d'écriture sophistiqué qui utilise l'intelligence artificielle pour générer du contenu engageant et de haute qualité pour diverses plateformes. Cet outil est particulièrement utile pour les blogueurs, les spécialistes du marketing et les entreprises souhaitant améliorer leur présence en ligne. Il comprend des fonctionnalités pour l'optimisation SEO et la vérification du plagiat afin d'assurer l'originalité et la pertinence.",
+      "features": "Contenu généré par l'IA, optimisation SEO, vérification du plagiat",
+      "badge": "15%",
+      "pricing": "$19/mois après réduction"
     },
     "de": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writer ist ein anspruchsvoller Schreibassistent, der künstliche Intelligenz einsetzt, um qualitativ hochwertige, ansprechende Inhalte für verschiedene Plattformen zu erstellen. Dieses Tool ist besonders nützlich für Blogger, Vermarkter und Unternehmen, die ihre Online-Präsenz verbessern möchten. Es umfasst Funktionen zur SEO-Optimierung und zur Plagiatsüberprüfung, um Originalität und Relevanz sicherzustellen.",
+      "features": "Von KI generierte Inhalte, SEO-Optimierung, Plagiatsprüfung",
+      "badge": "15%",
+      "pricing": "$19/Monat nach Rabatt"
     },
     "zh": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writer是一款先进的写作助手，利用人工智能为各种平台生成高质量、引人入胜的内容。该工具对于希望提升在线形象的博客作者、营销人员和企业尤其有用。它包括SEO优化和抄袭检查功能，以确保内容的原创性和相关性。",
+      "features": "AI生成的内容，SEO优化，抄袭检查",
+      "badge": "15%",
+      "pricing": "折扣后$19/月"
     },
     "it": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "HeyGen Writer è un assistente di scrittura sofisticato che utilizza intelligenza artificiale per generare contenuti di alta qualità e coinvolgenti per diverse piattaforme. Questo strumento è particolarmente utile per blogger, marketer e aziende che cercano di migliorare la loro presenza online. Include funzionalità per l'ottimizzazione SEO e il controllo del plagio per garantire originalità e rilevanza.",
+      "features": "Contenuti generati da IA, ottimizzazione SEO, controllo del plagio",
+      "badge": "15%",
+      "pricing": "$19/mese dopo lo sconto"
     }
   },
   "ElevenLabs Voice Generator": {
@@ -8979,276 +9166,1340 @@
       "pricing": "Starts at $9/mo"
     },
     "uk": {
-      "description": "Все-в-одному платформа для творчих потреб з доступом до багатьох моделей.",
-      "features": "Чат, зображення, аудіо, відео, кодування",
+      "description": "Універсальна платформа для творчих потреб з мультимодельним доступом.",
+      "features": "Чат, Зображення, Аудіо, Відео, Кодування",
       "badge": "ЗНИЖКА 20%",
-      "pricing": "Від $9/міс"
+      "pricing": "Починається від $9/міс"
     },
     "ja": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "マルチモデルアクセスを備えたクリエイティブなニーズに対応するオールインワンプラットフォーム。",
+      "features": "チャット、画像、オーディオ、ビデオ、コーディング",
+      "badge": "20% オフ",
+      "pricing": "月額9ドルから"
     },
     "es": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Plataforma todo en uno para necesidades creativas con acceso multimotor.",
+      "features": "Chat, Imagen, Audio, Video, Codificación",
+      "badge": "20% DE DESCUENTO",
+      "pricing": "Desde $9/mes"
     },
     "pt": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Plataforma tudo em um para necessidades criativas com acesso multimodelos.",
+      "features": "Chat, Imagem, Áudio, Vídeo, Codificação",
+      "badge": "20% DE DESCONTO",
+      "pricing": "A partir de $9/mês"
     },
     "fr": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Plateforme tout-en-un pour les besoins créatifs avec accès multi-modèles.",
+      "features": "Chat, Image, Audio, Vidéo, Codage",
+      "badge": "20% DE RÉDUCTION",
+      "pricing": "À partir de 9 $/mois"
     },
     "de": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "All-in-One-Plattform für kreative Bedürfnisse mit Multi-Modell-Zugriff.",
+      "features": "Chat, Bild, Audio, Video, Codierung",
+      "badge": "20% RABATT",
+      "pricing": "Ab $9/Monat"
     },
     "zh": {
-      "description": "一站式创意平台，支持多种模型访问。",
-      "features": "聊天、图像、音频、视频、编程",
-      "badge": "20% 折扣",
-      "pricing": "起价$9/月"
+      "description": "多模型访问的一体化创意平台。",
+      "features": "聊天、图像、音频、视频、编码",
+      "badge": "八折优惠",
+      "pricing": "每月9美元起"
     },
     "it": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Piattaforma all-in-one per esigenze creative con accesso multimodello.",
+      "features": "Chat, Immagine, Audio, Video, Codifica",
+      "badge": "SCONTO DEL 20%",
+      "pricing": "A partire da $9/mese"
     }
   },
   "Monica.im": {
     "en": {
-      "description": "Powerful browser-based AI copilot with unified model access.",
-      "features": "Multi-LLM Chat, Coding, Artifacts, Browser Integration",
-      "badge": "15% OFF",
-      "pricing": "Starts at $10/mo"
+      "description": "All-in-one AI assistant offering chat, writing, search, and translation.",
+      "features": "Chat, Writing, Search, Translation",
+      "badge": "20% OFF",
+      "pricing": "Starts at $8.30/mo"
     },
     "uk": {
-      "description": "Потужний браузерний ШІ-копілот з уніфікованим доступом до моделей.",
-      "features": "Мульти-LLM чат, кодування, артефакти, інтеграція в браузер",
-      "badge": "ЗНИЖКА 15%",
-      "pricing": "Від $10/міс"
+      "description": "Універсальний ШІ-асистент, що пропонує чат, письмо, пошук та переклад.",
+      "features": "Чат, Письмо, Пошук, Переклад",
+      "badge": "ЗНИЖКА 20%",
+      "pricing": "Починається від $8.30/міс"
     },
     "ja": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "チャット、ライティング、検索、翻訳を提供するオールインワンAIアシスタント。",
+      "features": "チャット、ライティング、検索、翻訳",
+      "badge": "20% オフ",
+      "pricing": "月額8.30ドルから"
     },
     "es": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Asistente de IA todo en uno que ofrece chat, escritura, búsqueda y traducción.",
+      "features": "Chat, Escritura, Búsqueda, Traducción",
+      "badge": "20% DE DESCUENTO",
+      "pricing": "Desde $8.30/mes"
     },
     "pt": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Assistente de IA tudo em um que oferece chat, escrita, pesquisa e tradução.",
+      "features": "Chat, Escrita, Busca, Tradução",
+      "badge": "20% DE DESCONTO",
+      "pricing": "A partir de $8.30/mês"
     },
     "fr": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Assistant IA tout-en-un offrant chat, écriture, recherche et traduction.",
+      "features": "Chat, Écriture, Recherche, Traduction",
+      "badge": "20% DE RÉDUCTION",
+      "pricing": "À partir de 8,30 $/mois"
     },
     "de": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "All-in-One-KI-Assistent, der Chat, Schreiben, Suchen und Übersetzen anbietet.",
+      "features": "Chat, Schreiben, Suche, Übersetzung",
+      "badge": "20% RABATT",
+      "pricing": "Ab $8.30/Monat"
     },
     "zh": {
-      "description": "强大的浏览器 AI 助手，统一模型访问。",
-      "features": "多模型聊天、编程、Artifacts、浏览器集成",
-      "badge": "15% 折扣",
-      "pricing": "起价$10/月"
+      "description": "一体化AI助手，提供聊天、写作、搜索和翻译功能。",
+      "features": "聊天、写作、搜索、翻译",
+      "badge": "八折优惠",
+      "pricing": "每月8.30美元起"
     },
     "it": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Assistente AI tutto in uno che offre chat, scrittura, ricerca e traduzione.",
+      "features": "Chat, Scrittura, Ricerca, Traduzione",
+      "badge": "SCONTO DEL 20%",
+      "pricing": "A partire da $8.30/mese"
     }
   },
   "Poe": {
     "en": {
-      "description": "Quora's unified AI chat platform for nearly every major model.",
-      "features": "GPT-4o, Claude 3.5, Gemini 1.5, Custom Bots",
-      "badge": "Free Credits",
-      "pricing": "$20/mo for Pro"
+      "description": "Access multiple top AI models (GPT, Claude, Gemini) in one chat interface.",
+      "features": "Multi-model Chat, Bots, Image",
+      "badge": "Free Trial",
+      "pricing": "Starts at $19.99/mo"
     },
     "uk": {
-      "description": "Уніфікована чат-платформа ШІ від Quora для майже всіх основних моделей.",
-      "features": "GPT-4o, Claude 3.5, Gemini 1.5, кастомні боти",
-      "badge": "Безкоштовні кредити",
-      "pricing": "$20/міс за Pro"
+      "description": "Доступ до кількох провідних моделей ШІ (GPT, Claude, Gemini) в одному інтерфейсі чату.",
+      "features": "Мультимодельний Чат, Боти, Зображення",
+      "badge": "Безкоштовна Спроба",
+      "pricing": "Починається від $19.99/міс"
     },
     "ja": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "複数のトップAIモデル（GPT、Claude、Gemini）に1つのチャットインターフェースでアクセス。",
+      "features": "マルチモデルチャット、ボット、画像",
+      "badge": "無料トライアル",
+      "pricing": "月額19.99ドルから"
     },
     "es": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Accede a múltiples modelos de IA de primer nivel (GPT, Claude, Gemini) en una única interfaz de chat.",
+      "features": "Chat multimotor, Bots, Imagen",
+      "badge": "Prueba Gratuita",
+      "pricing": "Desde $19.99/mes"
     },
     "pt": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Acesse múltiplos modelos de IA de ponta (GPT, Claude, Gemini) em uma única interface de chat.",
+      "features": "Chat Multi-modelo, Bots, Imagem",
+      "badge": "Teste Gratuito",
+      "pricing": "A partir de $19.99/mês"
     },
     "fr": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Accédez à plusieurs modèles d'IA de premier plan (GPT, Claude, Gemini) dans une seule interface de chat.",
+      "features": "Chat multi-modèles, Bots, Image",
+      "badge": "Essai Gratuit",
+      "pricing": "À partir de 19,99 $/mois"
     },
     "de": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Greifen Sie auf mehrere Top-KI-Modelle (GPT, Claude, Gemini) in einer Chat-Oberfläche zu.",
+      "features": "Multi-Modell-Chat, Bots, Bild",
+      "badge": "Kostenlose Testphase",
+      "pricing": "Ab $19.99/Monat"
     },
     "zh": {
-      "description": "Quora 的统一 AI 聊天平台，支持几乎所有主流模型。",
-      "features": "GPT-4o, Claude 3.5, Gemini 1.5, 自定义机器人",
-      "badge": "免费额度",
-      "pricing": "Pro版 $20/月"
+      "description": "在一个聊天界面中访问多个顶级AI模型（GPT、Claude、Gemini）。",
+      "features": "多模型聊天、机器人、图像",
+      "badge": "免费试用",
+      "pricing": "每月19.99美元起"
     },
     "it": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Accedi a più modelli AI di punta (GPT, Claude, Gemini) in un'unica interfaccia di chat.",
+      "features": "Chat multimodello, Bot, Immagine",
+      "badge": "Prova Gratuita",
+      "pricing": "A partire da $19.99/mese"
     }
   },
   "Magai": {
     "en": {
-      "description": "A professional AI interface designed for creators and teams.",
-      "features": "Multi-model integration, Team Chat, Project Organization",
-      "badge": "20% OFF",
-      "pricing": "Starts at $9/mo"
+      "description": "All-in-one AI workspace combining the best AI models for creators.",
+      "features": "Chat, Image, Workspace, Multi-model",
+      "badge": "30% OFF",
+      "pricing": "Starts at $19/mo"
     },
     "uk": {
-      "description": "Професійний інтерфейс ШІ, розроблений для творців та команд.",
-      "features": "Інтеграція багатьох моделей, командний чат, організація проектів",
-      "badge": "ЗНИЖКА 20%",
-      "pricing": "Від $9/міс"
+      "description": "Універсальний робочий простір ШІ, що поєднує найкращі моделі ШІ для творців.",
+      "features": "Чат, Зображення, Робочий простір, Мультимодель",
+      "badge": "ЗНИЖКА 30%",
+      "pricing": "Починається від $19/міс"
     },
     "ja": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "クリエイター向けの最高のAIモデルを組み合わせたオールインワンAIワークスペース。",
+      "features": "チャット、画像、ワークスペース、マルチモデル",
+      "badge": "30% オフ",
+      "pricing": "月額19ドルから"
     },
     "es": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Espacio de trabajo de IA todo en uno que combina los mejores modelos de IA para creadores.",
+      "features": "Chat, Imagen, Espacio de trabajo, Multimotor",
+      "badge": "30% DE DESCUENTO",
+      "pricing": "Desde $19/mes"
     },
     "pt": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Workspace de IA tudo em um combinando os melhores modelos de IA para criadores.",
+      "features": "Chat, Imagem, Workspace, Multi-modelo",
+      "badge": "30% DE DESCONTO",
+      "pricing": "A partir de $19/mês"
     },
     "fr": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Espace de travail IA tout-en-un combinant les meilleurs modèles IA pour les créateurs.",
+      "features": "Chat, Image, Espace de travail, Multi-modèles",
+      "badge": "30% DE RÉDUCTION",
+      "pricing": "À partir de 19 $/mois"
     },
     "de": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "All-in-One-KI-Arbeitsbereich, der die besten KI-Modelle für Kreative kombiniert.",
+      "features": "Chat, Bild, Arbeitsbereich, Multi-Modell",
+      "badge": "30% RABATT",
+      "pricing": "Ab $19/Monat"
     },
     "zh": {
-      "description": "为创作者和团队设计的专业 AI 界面。",
-      "features": "多模型集成、团队聊天、项目组织",
-      "badge": "20% 折扣",
-      "pricing": "起价$9/月"
+      "description": "一体化AI工作空间，为创作者整合了最佳AI模型。",
+      "features": "聊天、图像、工作区、多模型",
+      "badge": "七折优惠",
+      "pricing": "每月19美元起"
     },
     "it": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Spazio di lavoro AI all-in-one che combina i migliori modelli AI per i creatori.",
+      "features": "Chat, Immagine, Spazio di lavoro, Multimodello",
+      "badge": "SCONTO DEL 30%",
+      "pricing": "A partire da $19/mese"
     }
   },
   "i10X.ai": {
     "en": {
-      "description": "Aggregator of 3000+ specialized AI tools under one roof.",
-      "features": "3000+ AI Tools, Unified Search, One Subscription",
-      "badge": "15% OFF",
-      "pricing": "Varies by tool"
+      "description": "All-in-one AI suite with 100+ tools for content, image, and audio creation.",
+      "features": "Multi-tool Suite, Content, Image, Audio",
+      "badge": "50% OFF",
+      "pricing": "Starts at $9/mo"
     },
     "uk": {
-      "description": "Агрегатор 3000+ спеціалізованих інструментів ШІ під одним дахом.",
-      "features": "3000+ інструментів ШІ, уніфікований пошук, одна підписка",
-      "badge": "ЗНИЖКА 15%",
-      "pricing": "Варіюється залежно від інструменту"
+      "description": "Універсальний пакет ШІ з понад 100 інструментами для створення контенту, зображень та аудіо.",
+      "features": "Багатоінструментальний Пакет, Контент, Зображення, Аудіо",
+      "badge": "ЗНИЖКА 50%",
+      "pricing": "Починається від $9/міс"
     },
     "ja": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "コンテンツ、画像、オーディオ作成のための100以上のツールを含むオールインワンAIスイート。",
+      "features": "マルチツールスイート、コンテンツ、画像、オーディオ",
+      "badge": "50% オフ",
+      "pricing": "月額9ドルから"
     },
     "es": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Suite de IA todo en uno con más de 100 herramientas para la creación de contenido, imágenes y audio.",
+      "features": "Suite multiherramienta, Contenido, Imagen, Audio",
+      "badge": "50% DE DESCUENTO",
+      "pricing": "Desde $9/mes"
     },
     "pt": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Suite de IA tudo em um com mais de 100 ferramentas para criação de conteúdo, imagem e áudio.",
+      "features": "Suite Multi-ferramentas, Conteúdo, Imagem, Áudio",
+      "badge": "50% DE DESCONTO",
+      "pricing": "A partir de $9/mês"
     },
     "fr": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Suite IA tout-en-un avec plus de 100 outils pour la création de contenu, d'images et d'audio.",
+      "features": "Suite multi-outils, Contenu, Image, Audio",
+      "badge": "50% DE RÉDUCTION",
+      "pricing": "À partir de 9 $/mois"
     },
     "de": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "All-in-One-KI-Suite mit über 100 Tools für die Erstellung von Inhalten, Bildern und Audio.",
+      "features": "Multi-Tool-Suite, Inhalt, Bild, Audio",
+      "badge": "50% RABATT",
+      "pricing": "Ab $9/Monat"
     },
     "zh": {
-      "description": "汇集 3000+ 专业 AI 工具的聚合平台。",
-      "features": "3000+ AI 工具、统一搜索、单一订阅",
-      "badge": "15% 折扣",
-      "pricing": "因工具而异"
+      "description": "一体化AI套件，包含100多种用于内容、图像和音频创作的工具。",
+      "features": "多工具套件、内容、图像、音频",
+      "badge": "五折优惠",
+      "pricing": "每月9美元起"
     },
     "it": {
-      "description": "",
-      "features": "",
-      "badge": "",
-      "pricing": ""
+      "description": "Suite AI all-in-one con oltre 100 strumenti per la creazione di contenuti, immagini e audio.",
+      "features": "Suite multi-strumento, Contenuto, Immagine, Audio",
+      "badge": "SCONTO DEL 50%",
+      "pricing": "A partire da $9/mese"
+    }
+  },
+  "AIWriteBook": {
+    "en": {
+      "description": "AI-powered tool for writing and structuring full-length books.",
+      "features": "Book Writing, Structure, AI Drafting",
+      "badge": "Exclusive Deal",
+      "pricing": "Contact for pricing"
+    },
+    "uk": {
+      "description": "Інструмент на основі ШІ для написання та структурування повноцінних книг.",
+      "features": "Написання Книг, Структура, ШІ-Чернетка",
+      "badge": "Ексклюзивна Пропозиція",
+      "pricing": "Зв'яжіться для отримання цін"
+    },
+    "ja": {
+      "description": "長編本の執筆と構成のためのAI搭載ツール。",
+      "features": "本の執筆、構成、AIによるドラフト作成",
+      "badge": "限定セール",
+      "pricing": "価格についてはお問い合わせください"
+    },
+    "es": {
+      "description": "Herramienta impulsada por IA para escribir y estructurar libros completos.",
+      "features": "Escritura de libros, Estructura, Borrador de IA",
+      "badge": "Oferta Exclusiva",
+      "pricing": "Contactar para precios"
+    },
+    "pt": {
+      "description": "Ferramenta alimentada por IA para escrever e estruturar livros completos.",
+      "features": "Escrita de Livros, Estrutura, Rascunho de IA",
+      "badge": "Oferta Exclusiva",
+      "pricing": "Entre em contato para preços"
+    },
+    "fr": {
+      "description": "Outil alimenté par l'IA pour l'écriture et la structuration de livres entiers.",
+      "features": "Écriture de livres, Structure, Rédaction par IA",
+      "badge": "Offre Exclusive",
+      "pricing": "Contactez-nous pour les tarifs"
+    },
+    "de": {
+      "description": "KI-gestütztes Tool zum Schreiben und Strukturieren von Büchern in voller Länge.",
+      "features": "Buchschreiben, Struktur, KI-Entwurf",
+      "badge": "Exklusivangebot",
+      "pricing": "Preis auf Anfrage"
+    },
+    "zh": {
+      "description": "AI驱动的工具，用于撰写和构建长篇书籍。",
+      "features": "书籍写作、结构、AI起草",
+      "badge": "独家优惠",
+      "pricing": "联系获取价格"
+    },
+    "it": {
+      "description": "Strumento basato su AI per scrivere e strutturare libri completi.",
+      "features": "Scrittura di libri, Struttura, Bozza AI",
+      "badge": "Offerta Esclusiva",
+      "pricing": "Contattaci per i prezzi"
+    }
+  },
+  "GitHub Copilot Pro": {
+    "en": {
+      "description": "The world's most widely adopted AI developer tool.",
+      "features": "Code Completion, IDE Integration, Chat",
+      "badge": "Free Trial",
+      "pricing": "Starts at $10/mo"
+    },
+    "uk": {
+      "description": "Найбільш поширений у світі інструмент розробника ШІ.",
+      "features": "Завершення Коду, Інтеграція з IDE, Чат",
+      "badge": "Безкоштовна Спроба",
+      "pricing": "Починається від $10/міс"
+    },
+    "ja": {
+      "description": "世界で最も広く採用されているAI開発者ツール。",
+      "features": "コード補完、IDE統合、チャット",
+      "badge": "無料トライアル",
+      "pricing": "月額10ドルから"
+    },
+    "es": {
+      "description": "La herramienta de desarrollo de IA más adoptada en el mundo.",
+      "features": "Autocompletado de código, Integración con IDE, Chat",
+      "badge": "Prueba Gratuita",
+      "pricing": "Desde $10/mes"
+    },
+    "pt": {
+      "description": "A ferramenta de desenvolvimento de IA mais amplamente adotada no mundo.",
+      "features": "Preenchimento de Código, Integração IDE, Chat",
+      "badge": "Teste Gratuito",
+      "pricing": "A partir de $10/mês"
+    },
+    "fr": {
+      "description": "L'outil de développement IA le plus largement adopté au monde.",
+      "features": "Complétion de code, Intégration IDE, Chat",
+      "badge": "Essai Gratuit",
+      "pricing": "À partir de 10 $/mois"
+    },
+    "de": {
+      "description": "Das weltweit am häufigsten verwendete KI-Entwicklertool.",
+      "features": "Code-Vervollständigung, IDE-Integration, Chat",
+      "badge": "Kostenlose Testphase",
+      "pricing": "Ab $10/Monat"
+    },
+    "zh": {
+      "description": "全球最广泛采用的AI开发者工具。",
+      "features": "代码补全、IDE集成、聊天",
+      "badge": "免费试用",
+      "pricing": "每月10美元起"
+    },
+    "it": {
+      "description": "Lo strumento per sviluppatori AI più adottato al mondo.",
+      "features": "Completamento codice, Integrazione IDE, Chat",
+      "badge": "Prova Gratuita",
+      "pricing": "A partire da $10/mese"
+    }
+  },
+  "HappyHorse-1.0 Text-to-video": {
+    "en": {
+      "description": "Generates high-quality videos from text prompts with customizable output.",
+      "features": "Text-to-Video, Custom Output, HD",
+      "badge": "Exclusive Deal",
+      "pricing": "Contact for pricing"
+    },
+    "uk": {
+      "description": "Генерує високоякісні відео з текстових підказок з можливістю налаштування виводу.",
+      "features": "Текст-у-Відео, Налаштовуваний Вивід, HD",
+      "badge": "Ексклюзивна Пропозиція",
+      "pricing": "Зв'яжіться для отримання цін"
+    },
+    "ja": {
+      "description": "カスタマイズ可能な出力で、テキストプロンプトから高品質なビデオを生成します。",
+      "features": "テキストからビデオ、カスタムアウトプット、HD",
+      "badge": "限定セール",
+      "pricing": "価格についてはお問い合わせください"
+    },
+    "es": {
+      "description": "Genera videos de alta calidad a partir de indicaciones de texto con salida personalizable.",
+      "features": "Texto a Video, Salida Personalizada, HD",
+      "badge": "Oferta Exclusiva",
+      "pricing": "Contactar para precios"
+    },
+    "pt": {
+      "description": "Gera vídeos de alta qualidade a partir de prompts de texto com saída personalizável.",
+      "features": "Texto para Vídeo, Saída Personalizada, HD",
+      "badge": "Oferta Exclusiva",
+      "pricing": "Entre em contato para preços"
+    },
+    "fr": {
+      "description": "Génère des vidéos de haute qualité à partir de invites textuelles avec une sortie personnalisable.",
+      "features": "Texte-vers-Vidéo, Sortie personnalisée, HD",
+      "badge": "Offre Exclusive",
+      "pricing": "Contactez-nous pour les tarifs"
+    },
+    "de": {
+      "description": "Erzeugt hochwertige Videos aus Textaufforderungen mit anpassbarer Ausgabe.",
+      "features": "Text-zu-Video, benutzerdefinierte Ausgabe, HD",
+      "badge": "Exklusivangebot",
+      "pricing": "Preis auf Anfrage"
+    },
+    "zh": {
+      "description": "从文本提示生成高质量视频，并提供可定制的输出。",
+      "features": "文本转视频、自定义输出、高清",
+      "badge": "独家优惠",
+      "pricing": "联系获取价格"
+    },
+    "it": {
+      "description": "Genera video di alta qualità da prompt di testo con output personalizzabile.",
+      "features": "Testo-a-Video, Output Personalizzato, HD",
+      "badge": "Offerta Esclusiva",
+      "pricing": "Contattaci per i prezzi"
+    }
+  },
+  "Higgsfield": {
+    "en": {
+      "description": "Save on Higgsfield AI subscriptions for cinematic-grade video generation.",
+      "features": "Cinematic Video, Camera Control, AI Generation",
+      "badge": "Discount Available",
+      "pricing": "Contact for pricing"
+    },
+    "uk": {
+      "description": "Заощаджуйте на підписках Higgsfield AI для створення відео кінематографічної якості.",
+      "features": "Кінематографічне Відео, Керування Камерою, Генерація ШІ",
+      "badge": "Знижка Доступна",
+      "pricing": "Зв'яжіться для отримання цін"
+    },
+    "ja": {
+      "description": "Higgsfield AIサブスクリプションで映画レベルのビデオ生成を節約。",
+      "features": "映画のようなビデオ、カメラ制御、AI生成",
+      "badge": "割引あり",
+      "pricing": "価格についてはお問い合わせください"
+    },
+    "es": {
+      "description": "Ahorre en suscripciones a Higgsfield AI para la generación de videos con calidad cinematográfica.",
+      "features": "Video Cinematográfico, Control de Cámara, Generación de IA",
+      "badge": "Descuento Disponible",
+      "pricing": "Contactar para precios"
+    },
+    "pt": {
+      "description": "Economize em assinaturas do Higgsfield AI para geração de vídeo de nível cinematográfico.",
+      "features": "Vídeo Cinematográfico, Controle de Câmera, Geração por IA",
+      "badge": "Desconto Disponível",
+      "pricing": "Entre em contato para preços"
+    },
+    "fr": {
+      "description": "Économisez sur les abonnements Higgsfield AI pour la génération de vidéos de qualité cinématographique.",
+      "features": "Vidéo cinématographique, Contrôle de caméra, Génération par IA",
+      "badge": "Remise Disponible",
+      "pricing": "Contactez-nous pour les tarifs"
+    },
+    "de": {
+      "description": "Sparen Sie bei Higgsfield AI-Abonnements für die Erstellung von Videos in Kinoqualität.",
+      "features": "Kinematografisches Video, Kamerasteuerung, KI-Generierung",
+      "badge": "Rabatt verfügbar",
+      "pricing": "Preis auf Anfrage"
+    },
+    "zh": {
+      "description": "通过Higgsfield AI订阅，享受电影级视频生成的优惠。",
+      "features": "电影级视频、相机控制、AI生成",
+      "badge": "有折扣",
+      "pricing": "联系获取价格"
+    },
+    "it": {
+      "description": "Risparmia sugli abbonamenti Higgsfield AI per la generazione di video di qualità cinematografica.",
+      "features": "Video Cinematografico, Controllo Telecamera, Generazione AI",
+      "badge": "Sconto Disponibile",
+      "pricing": "Contattaci per i prezzi"
+    }
+  },
+  "Veo 3.1": {
+    "en": {
+      "description": "Cutting-edge AI tool for generating and editing high-quality 4K videos.",
+      "features": "4K Video Generation, Editing, AI",
+      "badge": "Exclusive Deal",
+      "pricing": "Contact for pricing"
+    },
+    "uk": {
+      "description": "Передовий інструмент ШІ для генерації та редагування високоякісних 4K відео.",
+      "features": "Генерація 4K Відео, Редагування, ШІ",
+      "badge": "Ексклюзивна Пропозиція",
+      "pricing": "Зв'яжіться для отримання цін"
+    },
+    "ja": {
+      "description": "高品質な4Kビデオの生成と編集のための最先端AIツール。",
+      "features": "4Kビデオ生成、編集、AI",
+      "badge": "限定セール",
+      "pricing": "価格についてはお問い合わせください"
+    },
+    "es": {
+      "description": "Herramienta de IA de vanguardia para generar y editar videos 4K de alta calidad.",
+      "features": "Generación de video 4K, Edición, IA",
+      "badge": "Oferta Exclusiva",
+      "pricing": "Contactar para precios"
+    },
+    "pt": {
+      "description": "Ferramenta de IA de ponta para gerar e editar vídeos 4K de alta qualidade.",
+      "features": "Geração de Vídeo 4K, Edição, IA",
+      "badge": "Oferta Exclusiva",
+      "pricing": "Entre em contato para preços"
+    },
+    "fr": {
+      "description": "Outil d'IA de pointe pour générer et éditer des vidéos 4K de haute qualité.",
+      "features": "Génération vidéo 4K, Édition, IA",
+      "badge": "Offre Exclusive",
+      "pricing": "Contactez-nous pour les tarifs"
+    },
+    "de": {
+      "description": "Modernes KI-Tool zur Generierung und Bearbeitung hochwertiger 4K-Videos.",
+      "features": "4K-Video-Generierung, Bearbeitung, KI",
+      "badge": "Exklusivangebot",
+      "pricing": "Preis auf Anfrage"
+    },
+    "zh": {
+      "description": "用于生成和编辑高质量4K视频的尖端AI工具。",
+      "features": "4K视频生成、编辑、AI",
+      "badge": "独家优惠",
+      "pricing": "联系获取价格"
+    },
+    "it": {
+      "description": "Strumento AI all'avanguardia per generare e modificare video 4K di alta qualità.",
+      "features": "Generazione Video 4K, Modifica, AI",
+      "badge": "Offerta Esclusiva",
+      "pricing": "Contattaci per i prezzi"
+    }
+  },
+  "Voice.AI": {
+    "en": {
+      "description": "Advanced AI solutions for real-time voice modification and voice cloning.",
+      "features": "Voice Cloning, Real-time Modification, Library",
+      "badge": "Free Plan",
+      "pricing": "Starts at $15/mo"
+    },
+    "uk": {
+      "description": "Передові рішення ШІ для модифікації голосу в реальному часі та клонування голосу.",
+      "features": "Клонування Голосу, Модифікація в Реальному Часі, Бібліотека",
+      "badge": "Безкоштовний План",
+      "pricing": "Починається від $15/міс"
+    },
+    "ja": {
+      "description": "リアルタイムの音声変更と音声クローン作成のための高度なAIソリューション。",
+      "features": "音声クローン、リアルタイム変更、ライブラリ",
+      "badge": "無料プラン",
+      "pricing": "月額15ドルから"
+    },
+    "es": {
+      "description": "Soluciones avanzadas de IA para la modificación de voz en tiempo real y la clonación de voz.",
+      "features": "Clonación de voz, Modificación en tiempo real, Biblioteca",
+      "badge": "Plan Gratuito",
+      "pricing": "Desde $15/mes"
+    },
+    "pt": {
+      "description": "Soluções avançadas de IA para modificação de voz em tempo real e clonagem de voz.",
+      "features": "Clonagem de Voz, Modificação em Tempo Real, Biblioteca",
+      "badge": "Plano Gratuito",
+      "pricing": "A partir de $15/mês"
+    },
+    "fr": {
+      "description": "Solutions IA avancées pour la modification et le clonage vocal en temps réel.",
+      "features": "Clonage vocal, Modification en temps réel, Bibliothèque",
+      "badge": "Plan Gratuit",
+      "pricing": "À partir de 15 $/mois"
+    },
+    "de": {
+      "description": "Fortschrittliche KI-Lösungen für Sprachmodifikation und Stimmklonung in Echtzeit.",
+      "features": "Stimmklonung, Echtzeit-Modifikation, Bibliothek",
+      "badge": "Kostenloser Plan",
+      "pricing": "Ab $15/Monat"
+    },
+    "zh": {
+      "description": "用于实时语音修改和语音克隆的高级AI解决方案。",
+      "features": "语音克隆、实时修改、图书馆",
+      "badge": "免费计划",
+      "pricing": "每月15美元起"
+    },
+    "it": {
+      "description": "Soluzioni AI avanzate per la modifica vocale in tempo reale e la clonazione vocale.",
+      "features": "Clonazione Vocale, Modifica in Tempo Reale, Libreria",
+      "badge": "Piano Gratuito",
+      "pricing": "A partire da $15/mese"
+    }
+  },
+  "VoiceType AI": {
+    "en": {
+      "description": "Efficient voice-to-text conversion for faster typing and documentation.",
+      "features": "Voice-to-Text, Dictation, Productivity",
+      "badge": "Free Trial",
+      "pricing": "Starts at $12/mo"
+    },
+    "uk": {
+      "description": "Ефективне перетворення голосу в текст для швидшого набору та документування.",
+      "features": "Голос-у-Текст, Диктування, Продуктивність",
+      "badge": "Безкоштовна Спроба",
+      "pricing": "Починається від $12/міс"
+    },
+    "ja": {
+      "description": "より速いタイピングとドキュメント作成のための効率的な音声-テキスト変換。",
+      "features": "音声からテキスト、ディクテーション、生産性",
+      "badge": "無料トライアル",
+      "pricing": "月額12ドルから"
+    },
+    "es": {
+      "description": "Conversión eficiente de voz a texto para una escritura y documentación más rápidas.",
+      "features": "Voz a texto, Dictado, Productividad",
+      "badge": "Prueba Gratuita",
+      "pricing": "Desde $12/mes"
+    },
+    "pt": {
+      "description": "Conversão eficiente de voz para texto para digitação e documentação mais rápidas.",
+      "features": "Voz para Texto, Ditado, Produtividade",
+      "badge": "Teste Gratuito",
+      "pricing": "A partir de $12/mês"
+    },
+    "fr": {
+      "description": "Conversion voix-texte efficace pour une saisie et une documentation plus rapides.",
+      "features": "Voix-texte, Dictée, Productivité",
+      "badge": "Essai Gratuit",
+      "pricing": "À partir de 12 $/mois"
+    },
+    "de": {
+      "description": "Effiziente Sprach-zu-Text-Konvertierung für schnelleres Tippen und Dokumentation.",
+      "features": "Sprach-zu-Text, Diktat, Produktivität",
+      "badge": "Kostenlose Testphase",
+      "pricing": "Ab $12/Monat"
+    },
+    "zh": {
+      "description": "高效的语音转文本转换，实现更快的打字和文档处理。",
+      "features": "语音转文本、听写、生产力",
+      "badge": "免费试用",
+      "pricing": "每月12美元起"
+    },
+    "it": {
+      "description": "Conversione voce-testo efficiente per una digitazione e documentazione più rapide.",
+      "features": "Voce-a-Testo, Dettatura, Produttività",
+      "badge": "Prova Gratuita",
+      "pricing": "A partire da $12/mese"
+    }
+  },
+  "SnowSEO": {
+    "en": {
+      "description": "SnowSEO offers a suite of tools designed to enhance your website's search engine visibility and help you implement effective SEO strategies.",
+      "features": "SEO tools for keyword research and optimization.",
+      "badge": "20%",
+      "pricing": "Save up to 20% on all yearly plans."
+    },
+    "uk": {
+      "description": "SnowSEO пропонує набір інструментів, призначених для покращення видимості вашого веб-сайту в пошукових системах та допомоги у впровадженні ефективних стратегій SEO.",
+      "features": "Інструменти SEO для дослідження ключових слів та оптимізації.",
+      "badge": "20%",
+      "pricing": "Зекономте до 20% на всіх річних планах."
+    },
+    "ja": {
+      "description": "SnowSEOは、ウェブサイトの検索エンジンでの可視性を向上させ、効果的なSEO戦略を実施するのを助けるために設計されたツールのスイートを提供します。",
+      "features": "キーワードリサーチと最適化のためのSEOツール。",
+      "badge": "20%",
+      "pricing": "すべての年次プランで最大20%節約できます。"
+    },
+    "es": {
+      "description": "SnowSEO ofrece un conjunto de herramientas diseñadas para mejorar la visibilidad de su sitio web en los motores de búsqueda y ayudarle a implementar estrategias de SEO efectivas.",
+      "features": "Herramientas de SEO para la investigación y optimización de palabras clave.",
+      "badge": "20%",
+      "pricing": "Ahorre hasta un 20% en todos los planes anuales."
+    },
+    "pt": {
+      "description": "O SnowSEO oferece um conjunto de ferramentas projetadas para melhorar a visibilidade do seu site nos motores de busca e ajudá-lo a implementar estratégias de SEO eficazes.",
+      "features": "Ferramentas de SEO para pesquisa e otimização de palavras-chave.",
+      "badge": "20%",
+      "pricing": "Economize até 20% em todos os planos anuais."
+    },
+    "fr": {
+      "description": "SnowSEO propose une suite d'outils conçus pour améliorer la visibilité de votre site web sur les moteurs de recherche et vous aider à mettre en œuvre des stratégies SEO efficaces.",
+      "features": "Outils SEO pour la recherche et l'optimisation des mots-clés.",
+      "badge": "20%",
+      "pricing": "Économisez jusqu'à 20% sur tous les plans annuels."
+    },
+    "de": {
+      "description": "SnowSEO bietet eine Suite von Tools, die entwickelt wurden, um die Sichtbarkeit Ihrer Website in Suchmaschinen zu verbessern und Ihnen bei der Implementierung effektiver SEO-Strategien zu helfen.",
+      "features": "SEO-Tools für die Keyword-Recherche und -Optimierung.",
+      "badge": "20%",
+      "pricing": "Sparen Sie bis zu 20% bei allen Jahresplänen."
+    },
+    "zh": {
+      "description": "SnowSEO 提供了一套旨在增强您网站在搜索引擎中可见性的工具，并帮助您实施有效的SEO策略。",
+      "features": "用于关键字研究和优化的SEO工具。",
+      "badge": "20%",
+      "pricing": "在所有年度计划中节省高达20%。"
+    },
+    "it": {
+      "description": "SnowSEO offre una suite di strumenti progettati per migliorare la visibilità del tuo sito web nei motori di ricerca e aiutarti a implementare strategie SEO efficaci.",
+      "features": "Strumenti SEO per la ricerca e ottimizzazione delle parole chiave.",
+      "badge": "20%",
+      "pricing": "Risparmia fino al 20% su tutti i piani annuali."
+    }
+  },
+  "SEO Buddy": {
+    "en": {
+      "description": "SEO Buddy provides resources and tools to simplify the SEO process for marketers and businesses, focusing on practical implementation and strategic growth.",
+      "features": "Guides and resources for enhanced SEO performance.",
+      "badge": "15%",
+      "pricing": "15% off with verified discount codes."
+    },
+    "uk": {
+      "description": "SEO Buddy надає ресурси та інструменти для спрощення процесу SEO для маркетологів та бізнесу, з акцентом на практичну реалізацію та стратегічний розвиток.",
+      "features": "Посібники та ресурси для покращення SEO-продуктивності.",
+      "badge": "15%",
+      "pricing": "15% знижки за наявності перевірених промокодів."
+    },
+    "ja": {
+      "description": "SEO Buddyは、マーケターやビジネス向けにSEOプロセスを簡素化するためのリソースとツールを提供し、実用的な実装と戦略的成長に焦点を当てています。",
+      "features": "SEOパフォーマンスを向上させるためのガイドとリソース。",
+      "badge": "15%",
+      "pricing": "確認済みの割引コードで15%オフ。"
+    },
+    "es": {
+      "description": "SEO Buddy proporciona recursos y herramientas para simplificar el proceso de SEO para comercializadores y empresas, centrándose en la implementación práctica y el crecimiento estratégico.",
+      "features": "Guías y recursos para mejorar el rendimiento de SEO.",
+      "badge": "15%",
+      "pricing": "15% de descuento con códigos de descuento verificados."
+    },
+    "pt": {
+      "description": "SEO Buddy fornece recursos e ferramentas para simplificar o processo de SEO para profissionais de marketing e empresas, com foco na implementação prática e no crescimento estratégico.",
+      "features": "Guias e recursos para melhorar o desempenho de SEO.",
+      "badge": "15%",
+      "pricing": "15% de desconto com códigos de desconto verificados."
+    },
+    "fr": {
+      "description": "SEO Buddy fournit des ressources et des outils pour simplifier le processus SEO pour les marketeurs et les entreprises, en se concentrant sur une mise en œuvre pratique et une croissance stratégique.",
+      "features": "Guides et ressources pour améliorer les performances SEO.",
+      "badge": "15%",
+      "pricing": "15% de réduction avec des codes de réduction vérifiés."
+    },
+    "de": {
+      "description": "SEO Buddy bietet Ressourcen und Werkzeuge, um den SEO-Prozess für Vermarkter und Unternehmen zu vereinfachen, wobei der Schwerpunkt auf praktischer Umsetzung und strategischem Wachstum liegt.",
+      "features": "Leitfäden und Ressourcen zur Verbesserung der SEO-Leistung.",
+      "badge": "15%",
+      "pricing": "15% Rabatt mit verifizierten Rabattcodes."
+    },
+    "zh": {
+      "description": "SEO Buddy提供资源和工具，简化市场营销人员和企业的SEO过程，专注于实际实施和战略增长。",
+      "features": "提升SEO表现的指南和资源。",
+      "badge": "15%",
+      "pricing": "凭借经过验证的折扣码享受15%的折扣。"
+    },
+    "it": {
+      "description": "SEO Buddy fornisce risorse e strumenti per semplificare il processo SEO per i marketer e le aziende, concentrandosi sull'implementazione pratica e sulla crescita strategica.",
+      "features": "Guide e risorse per migliorare le performance SEO.",
+      "badge": "15%",
+      "pricing": "15% di sconto con codici sconto verificati."
+    }
+  },
+  "AI Tools": {
+    "en": {
+      "description": "AI Tools Coupons & Promo Codes provide substantial discounts across various AI tools and applications, allowing users to save across their subscriptions.",
+      "features": "Sitewide Offer - Get 50% Off On All Plans and Enjoy 20% Off On All Subscription Plans.",
+      "badge": "50%",
+      "pricing": "Valid on all plans."
+    },
+    "uk": {
+      "description": "Купони та промокоди для інструментів ШІ надають суттєві знижки на різні інструменти та застосунки ШІ, що дозволяє користувачам заощаджувати на своїх підписках.",
+      "features": "Загальна пропозиція - отримайте знижку 50% на всі плани та насолоджуйтесь знижкою 20% на всі підписки.",
+      "badge": "50%",
+      "pricing": "Діє на всі плани."
+    },
+    "ja": {
+      "description": "AIツールのクーポンとプロモコードは、さまざまなAIツールやアプリケーションで大幅な割引を提供し、ユーザーがサブスクリプションで節約できるようにします。",
+      "features": "全サイトオファー - すべてのプランで50%オフ、すべてのサブスクリプションプランで20%オフをお楽しみください。",
+      "badge": "50%",
+      "pricing": "すべてのプランに対して有効です。"
+    },
+    "es": {
+      "description": "Los cupones y códigos promocionales de herramientas de IA ofrecen descuentos sustanciales en varias herramientas y aplicaciones de IA, permitiendo a los usuarios ahorrar en sus suscripciones.",
+      "features": "Oferta en todo el sitio - Obtén un 50% de descuento en todos los planes y disfruta de un 20% de descuento en todos los planes de suscripción.",
+      "badge": "50%",
+      "pricing": "Válido para todos los planes."
+    },
+    "pt": {
+      "description": "Os cupons e códigos promocionais de Ferramentas de IA oferecem descontos substanciais em várias ferramentas e aplicativos de IA, permitindo que os usuários economizem em suas assinaturas.",
+      "features": "Oferta em todo o site - Obtenha 50% de desconto em todos os planos e aproveite 20% de desconto em todos os planos de assinatura.",
+      "badge": "50%",
+      "pricing": "Válido em todos os planos."
+    },
+    "fr": {
+      "description": "Les coupons et codes promotionnels pour les outils d'IA offrent des réductions substantielles sur divers outils et applications d'IA, permettant aux utilisateurs de faire des économies sur leurs abonnements.",
+      "features": "Offre globale - Bénéficiez de 50 % de réduction sur tous les forfaits et profitez de 20 % de réduction sur tous les forfaits d'abonnement.",
+      "badge": "50%",
+      "pricing": "Valide sur tous les forfaits."
+    },
+    "de": {
+      "description": "Rabatte und Aktionscodes für KI-Tools bieten erhebliche Rabatte auf verschiedene KI-Tools und Anwendungen und ermöglichen es den Nutzern, bei ihren Abonnements zu sparen.",
+      "features": "Seitenweite Aktion - 50 % Rabatt auf alle Pläne und 20 % Rabatt auf alle Abonnements genießen.",
+      "badge": "50%",
+      "pricing": "Gültig für alle Pläne."
+    },
+    "zh": {
+      "description": "AI工具优惠券和促销代码在各种AI工具和应用程序中提供了可观的折扣，让用户在订阅中节省开支。",
+      "features": "全站优惠 - 所有计划享受50%折扣，所有订阅计划享受20%折扣。",
+      "badge": "50%",
+      "pricing": "适用于所有计划。"
+    },
+    "it": {
+      "description": "I coupon e i codici promozionali per gli strumenti di IA offrono sconti sostanziali su vari strumenti e applicazioni di IA, consentendo agli utenti di risparmiare sui propri abbonamenti.",
+      "features": "Offerta su tutto il sito - Ottieni il 50% di sconto su tutti i piani e goditi il 20% di sconto su tutti i piani di abbonamento.",
+      "badge": "50%",
+      "pricing": "Valido per tutti i piani."
+    }
+  },
+  "Comp AI": {
+    "en": {
+      "description": "Comp AI offers a range of coupons and promo codes for various AI tools and templates, helping users access essential resources at discounted rates.",
+      "features": "Deals on templates, themes, and AI tools such as writing tools and chatbots.",
+      "badge": "65%",
+      "pricing": "April 2026"
+    },
+    "uk": {
+      "description": "Comp AI пропонує ряд купонів та промокодів для різних інструментів ШІ та шаблонів, допомагаючи користувачам отримувати доступ до необхідних ресурсів за зниженими цінами.",
+      "features": "Знижки на шаблони, теми та інструменти ШІ, такі як інструменти для написання та чат-боти.",
+      "badge": "65%",
+      "pricing": "Квітень 2026"
+    },
+    "ja": {
+      "description": "Comp AIは、さまざまなAIツールやテンプレートのためのクーポンやプロモーションコードを提供し、ユーザーが割引価格で必須リソースにアクセスできるようにします。",
+      "features": "テンプレート、テーマ、およびライティングツールやチャットボットなどのAIツールの取引。",
+      "badge": "65%",
+      "pricing": "2026年4月"
+    },
+    "es": {
+      "description": "Comp AI ofrece una variedad de cupones y códigos promocionales para diversas herramientas y plantillas de IA, ayudando a los usuarios a acceder a recursos esenciales a precios reducidos.",
+      "features": "Ofertas en plantillas, temas y herramientas de IA, como herramientas de escritura y chatbots.",
+      "badge": "65%",
+      "pricing": "Abril 2026"
+    },
+    "pt": {
+      "description": "Comp AI oferece uma variedade de cupons e códigos promocionais para várias ferramentas e modelos de IA, ajudando os usuários a acessar recursos essenciais a preços com desconto.",
+      "features": "Ofertas em modelos, temas e ferramentas de IA, como ferramentas de escrita e chatbots.",
+      "badge": "65%",
+      "pricing": "Abril de 2026"
+    },
+    "fr": {
+      "description": "Comp AI propose une gamme de coupons et de codes promo pour divers outils et modèles d'IA, aidant les utilisateurs à accéder à des ressources essentielles à des tarifs réduits.",
+      "features": "Offres sur des modèles, des thèmes et des outils d'IA comme des outils d'écriture et des chatbots.",
+      "badge": "65%",
+      "pricing": "Avril 2026"
+    },
+    "de": {
+      "description": "Comp AI bietet eine Reihe von Gutscheinen und Aktionscodes für verschiedene KI-Tools und Vorlagen an, die den Nutzern helfen, zu ermäßigten Preisen auf wichtige Ressourcen zuzugreifen.",
+      "features": "Angebote für Vorlagen, Themen und KI-Tools wie Schreibwerkzeuge und Chatbots.",
+      "badge": "65%",
+      "pricing": "April 2026"
+    },
+    "zh": {
+      "description": "Comp AI 提供各种 AI 工具和模板的优惠券和促销代码，帮助用户以折扣价访问必需的资源。",
+      "features": "模板、主题和 AI 工具（如写作工具和聊天机器人）的交易。",
+      "badge": "65%",
+      "pricing": "2026年4月"
+    },
+    "it": {
+      "description": "Comp AI offre una gamma di coupon e codici promozionali per vari strumenti e modelli di IA, aiutando gli utenti ad accedere a risorse essenziali a tariffe scontate.",
+      "features": "Offerte su modelli, temi e strumenti di IA come strumenti di scrittura e chatbot.",
+      "badge": "65%",
+      "pricing": "Aprile 2026"
+    }
+  },
+  "Growfurther AI Tools": {
+    "en": {
+      "description": "Growfurther is a premier destination for AI-related tools and apps promos, helping users maximize their savings on essential AI tools.",
+      "features": "Access to promo codes and discounts for top AI software.",
+      "badge": "N/A",
+      "pricing": "Coupons for AI tools and apps."
+    },
+    "uk": {
+      "description": "Growfurther - це провідний ресурс для промоцій інструментів та додатків, пов'язаних з ШІ, який допомагає користувачам максимально економити на важливих інструментах ШІ.",
+      "features": "Доступ до промокодів і знижок на найкраще програмне забезпечення ШІ.",
+      "badge": "Н/Д",
+      "pricing": "Купони для інструментів та додатків ШІ."
+    },
+    "ja": {
+      "description": "Growfurtherは、AI関連ツールとアプリのプロモーションのための主要な目的地であり、ユーザーが必須のAIツールでの節約を最大化するのを助けます。",
+      "features": "トップAIソフトウェアのプロモーションコードと割引にアクセスできます。",
+      "badge": "該当なし",
+      "pricing": "AIツールとアプリ用のクーポン。"
+    },
+    "es": {
+      "description": "Growfurther es un destino principal para promociones de herramientas y aplicaciones relacionadas con la IA, ayudando a los usuarios a maximizar sus ahorros en herramientas esenciales de IA.",
+      "features": "Acceso a códigos promocionales y descuentos para el mejor software de IA.",
+      "badge": "N/A",
+      "pricing": "Cupones para herramientas y aplicaciones de IA."
+    },
+    "pt": {
+      "description": "Growfurther é um destino de primeira classe para promoções de ferramentas e aplicativos relacionados à IA, ajudando os usuários a maximizar suas economias em ferramentas essenciais de IA.",
+      "features": "Acesso a códigos promocionais e descontos para os melhores softwares de IA.",
+      "badge": "N/A",
+      "pricing": "Cupons para ferramentas e aplicativos de IA."
+    },
+    "fr": {
+      "description": "Growfurther est une destination de premier choix pour les promotions d'outils et d'applications liés à l'IA, aidant les utilisateurs à maximiser leurs économies sur les outils essentiels d'IA.",
+      "features": "Accès aux codes de promotion et aux réductions pour les meilleurs logiciels d'IA.",
+      "badge": "N/A",
+      "pricing": "Coupons pour les outils et applications d'IA."
+    },
+    "de": {
+      "description": "Growfurther ist ein führendes Ziel für Werbeaktionen von KI-bezogenen Tools und Apps, das den Nutzern hilft, ihre Einsparungen bei wichtigen KI-Tools zu maximieren.",
+      "features": "Zugang zu Gutscheincodes und Rabatten für die besten KI-Software.",
+      "badge": "N/A",
+      "pricing": "Gutscheine für KI-Tools und -Apps."
+    },
+    "zh": {
+      "description": "Growfurther是一个顶级的AI相关工具和应用程序促销目的地，帮助用户最大化他们在基本AI工具上的节省。",
+      "features": "访问顶级AI软件的促销代码和折扣。",
+      "badge": "N/A",
+      "pricing": "用于AI工具和应用程序的优惠券。"
+    },
+    "it": {
+      "description": "Growfurther è una destinazione privilegiata per promozioni di strumenti e app legati all'IA, aiutando gli utenti a massimizzare i loro risparmi su strumenti essenziali di IA.",
+      "features": "Accesso a codici promozionali e sconti per i migliori software di IA.",
+      "badge": "N/A",
+      "pricing": "Coupon per strumenti e app di IA."
+    }
+  },
+  "Eleven Labs": {
+    "en": {
+      "description": "Eleven Labs delivers premier tools for AI voice generation, catering to enterprises seeking to enhance their multimedia content through state-of-the-art audio technology. Users can expect high fidelity and customizability in voice synthesis.",
+      "features": "Access to premium voice generation tools with significant savings on the enterprise-level plan.",
+      "badge": "50%",
+      "pricing": "$1320/month plan available."
+    },
+    "uk": {
+      "description": "Eleven Labs пропонує преміум-інструменти для генерування голосу за допомогою ШІ, орієнтуючись на підприємства, які прагнуть покращити свій мультимедійний контент за допомогою сучасних аудіо технологій. Користувачі можуть очікувати високу якість та налаштування в синтезі голосу.",
+      "features": "Доступ до преміум-інструментів генерації голосу з значними заощадженнями на плані для підприємств.",
+      "badge": "50%",
+      "pricing": "Доступний план за $1320 на місяць."
+    },
+    "ja": {
+      "description": "Eleven Labsは、AI音声生成のためのプレミアツールを提供し、最新のオーディオ技術を通じてマルチメディアコンテンツの向上を目指す企業に対応しています。ユーザーは音声合成において高い忠実度とカスタマイズ性を期待できます。",
+      "features": "企業向けプランで大幅な節約ができるプレミアム音声生成ツールへのアクセス。",
+      "badge": "50%",
+      "pricing": "月額$1320のプランが利用可能です。"
+    },
+    "es": {
+      "description": "Eleven Labs ofrece herramientas premium para la generación de voz por IA, dirigidas a empresas que buscan mejorar su contenido multimedia a través de tecnología de audio de última generación. Los usuarios pueden esperar alta fidelidad y personalización en la síntesis de voz.",
+      "features": "Acceso a herramientas premium para la generación de voz con importantes ahorros en el plan a nivel empresarial.",
+      "badge": "50%",
+      "pricing": "Plan disponible por $1320 al mes."
+    },
+    "pt": {
+      "description": "A Eleven Labs oferece ferramentas premium para geração de voz por meio de IA, atendendo empresas que buscam aprimorar seu conteúdo multimídia por meio de tecnologia de áudio de ponta. Os usuários podem esperar alta fidelidade e personalização na síntese de voz.",
+      "features": "Acesso a ferramentas premium de geração de voz com economias significativas no plano empresarial.",
+      "badge": "50%",
+      "pricing": "Plano disponível por $1320/mês."
+    },
+    "fr": {
+      "description": "Eleven Labs propose des outils de premier plan pour la génération de voix par IA, s'adressant aux entreprises cherchant à améliorer leur contenu multimédia grâce à une technologie audio de pointe. Les utilisateurs peuvent s'attendre à une haute fidélité et à une personnalisabilité dans la synthèse vocale.",
+      "features": "Accès à des outils de génération de voix premium avec des économies significatives sur le plan entreprise.",
+      "badge": "50%",
+      "pricing": "Plan disponible à 1320 $/mois."
+    },
+    "de": {
+      "description": "Eleven Labs bietet erstklassige Werkzeuge zur Sprachgenerierung durch ШІ und richtet sich an Unternehmen, die ihre Multimedia-Inhalte mit modernster Audiotechnologie verbessern möchten. Benutzer können hohe Fidelity und Anpassungsfähigkeit in der Sprachsynthese erwarten.",
+      "features": "Zugang zu Premium-Tools zur Sprachgenerierung mit erheblichen Einsparungen beim Unternehmensplan.",
+      "badge": "50%",
+      "pricing": "Plan verfügbar für 1320 $/Monat."
+    },
+    "zh": {
+      "description": "Eleven Labs提供高端的人工智能语音生成工具，致力于帮助企业通过尖端音频技术增强其多媒体内容。用户可以期待高保真度和可定制性。",
+      "features": "访问高端语音生成工具，在企业级计划上可享受显著的节省。",
+      "badge": "50%",
+      "pricing": "每月$1320的计划可用。"
+    },
+    "it": {
+      "description": "Eleven Labs offre strumenti di alta qualità per la generazione di voce tramite IA, rivolgendosi alle imprese che desiderano migliorare i propri contenuti multimediali attraverso tecnologie audio all'avanguardia. Gli utenti possono aspettarsi alta fedeltà e personalizzazione nella sintesi vocale.",
+      "features": "Accesso a strumenti premium per la generazione di voce con significativi risparmi sul piano aziendale.",
+      "badge": "50%",
+      "pricing": "Piano disponibile a $1320/mese."
+    }
+  },
+  "ChatGPT": {
+    "en": {
+      "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
+      "features": "Top discounts available for subscription plans.",
+      "badge": "N/A",
+      "pricing": "Plus Plan Starts at $20/Month, Pro Plan $25/Month"
+    },
+    "uk": {
+      "description": "ChatGPT – це універсальна модель ШІ, розроблена компанією OpenAI, яка використовується для генерації тексту, схожого на людський, на основі наданих запитів і питань.",
+      "features": "Найкращі знижки доступні для підписки.",
+      "badge": "Немає",
+      "pricing": "План Plus починається з $20 на місяць, план Pro - $25 на місяць."
+    },
+    "ja": {
+      "description": "ChatGPTは、OpenAIによって開発された多目的なAIモデルであり、提供されたプロンプトや質問に基づいて人間のようなテキストを生成するために使用されます。",
+      "features": "サブスクリプションプランには特別割引があります。",
+      "badge": "該当なし",
+      "pricing": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。"
+    },
+    "es": {
+      "description": "ChatGPT es un modelo de IA versátil desarrollado por OpenAI, utilizado para generar texto similar al humano basado en las indicaciones y preguntas proporcionadas.",
+      "features": "Grandes descuentos disponibles para planes de suscripción.",
+      "badge": "N/A",
+      "pricing": "El Plan Plus comienza en $20/mes, el Plan Pro en $25/mes."
+    },
+    "pt": {
+      "description": "ChatGPT é um modelo de IA versátil desenvolvido pela OpenAI, usado para gerar texto semelhante ao humano com base em prompts e perguntas fornecidos.",
+      "features": "Principais descontos disponíveis para planos de assinatura.",
+      "badge": "N/A",
+      "pricing": "O Plano Plus começa a $20/mês, o Plano Pro a $25/mês."
+    },
+    "fr": {
+      "description": "ChatGPT est un modèle d'IA polyvalent développé par OpenAI, utilisé pour générer un texte ressemblant à celui des humains basé sur des invites et des questions fournies.",
+      "features": "Meilleures remises disponibles pour les forfaits d'abonnement.",
+      "badge": "N/A",
+      "pricing": "Le plan Plus commence à 20 $/mois, le plan Pro à 25 $/mois."
+    },
+    "de": {
+      "description": "ChatGPT ist ein vielseitiges KI-Modell, das von OpenAI entwickelt wurde und zur Generierung menschenähnlicher Texte auf Grundlage bereitgestellter Eingabeaufforderungen und Fragen verwendet wird.",
+      "features": "Top-Rabatte für Abonnementpläne verfügbar.",
+      "badge": "N/A",
+      "pricing": "Der Plus-Plan beginnt bei 20 $/Monat, der Pro-Plan bei 25 $/Monat."
+    },
+    "zh": {
+      "description": "ChatGPT是由OpenAI开发的多功能人工智能模型，用于根据提供的提示和问题生成类人文本。",
+      "features": "订阅计划提供最佳折扣。",
+      "badge": "不适用",
+      "pricing": "Plus计划起价$20/月，Pro计划$25/月。"
+    },
+    "it": {
+      "description": "ChatGPT è un modello di IA versatile sviluppato da OpenAI, utilizzato per generare testo simile a quello umano basato su prompt e domande forniti.",
+      "features": "Migliori sconti disponibili per i piani di abbonamento.",
+      "badge": "N/D",
+      "pricing": "Il Piano Plus parte da $20/mese, il Piano Pro a $25/mese."
+    }
+  },
+  "Perplexity Pro": {
+    "en": {
+      "description": "Perplexity Pro is an advanced version of the Perplexity AI platform, providing users with enhanced capabilities for data analysis and search efficiency, ideal for professionals seeking in-depth insights.",
+      "features": "Access to premium features with discounted rates after trial.",
+      "badge": "17%",
+      "pricing": "Get a free trial for 12 months followed by a discount on annual plans."
+    },
+    "uk": {
+      "description": "Perplexity Pro - це вдосконалена версія платформи Perplexity ШІ, яка надає користувачам розширені можливості для аналізу даних та підвищення ефективності пошуку, ідеально підходить для професіоналів, які шукають глибокі інсайти.",
+      "features": "Доступ до преміум-функцій з пільговими тарифами після випробувального терміну.",
+      "badge": "17%",
+      "pricing": "Отримайте безкоштовний пробний доступ на 12 місяців, а потім - знижку на річні плани."
+    },
+    "ja": {
+      "description": "Perplexity Proは、データ分析と検索効率を向上させる高度な機能をユーザーに提供するPerplexity AIプラットフォームの拡張版で、詳細な洞察を求める専門家に最適です。",
+      "features": "無料トライアル後に割引料金でプレミアム機能にアクセスできます。",
+      "badge": "17%",
+      "pricing": "12ヶ月間の無料トライアルを取得し、その後、年間プランに割引が適用されます。"
+    },
+    "es": {
+      "description": "Perplexity Pro es una versión avanzada de la plataforma Perplexity AI, que proporciona a los usuarios capacidades mejoradas para el análisis de datos y la eficiencia de búsqueda, ideal para profesionales que buscan información en profundidad.",
+      "features": "Acceso a funciones premium con tarifas con descuento después de la prueba.",
+      "badge": "17%",
+      "pricing": "Obtén una prueba gratuita de 12 meses seguida de un descuento en planes anuales."
+    },
+    "pt": {
+      "description": "Perplexity Pro é uma versão avançada da plataforma Perplexity ШІ, que oferece aos usuários capacidades aprimoradas para análise de dados e eficiência de busca, ideal para profissionais que buscam insights profundos.",
+      "features": "Acesso a recursos premium com tarifas com desconto após o período de teste.",
+      "badge": "17%",
+      "pricing": "Obtenha um teste gratuito de 12 meses seguido de um desconto em planos anuais."
+    },
+    "fr": {
+      "description": "Perplexity Pro est une version avancée de la plateforme Perplexity ШІ, offrant aux utilisateurs des capacités améliorées pour l'analyse des données et l'efficacité de recherche, idéale pour les professionnels recherchant des insights approfondis.",
+      "features": "Accès à des fonctionnalités premium avec des tarifs réduits après l'essai.",
+      "badge": "17%",
+      "pricing": "Bénéficiez d'un essai gratuit de 12 mois suivi d'une réduction sur les plans annuels."
+    },
+    "de": {
+      "description": "Perplexity Pro ist eine erweiterte Version der Perplexity ШІ-Plattform, die den Nutzern verbesserte Möglichkeiten zur Datenanalyse und Sucheffizienz bietet und ideal für Fachleute ist, die tiefere Einblicke suchen.",
+      "features": "Zugang zu Premium-Funktionen mit ermäßigten Preisen nach der Testphase.",
+      "badge": "17%",
+      "pricing": "Erhalten Sie eine 12-monatige kostenlose Testversion, gefolgt von einem Rabatt auf Jahrespläne."
+    },
+    "zh": {
+      "description": "Perplexity Pro是Perplexity ШІ平台的高级版本，为用户提供增强的数据分析和搜索效率，尤其适合寻求深入见解的专业人士。",
+      "features": "试用后以折扣价格访问高级功能。",
+      "badge": "17%",
+      "pricing": "获得12个月的免费试用，然后在年度计划上享受折扣。"
+    },
+    "it": {
+      "description": "Perplexity Pro è una versione avanzata della piattaforma Perplexity ШІ, che offre agli utenti funzionalità migliorate per l'analisi dei dati e l'efficienza di ricerca, ideale per i professionisti che cercano approfondimenti dettagliati.",
+      "features": "Accesso a funzionalità premium a tariffe scontate dopo il periodo di prova.",
+      "badge": "17%",
+      "pricing": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
+    }
+  },
+  "Novelist AI": {
+    "en": {
+      "description": "Novelist AI is a tailored solution that assists authors in creating, editing, and refining their novels through advanced AI techniques.",
+      "features": "Offers AI tools for writing novels and detecting AI-generated text.",
+      "badge": "N/A",
+      "pricing": "14 active coupons and deals listed for May 2026."
+    },
+    "uk": {
+      "description": "Novelist AI - це персоналізоване рішення, яке допомагає авторам створювати, редагувати та вдосконалювати свої романи за допомогою передових технік ШІ.",
+      "features": "Пропонує інструменти ШІ для написання романів і виявлення текстів, створених ШІ.",
+      "badge": "Н/Д",
+      "pricing": "14 активних купонів та акцій, зазначених на травень 2026 року."
+    },
+    "ja": {
+      "description": "Novelist AIは、著者が小説を作成、編集、および洗練できるようにするためのカスタマイズされたソリューションで、高度なAI技術を使用しています。",
+      "features": "小説を執筆するためのAIツールとAI生成テキストを検出するツールを提供しています。",
+      "badge": "該当なし",
+      "pricing": "2026年5月に掲載された14件のアクティブクーポンと特典。"
+    },
+    "es": {
+      "description": "Novelist AI es una solución personalizada que ayuda a los autores a crear, editar y perfeccionar sus novelas a través de técnicas avanzadas de IA.",
+      "features": "Ofrece herramientas de IA para escribir novelas y detectar texto generado por IA.",
+      "badge": "N/D",
+      "pricing": "14 cupones y ofertas activos listados para mayo de 2026."
+    },
+    "pt": {
+      "description": "Novelist AI é uma solução personalizada que auxilia autores na criação, edição e aprimoramento de seus romances por meio de técnicas avançadas de IA.",
+      "features": "Oferece ferramentas de IA para escrever romances e detectar texto gerado por IA.",
+      "badge": "N/D",
+      "pricing": "14 cupons e ofertas ativas listadas para maio de 2026."
+    },
+    "fr": {
+      "description": "Novelist AI est une solution sur mesure qui aide les auteurs à créer, éditer et affiner leurs romans grâce à des techniques avancées d'IA.",
+      "features": "Propose des outils d'IA pour écrire des romans et détecter les textes générés par l'IA.",
+      "badge": "N/A",
+      "pricing": "14 coupons et offres actifs répertoriés pour mai 2026."
+    },
+    "de": {
+      "description": "Novelist AI ist eine maßgeschneiderte Lösung, die Autoren bei der Erstellung, Bearbeitung und Verfeinerung ihrer Romane mit fortschrittlichen Technologien der ШІ unterstützt.",
+      "features": "Bietet ШІ-Tools zum Schreiben von Romanen und zum Erkennen von ШІ-generierten Texten an.",
+      "badge": "N/A",
+      "pricing": "14 aktive Coupons und Angebote, die für Mai 2026 aufgeführt sind."
+    },
+    "zh": {
+      "description": "Novelist AI是一种量身定制的解决方案，通过先进的ШІ技术帮助作者创作、编辑和完善他们的小说。",
+      "features": "提供用于写小说的ШІ工具和检测ШІ生成文本的工具。",
+      "badge": "不适用",
+      "pricing": "列出14个有效的优惠券和交易，适用于2026年5月。"
+    },
+    "it": {
+      "description": "Novelist AI è una soluzione su misura che assiste gli autori nella creazione, modifica e affinamento dei loro romanzi tramite tecniche avanzate di ШІ.",
+      "features": "Offre strumenti di ШІ per scrivere romanzi e rilevare testi generati da ШІ.",
+      "badge": "N/D",
+      "pricing": "14 coupon e offerte attive elencate per maggio 2026."
+    }
+  },
+  "AI Lawyer": {
+    "en": {
+      "description": "AI Lawyer offers artificial intelligence solutions that assist legal professionals in case analysis, document generation, and workflow automation.",
+      "features": "Verified discount codes to maximize benefits.",
+      "badge": "20% Off",
+      "pricing": "7 active AI Lawyer promo codes for March 2026."
+    },
+    "uk": {
+      "description": "ШІ Адвокат пропонує рішення на основі штучного інтелекту, які допомагають юридичним фахівцям в аналізі справ, генерації документів та автоматизації робочих процесів.",
+      "features": "Перевірені промокоди для максимізації вигоди.",
+      "badge": "Знижка 20%",
+      "pricing": "7 активних промокодів ШІ Адвоката на березень 2026 року."
+    },
+    "ja": {
+      "description": "AI弁護士は、法的専門家が事件分析、文書生成、ワークフローの自動化を支援する人工知能ソリューションを提供します。",
+      "features": "利益を最大化するための確認済み割引コード。",
+      "badge": "20%オフ",
+      "pricing": "2026年3月のための7つのアクティブなAI弁護士のプロモーションコード。"
+    },
+    "es": {
+      "description": "AI Lawyer ofrece soluciones de inteligencia artificial que ayudan a los profesionales legales en el análisis de casos, la generación de documentos y la automatización del flujo de trabajo.",
+      "features": "Códigos de descuento verificados para maximizar los beneficios.",
+      "badge": "20% de descuento",
+      "pricing": "7 códigos promocionales activos de AI Lawyer para marzo de 2026."
+    },
+    "pt": {
+      "description": "AI Lawyer oferece soluções de inteligência artificial que auxiliam profissionais jurídicos na análise de casos, geração de documentos e automação de fluxos de trabalho.",
+      "features": "Códigos de desconto verificados para maximizar os benefícios.",
+      "badge": "Desconto de 20%",
+      "pricing": "7 códigos promocionais ativos da AI Lawyer para março de 2026."
+    },
+    "fr": {
+      "description": "AI Lawyer propose des solutions d'intelligence artificielle qui aident les professionnels du droit dans l'analyse des cas, la génération de documents et l'automatisation des flux de travail.",
+      "features": "Codes de réduction vérifiés pour maximiser les avantages.",
+      "badge": "20 % de réduction",
+      "pricing": "7 codes promo actifs pour AI Lawyer pour mars 2026."
+    },
+    "de": {
+      "description": "AI Lawyer bietet Lösungen auf Basis künstlicher Intelligenz, die juristischen Fachleuten bei der Fallanalyse, Dokumentenerstellung und Workflow-Automatisierung helfen.",
+      "features": "Verifizierte Rabattcodes zur Maximierung der Vorteile.",
+      "badge": "20% Rabatt",
+      "pricing": "7 aktive Promo-Codes für AI Lawyer im März 2026."
+    },
+    "zh": {
+      "description": "AI律师提供人工智能解决方案，帮助法律专业人士进行案件分析、文档生成和工作流程自动化。",
+      "features": "经过验证的折扣代码，以最大化利益。",
+      "badge": "20%折扣",
+      "pricing": "2026年3月的7个有效AI律师促销代码。"
+    },
+    "it": {
+      "description": "AI Lawyer offre soluzioni di intelligenza artificiale che assistono i professionisti legali nell'analisi dei casi, nella generazione di documenti e nell'automazione dei flussi di lavoro.",
+      "features": "Codici sconto verificati per massimizzare i benefici.",
+      "badge": "20% di sconto",
+      "pricing": "7 codici promozionali attivi di AI Lawyer per marzo 2026."
+    }
+  },
+  "AI-Lawyer": {
+    "en": {
+      "description": "AI-Lawyer provides cutting-edge AI tools designed to support law firms with their legal practices, focusing on efficiency and accuracy.",
+      "features": "Verified by team before listing.",
+      "badge": "N/A",
+      "pricing": "15 active AI-Lawyer coupons & deals for May 2026."
+    },
+    "uk": {
+      "description": "AI-Lawyer пропонує сучасні інструменти ШІ, розроблені для підтримки юридичних фірм у їхній практиці, зосереджуючись на ефективності та точності.",
+      "features": "Перевірено командою перед публікацією.",
+      "badge": "Немає",
+      "pricing": "15 активних купонів та пропозицій AI-Lawyer на травень 2026 року."
+    },
+    "ja": {
+      "description": "AI-Lawyerは、効率性と正確性に重点を置いた法務実務をサポートするために設計された最新のAIツールを提供します。",
+      "features": "掲載前にチームによって確認されています。",
+      "badge": "該当なし",
+      "pricing": "2026年5月のための15件の有効なAI-Lawyerクーポンとディール。"
+    },
+    "es": {
+      "description": "AI-Lawyer proporciona herramientas de IA de vanguardia diseñadas para apoyar a las firmas legales en sus prácticas legales, enfocándose en la eficiencia y la precisión.",
+      "features": "Verificado por el equipo antes de la lista.",
+      "badge": "N/A",
+      "pricing": "15 cupones y ofertas activas de AI-Lawyer para mayo de 2026."
+    },
+    "pt": {
+      "description": "AI-Lawyer fornece ferramentas de IA de ponta projetadas para apoiar escritórios de advocacia em suas práticas legais, com foco na eficiência e precisão.",
+      "features": "Verificado pela equipe antes da listagem.",
+      "badge": "N/A",
+      "pricing": "15 cupons e ofertas ativos da AI-Lawyer para maio de 2026."
+    },
+    "fr": {
+      "description": "AI-Lawyer propose des outils d'IA de pointe conçus pour soutenir les cabinets d'avocats dans leurs pratiques juridiques, axés sur l'efficacité et la précision.",
+      "features": "Vérifié par l'équipe avant la publication.",
+      "badge": "N/A",
+      "pricing": "15 coupons et offres actifs d'AI-Lawyer pour mai 2026."
+    },
+    "de": {
+      "description": "AI-Lawyer bietet moderne KI-Tools, die darauf ausgelegt sind, Anwaltskanzleien bei ihren juristischen Praktiken zu unterstützen, mit Fokus auf Effizienz und Genauigkeit.",
+      "features": "Vor der Listung vom Team überprüft.",
+      "badge": "N/A",
+      "pricing": "15 aktive AI-Lawyer-Coupons und Angebote für Mai 2026."
+    },
+    "zh": {
+      "description": "AI-Lawyer提供尖端的人工智能工具，旨在支持法律事务所的法律实践，专注于效率和准确性。",
+      "features": "在列出之前由团队验证。",
+      "badge": "无",
+      "pricing": "2026年5月的15个有效的AI-Lawyer优惠券和交易。"
+    },
+    "it": {
+      "description": "AI-Lawyer offre strumenti di intelligenza artificiale all'avanguardia progettati per supportare gli studi legali nelle loro pratiche legali, con un focus su efficienza e precisione.",
+      "features": "Verificato dal team prima della pubblicazione.",
+      "badge": "N/A",
+      "pricing": "15 coupon e offerte attive di AI-Lawyer per maggio 2026."
+    }
+  },
+  "i10X": {
+    "en": {
+      "description": "i10X is a platform that offers an array of integrated AI tools aimed at simplifying tasks across different domains. It provides a unique solution for users looking for comprehensive AI capabilities.",
+      "features": "All-in-One AI tools for various applications.",
+      "badge": "15%",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "i10X - це платформа, яка пропонує ряд інтегрованих ШІ-інструментів, спрямованих на спрощення завдань у різних сферах. Вона забезпечує унікальне рішення для користувачів, які шукають всебічні можливості ШІ.",
+      "features": "Універсальні ШІ-інструменти для різних застосувань.",
+      "badge": "15%",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "i10Xは、さまざまな分野でのタスクを簡素化することを目的とした統合型のAIツールを提供するプラットフォームです。包括的なAI機能を求めるユーザーに独自のソリューションを提供します。",
+      "features": "さまざまなアプリケーション向けのオールインワンAIツール。",
+      "badge": "15%",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "i10X es una plataforma que ofrece una variedad de herramientas de IA integradas destinadas a simplificar tareas en diferentes dominios. Proporciona una solución única para los usuarios que buscan capacidades de IA integrales.",
+      "features": "Herramientas de IA Todo-en-Uno para diversas aplicaciones.",
+      "badge": "15%",
+      "pricing": "N/D"
+    },
+    "pt": {
+      "description": "i10X é uma plataforma que oferece uma gama de ferramentas de IA integradas destinadas a simplificar tarefas em diferentes domínios. Oferece uma solução única para usuários que buscam capacidades abrangentes de IA.",
+      "features": "Ferramentas de IA Tudo-em-Um para várias aplicações.",
+      "badge": "15%",
+      "pricing": "N/D"
+    },
+    "fr": {
+      "description": "i10X est une plateforme qui propose une gamme d'outils IA intégrés visant à simplifier les tâches dans différents domaines. Elle offre une solution unique pour les utilisateurs à la recherche de capacités IA complètes.",
+      "features": "Outils IA Tout-en-Un pour diverses applications.",
+      "badge": "15%",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "i10X ist eine Plattform, die eine Vielzahl integrierter KI-Tools anbietet, die darauf abzielen, Aufgaben in verschiedenen Bereichen zu vereinfachen. Sie bietet eine einzigartige Lösung für Benutzer, die umfassende KI-Funktionen suchen.",
+      "features": "All-in-One KI-Tools für verschiedene Anwendungen.",
+      "badge": "15%",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "i10X是一个提供一系列集成的AI工具的平台，旨在简化各个领域的任务。它为寻找全面AI能力的用户提供了独特的解决方案。",
+      "features": "适用于各种应用的一体化AI工具。",
+      "badge": "15%",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "i10X è una piattaforma che offre una serie di strumenti AI integrati progettati per semplificare le attività in diversi ambiti. Fornisce una soluzione unica per gli utenti che cercano capacità AI complete.",
+      "features": "Strumenti AI All-in-One per varie applicazioni.",
+      "badge": "15%",
+      "pricing": "N/D"
     }
   }
 }
