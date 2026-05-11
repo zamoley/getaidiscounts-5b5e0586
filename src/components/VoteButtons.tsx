@@ -37,6 +37,7 @@ export function VoteButtons({ dealId }: { dealId: string }) {
   const [myVote, setMyVote] = useState<"worked" | "broken" | null>(null);
   const [loading, setLoading] = useState<"worked" | "broken" | null>(null);
   const castVoteFn = useServerFn(castVote);
+  const { t } = useTranslation();
 
   useEffect(() => {
     setMyVote(getVoted()[dealId] ?? null);
