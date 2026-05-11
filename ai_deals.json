@@ -1335,5 +1335,60 @@
         "key_features": "AI-powered radiology solutions, Real-time image analysis, Integration with existing systems",
         "description": "Aidoc offers advanced AI tools that assist radiologists by providing real-time analysis of medical images. The platform enhances diagnostic accuracy and speeds up workflow, thereby improving patient outcomes.",
         "category": "Medical AI"
+    },
+     {
+        "tool_name": "1min.ai",
+        "tool_url": "https://1min.ai",
+        "code": "1MIN20",
+        "discount_amount": "20% OFF",
+        "pricing_info": "Starts at $9/mo",
+        "key_features": "Chat, Image, Audio, Video, Coding",
+        "description": "All-in-one platform for creative needs with multi-model access.",
+        "last_verified": "2026-05-10",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Monica.im",
+        "tool_url": "https://monica.im",
+        "code": "TAKE15",
+        "discount_amount": "15% OFF",
+        "pricing_info": "Starts at $10/mo",
+        "key_features": "Multi-LLM Chat, Coding, Artifacts, Browser Integration",
+        "description": "Powerful browser-based AI copilot with unified model access.",
+        "last_verified": "2026-05-10",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Poe",
+        "tool_url": "https://poe.com",
+        "code": "FREE_TRIAL",
+        "discount_amount": "Free Credits",
+        "pricing_info": "$20/mo for Pro",
+        "key_features": "GPT-4o, Claude 3.5, Gemini 1.5, Custom Bots",
+        "description": "Quora's unified AI chat platform for nearly every major model.",
+        "last_verified": "2026-05-10",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Magai",
+        "tool_url": "https://magai.co",
+        "code": "AW20",
+        "discount_amount": "20% OFF",
+        "pricing_info": "Starts at $9/mo",
+        "key_features": "Multi-model integration, Team Chat, Project Organization",
+        "description": "A professional AI interface designed for creators and teams.",
+        "last_verified": "2026-05-10",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "i10X.ai",
+        "tool_url": "https://i10x.ai",
+        "code": "DAS15",
+        "discount_amount": "15% OFF",
+        "pricing_info": "Varies by tool",
+        "key_features": "3000+ AI Tools, Unified Search, One Subscription",
+        "description": "Aggregator of 3000+ specialized AI tools under one roof.",
+        "last_verified": "2026-05-10",
+        "category": "All-in-One AI"
     }
 ]
