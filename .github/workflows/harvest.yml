@@ -46,12 +46,12 @@ jobs:
           git config --global user.name "AI Narnia Scout"
           git config --global user.email "scout@getaidiscounts.com"
 
-          # Stage all script-generated changes FIRST so git pull --rebase
-          # doesn't fail with "unstaged changes" error
+          # Stage all script-generated changes
           git add ai_deals.json src/i18n/*.json
 
-          # Pull latest remote changes before committing to avoid rebase conflicts
-          git pull --rebase origin main
-
+          # Commit first — rebase requires a clean index
           git commit -m "Monday Narnia Update: New Tools & Categories [skip ci]" || echo "No changes to commit"
+
+          # Pull and rebase on top of any remote changes, then push
+          git pull --rebase origin main
           git push origin main
