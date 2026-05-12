@@ -53,8 +53,10 @@ function pickFromEntry(entry: DealEntry | undefined, locale: LangCode, field: To
   if (!entry) return undefined;
   const bag = entry[fieldKey(field)];
   if (!bag) return undefined;
+  // Accept either full-name keys ("Japanese") or ISO keys ("ja"); newer
+  // entries from the harvester use ISO codes, older ones use full names.
   const langName = LANG_NAME[locale];
-  const v = bag[langName];
+  const v = bag[langName] ?? bag[locale];
   if (typeof v === "string" && v.trim()) return v;
   return undefined;
 }
