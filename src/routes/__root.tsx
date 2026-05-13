@@ -48,6 +48,33 @@ export const Route = createRootRoute({
       { rel: "apple-touch-icon", href: "/owl.svg" },
     ],
     scripts: [
+      {
+        type: "application/ld+json",
+        children: JSON.stringify({
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://getaidiscounts.com/#org",
+              name: "Get AI Discounts",
+              url: "https://getaidiscounts.com/",
+              logo: "https://getaidiscounts.com/owl.svg",
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://getaidiscounts.com/#site",
+              url: "https://getaidiscounts.com/",
+              name: "Get AI Discounts",
+              publisher: { "@id": "https://getaidiscounts.com/#org" },
+              potentialAction: {
+                "@type": "SearchAction",
+                target: "https://getaidiscounts.com/?q={search_term_string}",
+                "query-input": "required name=search_term_string",
+              },
+            },
+          ],
+        }),
+      },
       { type: "text/javascript", src: "https://s.skimresources.com/js/302516X1790516.skimlinks.js" },
       { src: `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`, async: true },
       {
