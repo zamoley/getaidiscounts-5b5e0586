@@ -29,18 +29,13 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & Deals" },
-      { name: "description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
-      { property: "og:title", content: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & Deals" },
-      { property: "og:description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
       { property: "og:type", content: "website" },
+      { property: "og:site_name", content: "Get AI Discounts" },
       { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/OvBxgHB737MbiRvPvOLseXWnHvf2/social-images/social-1778032844388-og-image.webp" },
       { property: "og:image:width", content: "1200" },
       { property: "og:image:height", content: "630" },
       { property: "og:url", content: "https://getaidiscounts.com/" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:title", content: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & Deals" },
-      { name: "twitter:description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
       { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/OvBxgHB737MbiRvPvOLseXWnHvf2/social-images/social-1778032844388-og-image.webp" },
       { name: "twitter:url", content: "https://getaidiscounts.com/" },
       { name: "impact-site-verification", content: "9a364ba8-4292-45f6-89c8-e59fec32ffda", value: "9a364ba8-4292-45f6-89c8-e59fec32ffda" } as { name: string; content: string },
@@ -53,6 +48,33 @@ export const Route = createRootRoute({
       { rel: "apple-touch-icon", href: "/owl.svg" },
     ],
     scripts: [
+      {
+        type: "application/ld+json",
+        children: JSON.stringify({
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://getaidiscounts.com/#org",
+              name: "Get AI Discounts",
+              url: "https://getaidiscounts.com/",
+              logo: "https://getaidiscounts.com/owl.svg",
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://getaidiscounts.com/#site",
+              url: "https://getaidiscounts.com/",
+              name: "Get AI Discounts",
+              publisher: { "@id": "https://getaidiscounts.com/#org" },
+              potentialAction: {
+                "@type": "SearchAction",
+                target: "https://getaidiscounts.com/?q={search_term_string}",
+                "query-input": "required name=search_term_string",
+              },
+            },
+          ],
+        }),
+      },
       { type: "text/javascript", src: "https://s.skimresources.com/js/302516X1790516.skimlinks.js" },
       { src: `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`, async: true },
       {

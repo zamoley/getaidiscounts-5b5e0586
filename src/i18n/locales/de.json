@@ -158,5 +158,12 @@
     "thanks_worked": "Danke — als „Funktioniert“ markiert",
     "thanks_broken": "Danke — als „Defekt“ gemeldet",
     "vote_error": "Stimme konnte nicht gespeichert werden"
+  },
+  "seo": {
+    "home_title": "KI-Tool-Rabatte & Promo-Codes | Get AI Discounts",
+    "home_description": "Sparen Sie bis zu 80% bei den weltweit führenden KI-Tools. Verifizierte Promo-Codes und exklusive Rabatte für Midjourney, ElevenLabs, HeyGen und über 100 weitere Tools.",
+    "home_og_title": "KI-Tool-Rabatte & Promo-Codes | Get AI Discounts",
+    "home_og_description": "Handverlesene Promo-Codes und exklusive Angebote für die KI-Tools, die Sie tatsächlich verwenden.",
+    "category_title_suffix": "| Get AI Discounts"
   }
 }

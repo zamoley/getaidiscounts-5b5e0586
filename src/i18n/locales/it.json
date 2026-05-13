@@ -158,5 +158,12 @@
     "thanks_worked": "Grazie — segnato come «Ha funzionato»",
     "thanks_broken": "Grazie — segnalato come «Non funziona»",
     "vote_error": "Impossibile registrare il tuo voto"
+  },
+  "seo": {
+    "home_title": "Sconti e codici promozionali per strumenti AI | Get AI Discounts",
+    "home_description": "Risparmia fino all'80% sui principali strumenti AI del mondo. Codici promozionali verificati e sconti esclusivi per Midjourney, ElevenLabs, HeyGen e oltre 100 altri strumenti.",
+    "home_og_title": "Sconti e codici promozionali per strumenti AI | Get AI Discounts",
+    "home_og_description": "Codici promozionali selezionati a mano e offerte esclusive sugli strumenti AI che usi davvero.",
+    "category_title_suffix": "| Get AI Discounts"
   }
 }

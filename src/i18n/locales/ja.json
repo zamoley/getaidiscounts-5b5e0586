@@ -195,5 +195,12 @@
     "thanks_worked": "ありがとう — 「使えた」と記録しました",
     "thanks_broken": "ありがとう — 「使えない」と報告しました",
     "vote_error": "投票を記録できませんでした"
+  },
+  "seo": {
+    "home_title": "AIツールの割引とプロモーションコード | Get AI Discounts",
+    "home_description": "世界をリードするAIツールを最大80%割引。Midjourney、ElevenLabs、HeyGenなど100以上のツールで検証済みのプロモーションコードと限定割引。",
+    "home_og_title": "AIツールの割引とプロモーションコード | Get AI Discounts",
+    "home_og_description": "実際に使用しているAIツールの厳選されたプロモーションコードと限定セール。",
+    "category_title_suffix": "| Get AI Discounts"
   }
 }

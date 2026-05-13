@@ -1,0 +1,22 @@
+# Get AI Discounts
+
+> The premium directory of verified promo codes and exclusive discounts for the world's leading AI tools — Midjourney, ElevenLabs, HeyGen, ChatGPT, Cursor, and 100+ more.
+
+Get AI Discounts curates hand-picked, hand-checked deals on AI tools across video, voice, writing, coding, music, image, and agent categories. Available in 9 languages.
+
+## Pages
+
+- [Home](/): Browse all live AI tool discounts and promo codes.
+- [Video AI](/video): Discounts on AI video generators, editors, and avatar tools.
+- [Voice AI](/voice): Deals on voice cloning, text-to-speech, and dubbing platforms.
+- [Writing AI](/writing): Promo codes for AI writing assistants and copywriters.
+- [Code AI](/code): Discounts for AI coding assistants, IDEs, and pair-programmers.
+- [Music AI](/music): Savings on AI music generators and mastering tools.
+- [AI Agents](/agents): Deals on autonomous AI agents and assistants.
+- [Group-Buy & Sharing](/groupbuy): Split costs on premium AI tools.
+
+## Optional
+
+- [Affiliate Disclosure](/affiliate-disclosure)
+- [Privacy Policy](/privacy)
+- [Terms](/terms)
