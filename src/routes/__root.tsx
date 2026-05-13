@@ -29,11 +29,8 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & Deals" },
-      { name: "description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
-      { property: "og:title", content: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & Deals" },
-      { property: "og:description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
       { property: "og:type", content: "website" },
+      { property: "og:site_name", content: "Get AI Discounts" },
       { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/OvBxgHB737MbiRvPvOLseXWnHvf2/social-images/social-1778032844388-og-image.webp" },
       { property: "og:image:width", content: "1200" },
       { property: "og:image:height", content: "630" },
