@@ -23,14 +23,35 @@ export const Route = createFileRoute("/{-$locale}/")({
   loader: () => fetchDeals(),
   head: ({ params }) => {
     const loc = (params as { locale?: string }).locale ?? "en";
+    const seo = getSeo(loc);
+    const url = canonicalFor(loc, "/");
     return {
       links: [
         ...hreflangLinks("/"),
-        { rel: "canonical", href: canonicalFor(loc, "/") },
+        { rel: "canonical", href: url },
       ],
       meta: [
+        { title: seo.home_title },
+        { name: "description", content: seo.home_description },
+        { property: "og:title", content: seo.home_og_title },
+        { property: "og:description", content: seo.home_og_description },
         { property: "og:locale", content: loc },
-        { property: "og:url", content: canonicalFor(loc, "/") },
+        { property: "og:url", content: url },
+        { name: "twitter:title", content: seo.home_og_title },
+        { name: "twitter:description", content: seo.home_og_description },
+      ],
+      scripts: [
+        {
+          type: "application/ld+json",
+          children: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            name: seo.home_title,
+            description: seo.home_description,
+            url,
+            isPartOf: { "@id": "https://getaidiscounts.com/#site" },
+          }),
+        },
       ],
     };
   },
