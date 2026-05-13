@@ -15,6 +15,7 @@ import { Badge } from "@/components/ui/badge";
 import { useLocale } from "@/i18n/use-locale";
 import { useCategoryLabel } from "@/i18n/use-category-label";
 import { hreflangLinks, canonicalFor } from "@/i18n/seo";
+import { getSeo } from "@/i18n/seo-meta";
 
 export const Route = createFileRoute("/{-$locale}/")({
   validateSearch: (s: Record<string, unknown>): { cat?: string } => ({
