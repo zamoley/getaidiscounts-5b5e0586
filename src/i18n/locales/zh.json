@@ -158,5 +158,12 @@
     "thanks_worked": "感谢 — 已标记为「有效」",
     "thanks_broken": "感谢 — 已标记为「失效」",
     "vote_error": "无法记录您的投票"
+  },
+  "seo": {
+    "home_title": "AI 工具折扣和促销代码 | Get AI Discounts",
+    "home_description": "世界领先的 AI 工具最高可节省 80%。Midjourney、ElevenLabs、HeyGen 和 100 多种其他工具的验证促销代码和独家折扣。",
+    "home_og_title": "AI 工具折扣和促销代码 | Get AI Discounts",
+    "home_og_description": "为您实际使用的 AI 工具精选促销代码和独家优惠。",
+    "category_title_suffix": "| Get AI Discounts"
   }
 }

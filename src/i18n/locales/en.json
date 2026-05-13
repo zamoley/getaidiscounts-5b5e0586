@@ -158,5 +158,12 @@
     "thanks_worked": "Thanks — marked as Worked",
     "thanks_broken": "Thanks — flagged as Broken",
     "vote_error": "Couldn't record your vote"
+  },
+  "seo": {
+    "home_title": "AI Tool Discounts & Promo Codes | Get AI Discounts",
+    "home_description": "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools.",
+    "home_og_title": "AI Tool Discounts & Promo Codes | Get AI Discounts",
+    "home_og_description": "Hand-picked promo codes and exclusive deals on the AI tools you actually use.",
+    "category_title_suffix": "| Get AI Discounts"
   }
 }
