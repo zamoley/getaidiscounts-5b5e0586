@@ -6990,5 +6990,281 @@
             "zh": "不适用",
             "it": "N/D"
         }
+    },
+    "681 AI Tools": {
+        "description": {
+            "en": "681 AI Tools aggregates a wide variety of artificial intelligence tools and resources, providing users with coupons and deals to help save on AI technology.",
+            "uk": "681 ШІ Інструментів агрегує широкий спектр інструментів та ресурсів штучного інтелекту, надаючи користувачам купони та знижки, щоб допомогти заощадити на технологіях ШІ.",
+            "ja": "681のAIツールは、さまざまな人工知能ツールとリソースを集約し、ユーザーにクーポンやお得な情報を提供してAI技術にかかる費用を節約します。",
+            "es": "681 Herramientas de IA agrega una amplia variedad de herramientas y recursos de inteligencia artificial, brindando a los usuarios cupones y ofertas para ayudar a ahorrar en tecnología de IA.",
+            "pt": "681 Ferramentas de IA agrega uma ampla variedade de ferramentas e recursos de inteligência artificial, oferecendo aos usuários cupons e ofertas para ajudar a economizar em tecnologia de IA.",
+            "fr": "681 Outils IA agrège une large variété d'outils et de ressources d'intelligence artificielle, fournissant aux utilisateurs des coupons et des offres pour les aider à économiser sur la technologie IA.",
+            "de": "681 KI-Werkzeuge aggregiert eine Vielzahl von Tools und Ressourcen für künstliche Intelligenz und bietet Benutzern Gutscheine und Angebote, um bei KI-Technologie Geld zu sparen.",
+            "zh": "681人工智能工具汇聚了各种人工智能工具和资源，为用户提供优惠券和折扣，以帮助节省人工智能技术的开支。",
+            "it": "681 Strumenti di IA aggrega una vasta gamma di strumenti e risorse di intelligenza artificiale, offrendo agli utenti coupon e offerte per risparmiare sulla tecnologia IA."
+        },
+        "features": {
+            "en": "681 verified AI Tools coupon codes from 50 stores, daily tested offers.",
+            "uk": "681 перевірених купонів на ШІ Інструменти з 50 магазинів, пропозиції з щоденною перевіркою.",
+            "ja": "50の店舗から681の確認済みAIツールのクーポンコード、毎日テストされたオファー。",
+            "es": "681 códigos de cupones verificados de herramientas de IA de 50 tiendas, ofertas probadas diariamente.",
+            "pt": "681 códigos de cupom de ferramentas de IA verificados de 50 lojas, ofertas testadas diariamente.",
+            "fr": "681 codes de coupon vérifiés d'outils IA provenant de 50 magasins, offres testées quotidiennement.",
+            "de": "681 verifiziert KI-Tools Gutscheincodes von 50 Geschäften, täglich getestete Angebote.",
+            "zh": "来自50家商店的681个经验证的人工智能工具优惠券代码，每日测试的优惠。",
+            "it": "681 codici coupon verificati per strumenti di IA provenienti da 50 negozi, offerte testate quotidianamente."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Browse verified coupon codes for May 2026.",
+            "uk": "Перегляньте перевірені купони на травень 2026 року.",
+            "ja": "2026年5月の確認済みクーポンコードを閲覧してください。",
+            "es": "Navega por los códigos de cupones verificados para mayo de 2026.",
+            "pt": "Navegue pelos códigos de cupom verificados para maio de 2026.",
+            "fr": "Parcourez les codes de coupon vérifiés pour mai 2026.",
+            "de": "Durchsuchen Sie die verifizierten Gutscheincodes für Mai 2026.",
+            "zh": "浏览2026年5月的验证优惠券代码。",
+            "it": "Sfoglia i codici coupon verificati per maggio 2026."
+        }
+    },
+    "AI Writer": {
+        "description": {
+            "en": "AI Writer is a tool designed for generating written content quickly, leveraging artificial intelligence to enhance productivity in writing tasks.",
+            "uk": "ШІ Writer - це інструмент, призначений для швидкого створення письмового контенту, що використовує штучний інтелект для підвищення продуктивності в письмових завданнях.",
+            "ja": "AI Writerは、書かれたコンテンツを迅速に生成するために設計されたツールで、執筆タスクの生産性を高めるために人工知能を活用します。",
+            "es": "AI Writer es una herramienta diseñada para generar contenido escrito rápidamente, aprovechando la inteligencia artificial para mejorar la productividad en las tareas de escritura.",
+            "pt": "AI Writer é uma ferramenta projetada para gerar conteúdo escrito rapidamente, aproveitando a inteligência artificial para aumentar a produtividade nas tarefas de escrita.",
+            "fr": "AI Writer est un outil conçu pour générer rapidement du contenu écrit, tirant parti de l'intelligence artificielle pour améliorer la productivité dans les tâches d'écriture.",
+            "de": "AI Writer ist ein Tool, das entwickelt wurde, um schriftliche Inhalte schnell zu erstellen, indem es künstliche Intelligenz nutzt, um die Produktivität bei Schreibaufgaben zu erhöhen.",
+            "zh": "AI Writer是一个旨在快速生成书面内容的工具，利用人工智能提高写作任务的生产力。",
+            "it": "AI Writer è uno strumento progettato per generare rapidamente contenuti scritti, sfruttando l'intelligenza artificiale per migliorare la produttività nelle attività di scrittura."
+        },
+        "features": {
+            "en": "16% off yearly plans and AI content creation priced lower.",
+            "uk": "Знижка 16% на річні плани та нижчі ціни на створення контенту за допомогою ШІ.",
+            "ja": "年間プランが16%オフ、AIコンテンツ作成の価格が低く設定されています。",
+            "es": "16% de descuento en planes anuales y precios más bajos para la creación de contenido con IA.",
+            "pt": "16% de desconto nos planos anuais e preços mais baixos para criação de conteúdo com IA.",
+            "fr": "16 % de réduction sur les forfaits annuels et création de contenu AI à un prix inférieur.",
+            "de": "16% Rabatt auf Jahrespläne und günstiger Preis für die Erstellung von Inhalten mit KI.",
+            "zh": "年计划享受16%的折扣，人工智能内容创作价格更低。",
+            "it": "16% di sconto sui piani annuali e prezzi più bassi per la creazione di contenuti con IA."
+        },
+        "discount": {
+            "en": "35% Off",
+            "uk": "35% знижки",
+            "ja": "35%オフ",
+            "es": "35% de descuento",
+            "pt": "35% de desconto",
+            "fr": "35 % de réduction",
+            "de": "35% Rabatt",
+            "zh": "35% 折扣",
+            "it": "35% di sconto"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "ChatGPT Plus": {
+        "description": {
+            "en": "ChatGPT Plus offers users access to improved response quality and faster performance compared to the free version of ChatGPT.",
+            "uk": "ChatGPT Plus надає користувачам доступ до покращеної якості відповідей та швидшої роботи в порівнянні з безкоштовною версією ChatGPT.",
+            "ja": "ChatGPT Plusは、無料版のChatGPTと比較して、改善された応答品質と迅速なパフォーマンスへのアクセスをユーザーに提供します。",
+            "es": "ChatGPT Plus ofrece a los usuarios acceso a una mejor calidad de respuesta y un rendimiento más rápido en comparación con la versión gratuita de ChatGPT.",
+            "pt": "O ChatGPT Plus oferece aos usuários acesso a uma qualidade de resposta aprimorada e desempenho mais rápido em comparação com a versão gratuita do ChatGPT.",
+            "fr": "ChatGPT Plus offre aux utilisateurs un accès à une qualité de réponse améliorée et à des performances plus rapides par rapport à la version gratuite de ChatGPT.",
+            "de": "ChatGPT Plus bietet Benutzern Zugriff auf eine verbesserte Antwortqualität und schnellere Leistungen im Vergleich zur kostenlosen Version von ChatGPT.",
+            "zh": "ChatGPT Plus为用户提供与免费版本ChatGPT相比，改进的响应质量和更快的性能。",
+            "it": "ChatGPT Plus offre agli utenti l'accesso a una qualità di risposta migliorata e a prestazioni più veloci rispetto alla versione gratuita di ChatGPT."
+        },
+        "features": {
+            "en": "Advanced conversational AI capabilities including enhanced understanding.",
+            "uk": "Розвинені можливості розмовного ШІ, включаючи покращене розуміння.",
+            "ja": "高度な会話型AI機能には、向上した理解力が含まれています。",
+            "es": "Capacidades avanzadas de IA conversacional, incluida una mejor comprensión.",
+            "pt": "Recursos avançados de IA conversacional, incluindo compreensão aprimorada.",
+            "fr": "Fonctionnalités avancées d'IA conversationnelle, y compris une compréhension améliorée.",
+            "de": "Fortschrittliche Funktionen der konversationalen KI, einschließlich verbesserter Verständlichkeit.",
+            "zh": "增强理解能力的高级对话式AI功能。",
+            "it": "Capacità avanzate di IA conversazionale, inclusa una comprensione migliorata."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$20/month",
+            "uk": "$20/місяць",
+            "ja": "$20/月",
+            "es": "$20/mes",
+            "pt": "$20/mês",
+            "fr": "$20/mois",
+            "de": "20 €/Monat",
+            "zh": "$20/月",
+            "it": "$20/mese"
+        }
+    },
+    "Google AI Pro": {
+        "description": {
+            "en": "Google AI Pro enables users to leverage the latest in artificial intelligence technology, providing diverse applications across various fields.",
+            "uk": "Google AI Pro надає користувачам можливість використовувати найновіші технології штучного інтелекту, забезпечуючи різноманітні застосування в різних галузях.",
+            "ja": "Google AI Proは、ユーザーが最新の人工知能技術を活用し、さまざまな分野で多様なアプリケーションを提供できるようにします。",
+            "es": "Google AI Pro permite a los usuarios aprovechar lo último en tecnología de inteligencia artificial, proporcionando diversas aplicaciones en varios campos.",
+            "pt": "O Google AI Pro permite que os usuários aproveitem o que há de mais recente em tecnologia de inteligência artificial, oferecendo diversas aplicações em várias áreas.",
+            "fr": "Google AI Pro permet aux utilisateurs de tirer parti des dernières technologies en intelligence artificielle, offrant des applications diverses dans différents domaines.",
+            "de": "Google AI Pro ermöglicht es Benutzern, die neuesten Technologien der künstlichen Intelligenz zu nutzen und bietet vielfältige Anwendungen in verschiedenen Bereichen.",
+            "zh": "Google AI Pro使用户能够利用最新的人工智能技术，在各个领域提供多种应用。",
+            "it": "Google AI Pro consente agli utenti di sfruttare le ultime tecnologie di intelligenza artificiale, fornendo diverse applicazioni in vari settori."
+        },
+        "features": {
+            "en": "Access to Google's cutting-edge AI advancements.",
+            "uk": "Доступ до передових технологій штучного інтелекту Google.",
+            "ja": "Googleの最先端のAIの進展にアクセスできます。",
+            "es": "Acceso a los avances de inteligencia artificial de vanguardia de Google.",
+            "pt": "Acesso aos avanços de IA de ponta do Google.",
+            "fr": "Accès aux avancées en intelligence artificielle de pointe de Google.",
+            "de": "Zugang zu den neuesten Fortschritten der künstlichen Intelligenz von Google.",
+            "zh": "访问谷歌的尖端人工智能进展。",
+            "it": "Accesso ai progressi all'avanguardia dell'IA di Google."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/V",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$19.99/month",
+            "uk": "$19.99/місяць",
+            "ja": "$19.99/月",
+            "es": "$19.99/mes",
+            "pt": "$19.99/mês",
+            "fr": "$19.99/mois",
+            "de": "$19.99/Monat",
+            "zh": "$19.99/月",
+            "it": "$19.99/mese"
+        }
+    },
+    "InVideo": {
+        "description": {
+            "en": "InVideo empowers creators by providing AI-driven tools that can turn text into polished videos efficiently, allowing users to create short-form content and more.",
+            "uk": "InVideo надає можливість творцям, забезпечуючи інструменти на базі ШІ, які можуть перетворювати текст на відшліфовані відео ефективно, дозволяючи користувачам створювати короткостроковий контент та інше.",
+            "ja": "InVideoは、クリエイターに対して、テキストを効率的に洗練されたビデオに変換できるAI主導のツールを提供することで力を与え、ユーザーが短編コンテンツなどを作成できるようにします。",
+            "es": "InVideo empodera a los creadores al proporcionar herramientas impulsadas por IA que pueden convertir texto en videos pulidos de manera eficiente, permitiendo a los usuarios crear contenido de formato corto y más.",
+            "pt": "O InVideo capacita criadores ao fornecer ferramentas impulsionadas por IA que podem transformar texto em vídeos polidos de forma eficiente, permitindo que os usuários criem conteúdo de formato curto e mais.",
+            "fr": "InVideo permet aux créateurs d'utiliser des outils basés sur l'IA qui peuvent transformer du texte en vidéos soignées de manière efficace, permettant aux utilisateurs de créer du contenu court et plus encore.",
+            "de": "InVideo ermöglicht es Kreativen, indem es KI-gesteuerte Tools bereitstellt, die Text effizient in polierte Videos umwandeln können, sodass Benutzer Kurzfilme und mehr erstellen können.",
+            "zh": "InVideo通过提供基于AI的工具，使创作者能够有效地将文本转换为精致的视频，允许用户创建短格式内容等。",
+            "it": "InVideo dà potere ai creatori offrendo strumenti guidati dall'IA che possono trasformare il testo in video rifiniti in modo efficiente, permettendo agli utenti di creare contenuti di breve formato e altro ancora."
+        },
+        "features": {
+            "en": "AI-driven tools to transform text into videos.",
+            "uk": "Інструменти на базі ШІ для перетворення тексту на відео.",
+            "ja": "テキストをビデオに変換するAI主導のツール。",
+            "es": "Herramientas impulsadas por IA para transformar texto en videos.",
+            "pt": "Ferramentas impulsionadas por IA para transformar texto em vídeos.",
+            "fr": "Outils basés sur l'IA pour transformer du texte en vidéos.",
+            "de": "KI-gesteuerte Tools zur Umwandlung von Text in Videos.",
+            "zh": "将文本转换为视频的AI驱动工具。",
+            "it": "Strumenti guidati dall'IA per trasformare il testo in video."
+        },
+        "discount": {
+            "en": "50 Free AI Minutes",
+            "uk": "50 безкоштовних хвилин ШІ",
+            "ja": "50分の無料AI",
+            "es": "50 minutos de IA gratis",
+            "pt": "50 minutos grátis de IA",
+            "fr": "50 minutes gratuites d'IA",
+            "de": "50 kostenlose KI-Minuten",
+            "zh": "50分钟免费AI",
+            "it": "50 minuti gratuiti di IA"
+        },
+        "pricing": {
+            "en": "May 2026",
+            "uk": "Травень 2026",
+            "ja": "2026年5月",
+            "es": "Mayo 2026",
+            "pt": "Maio de 2026",
+            "fr": "Mai 2026",
+            "de": "Mai 2026",
+            "zh": "2026年5月",
+            "it": "Maggio 2026"
+        }
+    },
+    "AIOSEO": {
+        "description": {
+            "en": "AIOSEO is an all-in-one SEO plugin designed to optimize websites for search engines and improve online visibility.",
+            "uk": "AIOSEO – це універсальний SEO плагін, розроблений для оптимізації веб-сайтів для пошукових систем та покращення онлайн-видимості.",
+            "ja": "AIOSEOは、ウェブサイトを検索エンジン用に最適化し、オンラインの可視性を向上させるために設計されたオールインワンのSEOプラグインです。",
+            "es": "AIOSEO es un complemento SEO todo en uno diseñado para optimizar sitios web para motores de búsqueda y mejorar la visibilidad en línea.",
+            "pt": "AIOSEO é um plugin SEO tudo-em-um projetado para otimizar sites para mecanismos de busca e melhorar a visibilidade online.",
+            "fr": "AIOSEO est un plugin SEO tout-en-un conçu pour optimiser les sites Web pour les moteurs de recherche et améliorer la visibilité en ligne.",
+            "de": "AIOSEO ist ein All-in-One-SEO-Plugin, das entwickelt wurde, um Websites für Suchmaschinen zu optimieren und die Online-Sichtbarkeit zu verbessern.",
+            "zh": "AIOSEO是一款一体化的SEO插件，旨在优化网站以适应搜索引擎并提高在线可见性。",
+            "it": "AIOSEO è un plugin SEO tutto-in-uno progettato per ottimizzare i siti web per i motori di ricerca e migliorare la visibilità online."
+        },
+        "features": {
+            "en": "Multiple active promo codes for savings.",
+            "uk": "Кілька активних промокодів для знижок.",
+            "ja": "節約のために複数の有効なプロモーションコードがあります。",
+            "es": "Múltiples códigos promocionales activos para ahorrar.",
+            "pt": "Vários códigos promocionais ativos para economias.",
+            "fr": "Plusieurs codes promo actifs pour des économies.",
+            "de": "Mehrere aktive Promo-Codes für Ersparnisse.",
+            "zh": "多个有效的促销代码可供省钱。",
+            "it": "Più codici promozionali attivi per risparmi."
+        },
+        "discount": {
+            "en": "60% off",
+            "uk": "Знижка 60%",
+            "ja": "60%オフ",
+            "es": "60% de descuento",
+            "pt": "60% de desconto",
+            "fr": "60% de réduction",
+            "de": "60% Rabatt",
+            "zh": "六折优惠",
+            "it": "60% di sconto"
+        },
+        "pricing": {
+            "en": "Average savings of 43%",
+            "uk": "Середня економія 43%",
+            "ja": "平均して43%の節約",
+            "es": "Ahorros promedio del 43%",
+            "pt": "Economias médias de 43%",
+            "fr": "Économies moyennes de 43%",
+            "de": "Durchschnittliche Ersparnisse von 43%",
+            "zh": "平均节省43%",
+            "it": "Risparmi medi del 43%"
+        }
     }
 }

@@ -1,5 +1,5 @@
 {
-  "Applicable on All Annual Subscription Plans": {
+  "May 2026 Promo Code": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
     "ja": "月額10ドルから",
@@ -10,7 +10,7 @@
     "zh": "起价$10/月",
     "it": "Da $10/mese"
   },
-  "20%": {
+  "20% OFF": {
     "en": "20% OFF",
     "uk": "ЗНИЖКА 20%",
     "ja": "20%オフ",
@@ -21,7 +21,7 @@
     "zh": "20%折扣",
     "it": "20% di sconto"
   },
-  "Starts at $5/mo": {
+  "Flat 50% OFF Your First Month on Our Most Popular Plan.": {
     "en": "Starts at $5/mo",
     "uk": "Від $5/міс",
     "ja": "月額5ドルから",
@@ -32,7 +32,7 @@
     "zh": "起价$5/月",
     "it": "Da $5/mese"
   },
-  "60%": {
+  "50% OFF": {
     "en": "10% OFF",
     "uk": "ЗНИЖКА 10%",
     "ja": "10%オフ",
@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "Starts at $24/mo": {
+  "Yearly plan for business at just $119/month, and unlimited videos with HeyGen Creator for $29/month.": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -98,17 +98,6 @@
     "zh": "起价$20/月",
     "it": "Da $20/mese"
   },
-  "20% OFF": {
-    "en": "20% OFF",
-    "uk": "ЗНИЖКА 20%",
-    "ja": "20% オフ",
-    "es": "20% DTO",
-    "pt": "20% DTO",
-    "fr": "20% DE RABAIS",
-    "de": "20% RABATT",
-    "zh": "20% 折扣",
-    "it": "20% DI SCONTO"
-  },
   "Paid plans vary": {
     "en": "Paid plans vary",
     "uk": "Платні плани варіюються",
@@ -152,6 +141,17 @@
     "de": "22 $/Monat (Jährlich)",
     "zh": "$22/月（年付）",
     "it": "$22/mese (Annuale)"
+  },
+  "20%": {
+    "en": "35% OFF",
+    "uk": "ЗНИЖКА 35%",
+    "ja": "35% オフ",
+    "es": "35% DTO",
+    "pt": "35% DTO",
+    "fr": "35% DE RABAIS",
+    "de": "35% RABATT",
+    "zh": "35% 折扣",
+    "it": "35% DI SCONTO"
   },
   "From $0.14/SEC": {
     "en": "Contact for pricing",
@@ -538,7 +538,7 @@
     "zh": "写作优惠",
     "it": "Offerta scrittura"
   },
-  "$29.99": {
+  "Offers various plans including a significant discount on lifetime access.": {
     "en": "Starts at $12/mo",
     "uk": "Починається від $12/міс",
     "ja": "月額12ドルから",
@@ -549,7 +549,7 @@
     "zh": "每月12美元起",
     "it": "A partire da $12/mese"
   },
-  "84% OFF": {
+  "30% Off": {
     "en": "Free Trial",
     "uk": "Безкоштовна Спроба",
     "ja": "無料トライアル",
@@ -725,7 +725,7 @@
     "zh": "艺术优惠",
     "it": "Offerta arte"
   },
-  "Valid for the first 3 months for new users.": {
+  "3 Months Deal.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -735,6 +735,17 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
+  },
+  "50% Off": {
+    "en": "Free Access",
+    "uk": "Безкоштовно",
+    "ja": "無料アクセス",
+    "es": "Acceso gratuito",
+    "pt": "Acesso Gratuito",
+    "fr": "Accès gratuit",
+    "de": "Kostenloser Zugang",
+    "zh": "免费访问",
+    "it": "Accesso gratuito"
   },
   "$199/month": {
     "en": "Starts at $129/mo",
@@ -956,7 +967,7 @@
     "zh": "免费访问",
     "it": "Accesso gratuito"
   },
-  "$10/month for basic access": {
+  "Includes annual billing discounts and student programs.": {
     "en": "Free Tier Available",
     "uk": "Доступний безкоштовний рівень",
     "ja": "無料枠あり",
@@ -967,7 +978,18 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
-  "Annual billing available.": {
+  "Real savings vary": {
+    "en": "AI Assistant",
+    "uk": "ШІ-асистент",
+    "ja": "AIアシスタント",
+    "es": "Asistente de IA",
+    "pt": "Assistente de IA",
+    "fr": "Assistant IA",
+    "de": "KI-Assistent",
+    "zh": "AI 助手",
+    "it": "Assistente IA"
+  },
+  "$20/month": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "月額20ドル",
@@ -1065,6 +1087,17 @@
     "de": "Nur für Unternehmen",
     "zh": "仅限企业版",
     "it": "Solo per aziende"
+  },
+  "60%": {
+    "en": "Health Tech",
+    "uk": "Медтех",
+    "ja": "ヘルステック",
+    "es": "Tecnología de salud",
+    "pt": "Tecnologia em Saúde",
+    "fr": "Health Tech",
+    "de": "Health-Tech",
+    "zh": "医疗科技",
+    "it": "Health Tech"
   },
   "Free tier available, paid plans for premium usage": {
     "en": "Usage-based Pricing",
@@ -1517,17 +1550,6 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
-  "$20/month": {
-    "en": "$20/month",
-    "uk": "$20/місяць",
-    "ja": "月額20ドル",
-    "es": "$20/mes",
-    "pt": "$20/mês",
-    "fr": "20 $/mois",
-    "de": "20 $/Monat",
-    "zh": "20 美元/月",
-    "it": "20 $/mese"
-  },
   "Monthly subscription for $10 with a 20% discount for the first three months.": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
@@ -1869,7 +1891,7 @@
     "zh": "凭借经过验证的折扣码享受15%的折扣。",
     "it": "15% di sconto con codici sconto verificati."
   },
-  "Valid on all plans.": {
+  "Various offers available.": {
     "en": "Valid on all plans.",
     "uk": "Діє на всі плани.",
     "ja": "すべてのプランに対して有効です。",
@@ -1880,7 +1902,18 @@
     "zh": "适用于所有计划。",
     "it": "Valido per tutti i piani."
   },
-  "April 2026": {
+  "Up to 80%": {
+    "en": "50%",
+    "uk": "50%",
+    "ja": "50%",
+    "es": "50%",
+    "pt": "50%",
+    "fr": "50%",
+    "de": "50%",
+    "zh": "50%",
+    "it": "50%"
+  },
+  "Codes updated daily.": {
     "en": "April 2026",
     "uk": "Квітень 2026",
     "ja": "2026年4月",
@@ -1891,7 +1924,7 @@
     "zh": "2026年4月",
     "it": "Aprile 2026"
   },
-  "65%": {
+  "25% off": {
     "en": "65%",
     "uk": "65%",
     "ja": "65%",
@@ -1924,7 +1957,7 @@
     "zh": "每月$1320的计划可用。",
     "it": "Piano disponibile a $1320/mese."
   },
-  "Plus Plan Starts $20/Month, Pro Plan $25/Month": {
+  "Plans starting at $20/month for Plus and $25/month for Pro.": {
     "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
     "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
     "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
@@ -1935,16 +1968,16 @@
     "zh": "Plus计划起价$20/月，Pro计划$25/月。",
     "it": "Il Piano Plus parte da $20/mese, il Piano Pro a $25/mese."
   },
-  "Get a free trial for 12 months followed by a discount on annual plans.": {
-    "en": "Get a free trial for 12 months followed by a discount on annual plans.",
-    "uk": "Отримайте безкоштовний пробний доступ на 12 місяців, а потім - знижку на річні плани.",
-    "ja": "12ヶ月間の無料トライアルを取得し、その後、年間プランに割引が適用されます。",
-    "es": "Obtén una prueba gratuita de 12 meses seguida de un descuento en planes anuales.",
-    "pt": "Obtenha um teste gratuito de 12 meses seguido de um desconto em planos anuais.",
-    "fr": "Bénéficiez d'un essai gratuit de 12 mois suivi d'une réduction sur les plans annuels.",
-    "de": "Erhalten Sie eine 12-monatige kostenlose Testversion, gefolgt von einem Rabatt auf Jahrespläne.",
-    "zh": "获得12个月的免费试用，然后在年度计划上享受折扣。",
-    "it": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
+  "Varies": {
+    "en": "N/A",
+    "uk": "Немає",
+    "ja": "該当なし",
+    "es": "N/A",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "不适用",
+    "it": "N/D"
   },
   "14 active coupons and deals listed for May 2026.": {
     "en": "14 active coupons and deals listed for May 2026.",
@@ -1957,7 +1990,7 @@
     "zh": "列出14个有效的优惠券和交易，适用于2026年5月。",
     "it": "14 coupon e offerte attive elencate per maggio 2026."
   },
-  "7 active AI Lawyer promo codes for March 2026.": {
+  "7 active promo codes.": {
     "en": "7 active AI Lawyer promo codes for March 2026.",
     "uk": "7 активних промокодів ШІ Адвоката на березень 2026 року.",
     "ja": "2026年3月のための7つのアクティブなAI弁護士のプロモーションコード。",
@@ -1967,17 +2000,6 @@
     "de": "7 aktive Promo-Codes für AI Lawyer im März 2026.",
     "zh": "2026年3月的7个有效AI律师促销代码。",
     "it": "7 codici promozionali attivi di AI Lawyer per marzo 2026."
-  },
-  "20% Off": {
-    "en": "20% Off",
-    "uk": "Знижка 20%",
-    "ja": "20%オフ",
-    "es": "20% de descuento",
-    "pt": "Desconto de 20%",
-    "fr": "20 % de réduction",
-    "de": "20% Rabatt",
-    "zh": "20%折扣",
-    "it": "20% di sconto"
   },
   "15 active AI-Lawyer coupons & deals for May 2026.": {
     "en": "15 active AI-Lawyer coupons & deals for May 2026.",
@@ -1989,6 +2011,83 @@
     "de": "15 aktive AI-Lawyer-Coupons und Angebote für Mai 2026.",
     "zh": "2026年5月的15个有效的AI-Lawyer优惠券和交易。",
     "it": "15 coupon e offerte attive di AI-Lawyer per maggio 2026."
+  },
+  "Browse verified coupon codes for May 2026.": {
+    "en": "Browse verified coupon codes for May 2026.",
+    "uk": "Перегляньте перевірені купони на травень 2026 року.",
+    "ja": "2026年5月の確認済みクーポンコードを閲覧してください。",
+    "es": "Navega por los códigos de cupones verificados para mayo de 2026.",
+    "pt": "Navegue pelos códigos de cupom verificados para maio de 2026.",
+    "fr": "Parcourez les codes de coupon vérifiés pour mai 2026.",
+    "de": "Durchsuchen Sie die verifizierten Gutscheincodes für Mai 2026.",
+    "zh": "浏览2026年5月的验证优惠券代码。",
+    "it": "Sfoglia i codici coupon verificati per maggio 2026."
+  },
+  "35% Off": {
+    "en": "35% Off",
+    "uk": "35% знижки",
+    "ja": "35%オフ",
+    "es": "35% de descuento",
+    "pt": "35% de desconto",
+    "fr": "35 % de réduction",
+    "de": "35% Rabatt",
+    "zh": "35% 折扣",
+    "it": "35% di sconto"
+  },
+  "$19.99/month": {
+    "en": "$19.99/month",
+    "uk": "$19.99/місяць",
+    "ja": "$19.99/月",
+    "es": "$19.99/mes",
+    "pt": "$19.99/mês",
+    "fr": "$19.99/mois",
+    "de": "$19.99/Monat",
+    "zh": "$19.99/月",
+    "it": "$19.99/mese"
+  },
+  "May 2026": {
+    "en": "May 2026",
+    "uk": "Травень 2026",
+    "ja": "2026年5月",
+    "es": "Mayo 2026",
+    "pt": "Maio de 2026",
+    "fr": "Mai 2026",
+    "de": "Mai 2026",
+    "zh": "2026年5月",
+    "it": "Maggio 2026"
+  },
+  "50 Free AI Minutes": {
+    "en": "50 Free AI Minutes",
+    "uk": "50 безкоштовних хвилин ШІ",
+    "ja": "50分の無料AI",
+    "es": "50 minutos de IA gratis",
+    "pt": "50 minutos grátis de IA",
+    "fr": "50 minutes gratuites d'IA",
+    "de": "50 kostenlose KI-Minuten",
+    "zh": "50分钟免费AI",
+    "it": "50 minuti gratuiti di IA"
+  },
+  "Average savings of 43%": {
+    "en": "Average savings of 43%",
+    "uk": "Середня економія 43%",
+    "ja": "平均して43%の節約",
+    "es": "Ahorros promedio del 43%",
+    "pt": "Economias médias de 43%",
+    "fr": "Économies moyennes de 43%",
+    "de": "Durchschnittliche Ersparnisse von 43%",
+    "zh": "平均节省43%",
+    "it": "Risparmi medi del 43%"
+  },
+  "60% off": {
+    "en": "60% off",
+    "uk": "Знижка 60%",
+    "ja": "60%オフ",
+    "es": "60% de descuento",
+    "pt": "60% de desconto",
+    "fr": "60% de réduction",
+    "de": "60% Rabatt",
+    "zh": "六折优惠",
+    "it": "60% di sconto"
   },
   "Midjourney": {
     "en": {
@@ -10500,6 +10599,342 @@
       "features": "Strumenti AI All-in-One per varie applicazioni.",
       "badge": "15%",
       "pricing": "N/D"
+    }
+  },
+  "681 AI Tools": {
+    "en": {
+      "description": "681 AI Tools aggregates a wide variety of artificial intelligence tools and resources, providing users with coupons and deals to help save on AI technology.",
+      "features": "681 verified AI Tools coupon codes from 50 stores, daily tested offers.",
+      "badge": "N/A",
+      "pricing": "Browse verified coupon codes for May 2026."
+    },
+    "uk": {
+      "description": "681 ШІ Інструментів агрегує широкий спектр інструментів та ресурсів штучного інтелекту, надаючи користувачам купони та знижки, щоб допомогти заощадити на технологіях ШІ.",
+      "features": "681 перевірених купонів на ШІ Інструменти з 50 магазинів, пропозиції з щоденною перевіркою.",
+      "badge": "Н/Д",
+      "pricing": "Перегляньте перевірені купони на травень 2026 року."
+    },
+    "ja": {
+      "description": "681のAIツールは、さまざまな人工知能ツールとリソースを集約し、ユーザーにクーポンやお得な情報を提供してAI技術にかかる費用を節約します。",
+      "features": "50の店舗から681の確認済みAIツールのクーポンコード、毎日テストされたオファー。",
+      "badge": "該当なし",
+      "pricing": "2026年5月の確認済みクーポンコードを閲覧してください。"
+    },
+    "es": {
+      "description": "681 Herramientas de IA agrega una amplia variedad de herramientas y recursos de inteligencia artificial, brindando a los usuarios cupones y ofertas para ayudar a ahorrar en tecnología de IA.",
+      "features": "681 códigos de cupones verificados de herramientas de IA de 50 tiendas, ofertas probadas diariamente.",
+      "badge": "N/A",
+      "pricing": "Navega por los códigos de cupones verificados para mayo de 2026."
+    },
+    "pt": {
+      "description": "681 Ferramentas de IA agrega uma ampla variedade de ferramentas e recursos de inteligência artificial, oferecendo aos usuários cupons e ofertas para ajudar a economizar em tecnologia de IA.",
+      "features": "681 códigos de cupom de ferramentas de IA verificados de 50 lojas, ofertas testadas diariamente.",
+      "badge": "N/A",
+      "pricing": "Navegue pelos códigos de cupom verificados para maio de 2026."
+    },
+    "fr": {
+      "description": "681 Outils IA agrège une large variété d'outils et de ressources d'intelligence artificielle, fournissant aux utilisateurs des coupons et des offres pour les aider à économiser sur la technologie IA.",
+      "features": "681 codes de coupon vérifiés d'outils IA provenant de 50 magasins, offres testées quotidiennement.",
+      "badge": "N/A",
+      "pricing": "Parcourez les codes de coupon vérifiés pour mai 2026."
+    },
+    "de": {
+      "description": "681 KI-Werkzeuge aggregiert eine Vielzahl von Tools und Ressourcen für künstliche Intelligenz und bietet Benutzern Gutscheine und Angebote, um bei KI-Technologie Geld zu sparen.",
+      "features": "681 verifiziert KI-Tools Gutscheincodes von 50 Geschäften, täglich getestete Angebote.",
+      "badge": "k.A.",
+      "pricing": "Durchsuchen Sie die verifizierten Gutscheincodes für Mai 2026."
+    },
+    "zh": {
+      "description": "681人工智能工具汇聚了各种人工智能工具和资源，为用户提供优惠券和折扣，以帮助节省人工智能技术的开支。",
+      "features": "来自50家商店的681个经验证的人工智能工具优惠券代码，每日测试的优惠。",
+      "badge": "不适用",
+      "pricing": "浏览2026年5月的验证优惠券代码。"
+    },
+    "it": {
+      "description": "681 Strumenti di IA aggrega una vasta gamma di strumenti e risorse di intelligenza artificiale, offrendo agli utenti coupon e offerte per risparmiare sulla tecnologia IA.",
+      "features": "681 codici coupon verificati per strumenti di IA provenienti da 50 negozi, offerte testate quotidianamente.",
+      "badge": "N/D",
+      "pricing": "Sfoglia i codici coupon verificati per maggio 2026."
+    }
+  },
+  "AI Writer": {
+    "en": {
+      "description": "AI Writer is a tool designed for generating written content quickly, leveraging artificial intelligence to enhance productivity in writing tasks.",
+      "features": "16% off yearly plans and AI content creation priced lower.",
+      "badge": "35% Off",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "ШІ Writer - це інструмент, призначений для швидкого створення письмового контенту, що використовує штучний інтелект для підвищення продуктивності в письмових завданнях.",
+      "features": "Знижка 16% на річні плани та нижчі ціни на створення контенту за допомогою ШІ.",
+      "badge": "35% знижки",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "AI Writerは、書かれたコンテンツを迅速に生成するために設計されたツールで、執筆タスクの生産性を高めるために人工知能を活用します。",
+      "features": "年間プランが16%オフ、AIコンテンツ作成の価格が低く設定されています。",
+      "badge": "35%オフ",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "AI Writer es una herramienta diseñada para generar contenido escrito rápidamente, aprovechando la inteligencia artificial para mejorar la productividad en las tareas de escritura.",
+      "features": "16% de descuento en planes anuales y precios más bajos para la creación de contenido con IA.",
+      "badge": "35% de descuento",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "AI Writer é uma ferramenta projetada para gerar conteúdo escrito rapidamente, aproveitando a inteligência artificial para aumentar a produtividade nas tarefas de escrita.",
+      "features": "16% de desconto nos planos anuais e preços mais baixos para criação de conteúdo com IA.",
+      "badge": "35% de desconto",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "AI Writer est un outil conçu pour générer rapidement du contenu écrit, tirant parti de l'intelligence artificielle pour améliorer la productivité dans les tâches d'écriture.",
+      "features": "16 % de réduction sur les forfaits annuels et création de contenu AI à un prix inférieur.",
+      "badge": "35 % de réduction",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "AI Writer ist ein Tool, das entwickelt wurde, um schriftliche Inhalte schnell zu erstellen, indem es künstliche Intelligenz nutzt, um die Produktivität bei Schreibaufgaben zu erhöhen.",
+      "features": "16% Rabatt auf Jahrespläne und günstiger Preis für die Erstellung von Inhalten mit KI.",
+      "badge": "35% Rabatt",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "AI Writer是一个旨在快速生成书面内容的工具，利用人工智能提高写作任务的生产力。",
+      "features": "年计划享受16%的折扣，人工智能内容创作价格更低。",
+      "badge": "35% 折扣",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "AI Writer è uno strumento progettato per generare rapidamente contenuti scritti, sfruttando l'intelligenza artificiale per migliorare la produttività nelle attività di scrittura.",
+      "features": "16% di sconto sui piani annuali e prezzi più bassi per la creazione di contenuti con IA.",
+      "badge": "35% di sconto",
+      "pricing": "N/D"
+    }
+  },
+  "ChatGPT Plus": {
+    "en": {
+      "description": "ChatGPT Plus offers users access to improved response quality and faster performance compared to the free version of ChatGPT.",
+      "features": "Advanced conversational AI capabilities including enhanced understanding.",
+      "badge": "N/A",
+      "pricing": "$20/month"
+    },
+    "uk": {
+      "description": "ChatGPT Plus надає користувачам доступ до покращеної якості відповідей та швидшої роботи в порівнянні з безкоштовною версією ChatGPT.",
+      "features": "Розвинені можливості розмовного ШІ, включаючи покращене розуміння.",
+      "badge": "Немає",
+      "pricing": "$20/місяць"
+    },
+    "ja": {
+      "description": "ChatGPT Plusは、無料版のChatGPTと比較して、改善された応答品質と迅速なパフォーマンスへのアクセスをユーザーに提供します。",
+      "features": "高度な会話型AI機能には、向上した理解力が含まれています。",
+      "badge": "該当なし",
+      "pricing": "$20/月"
+    },
+    "es": {
+      "description": "ChatGPT Plus ofrece a los usuarios acceso a una mejor calidad de respuesta y un rendimiento más rápido en comparación con la versión gratuita de ChatGPT.",
+      "features": "Capacidades avanzadas de IA conversacional, incluida una mejor comprensión.",
+      "badge": "N/A",
+      "pricing": "$20/mes"
+    },
+    "pt": {
+      "description": "O ChatGPT Plus oferece aos usuários acesso a uma qualidade de resposta aprimorada e desempenho mais rápido em comparação com a versão gratuita do ChatGPT.",
+      "features": "Recursos avançados de IA conversacional, incluindo compreensão aprimorada.",
+      "badge": "N/D",
+      "pricing": "$20/mês"
+    },
+    "fr": {
+      "description": "ChatGPT Plus offre aux utilisateurs un accès à une qualité de réponse améliorée et à des performances plus rapides par rapport à la version gratuite de ChatGPT.",
+      "features": "Fonctionnalités avancées d'IA conversationnelle, y compris une compréhension améliorée.",
+      "badge": "N/A",
+      "pricing": "$20/mois"
+    },
+    "de": {
+      "description": "ChatGPT Plus bietet Benutzern Zugriff auf eine verbesserte Antwortqualität und schnellere Leistungen im Vergleich zur kostenlosen Version von ChatGPT.",
+      "features": "Fortschrittliche Funktionen der konversationalen KI, einschließlich verbesserter Verständlichkeit.",
+      "badge": "N/A",
+      "pricing": "20 €/Monat"
+    },
+    "zh": {
+      "description": "ChatGPT Plus为用户提供与免费版本ChatGPT相比，改进的响应质量和更快的性能。",
+      "features": "增强理解能力的高级对话式AI功能。",
+      "badge": "不适用",
+      "pricing": "$20/月"
+    },
+    "it": {
+      "description": "ChatGPT Plus offre agli utenti l'accesso a una qualità di risposta migliorata e a prestazioni più veloci rispetto alla versione gratuita di ChatGPT.",
+      "features": "Capacità avanzate di IA conversazionale, inclusa una comprensione migliorata.",
+      "badge": "N/D",
+      "pricing": "$20/mese"
+    }
+  },
+  "Google AI Pro": {
+    "en": {
+      "description": "Google AI Pro enables users to leverage the latest in artificial intelligence technology, providing diverse applications across various fields.",
+      "features": "Access to Google's cutting-edge AI advancements.",
+      "badge": "N/A",
+      "pricing": "$19.99/month"
+    },
+    "uk": {
+      "description": "Google AI Pro надає користувачам можливість використовувати найновіші технології штучного інтелекту, забезпечуючи різноманітні застосування в різних галузях.",
+      "features": "Доступ до передових технологій штучного інтелекту Google.",
+      "badge": "Н/Д",
+      "pricing": "$19.99/місяць"
+    },
+    "ja": {
+      "description": "Google AI Proは、ユーザーが最新の人工知能技術を活用し、さまざまな分野で多様なアプリケーションを提供できるようにします。",
+      "features": "Googleの最先端のAIの進展にアクセスできます。",
+      "badge": "該当なし",
+      "pricing": "$19.99/月"
+    },
+    "es": {
+      "description": "Google AI Pro permite a los usuarios aprovechar lo último en tecnología de inteligencia artificial, proporcionando diversas aplicaciones en varios campos.",
+      "features": "Acceso a los avances de inteligencia artificial de vanguardia de Google.",
+      "badge": "N/A",
+      "pricing": "$19.99/mes"
+    },
+    "pt": {
+      "description": "O Google AI Pro permite que os usuários aproveitem o que há de mais recente em tecnologia de inteligência artificial, oferecendo diversas aplicações em várias áreas.",
+      "features": "Acesso aos avanços de IA de ponta do Google.",
+      "badge": "N/A",
+      "pricing": "$19.99/mês"
+    },
+    "fr": {
+      "description": "Google AI Pro permet aux utilisateurs de tirer parti des dernières technologies en intelligence artificielle, offrant des applications diverses dans différents domaines.",
+      "features": "Accès aux avancées en intelligence artificielle de pointe de Google.",
+      "badge": "N/A",
+      "pricing": "$19.99/mois"
+    },
+    "de": {
+      "description": "Google AI Pro ermöglicht es Benutzern, die neuesten Technologien der künstlichen Intelligenz zu nutzen und bietet vielfältige Anwendungen in verschiedenen Bereichen.",
+      "features": "Zugang zu den neuesten Fortschritten der künstlichen Intelligenz von Google.",
+      "badge": "N/V",
+      "pricing": "$19.99/Monat"
+    },
+    "zh": {
+      "description": "Google AI Pro使用户能够利用最新的人工智能技术，在各个领域提供多种应用。",
+      "features": "访问谷歌的尖端人工智能进展。",
+      "badge": "不适用",
+      "pricing": "$19.99/月"
+    },
+    "it": {
+      "description": "Google AI Pro consente agli utenti di sfruttare le ultime tecnologie di intelligenza artificiale, fornendo diverse applicazioni in vari settori.",
+      "features": "Accesso ai progressi all'avanguardia dell'IA di Google.",
+      "badge": "N/D",
+      "pricing": "$19.99/mese"
+    }
+  },
+  "InVideo": {
+    "en": {
+      "description": "InVideo empowers creators by providing AI-driven tools that can turn text into polished videos efficiently, allowing users to create short-form content and more.",
+      "features": "AI-driven tools to transform text into videos.",
+      "badge": "50 Free AI Minutes",
+      "pricing": "May 2026"
+    },
+    "uk": {
+      "description": "InVideo надає можливість творцям, забезпечуючи інструменти на базі ШІ, які можуть перетворювати текст на відшліфовані відео ефективно, дозволяючи користувачам створювати короткостроковий контент та інше.",
+      "features": "Інструменти на базі ШІ для перетворення тексту на відео.",
+      "badge": "50 безкоштовних хвилин ШІ",
+      "pricing": "Травень 2026"
+    },
+    "ja": {
+      "description": "InVideoは、クリエイターに対して、テキストを効率的に洗練されたビデオに変換できるAI主導のツールを提供することで力を与え、ユーザーが短編コンテンツなどを作成できるようにします。",
+      "features": "テキストをビデオに変換するAI主導のツール。",
+      "badge": "50分の無料AI",
+      "pricing": "2026年5月"
+    },
+    "es": {
+      "description": "InVideo empodera a los creadores al proporcionar herramientas impulsadas por IA que pueden convertir texto en videos pulidos de manera eficiente, permitiendo a los usuarios crear contenido de formato corto y más.",
+      "features": "Herramientas impulsadas por IA para transformar texto en videos.",
+      "badge": "50 minutos de IA gratis",
+      "pricing": "Mayo 2026"
+    },
+    "pt": {
+      "description": "O InVideo capacita criadores ao fornecer ferramentas impulsionadas por IA que podem transformar texto em vídeos polidos de forma eficiente, permitindo que os usuários criem conteúdo de formato curto e mais.",
+      "features": "Ferramentas impulsionadas por IA para transformar texto em vídeos.",
+      "badge": "50 minutos grátis de IA",
+      "pricing": "Maio de 2026"
+    },
+    "fr": {
+      "description": "InVideo permet aux créateurs d'utiliser des outils basés sur l'IA qui peuvent transformer du texte en vidéos soignées de manière efficace, permettant aux utilisateurs de créer du contenu court et plus encore.",
+      "features": "Outils basés sur l'IA pour transformer du texte en vidéos.",
+      "badge": "50 minutes gratuites d'IA",
+      "pricing": "Mai 2026"
+    },
+    "de": {
+      "description": "InVideo ermöglicht es Kreativen, indem es KI-gesteuerte Tools bereitstellt, die Text effizient in polierte Videos umwandeln können, sodass Benutzer Kurzfilme und mehr erstellen können.",
+      "features": "KI-gesteuerte Tools zur Umwandlung von Text in Videos.",
+      "badge": "50 kostenlose KI-Minuten",
+      "pricing": "Mai 2026"
+    },
+    "zh": {
+      "description": "InVideo通过提供基于AI的工具，使创作者能够有效地将文本转换为精致的视频，允许用户创建短格式内容等。",
+      "features": "将文本转换为视频的AI驱动工具。",
+      "badge": "50分钟免费AI",
+      "pricing": "2026年5月"
+    },
+    "it": {
+      "description": "InVideo dà potere ai creatori offrendo strumenti guidati dall'IA che possono trasformare il testo in video rifiniti in modo efficiente, permettendo agli utenti di creare contenuti di breve formato e altro ancora.",
+      "features": "Strumenti guidati dall'IA per trasformare il testo in video.",
+      "badge": "50 minuti gratuiti di IA",
+      "pricing": "Maggio 2026"
+    }
+  },
+  "AIOSEO": {
+    "en": {
+      "description": "AIOSEO is an all-in-one SEO plugin designed to optimize websites for search engines and improve online visibility.",
+      "features": "Multiple active promo codes for savings.",
+      "badge": "60% off",
+      "pricing": "Average savings of 43%"
+    },
+    "uk": {
+      "description": "AIOSEO – це універсальний SEO плагін, розроблений для оптимізації веб-сайтів для пошукових систем та покращення онлайн-видимості.",
+      "features": "Кілька активних промокодів для знижок.",
+      "badge": "Знижка 60%",
+      "pricing": "Середня економія 43%"
+    },
+    "ja": {
+      "description": "AIOSEOは、ウェブサイトを検索エンジン用に最適化し、オンラインの可視性を向上させるために設計されたオールインワンのSEOプラグインです。",
+      "features": "節約のために複数の有効なプロモーションコードがあります。",
+      "badge": "60%オフ",
+      "pricing": "平均して43%の節約"
+    },
+    "es": {
+      "description": "AIOSEO es un complemento SEO todo en uno diseñado para optimizar sitios web para motores de búsqueda y mejorar la visibilidad en línea.",
+      "features": "Múltiples códigos promocionales activos para ahorrar.",
+      "badge": "60% de descuento",
+      "pricing": "Ahorros promedio del 43%"
+    },
+    "pt": {
+      "description": "AIOSEO é um plugin SEO tudo-em-um projetado para otimizar sites para mecanismos de busca e melhorar a visibilidade online.",
+      "features": "Vários códigos promocionais ativos para economias.",
+      "badge": "60% de desconto",
+      "pricing": "Economias médias de 43%"
+    },
+    "fr": {
+      "description": "AIOSEO est un plugin SEO tout-en-un conçu pour optimiser les sites Web pour les moteurs de recherche et améliorer la visibilité en ligne.",
+      "features": "Plusieurs codes promo actifs pour des économies.",
+      "badge": "60% de réduction",
+      "pricing": "Économies moyennes de 43%"
+    },
+    "de": {
+      "description": "AIOSEO ist ein All-in-One-SEO-Plugin, das entwickelt wurde, um Websites für Suchmaschinen zu optimieren und die Online-Sichtbarkeit zu verbessern.",
+      "features": "Mehrere aktive Promo-Codes für Ersparnisse.",
+      "badge": "60% Rabatt",
+      "pricing": "Durchschnittliche Ersparnisse von 43%"
+    },
+    "zh": {
+      "description": "AIOSEO是一款一体化的SEO插件，旨在优化网站以适应搜索引擎并提高在线可见性。",
+      "features": "多个有效的促销代码可供省钱。",
+      "badge": "六折优惠",
+      "pricing": "平均节省43%"
+    },
+    "it": {
+      "description": "AIOSEO è un plugin SEO tutto-in-uno progettato per ottimizzare i siti web per i motori di ricerca e migliorare la visibilità online.",
+      "features": "Più codici promozionali attivi per risparmi.",
+      "badge": "60% di sconto",
+      "pricing": "Risparmi medi del 43%"
     }
   }
 }
