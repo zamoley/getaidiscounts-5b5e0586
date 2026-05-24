@@ -19,9 +19,11 @@ import { Route as Char123LocaleChar125TermsRouteImport } from './routes/{-$local
 import { Route as Char123LocaleChar125PrivacyRouteImport } from './routes/{-$locale}/privacy'
 import { Route as Char123LocaleChar125MusicRouteImport } from './routes/{-$locale}/music'
 import { Route as Char123LocaleChar125GroupbuyRouteImport } from './routes/{-$locale}/groupbuy'
+import { Route as Char123LocaleChar125ContactRouteImport } from './routes/{-$locale}/contact'
 import { Route as Char123LocaleChar125CodeRouteImport } from './routes/{-$locale}/code'
 import { Route as Char123LocaleChar125AgentsRouteImport } from './routes/{-$locale}/agents'
 import { Route as Char123LocaleChar125AffiliateDisclosureRouteImport } from './routes/{-$locale}/affiliate-disclosure'
+import { Route as Char123LocaleChar125AboutRouteImport } from './routes/{-$locale}/about'
 
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
@@ -81,6 +83,12 @@ const Char123LocaleChar125GroupbuyRoute =
     path: '/{-$locale}/groupbuy',
     getParentRoute: () => rootRouteImport,
   } as any)
+const Char123LocaleChar125ContactRoute =
+  Char123LocaleChar125ContactRouteImport.update({
+    id: '/{-$locale}/contact',
+    path: '/{-$locale}/contact',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 const Char123LocaleChar125CodeRoute =
   Char123LocaleChar125CodeRouteImport.update({
     id: '/{-$locale}/code',
@@ -99,13 +107,21 @@ const Char123LocaleChar125AffiliateDisclosureRoute =
     path: '/{-$locale}/affiliate-disclosure',
     getParentRoute: () => rootRouteImport,
   } as any)
+const Char123LocaleChar125AboutRoute =
+  Char123LocaleChar125AboutRouteImport.update({
+    id: '/{-$locale}/about',
+    path: '/{-$locale}/about',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 
 export interface FileRoutesByFullPath {
   '/go': typeof GoRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/{-$locale}/about': typeof Char123LocaleChar125AboutRoute
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/contact': typeof Char123LocaleChar125ContactRoute
   '/{-$locale}/groupbuy': typeof Char123LocaleChar125GroupbuyRoute
   '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
   '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
@@ -118,9 +134,11 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/go': typeof GoRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/{-$locale}/about': typeof Char123LocaleChar125AboutRoute
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/contact': typeof Char123LocaleChar125ContactRoute
   '/{-$locale}/groupbuy': typeof Char123LocaleChar125GroupbuyRoute
   '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
   '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
@@ -134,9 +152,11 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/go': typeof GoRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/{-$locale}/about': typeof Char123LocaleChar125AboutRoute
   '/{-$locale}/affiliate-disclosure': typeof Char123LocaleChar125AffiliateDisclosureRoute
   '/{-$locale}/agents': typeof Char123LocaleChar125AgentsRoute
   '/{-$locale}/code': typeof Char123LocaleChar125CodeRoute
+  '/{-$locale}/contact': typeof Char123LocaleChar125ContactRoute
   '/{-$locale}/groupbuy': typeof Char123LocaleChar125GroupbuyRoute
   '/{-$locale}/music': typeof Char123LocaleChar125MusicRoute
   '/{-$locale}/privacy': typeof Char123LocaleChar125PrivacyRoute
@@ -151,9 +171,11 @@ export interface FileRouteTypes {
   fullPaths:
     | '/go'
     | '/sitemap.xml'
+    | '/{-$locale}/about'
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
+    | '/{-$locale}/contact'
     | '/{-$locale}/groupbuy'
     | '/{-$locale}/music'
     | '/{-$locale}/privacy'
@@ -166,9 +188,11 @@ export interface FileRouteTypes {
   to:
     | '/go'
     | '/sitemap.xml'
+    | '/{-$locale}/about'
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
+    | '/{-$locale}/contact'
     | '/{-$locale}/groupbuy'
     | '/{-$locale}/music'
     | '/{-$locale}/privacy'
@@ -181,9 +205,11 @@ export interface FileRouteTypes {
     | '__root__'
     | '/go'
     | '/sitemap.xml'
+    | '/{-$locale}/about'
     | '/{-$locale}/affiliate-disclosure'
     | '/{-$locale}/agents'
     | '/{-$locale}/code'
+    | '/{-$locale}/contact'
     | '/{-$locale}/groupbuy'
     | '/{-$locale}/music'
     | '/{-$locale}/privacy'
@@ -197,9 +223,11 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   GoRoute: typeof GoRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  Char123LocaleChar125AboutRoute: typeof Char123LocaleChar125AboutRoute
   Char123LocaleChar125AffiliateDisclosureRoute: typeof Char123LocaleChar125AffiliateDisclosureRoute
   Char123LocaleChar125AgentsRoute: typeof Char123LocaleChar125AgentsRoute
   Char123LocaleChar125CodeRoute: typeof Char123LocaleChar125CodeRoute
+  Char123LocaleChar125ContactRoute: typeof Char123LocaleChar125ContactRoute
   Char123LocaleChar125GroupbuyRoute: typeof Char123LocaleChar125GroupbuyRoute
   Char123LocaleChar125MusicRoute: typeof Char123LocaleChar125MusicRoute
   Char123LocaleChar125PrivacyRoute: typeof Char123LocaleChar125PrivacyRoute
@@ -282,6 +310,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof Char123LocaleChar125GroupbuyRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/{-$locale}/contact': {
+      id: '/{-$locale}/contact'
+      path: '/{-$locale}/contact'
+      fullPath: '/{-$locale}/contact'
+      preLoaderRoute: typeof Char123LocaleChar125ContactRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/{-$locale}/code': {
       id: '/{-$locale}/code'
       path: '/{-$locale}/code'
@@ -303,16 +338,25 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof Char123LocaleChar125AffiliateDisclosureRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/{-$locale}/about': {
+      id: '/{-$locale}/about'
+      path: '/{-$locale}/about'
+      fullPath: '/{-$locale}/about'
+      preLoaderRoute: typeof Char123LocaleChar125AboutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   GoRoute: GoRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
+  Char123LocaleChar125AboutRoute: Char123LocaleChar125AboutRoute,
   Char123LocaleChar125AffiliateDisclosureRoute:
     Char123LocaleChar125AffiliateDisclosureRoute,
   Char123LocaleChar125AgentsRoute: Char123LocaleChar125AgentsRoute,
   Char123LocaleChar125CodeRoute: Char123LocaleChar125CodeRoute,
+  Char123LocaleChar125ContactRoute: Char123LocaleChar125ContactRoute,
   Char123LocaleChar125GroupbuyRoute: Char123LocaleChar125GroupbuyRoute,
   Char123LocaleChar125MusicRoute: Char123LocaleChar125MusicRoute,
   Char123LocaleChar125PrivacyRoute: Char123LocaleChar125PrivacyRoute,

@@ -11,7 +11,9 @@ export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean
         <div className="text-center md:text-left">
           © {new Date().getFullYear()} GetAIDiscounts.com
         </div>
-        <nav aria-label="Legal" className="flex flex-nowrap items-center justify-center gap-x-5">
+        <nav aria-label="Site" className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
+          <Link to={localizedTo(locale, "/about")} className="hover:text-electric">About</Link>
+          <Link to={localizedTo(locale, "/contact")} className="hover:text-electric">Contact</Link>
           <Link to={localizedTo(locale, "/privacy")} className="hover:text-electric">{t("footer.privacy")}</Link>
           <Link to={localizedTo(locale, "/terms")} className="hover:text-electric">{t("footer.terms")}</Link>
           <Link to={localizedTo(locale, "/affiliate-disclosure")} className="hover:text-electric">{t("footer.affiliate")}</Link>
@@ -19,7 +21,7 @@ export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean
       </div>
       {showDisclosure && (
         <p className="mt-6 text-center text-xs italic text-muted-foreground/80">
-          {t("footer.disclosure")}
+          We participate in various affiliate and partner programs. We may earn a commission when you purchase through our links at no extra cost to you.
         </p>
       )}
       <div className="mt-8 border-t border-border/40 pt-5 text-center text-xs text-muted-foreground/70">
