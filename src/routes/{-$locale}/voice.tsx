@@ -27,6 +27,13 @@ export const Route = createFileRoute("/{-$locale}/voice")({
     };
   },
   component: () => <CategoryPage deals={Route.useLoaderData() as Deal[]} config={cfg} />,
-  errorComponent: ({ error }) => <div className="p-10 text-center text-muted-foreground">Failed to load: {error.message}</div>,
+  errorComponent: ({ error }) => (
+    <div className="p-10 text-center text-muted-foreground">
+      Failed to load deals — please try again.
+      {import.meta.env.DEV && error?.message ? (
+        <pre className="mt-3 text-xs opacity-70">{error.message}</pre>
+      ) : null}
+    </div>
+  ),
   notFoundComponent: () => <div className="p-10 text-center">Not found</div>,
 });
