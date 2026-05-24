@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { useTranslation } from "react-i18next";
+
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { hreflangLinks, canonicalFor } from "@/i18n/seo";
@@ -24,18 +24,30 @@ export const Route = createFileRoute("/{-$locale}/affiliate-disclosure")({
 });
 
 function DisclosurePage() {
-  const { t } = useTranslation();
-  const today = new Date().toLocaleDateString();
+  const today = new Date().toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" });
   return (
     <main className="min-h-screen">
       <SiteHeader />
       <article className="mx-auto max-w-3xl px-6 py-14">
-        <h1 className="text-4xl font-bold tracking-tight">{t("disclosure.title")}</h1>
-        <p className="mt-2 text-sm text-muted-foreground">{t("disclosure.updated", { date: today })}</p>
+        <h1 className="text-4xl font-bold tracking-tight">Affiliate Disclosure</h1>
+        <p className="mt-2 text-sm text-muted-foreground">Last updated: {today}</p>
 
-        <section className="mt-8 space-y-3">
-          <p className="text-muted-foreground italic">{t("disclosure.intro")}</p>
-          <p className="text-muted-foreground">{t("disclosure.details")}</p>
+        <section className="mt-8 space-y-4 text-muted-foreground leading-relaxed">
+          <p className="italic">
+            We participate in various affiliate and partner programs. We may earn
+            a commission when you purchase through our links at no extra cost to
+            you. These commissions help us keep the site running and verify deals
+            daily — but a tool's affiliate status never determines whether we
+            list it or how we describe its discount.
+          </p>
+          <p>
+            If you have questions about a specific partnership or want to flag a
+            deal, reach us at{" "}
+            <a href="mailto:hello@getaidiscounts.com" className="text-electric hover:underline">
+              hello@getaidiscounts.com
+            </a>
+            .
+          </p>
         </section>
       </article>
       <SiteFooter />
