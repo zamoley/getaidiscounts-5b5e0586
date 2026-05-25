@@ -40,6 +40,12 @@ export const Route = createRootRoute({
       { name: "twitter:url", content: "https://getaidiscounts.com/" },
       { name: "impact-site-verification", content: "9a364ba8-4292-45f6-89c8-e59fec32ffda", value: "9a364ba8-4292-45f6-89c8-e59fec32ffda" } as { name: string; content: string },
       { name: "google-site-verification", content: "_-O1K2Hdj5pZ3aCd6Ji4U62wJu_531P-LgkoB0oLXkM" },
+      { title: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & De" },
+      { property: "og:title", content: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & De" },
+      { name: "twitter:title", content: "Get AI Discounts | #1 Directory for AI Tool Promo Codes & De" },
+      { name: "description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
+      { property: "og:description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
+      { name: "twitter:description", content: "Save up to 80% on the world's leading AI tools. Verified promo codes and exclusive discounts for Midjourney, ElevenLabs, HeyGen, and 100+ more tools." },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
