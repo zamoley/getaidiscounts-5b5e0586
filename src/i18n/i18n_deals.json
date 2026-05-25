@@ -7266,5 +7266,235 @@
             "zh": "平均节省43%",
             "it": "Risparmi medi del 43%"
         }
+    },
+    "Free AI Medical Codes Mapping Tools": {
+        "description": {
+            "en": "These tools facilitate automatic mapping of medical codes, significantly enhancing efficiency and accuracy in healthcare documentation.",
+            "uk": "Ці інструменти полегшують автоматичне відображення медичних кодів, значно підвищуючи ефективність і точність у документації охорони здоров'я.",
+            "ja": "これらのツールは医療コードの自動マッピングを容易にし、ヘルスケア文書の効率と正確性を大幅に向上させます。",
+            "es": "Estas herramientas facilitan el mapeo automático de códigos médicos, mejorando significativamente la eficiencia y precisión en la documentación de atención médica.",
+            "pt": "Estas ferramentas facilitam o mapeamento automático de códigos médicos, aumentando significativamente a eficiência e a precisão na documentação de saúde.",
+            "fr": "Ces outils facilitent le mappage automatique des codes médicaux, améliorant considérablement l'efficacité et la précision dans la documentation des soins de santé.",
+            "de": "Diese Tools ermöglichen die automatische Zuordnung medizinischer Codes und verbessern erheblich die Effizienz und Genauigkeit in der Gesundheitsdokumentation.",
+            "zh": "这些工具可以自动映射医疗代码，显著提高医疗文档的效率和准确性。",
+            "it": "Questi strumenti facilitano la mappatura automatica dei codici medici, migliorando notevolmente l'efficienza e l'accuratezza nella documentazione sanitaria."
+        },
+        "features": {
+            "en": "Automates ICD-10, CPT coding with 95% accuracy",
+            "uk": "Автоматизує кодування ICD-10, CPT з точністю 95%",
+            "ja": "ICD-10、CPTコーディングを95％の精度で自動化します",
+            "es": "Automatiza el código ICD-10 y CPT con un 95% de precisión",
+            "pt": "Automatiza a codificação ICD-10 e CPT com 95% de precisão",
+            "fr": "Automatise le codage ICD-10 et CPT avec une précision de 95%",
+            "de": "Automatisiert die ICD-10- und CPT-Codierung mit 95 % Genauigkeit",
+            "zh": "以95%的准确性自动化ICD-10和CPT编码",
+            "it": "Automatizza la codifica ICD-10 e CPT con un'accuratezza del 95%"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Free",
+            "uk": "Безкоштовно",
+            "ja": "無料",
+            "es": "Gratis",
+            "pt": "Gratuito",
+            "fr": "Gratuit",
+            "de": "Kostenlos",
+            "zh": "免费",
+            "it": "Gratuito"
+        }
+    },
+    "AI Medical Coding Software": {
+        "description": {
+            "en": "A compilation of top AI-based medical coding software that utilizes artificial intelligence to optimize coding processes in healthcare.",
+            "uk": "Збірка найкращого програмного забезпечення для медичного кодування на основі ШІ, яке використовує штучний інтелект для оптимізації процесів кодування в охороні здоров'я.",
+            "ja": "医療コーディングプロセスを最適化するために人工知能を利用したトップのAIベースの医療コーディングソフトウェアのコンパイル。",
+            "es": "Una compilación del mejor software de codificación médica basado en IA que utiliza inteligencia artificial para optimizar los procesos de codificación en el cuidado de la salud.",
+            "pt": "Uma compilação dos melhores softwares de codificação médica baseados em IA que utilizam inteligência artificial para otimizar processos de codificação na saúde.",
+            "fr": "Une compilation des meilleurs logiciels de codage médical basés sur l'IA qui utilise l'intelligence artificielle pour optimiser les processus de codage dans le domaine de la santé.",
+            "de": "Eine Zusammenstellung der besten KI-basierten medizinischen Codierungssoftware, die künstliche Intelligenz nutzt, um die Codierungsprozesse im Gesundheitswesen zu optimieren.",
+            "zh": "一系列顶级基于AI的医疗编码软件的汇编，利用人工智能优化医疗保健中的编码过程。",
+            "it": "Una raccolta dei migliori software di codifica medica basati su IA che utilizza intelligenza artificiale per ottimizzare i processi di codifica nella sanità."
+        },
+        "features": {
+            "en": "Features, Pricing, Use Cases",
+            "uk": "Функції, Ціни, Використання",
+            "ja": "機能、価格、使用例",
+            "es": "Características, Precios, Casos de Uso",
+            "pt": "Recursos, Preços, Casos de Uso",
+            "fr": "Fonctionnalités, Tarification, Cas d'Utilisation",
+            "de": "Funktionen, Preise, Anwendungsfälle",
+            "zh": "功能、定价、用例",
+            "it": "Caratteristiche, Prezzi, Casi d'Uso"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Various pricing options available",
+            "uk": "Доступні різні варіанти ціноутворення",
+            "ja": "さまざまな価格オプションが利用可能",
+            "es": "Varias opciones de precios disponibles",
+            "pt": "Várias opções de preços disponíveis",
+            "fr": "Différentes options de tarification disponibles",
+            "de": "Verschiedene Preismodelle verfügbar",
+            "zh": "提供各种定价选项",
+            "it": "Varie opzioni di prezzo disponibili"
+        }
+    },
+    "Undetectable AI": {
+        "description": {
+            "en": "Undetectable AI offers advanced image generation tools that prioritize authenticity and user control, making it easier to create realistic images.",
+            "uk": "Undetectable AI пропонує розширені інструменти генерації зображень, які надають пріоритет автентичності та контролю користувачів, що робить створення реалістичних зображень простішим.",
+            "ja": "Undetectable AIは、信頼性とユーザーのコントロールを優先する高度な画像生成ツールを提供し、リアルな画像を作成しやすくします。",
+            "es": "Undetectable AI ofrece herramientas avanzadas de generación de imágenes que priorizan la autenticidad y el control del usuario, facilitando la creación de imágenes realistas.",
+            "pt": "Undetectable AI oferece ferramentas avançadas de geração de imagens que priorizam a autenticidade e o controle do usuário, facilitando a criação de imagens realistas.",
+            "fr": "Undetectable AI propose des outils avancés de génération d'images qui privilégient l'authenticité et le contrôle de l'utilisateur, facilitant ainsi la création d'images réalistes.",
+            "de": "Undetectable AI bietet fortschrittliche Bildgenerierungstools, die Authentizität und Benutzerkontrolle priorisieren, was die Erstellung realistischer Bilder erleichtert.",
+            "zh": "Undetectable AI提供高级图像生成工具，优先考虑真实性和用户控制，使创建逼真的图像变得更容易。",
+            "it": "Undetectable AI offre strumenti avanzati di generazione di immagini che danno priorità all'autenticità e al controllo dell'utente, rendendo più facile creare immagini realistiche."
+        },
+        "features": {
+            "en": "Includes verified promo codes",
+            "uk": "Включає перевірені промокоди",
+            "ja": "確認済みのプロモコードが含まれています",
+            "es": "Incluye códigos promocionales verificados",
+            "pt": "Inclui códigos promocionais verificados",
+            "fr": "Comprend des codes promo vérifiés",
+            "de": "Beinhaltet verifizierte Aktionscodes",
+            "zh": "包括验证过的促销代码",
+            "it": "Include codici promozionali verificati"
+        },
+        "discount": {
+            "en": "20%",
+            "uk": "20%",
+            "ja": "20%",
+            "es": "20%",
+            "pt": "20%",
+            "fr": "20%",
+            "de": "20%",
+            "zh": "20%",
+            "it": "20%"
+        },
+        "pricing": {
+            "en": "Applicable on all plans.",
+            "uk": "Застосовується до всіх планів.",
+            "ja": "すべてのプランに適用されます。",
+            "es": "Aplicable en todos los planes.",
+            "pt": "Aplicável em todos os planos.",
+            "fr": "Applicable sur tous les plans.",
+            "de": "Gilt für alle Pläne.",
+            "zh": "适用于所有计划。",
+            "it": "Applicabile a tutti i piani."
+        }
+    },
+    "Krater": {
+        "description": {
+            "en": "Krater is a platform that provides a variety of AI models for creative applications, making advanced AI tools accessible for a low monthly fee.",
+            "uk": "Krater - це платформа, яка надає різноманітні моделі ШІ для креативних застосувань, роблячи доступними передові інструменти ШІ за низькою щомісячною платою.",
+            "ja": "Kraterは、創造的なアプリケーションのためにさまざまなAIモデルを提供するプラットフォームであり、高度なAIツールを低価格で提供します。",
+            "es": "Krater es una plataforma que ofrece una variedad de modelos de inteligencia artificial para aplicaciones creativas, haciendo que las herramientas avanzadas de IA sean accesibles por una baja tarifa mensual.",
+            "pt": "Krater é uma plataforma que oferece uma variedade de modelos de IA para aplicações criativas, tornando as ferramentas avançadas de IA acessíveis por uma baixa taxa mensal.",
+            "fr": "Krater est une plateforme qui propose une variété de modèles d'IA pour des applications créatives, rendant les outils avancés d'IA accessibles pour un faible tarif mensuel.",
+            "de": "Krater ist eine Plattform, die eine Vielzahl von KI-Modellen für kreative Anwendungen bereitstellt und fortschrittliche KI-Tools zu einer niedrigen monatlichen Gebühr zugänglich macht.",
+            "zh": "Krater是一个提供多种创意应用的AI模型的平台，使先进的AI工具通过低月费变得触手可及。",
+            "it": "Krater è una piattaforma che fornisce una varietà di modelli di IA per applicazioni creative, rendendo gli strumenti avanzati di IA accessibili con una bassa tariffa mensile."
+        },
+        "features": {
+            "en": "Comprehensive access to AI models including Midjourney’s features, affordable pricing.",
+            "uk": "Універсальний доступ до моделей ШІ, включаючи можливості Midjourney, доступні ціни.",
+            "ja": "Midjourneyの機能を含むAIモデルへの包括的なアクセス、手頃な価格。",
+            "es": "Acceso integral a modelos de IA, incluidas las funciones de Midjourney, precios asequibles.",
+            "pt": "Acesso abrangente a modelos de IA, incluindo recursos do Midjourney, preços acessíveis.",
+            "fr": "Accès complet aux modèles d'IA, y compris les fonctionnalités de Midjourney, à des prix abordables.",
+            "de": "Umfassender Zugang zu KI-Modellen einschließlich der Funktionen von Midjourney, erschwingliche Preise.",
+            "zh": "全面访问AI模型，包括Midjourney的功能，价格实惠。",
+            "it": "Accesso completo ai modelli di IA, comprese le funzionalità di Midjourney, prezzi accessibili."
+        },
+        "discount": {
+            "en": "25%",
+            "uk": "25%",
+            "ja": "25%",
+            "es": "25%",
+            "pt": "25%",
+            "fr": "25%",
+            "de": "25%",
+            "zh": "25%",
+            "it": "25%"
+        },
+        "pricing": {
+            "en": "$7.50/month for access to over 350 AI models.",
+            "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
+            "ja": "350以上のAIモデルへのアクセスには月額7.50ドル。",
+            "es": "$7.50/mes para acceder a más de 350 modelos de IA.",
+            "pt": "$7,50/mês para acesso a mais de 350 modelos de IA.",
+            "fr": "7,50 $/mois pour accéder à plus de 350 modèles d'IA.",
+            "de": "7,50 $/Monat für den Zugang zu über 350 KI-Modellen.",
+            "zh": "$7.50/月访问超过350个AI模型。",
+            "it": "7,50 $/mese per accedere a oltre 350 modelli di IA."
+        }
+    },
+    "Popular Ai Tools": {
+        "description": {
+            "en": "Popular Ai Tools provides a range of verified coupon codes that enable users to save money on some of the most in-demand AI tools available today.",
+            "uk": "Популярні ШІ інструменти надають ряд перевірених купонів, які дозволяють користувачам заощаджувати гроші на деяких з найбільш затребуваних ШІ інструментів, доступних сьогодні.",
+            "ja": "Popular Ai Toolsは、ユーザーが今日利用可能な最も需要のあるAIツールのいくつかにお金を節約できる確認済みのクーポンコードを提供します。",
+            "es": "Popular Ai Tools proporciona una variedad de códigos de cupón verificados que permiten a los usuarios ahorrar dinero en algunas de las herramientas de IA más demandadas disponibles hoy en día.",
+            "pt": "Popular Ai Tools fornece uma variedade de códigos de cupom verificados que permitem aos usuários economizar dinheiro em algumas das ferramentas de IA mais procuradas disponíveis hoje.",
+            "fr": "Popular Ai Tools propose une gamme de codes de réduction vérifiés qui permettent aux utilisateurs d'économiser de l'argent sur certains des outils d'IA les plus demandés disponibles aujourd'hui.",
+            "de": "Popular Ai Tools bietet eine Vielzahl von verifizierten Gutscheincodes an, mit denen Benutzer Geld bei einigen der gefragtesten KI-Tools sparen können, die heute verfügbar sind.",
+            "zh": "Popular Ai Tools提供一系列经过验证的优惠券代码，使用户能够在今天可用的一些最需要的AI工具上节省资金。",
+            "it": "Popular Ai Tools offre una gamma di codici coupon verificati che consentono agli utenti di risparmiare denaro su alcuni degli strumenti di AI più richiesti disponibili oggi."
+        },
+        "features": {
+            "en": "Verified coupon codes for popular AI tools.",
+            "uk": "Перевірені купони для популярних ШІ інструментів.",
+            "ja": "人気のAIツール用の確認済みクーポンコード。",
+            "es": "Códigos de cupón verificados para herramientas de IA populares.",
+            "pt": "Códigos de cupom verificados para ferramentas de IA populares.",
+            "fr": "Codes de réduction vérifiés pour des outils d'IA populaires.",
+            "de": "Verifizierte Gutscheincodes für beliebte KI-Tools.",
+            "zh": "流行的AI工具的验证优惠券代码。",
+            "it": "Codici coupon verificati per strumenti di IA popolari."
+        },
+        "discount": {
+            "en": "50%",
+            "uk": "50%",
+            "ja": "50%",
+            "es": "50%",
+            "pt": "50%",
+            "fr": "50 %",
+            "de": "50 %",
+            "zh": "50%",
+            "it": "50%"
+        },
+        "pricing": {
+            "en": "Top Verified Popular Ai Tools Discount Codes.",
+            "uk": "Найкращі перевірені коди знижок популярних ШІ інструментів.",
+            "ja": "トップクラスの確認済み人気AIツール割引コード。",
+            "es": "Códigos de descuento verificados de las herramientas de IA populares.",
+            "pt": "Principais códigos de desconto verificados para ferramentas de IA populares.",
+            "fr": "Meilleurs codes de réduction vérifiés pour les outils d'IA populaires.",
+            "de": "Die besten verifizierten Rabattcodes für beliebte KI-Tools.",
+            "zh": "顶级验证的流行AI工具折扣代码。",
+            "it": "I migliori codici sconto verificati per strumenti di IA popolari."
+        }
     }
 }
