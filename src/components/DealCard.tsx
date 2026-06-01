@@ -108,7 +108,7 @@ export function DealCard({
         <p className="mt-3 line-clamp-2 text-sm text-muted-foreground [hyphens:auto] [overflow-wrap:anywhere]">{localizedDesc}</p>
       )}
       {localizedFeatures && (
-        <p className="mt-1.5 line-clamp-2 text-xs text-muted-foreground/80 [hyphens:auto] [overflow-wrap:anywhere]">{localizedFeatures}</p>
+        <p className="mt-1.5 line-clamp-2 text-xs text-muted-foreground [hyphens:auto] [overflow-wrap:anywhere]">{localizedFeatures}</p>
       )}
 
       <div className="mt-4 flex flex-wrap items-center gap-2">
@@ -143,7 +143,7 @@ export function DealCard({
         </Button>
       </div>
 
-      <p className="mt-2 text-[10px] leading-tight text-muted-foreground/70">
+      <p className="mt-2 text-[10px] leading-tight text-muted-foreground">
         {t("card.disclosure", { defaultValue: "We may earn a commission from links on this page." })}
       </p>
 
