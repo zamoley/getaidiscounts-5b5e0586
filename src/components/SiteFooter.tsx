@@ -20,17 +20,17 @@ export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean
         </nav>
       </div>
       {showDisclosure && (
-        <p className="mt-6 text-center text-xs italic text-muted-foreground/80">
+        <p className="mt-6 text-center text-xs italic text-muted-foreground">
           We participate in various affiliate and partner programs. We may earn a commission when you purchase through our links at no extra cost to you.
         </p>
       )}
-      <div className="mt-8 border-t border-border/40 pt-5 text-center text-xs text-muted-foreground/70">
+      <div className="mt-8 border-t border-border/40 pt-5 text-center text-xs text-muted-foreground">
         Built with{" "}
         <a
           href="https://lovable.dev/invite/2V95H5P"
           target="_blank"
           rel="noopener noreferrer"
-          className="font-medium text-foreground/80 transition-colors hover:text-electric"
+          className="font-medium text-foreground transition-colors hover:text-electric"
         >
           Lovable
         </a>
@@ -39,7 +39,7 @@ export function SiteFooter({ showDisclosure = true }: { showDisclosure?: boolean
           href="https://www.accio.com/invite-work?sId=XuPH1%2B7aCzT74ndJlp0ipA%3D%3D&ic=IC025014249995&tenant=accio&src=p_referral_IC025014249995&return_url=https%3A%2F%2Fwww.accio.com%2Fwork%2F"
           target="_blank"
           rel="noopener noreferrer"
-          className="font-medium text-foreground/80 transition-colors hover:text-electric"
+          className="font-medium text-foreground transition-colors hover:text-electric"
         >
           Accio Work
         </a>
