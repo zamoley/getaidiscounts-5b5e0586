@@ -7496,5 +7496,465 @@
             "zh": "顶级验证的流行AI工具折扣代码。",
             "it": "I migliori codici sconto verificati per strumenti di IA popolari."
         }
+    },
+    "Jasper AI": {
+        "description": {
+            "en": "Jasper AI is a leading AI writing assistant designed to help marketing teams create high-quality content efficiently. It can generate articles, blog posts, and marketing copies, saving time and enhancing productivity.",
+            "uk": "Jasper AI - це провідний помічник для написання текстів на основі ШІ, створений для допомоги маркетинговим командам у створенні високоякісного контенту ефективно. Він може генерувати статті, блоги та рекламні тексти, заощаджуючи час і підвищуючи продуктивність.",
+            "ja": "Jasper AIは、マーケティングチームが効率的に高品質のコンテンツを作成できるように設計された、先進的なAIライティングアシスタントです。記事、ブログ投稿、マーケティングコピーを生成でき、時間を節約し、生産性を向上させます。",
+            "es": "Jasper AI es un asistente de escritura de IA líder diseñado para ayudar a los equipos de marketing a crear contenido de alta calidad de manera eficiente. Puede generar artículos, publicaciones de blog y copias publicitarias, ahorrando tiempo y mejorando la productividad.",
+            "pt": "Jasper AI é um assistente de redação de IA líder projetado para ajudar as equipes de marketing a criar conteúdo de alta qualidade de forma eficiente. Ele pode gerar artigos, postagens de blog e cópias de marketing, economizando tempo e aumentando a produtividade.",
+            "fr": "Jasper AI est un assistant d'écriture IA de premier plan conçu pour aider les équipes marketing à créer du contenu de haute qualité de manière efficace. Il peut générer des articles, des articles de blog et des copies marketing, économisant du temps et améliorant la productivité.",
+            "de": "Jasper AI ist ein führender KI-Schreibassistent, der Marketingteams hilft, effizient hochwertige Inhalte zu erstellen. Er kann Artikel, Blogbeiträge und Marketingtexte generieren, Zeit sparen und die Produktivität steigern.",
+            "zh": "Jasper AI 是一款领先的人工智能写作助手，旨在帮助营销团队高效地创建高质量内容。它可以生成文章、博客帖子和市场营销文案，节省时间并提高生产力。",
+            "it": "Jasper AI è un assistente alla scrittura di IA leader progettato per aiutare i team di marketing a creare contenuti di alta qualità in modo efficiente. Può generare articoli, post di blog e testi di marketing, risparmiando tempo e aumentando la produttività."
+        },
+        "features": {
+            "en": "Best AI writing tool for marketing teams.",
+            "uk": "Найкращий інструмент написання на основі ШІ для маркетингових команд.",
+            "ja": "マーケティングチームのための最高のAIライティングツール。",
+            "es": "Mejor herramienta de escritura de IA para equipos de marketing.",
+            "pt": "Melhor ferramenta de escrita de IA para equipes de marketing.",
+            "fr": "Meilleur outil d'écriture IA pour les équipes marketing.",
+            "de": "Das beste KI-Schreibtool für Marketingteams.",
+            "zh": "针对营销团队的最佳人工智能写作工具。",
+            "it": "Miglior strumento di scrittura AI per team di marketing."
+        },
+        "discount": {
+            "en": "Up to 20%",
+            "uk": "До 20%",
+            "ja": "最大20%",
+            "es": "Hasta un 20%",
+            "pt": "Até 20%",
+            "fr": "Jusqu'à 20%",
+            "de": "Bis zu 20%",
+            "zh": "最高可达20%",
+            "it": "Fino al 20%"
+        },
+        "pricing": {
+            "en": "Various pricing plans available.",
+            "uk": "Доступні різні цінові плани.",
+            "ja": "さまざまな価格プランがあります。",
+            "es": "Disponibles varios planes de precios.",
+            "pt": "Vários planos de preços disponíveis.",
+            "fr": "Divers plans tarifaires disponibles.",
+            "de": "Verschiedene Preismodelle verfügbar.",
+            "zh": "提供多种定价计划。",
+            "it": "Sono disponibili vari piani tariffari."
+        }
+    },
+    "AI Tools Coupons": {
+        "description": {
+            "en": "AI Tools Coupons offers a platform to find and compare various discount codes for AI tools, enabling users to save on their purchases. It specializes in gathering verified coupon codes for a wide array of AI services.",
+            "uk": "ШІ Інструменти Купони пропонує платформу для пошуку та порівняння різних кодів знижок для ШІ інструментів, що дозволяє користувачам економити на їхніх покупках. Він спеціалізується на зборі перевірених купонних кодів для широкого спектру послуг ШІ.",
+            "ja": "AIツールクーポンは、さまざまなAIツールの割引コードを見つけて比較するためのプラットフォームを提供し、ユーザーが購入時に節約できるようにします。さまざまなAIサービスの検証済みクーポンコードを収集することを専門としています。",
+            "es": "AI Tools Coupons ofrece una plataforma para encontrar y comparar varios códigos de descuento para herramientas de IA, lo que permite a los usuarios ahorrar en sus compras. Se especializa en reunir códigos de cupón verificados para una amplia variedad de servicios de IA.",
+            "pt": "AI Tools Coupons oferece uma plataforma para encontrar e comparar vários códigos de desconto para ferramentas de IA, permitindo que os usuários economizem em suas compras. Especializa-se em reunir códigos de cupom verificados para uma ampla gama de serviços de IA.",
+            "fr": "AI Tools Coupons propose une plateforme pour trouver et comparer divers codes de réduction pour des outils d'IA, permettant aux utilisateurs d'économiser sur leurs achats. Il se spécialise dans la collecte de codes de coupon vérifiés pour un large éventail de services d'IA.",
+            "de": "AI Tools Coupons bietet eine Plattform, um verschiedene Rabattcodes für KI-Tools zu finden und zu vergleichen, damit Benutzer bei ihren Einkäufen sparen können. Es spezialisiert sich auf das Sammeln von verifizierten Gutscheincodes für eine Vielzahl von KI-Diensten.",
+            "zh": "AI工具优惠券提供一个平台，用于查找和比较各种AI工具的折扣代码，使用户能够在购买时节省。它专门收集各种AI服务的经过验证的优惠券代码。",
+            "it": "AI Tools Coupons offre una piattaforma per trovare e confrontare vari codici sconto per strumenti di IA, consentendo agli utenti di risparmiare sui loro acquisti. È specializzato nella raccolta di codici coupon verificati per un'ampia gamma di servizi di IA."
+        },
+        "features": {
+            "en": "Verified coupons, extensive comparison of deals across multiple providers.",
+            "uk": "Перевірені купони, широкий порівняння пропозицій серед кількох постачальників.",
+            "ja": "検証済みクーポン、複数のプロバイダー間での取引の広範な比較。",
+            "es": "Cupones verificados, comparación exhaustiva de ofertas entre múltiples proveedores.",
+            "pt": "Cupons verificados, comparação extensa de ofertas entre vários provedores.",
+            "fr": "Coupons vérifiés, comparaison approfondie des offres auprès de plusieurs fournisseurs.",
+            "de": "Verifizierte Gutscheine, umfangreicher Vergleich von Angeboten verschiedener Anbieter.",
+            "zh": "经过验证的优惠券，广泛比较多个供应商的交易。",
+            "it": "Coupon verificati, ampia comparazione delle offerte tra più fornitori."
+        },
+        "discount": {
+            "en": "Up to 80%",
+            "uk": "До 80%",
+            "ja": "最大80%",
+            "es": "Hasta un 80%",
+            "pt": "Até 80%",
+            "fr": "Jusqu'à 80%",
+            "de": "Bis zu 80%",
+            "zh": "高达80%",
+            "it": "Fino all'80%"
+        },
+        "pricing": {
+            "en": "Comparative deals from 61 active AI tool providers.",
+            "uk": "Порівняльні пропозиції від 61 активного постачальника ШІ інструментів.",
+            "ja": "61のアクティブなAIツールプロバイダーからの比較取引。",
+            "es": "Ofertas comparativas de 61 proveedores activos de herramientas de IA.",
+            "pt": "Negócios comparativos de 61 provedores ativos de ferramentas de IA.",
+            "fr": "Offres comparatives de 61 fournisseurs actifs d'outils d'IA.",
+            "de": "Vergleichsangebote von 61 aktiven KI-Tool-Anbietern.",
+            "zh": "来自61个活跃的AI工具提供商的比较交易。",
+            "it": "Offerte comparative da 61 fornitori attivi di strumenti di IA."
+        }
+    },
+    "AI Music Tools": {
+        "description": {
+            "en": "AI Music Tools provides a collection of AI-driven tools for music creation and editing, featuring various promotional discounts that encourage users to explore different services.",
+            "uk": "Інструменти музики ШІ надають колекцію інструментів, що працюють на основі ШІ, для створення та редагування музики, пропонуючи різні промоційні знижки, які заохочують користувачів досліджувати різні сервіси.",
+            "ja": "AI Music Toolsは、音楽制作と編集のためのAI駆動ツールのコレクションを提供しており、さまざまなプロモーション割引があり、ユーザーが異なるサービスを探索することを奨励します。",
+            "es": "AI Music Tools ofrece una colección de herramientas impulsadas por IA para la creación y edición de música, con diversas promociones que animan a los usuarios a explorar diferentes servicios.",
+            "pt": "AI Music Tools fornece uma coleção de ferramentas impulsionadas por IA para criação e edição de música, apresentando várias promoções que incentivam os usuários a explorar diferentes serviços.",
+            "fr": "AI Music Tools fournit une collection d'outils alimentés par l'IA pour la création et l'édition de musique, proposant diverses réductions promotionnelles qui encouragent les utilisateurs à explorer différents services.",
+            "de": "AI Music Tools bietet eine Sammlung von KI-gesteuerten Tools zur Musikproduktion und -bearbeitung, die verschiedene Aktionsrabatte umfasst, die die Benutzer ermutigen, verschiedene Dienste zu erkunden.",
+            "zh": "AI Music Tools 提供了一系列由 AI 驱动的音乐创作和编辑工具，具备多种促销折扣，鼓励用户探索不同的服务。",
+            "it": "AI Music Tools fornisce una collezione di strumenti alimentati da IA per la creazione e l'editing musicale, con diverse promozioni che incoraggiano gli utenti a esplorare diversi servizi."
+        },
+        "features": {
+            "en": "Multiple discount options, limited-time offers.",
+            "uk": "Кілька варіантів знижок, обмежені за часом пропозиції.",
+            "ja": "複数の割引オプション、期間限定のオファー。",
+            "es": "Múltiples opciones de descuento, ofertas por tiempo limitado.",
+            "pt": "Múltiplas opções de desconto, ofertas por tempo limitado.",
+            "fr": "Plusieurs options de réduction, offres à durée limitée.",
+            "de": "Mehrere Rabattoptionen, zeitlich begrenzte Angebote.",
+            "zh": "多种折扣选项，限时优惠。",
+            "it": "Multiple opzioni di sconto, offerte a tempo limitato."
+        },
+        "discount": {
+            "en": "50%-20%",
+            "uk": "50%-20%",
+            "ja": "50%-20%",
+            "es": "50%-20%",
+            "pt": "50%-20%",
+            "fr": "50%-20%",
+            "de": "50%-20%",
+            "zh": "50%-20%",
+            "it": "50%-20%"
+        },
+        "pricing": {
+            "en": "Best AI Music Tools Stores.",
+            "uk": "Найкращі магазини інструментів музики ШІ.",
+            "ja": "最高のAI音楽ツールストア。",
+            "es": "Las mejores tiendas de herramientas musicales de IA.",
+            "pt": "As melhores lojas de ferramentas de música com IA.",
+            "fr": "Meilleurs magasins d'outils de musique IA.",
+            "de": "Die besten Geschäfte für KI-Musiktools.",
+            "zh": "最佳AI音乐工具商店。",
+            "it": "I migliori negozi di strumenti musicali basati su IA."
+        }
+    },
+    "Ranked.ai": {
+        "description": {
+            "en": "Ranked.ai offers AI-driven SEO and pay-per-click services designed to enhance online visibility and optimize marketing efforts.",
+            "uk": "Ranked.ai пропонує послуги SEO та контекстної реклами на основі ШІ, призначені для підвищення онлайн-видимості та оптимізації маркетингових зусиль.",
+            "ja": "Ranked.aiは、オンラインの可視性を向上させ、マーケティング活動を最適化するために設計されたAI駆動のSEOおよびペイパークリックサービスを提供します。",
+            "es": "Ranked.ai ofrece servicios de SEO y pago por clic impulsados por IA, diseñados para mejorar la visibilidad en línea y optimizar los esfuerzos de marketing.",
+            "pt": "Ranked.ai oferece serviços de SEO e pagamento por clique impulsionados por IA, projetados para aumentar a visibilidade online e otimizar os esforços de marketing.",
+            "fr": "Ranked.ai propose des services de SEO et de paiement par clic alimentés par l'IA, conçus pour améliorer la visibilité en ligne et optimiser les efforts marketing.",
+            "de": "Ranked.ai bietet KI-gesteuerte SEO- und Pay-per-Click-Dienste an, die darauf abzielen, die Online-Sichtbarkeit zu erhöhen und Marketingmaßnahmen zu optimieren.",
+            "zh": "Ranked.ai提供基于AI的SEO和按点击付费服务，旨在增强在线可见性和优化营销工作。",
+            "it": "Ranked.ai offre servizi SEO e pay-per-click guidati da IA, progettati per migliorare la visibilità online e ottimizzare gli sforzi di marketing."
+        },
+        "features": {
+            "en": "SEO/PPC services providing analytics and strategy optimization.",
+            "uk": "Послуги SEO/PPC, що надають аналітику та оптимізацію стратегії.",
+            "ja": "分析と戦略の最適化を提供するSEO/PPCサービス。",
+            "es": "Servicios de SEO/PPC que ofrecen análisis y optimización de estrategias.",
+            "pt": "Serviços de SEO/PPC que fornecem análises e otimização de estratégias.",
+            "fr": "Services SEO/PPC offrant des analyses et une optimisation stratégique.",
+            "de": "SEO/PPC-Dienste, die Analysen und Strategieoptimierung bieten.",
+            "zh": "提供分析和战略优化的SEO/PPC服务。",
+            "it": "Servizi SEO/PPC che forniscono analisi e ottimizzazione delle strategie."
+        },
+        "discount": {
+            "en": "25%",
+            "uk": "25%",
+            "ja": "25%",
+            "es": "25%",
+            "pt": "25%",
+            "fr": "25%",
+            "de": "25%",
+            "zh": "25%",
+            "it": "25%"
+        },
+        "pricing": {
+            "en": "Discount applicable for SEO/PPC Services.",
+            "uk": "Знижка застосовна для послуг SEO/PPC.",
+            "ja": "SEO/PPCサービスに適用される割引です。",
+            "es": "Descuento aplicable a los servicios de SEO/PPC.",
+            "pt": "Desconto aplicável a serviços de SEO/PPC.",
+            "fr": "Remise applicable aux services de SEO/PPC.",
+            "de": "Rabatt für SEO/PPC-Dienste anwendbar.",
+            "zh": "适用于SEO/PPC服务的折扣。",
+            "it": "Sconto applicabile ai servizi SEO/PPC."
+        }
+    },
+    "EasyPeasy AI": {
+        "description": {
+            "en": "EasyPeasy AI offers a user-friendly interface for generating images with the help of AI, enhancing creative projects quickly and efficiently.",
+            "uk": "EasyPeasy ШІ пропонує зручний інтерфейс для генерації зображень за допомогою ШІ, швидко та ефективно покращуючи креативні проєкти.",
+            "ja": "EasyPeasy AIは、AIの助けを借りて画像を生成するためのユーザーフレンドリーなインターフェースを提供し、創造的なプロジェクトを迅速かつ効率的に向上させます。",
+            "es": "EasyPeasy AI ofrece una interfaz fácil de usar para generar imágenes con la ayuda de la IA, mejorando rápidamente y de manera eficiente los proyectos creativos.",
+            "pt": "EasyPeasy AI oferece uma interface amigável para gerar imagens com a ajuda da IA, melhorando projetos criativos de forma rápida e eficiente.",
+            "fr": "EasyPeasy IA propose une interface conviviale pour générer des images avec l'aide de l'IA, améliorant ainsi rapidement et efficacement les projets créatifs.",
+            "de": "EasyPeasy KI bietet eine benutzerfreundliche Schnittstelle zur Bilderzeugung mit Hilfe von KI und verbessert kreative Projekte schnell und effizient.",
+            "zh": "EasyPeasy AI提供了一个用户友好的界面，借助AI生成图像，快速高效地增强创意项目。",
+            "it": "EasyPeasy AI offre un'interfaccia user-friendly per generare immagini con l'aiuto dell'IA, migliorando rapidamente ed efficientemente i progetti creativi."
+        },
+        "features": {
+            "en": "Generates high-quality images suitable for various content needs.",
+            "uk": "Генерує зображення високої якості, придатні для різних потреб контенту.",
+            "ja": "さまざまなコンテンツニーズに適した高品質の画像を生成します。",
+            "es": "Genera imágenes de alta calidad adecuadas para diversas necesidades de contenido.",
+            "pt": "Gera imagens de alta qualidade adequadas para diversas necessidades de conteúdo.",
+            "fr": "Génère des images de haute qualité adaptées à divers besoins de contenu.",
+            "de": "Generiert hochwertige Bilder, die für verschiedene Inhaltsbedürfnisse geeignet sind.",
+            "zh": "生成适合各种内容需求的高质量图像。",
+            "it": "Genera immagini di alta qualità adatte a diverse esigenze di contenuto."
+        },
+        "discount": {
+            "en": "10%",
+            "uk": "10%",
+            "ja": "10%",
+            "es": "10%",
+            "pt": "10%",
+            "fr": "10%",
+            "de": "10%",
+            "zh": "10%",
+            "it": "10%"
+        },
+        "pricing": {
+            "en": "Discount applies to the AI Image Generator feature.",
+            "uk": "Знижка застосовується до функції генератора зображень ШІ.",
+            "ja": "割引はAI画像生成機能に適用されます。",
+            "es": "El descuento se aplica a la función Generador de Imágenes con IA.",
+            "pt": "O desconto se aplica à funcionalidade Gerador de Imagens com IA.",
+            "fr": "La remise s'applique à la fonctionnalité de générateur d'images IA.",
+            "de": "Der Rabatt gilt für die Funktion KI-Bilderzeuger.",
+            "zh": "折扣适用于AI图像生成器功能。",
+            "it": "Lo sconto si applica alla funzione di generazione di immagini con IA."
+        }
+    },
+    "Expertise AI": {
+        "description": {
+            "en": "Expertise AI provides advanced artificial intelligence solutions designed for enterprise needs, integrating automation and high-level support to enhance business processes.",
+            "uk": "Expertise AI пропонує розвинені рішення штучного інтелекту, призначені для потреб підприємств, інтегруючи автоматизацію та високий рівень підтримки для покращення бізнес-процесів.",
+            "ja": "Expertise AIは、企業のニーズに合わせて設計された高度な人工知能ソリューションを提供し、自動化と高レベルのサポートを統合してビジネスプロセスを向上させます。",
+            "es": "Expertise AI proporciona soluciones avanzadas de inteligencia artificial diseñadas para las necesidades empresariales, integrando automatización y soporte de alto nivel para mejorar los procesos comerciales.",
+            "pt": "Expertise AI fornece soluções avançadas de inteligência artificial projetadas para as necessidades das empresas, integrando automação e suporte de alto nível para aprimorar os processos de negócios.",
+            "fr": "Expertise AI fournit des solutions avancées d'intelligence artificielle conçues pour les besoins des entreprises, intégrant l'automatisation et un support de haut niveau pour améliorer les processus commerciaux.",
+            "de": "Expertise AI bietet fortschrittliche Lösungen für künstliche Intelligenz, die auf die Bedürfnisse von Unternehmen zugeschnitten sind und Automatisierung sowie hochgradige Unterstützung integrieren, um Geschäftsprozesse zu verbessern.",
+            "zh": "Expertise AI提供先进的人工智能解决方案，旨在满足企业需求，集成自动化和高级支持，以增强业务流程。",
+            "it": "Expertise AI offre soluzioni avanzate di intelligenza artificiale progettate per le esigenze aziendali, integrando automazione e supporto di alto livello per migliorare i processi aziendali."
+        },
+        "features": {
+            "en": "Powerful AI tools, automation features, premium support, advanced capabilities for businesses.",
+            "uk": "Потужні інструменти ШІ, функції автоматизації, преміум підтримка, розширені можливості для бізнесу.",
+            "ja": "強力なAIツール、自動化機能、プレミアムサポート、企業向けの高度な機能。",
+            "es": "Herramientas de IA potentes, funciones de automatización, soporte premium, capacidades avanzadas para empresas.",
+            "pt": "Ferramentas de IA poderosas, recursos de automação, suporte premium, capacidades avançadas para empresas.",
+            "fr": "Outils d'IA puissants, fonctionnalités d'automatisation, support premium, capacités avancées pour les entreprises.",
+            "de": "Leistungsstarke KI-Tools, Automatisierungsfunktionen, Premium-Support, erweiterte Fähigkeiten für Unternehmen.",
+            "zh": "强大的AI工具、自动化功能、高级支持、企业的高级能力。",
+            "it": "Strumenti di IA potenti, funzionalità di automazione, supporto premium, capacità avanzate per le imprese."
+        },
+        "discount": {
+            "en": "$3000 per month",
+            "uk": "$3000 на місяць",
+            "ja": "月額3000ドル",
+            "es": "3000 dólares por mes",
+            "pt": "3000 dólares por mês",
+            "fr": "3000 $ par mois",
+            "de": "3000 $ pro Monat",
+            "zh": "每月3000美元",
+            "it": "3000 dollari al mese"
+        },
+        "pricing": {
+            "en": "Enterprise Plan Deal",
+            "uk": "Пропозиція для підприємств",
+            "ja": "エンタープライズプランの取引",
+            "es": "Oferta del Plan Empresarial",
+            "pt": "Oferta do Plano Empresarial",
+            "fr": "Offre de Plan Entreprise",
+            "de": "Angebot für das Unternehmenspaket",
+            "zh": "企业计划优惠",
+            "it": "Offerta del Piano Aziendale"
+        }
+    },
+    "ChatGPT Codex": {
+        "description": {
+            "en": "ChatGPT Codex provides developers with access to OpenAI's GPT-3 capabilities through a flexible and functional API. This enhances the ability to build applications that leverage advanced natural language processing.",
+            "uk": "ChatGPT Codex надає розробникам доступ до можливостей GPT-3 від OpenAI через гнучкий і функціональний API. Це покращує можливості створення додатків, які використовують просунуту обробку природної мови.",
+            "ja": "ChatGPT Codexは、柔軟かつ機能的なAPIを介してOpenAIのGPT-3機能に開発者をアクセスさせます。これにより、高度な自然言語処理を活用したアプリケーションを構築する能力が向上します。",
+            "es": "ChatGPT Codex proporciona a los desarrolladores acceso a las capacidades GPT-3 de OpenAI a través de una API flexible y funcional. Esto mejora la capacidad de construir aplicaciones que aprovechen el procesamiento avanzado del lenguaje natural.",
+            "pt": "ChatGPT Codex fornece aos desenvolvedores acesso às capacidades GPT-3 da OpenAI através de uma API flexível e funcional. Isso aprimora a capacidade de construir aplicações que aproveitam o processamento avançado de linguagem natural.",
+            "fr": "ChatGPT Codex offre aux développeurs un accès aux capacités GPT-3 d'OpenAI via une API flexible et fonctionnelle. Cela améliore la capacité de créer des applications qui tirent parti du traitement avancé du langage naturel.",
+            "de": "ChatGPT Codex bietet Entwicklern Zugriff auf die GPT-3-Funktionen von OpenAI über eine flexible und funktionale API. Dies verbessert die Fähigkeit, Anwendungen zu entwickeln, die fortschrittliche Verarbeitung natürlicher Sprache nutzen.",
+            "zh": "ChatGPT Codex通过灵活且功能强大的API，为开发人员提供OpenAI的GPT-3功能访问。这增强了构建利用先进自然语言处理的应用程序的能力。",
+            "it": "ChatGPT Codex fornisce agli sviluppatori l'accesso alle capacità GPT-3 di OpenAI attraverso un'API flessibile e funzionale. Questo migliora la capacità di costruire applicazioni che sfruttano l'elaborazione avanzata del linguaggio naturale."
+        },
+        "features": {
+            "en": "API access, automatic discount application.",
+            "uk": "Доступ до API, автоматичне застосування знижки.",
+            "ja": "APIアクセス、自動割引適用。",
+            "es": "Acceso a API, aplicación automática de descuentos.",
+            "pt": "Acesso à API, aplicação automática de desconto.",
+            "fr": "Accès à l'API, application automatique des réductions.",
+            "de": "API-Zugriff, automatische Rabattanwendung.",
+            "zh": "API访问，自动折扣应用。",
+            "it": "Accesso all'API, applicazione automatica dello sconto."
+        },
+        "discount": {
+            "en": "10%",
+            "uk": "10%",
+            "ja": "10%",
+            "es": "10%",
+            "pt": "10%",
+            "fr": "10%",
+            "de": "10%",
+            "zh": "10%",
+            "it": "10%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        }
+    },
+    "Claude Sonnet": {
+        "description": {
+            "en": "Claude Sonnet is an advanced AI tool designed to enhance productivity and efficiency through powerful AI-driven capabilities.",
+            "uk": "Клод Сонет — це просунутий ШІ інструмент, призначений для підвищення продуктивності та ефективності завдяки потужним можливостям, що базуються на ШІ.",
+            "ja": "クロード・ソネットは、強力なAI駆動の機能を通じて生産性と効率性を向上させるために設計された高度なAIツールです。",
+            "es": "Claude Sonnet es una herramienta avanzada de IA diseñada para mejorar la productividad y la eficiencia a través de potentes capacidades impulsadas por IA.",
+            "pt": "Claude Sonnet é uma ferramenta de IA avançada projetada para aumentar a produtividade e a eficiência por meio de potentes capacidades impulsionadas por IA.",
+            "fr": "Claude Sonnet est un outil avancé d'IA conçu pour améliorer la productivité et l'efficacité grâce à de puissantes capacités pilotées par l'IA.",
+            "de": "Claude Sonnet ist ein fortschrittliches KI-Tool, das entwickelt wurde, um die Produktivität und Effizienz durch leistungsstarke KI-gesteuerte Funktionen zu steigern.",
+            "zh": "克劳德·索奈是一个先进的人工智能工具，旨在通过强大的人工智能驱动功能提高生产力和效率。",
+            "it": "Claude Sonnet è uno strumento avanzato di IA progettato per migliorare la produttività e l'efficienza attraverso potenti capacità guidate dall'IA."
+        },
+        "features": {
+            "en": "Unlock powerful AI performance, boost productivity.",
+            "uk": "Відкрийте потужну продуктивність ШІ, підвищте продуктивність.",
+            "ja": "強力なAI性能を解放し、生産性を向上させましょう。",
+            "es": "Desbloquea un rendimiento de IA potente, aumenta la productividad.",
+            "pt": "Desbloqueie um desempenho poderoso de IA, aumente a produtividade.",
+            "fr": "Débloquez une performance IA puissante, boostez la productivité.",
+            "de": "Entfesseln Sie leistungsstarke KI-Leistung, steigern Sie die Produktivität.",
+            "zh": "解锁强大的人工智能性能，提高生产力。",
+            "it": "Sblocca prestazioni potenti dell'IA, aumentare la produttività."
+        },
+        "discount": {
+            "en": "Starts from $3",
+            "uk": "Починається від 3 доларів",
+            "ja": "3ドルから始まります",
+            "es": "Comienza desde $3",
+            "pt": "A partir de $3",
+            "fr": "À partir de 3 $",
+            "de": "Ab 3$",
+            "zh": "起价3美元",
+            "it": "A partire da 3$"
+        },
+        "pricing": {
+            "en": "Affordable access to powerful AI performance.",
+            "uk": "Доступ за доступними цінами до потужної продуктивності ШІ.",
+            "ja": "強力なAI性能への手頃なアクセス。",
+            "es": "Acceso asequible a un rendimiento potente de IA.",
+            "pt": "Acesso acessível a um desempenho poderoso de IA.",
+            "fr": "Accès abordable à une performance IA puissante.",
+            "de": "Erschwinglicher Zugang zu leistungsstarker KI-Leistung.",
+            "zh": "负担得起的强大人工智能性能访问。",
+            "it": "Accesso conveniente a potenti prestazioni dell'IA."
+        }
+    },
+    "Pictory.ai": {
+        "description": {
+            "en": "Pictory.ai offers innovative AI-powered video editing solutions designed to help content creators simplify their workflow and enhance video quality.",
+            "uk": "Pictory.ai пропонує інноваційні рішення для редагування відео з використанням ШІ, які допомагають творцям контенту спростити їхній робочий процес та покращити якість відео.",
+            "ja": "Pictory.aiは、コンテンツクリエイターがワークフローを簡素化し、動画の品質を向上させるために設計された、革新的なAI駆動の動画編集ソリューションを提供します。",
+            "es": "Pictory.ai ofrece soluciones de edición de video innovadoras impulsadas por IA, diseñadas para ayudar a los creadores de contenido a simplificar su flujo de trabajo y mejorar la calidad del video.",
+            "pt": "Pictory.ai oferece soluções inovadoras de edição de vídeo impulsionadas por SHI, projetadas para ajudar os criadores de conteúdo a simplificar seu fluxo de trabalho e melhorar a qualidade do vídeo.",
+            "fr": "Pictory.ai propose des solutions de montage vidéo innovantes alimentées par l'IA, conçues pour aider les créateurs de contenu à simplifier leur flux de travail et à améliorer la qualité vidéo.",
+            "de": "Pictory.ai bietet innovative KI-basierte Video-Bearbeitungslösungen, die darauf ausgelegt sind, Content-Erstellern zu helfen, ihren Arbeitsablauf zu vereinfachen und die Videoqualität zu verbessern.",
+            "zh": "Pictory.ai 提供创新的人工智能驱动的视频编辑解决方案，旨在帮助内容创作者简化工作流程并提升视频质量。",
+            "it": "Pictory.ai offre soluzioni innovative di editing video alimentate da intelligenza artificiale, progettate per aiutare i creatori di contenuti a semplificare il loro flusso di lavoro e migliorare la qualità del video."
+        },
+        "features": {
+            "en": "Coupon codes for savings on AI video tools.",
+            "uk": "Купони для економії на інструментах відео з використанням ШІ.",
+            "ja": "AI動画ツールの割引のためのクーポンコード。",
+            "es": "Códigos de cupón para ahorros en herramientas de video impulsadas por IA.",
+            "pt": "Códigos de cupom para economizar em ferramentas de vídeo com SHI.",
+            "fr": "Codes promo pour faire des économies sur les outils vidéo alimentés par IA.",
+            "de": "Gutscheincodes für Ersparnisse bei KI-Video-Tools.",
+            "zh": "用于AI视频工具节省的优惠券代码。",
+            "it": "Codici coupon per risparmi sugli strumenti video basati su intelligenza artificiale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/D",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/D",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "AI Tools Bundle": {
+        "description": {
+            "en": "AI tools bundle deals offer combined access to a selection of artificial intelligence tools, providing users with discounts when purchasing multiple products together.",
+            "uk": "Пакети інструментів ШІ пропонують комбінований доступ до вибору інструментів штучного інтелекту, надаючи користувачам знижки при купівлі кількох продуктів разом.",
+            "ja": "AIツールバンドルは、複数の人工知能ツールへのアクセスをまとめて提供し、複数の商品を一緒に購入する際に割引を提供するお得なパッケージです。",
+            "es": "Los paquetes de herramientas de IA ofrecen acceso combinado a una selección de herramientas de inteligencia artificial, proporcionando descuentos a los usuarios al comprar varios productos juntos.",
+            "pt": "Os pacotes de ferramentas de IA oferecem acesso combinado a uma seleção de ferramentas de inteligência artificial, proporcionando aos usuários descontos ao comprar vários produtos juntos.",
+            "fr": "Les offres de pack d'outils d'IA offrent un accès combiné à une sélection d'outils d'intelligence artificielle, permettant aux utilisateurs de bénéficier de réductions lors de l'achat de plusieurs produits ensemble.",
+            "de": "Angebote für KI-Tool-Bundles bieten kombinierten Zugang zu einer Auswahl von Werkzeugen für künstliche Intelligenz und gewähren den Nutzern Rabatte beim Kauf mehrerer Produkte zusammen.",
+            "zh": "AI工具包交易提供对多种人工智能工具的组合访问，用户在一起购买多种产品时可享受折扣。",
+            "it": "I pacchetti di strumenti IA offrono accesso combinato a una selezione di strumenti di intelligenza artificiale, fornendo agli utenti sconti quando acquistano più prodotti insieme."
+        },
+        "features": {
+            "en": "Access to various AI tools in a single bundle, significant savings.",
+            "uk": "Доступ до різних інструментів ШІ в одному пакеті, значні заощадження.",
+            "ja": "1つのバンドルでさまざまなAIツールにアクセスでき、大幅な節約が可能です。",
+            "es": "Acceso a varias herramientas de IA en un solo paquete, ahorros significativos.",
+            "pt": "Acesso a várias ferramentas de IA em um único pacote, economias significativas.",
+            "fr": "Accès à divers outils d'IA dans un seul pack, économies significatives.",
+            "de": "Zugang zu verschiedenen KI-Tools in einem einzigen Bundle, erhebliche Einsparungen.",
+            "zh": "在一个包中访问各种人工智能工具，显著节省。",
+            "it": "Accesso a vari strumenti di IA in un unico pacchetto, risparmi significativi."
+        },
+        "discount": {
+            "en": "Up to 80%",
+            "uk": "До 80%",
+            "ja": "最大80%",
+            "es": "Hasta un 80%",
+            "pt": "Até 80%",
+            "fr": "Jusqu'à 80%",
+            "de": "Bis zu 80%",
+            "zh": "最高80%",
+            "it": "Fino all'80%"
+        },
+        "pricing": {
+            "en": "Combined access to multiple AI tools at a discounted rate.",
+            "uk": "Комбінований доступ до кількох інструментів ШІ за зниженою ціною.",
+            "ja": "複数のAIツールへの組み合わせたアクセスを割引料金で提供します。",
+            "es": "Acceso combinado a múltiples herramientas de IA a una tarifa con descuento.",
+            "pt": "Acesso combinado a várias ferramentas de IA a uma tarifa com desconto.",
+            "fr": "Accès combiné à plusieurs outils d'IA à un tarif réduit.",
+            "de": "Kombinierter Zugriff auf mehrere KI-Tools zu einem ermäßigten Preis.",
+            "zh": "以折扣价格组合访问多个人工智能工具。",
+            "it": "Accesso combinato a più strumenti di IA a una tariffa scontata."
+        }
     }
 }

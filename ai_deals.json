@@ -4,7 +4,7 @@
         "tool_url": "https://www.midjourney.com",
         "code": "FLAT 20% OFF",
         "discount_amount": "20% OFF",
-        "pricing_info": "Finds exclusive promo deals for Midjourney.",
+        "pricing_info": "Subscription expenses can be saved through various offers.",
         "key_features": "Pro Image Generation, High Res",
         "description": "The world's leading AI image generation tool.",
         "last_verified": "2026-05-05",
@@ -15,7 +15,7 @@
         "tool_url": "https://elevenlabs.io",
         "code": "ELEVEN10",
         "discount_amount": "50% OFF",
-        "pricing_info": "Flat 50% OFF Your First Month on Our Most Popular Plan.",
+        "pricing_info": "Most popular plan's first month",
         "key_features": "Realistic Voice Cloning, Text-to-Speech",
         "description": "The most realistic AI voice generator available.",
         "last_verified": "2026-05-05",
@@ -25,7 +25,7 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "HEYGEN25",
-        "discount_amount": "22%",
+        "discount_amount": "22% OFF",
         "pricing_info": "Yearly plan for business at just $119/month, and unlimited videos with HeyGen Creator for $29/month.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
@@ -491,9 +491,9 @@
     {
         "tool_name": "Claude",
         "tool_url": "https://claude.ai",
-        "code": "50% OFF",
-        "discount_amount": "50% Off",
-        "pricing_info": "3 Months Deal.",
+        "code": "START50",
+        "discount_amount": "50%",
+        "pricing_info": "50% OFF Premium subscription for 3 months",
         "key_features": "Advanced NLU, Coding, Large Context",
         "description": "Anthropic\u2019s leading AI assistant for research, writing, and complex reasoning.",
         "last_verified": "2026-05-07",
@@ -820,8 +820,8 @@
         "tool_name": "Perplexity AI",
         "tool_url": "https://perplexity.ai",
         "code": "PERPLX123",
-        "discount_amount": "$10 Off",
-        "pricing_info": "Perplexity AI offers advanced features for users.",
+        "discount_amount": "$40 OFF",
+        "pricing_info": "Monthly plan starts from $20.",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1426,7 +1426,7 @@
         "tool_url": "https://compai.vectortemplates.com/",
         "code": "N/A",
         "discount_amount": "25%",
-        "pricing_info": "Yearly plan available.",
+        "pricing_info": "Yearly plan available with ongoing discounts.",
         "key_features": "Deals on templates, themes, and AI tools such as writing tools and chatbots.",
         "description": "Comp AI offers a range of coupons and promo codes for various AI tools and templates, helping users access essential resources at discounted rates.",
         "category": "Search AI"
@@ -1445,8 +1445,8 @@
         "tool_name": "Eleven Labs",
         "tool_url": "https://elevenlabs.vectortemplates.com/",
         "code": "N/A",
-        "discount_amount": "50%",
-        "pricing_info": "$1320/month plan available.",
+        "discount_amount": "50% Off",
+        "pricing_info": "$1320/month plan, $330/month Scale plan",
         "key_features": "Access to premium voice generation tools with significant savings on the enterprise-level plan.",
         "description": "Eleven Labs delivers premier tools for AI voice generation, catering to enterprises seeking to enhance their multimedia content through state-of-the-art audio technology. Users can expect high fidelity and customizability in voice synthesis.",
         "category": "Voice AI"
@@ -1465,8 +1465,8 @@
         "tool_name": "Perplexity Pro",
         "tool_url": "https://stackedreview.com/perplexity-pro-free-trial/",
         "code": "N/A",
-        "discount_amount": "17%",
-        "pricing_info": "$20/month",
+        "discount_amount": "17% discount after free trial",
+        "pricing_info": "Free for 12 months.",
         "key_features": "Access to premium features with discounted rates after trial.",
         "description": "Perplexity Pro is an advanced version of the Perplexity AI platform, providing users with enhanced capabilities for data analysis and search efficiency, ideal for professionals seeking in-depth insights.",
         "category": "Search AI"
@@ -1620,5 +1620,105 @@
         "key_features": "Verified coupon codes for popular AI tools.",
         "description": "Popular Ai Tools provides a range of verified coupon codes that enable users to save money on some of the most in-demand AI tools available today.",
         "category": "Search AI"
+    },
+    {
+        "tool_name": "Jasper AI",
+        "tool_url": "https://aitoolclaw.com/deals",
+        "code": "N/A",
+        "discount_amount": "Up to 20%",
+        "pricing_info": "Various pricing plans available.",
+        "key_features": "Best AI writing tool for marketing teams.",
+        "description": "Jasper AI is a leading AI writing assistant designed to help marketing teams create high-quality content efficiently. It can generate articles, blog posts, and marketing copies, saving time and enhancing productivity.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "AI Tools Coupons",
+        "tool_url": "https://www.couponswift.com/ai-tools/coupons",
+        "code": "N/A",
+        "discount_amount": "Up to 80%",
+        "pricing_info": "Comparative deals from 61 active AI tool providers.",
+        "key_features": "Verified coupons, extensive comparison of deals across multiple providers.",
+        "description": "AI Tools Coupons offers a platform to find and compare various discount codes for AI tools, enabling users to save on their purchases. It specializes in gathering verified coupon codes for a wide array of AI services.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "AI Music Tools",
+        "tool_url": "https://startupworld.com/artificial-intelligence/ai-music-tools?d=20134517",
+        "code": "N/A",
+        "discount_amount": "50%-20%",
+        "pricing_info": "Best AI Music Tools Stores.",
+        "key_features": "Multiple discount options, limited-time offers.",
+        "description": "AI Music Tools provides a collection of AI-driven tools for music creation and editing, featuring various promotional discounts that encourage users to explore different services.",
+        "category": "Music AI"
+    },
+    {
+        "tool_name": "Ranked.ai",
+        "tool_url": "https://hostingcouponspot.com/coupons/ai-seo-tools",
+        "code": "N/A",
+        "discount_amount": "25%",
+        "pricing_info": "Discount applicable for SEO/PPC Services.",
+        "key_features": "SEO/PPC services providing analytics and strategy optimization.",
+        "description": "Ranked.ai offers AI-driven SEO and pay-per-click services designed to enhance online visibility and optimize marketing efforts.",
+        "category": "SEO AI"
+    },
+    {
+        "tool_name": "EasyPeasy AI",
+        "tool_url": "https://easypeasyai.vectortemplates.com",
+        "code": "N/A",
+        "discount_amount": "10%",
+        "pricing_info": "Discount applies to the AI Image Generator feature.",
+        "key_features": "Generates high-quality images suitable for various content needs.",
+        "description": "EasyPeasy AI offers a user-friendly interface for generating images with the help of AI, enhancing creative projects quickly and efficiently.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "Expertise AI",
+        "tool_url": "https://expertiseai.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "$3000 per month",
+        "pricing_info": "Enterprise Plan Deal",
+        "key_features": "Powerful AI tools, automation features, premium support, advanced capabilities for businesses.",
+        "description": "Expertise AI provides advanced artificial intelligence solutions designed for enterprise needs, integrating automation and high-level support to enhance business processes.",
+        "category": "Industrial AI"
+    },
+    {
+        "tool_name": "ChatGPT Codex",
+        "tool_url": "https://chatgptcodex.startupworld.com",
+        "code": "10% Off",
+        "discount_amount": "10%",
+        "pricing_info": "N/A",
+        "key_features": "API access, automatic discount application.",
+        "description": "ChatGPT Codex provides developers with access to OpenAI's GPT-3 capabilities through a flexible and functional API. This enhances the ability to build applications that leverage advanced natural language processing.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "Claude Sonnet",
+        "tool_url": "https://startupworld.com/artificial-intelligence/ai-tools?d=20123850",
+        "code": "N/A",
+        "discount_amount": "Starts from $3",
+        "pricing_info": "Affordable access to powerful AI performance.",
+        "key_features": "Unlock powerful AI performance, boost productivity.",
+        "description": "Claude Sonnet is an advanced AI tool designed to enhance productivity and efficiency through powerful AI-driven capabilities.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Pictory.ai",
+        "tool_url": "https://www.bitdegree.org/ai/deals/pictory-ai-coupon-code",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Coupon codes for savings on AI video tools.",
+        "description": "Pictory.ai offers innovative AI-powered video editing solutions designed to help content creators simplify their workflow and enhance video quality.",
+        "category": "Video AI"
+    },
+    {
+        "tool_name": "AI Tools Bundle",
+        "tool_url": "https://aionx.co/education/ai-tools-bundle-deals",
+        "code": "N/A",
+        "discount_amount": "Up to 80%",
+        "pricing_info": "Combined access to multiple AI tools at a discounted rate.",
+        "key_features": "Access to various AI tools in a single bundle, significant savings.",
+        "description": "AI tools bundle deals offer combined access to a selection of artificial intelligence tools, providing users with discounts when purchasing multiple products together.",
+        "category": "Group-Buy & Sharing"
     }
 ]
