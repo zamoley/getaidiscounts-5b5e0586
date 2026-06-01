@@ -83,7 +83,8 @@ export function CategoryPage({
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-6 py-10">
+      <section className="mx-auto max-w-7xl px-6 py-10" aria-labelledby="category-deals-heading">
+        <h2 id="category-deals-heading" className="sr-only">{config.label} deals</h2>
         {filtered.length === 0 ? (
           <div className="rounded-2xl border border-border bg-card p-12 text-center text-muted-foreground">
             No {config.label.toLowerCase()} deals available right now. Check back soon.

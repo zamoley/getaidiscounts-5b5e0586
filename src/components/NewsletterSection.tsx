@@ -92,9 +92,10 @@ export function NewsletterSection({ source = "home" }: { source?: string }) {
               <Button
                 type="submit"
                 disabled={state !== "idle"}
+                aria-label={state === "loading" ? "Subscribing" : state === "done" ? t("newsletter.button_done") : t("newsletter.button_idle")}
                 className="h-12 bg-electric px-6 text-electric-foreground hover:bg-electric-glow"
               >
-                {state === "loading" ? <Loader2 className="h-4 w-4 animate-spin" /> :
+                {state === "loading" ? <Loader2 className="h-4 w-4 animate-spin" aria-hidden /> :
                   state === "done" ? <><Check className="mr-2 h-4 w-4" /> {t("newsletter.button_done")}</> :
                   t("newsletter.button_idle")}
               </Button>

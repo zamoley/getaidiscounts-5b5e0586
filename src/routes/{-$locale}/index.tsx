@@ -155,7 +155,8 @@ function Index() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-6">
+      <section className="mx-auto max-w-7xl px-6" aria-labelledby="categories-heading">
+        <h2 id="categories-heading" className="sr-only">{t("categories.all")}</h2>
         <div className="flex flex-wrap items-stretch justify-center gap-2.5">
           <CategoryChip active={selected.size === 0} onClick={clearCategories} Icon={Sparkles} color="text-electric" ring="border-electric/40 bg-electric/10" label={t("categories.all")} count={deals.length} />
           {categories.map(c => {
@@ -176,7 +177,8 @@ function Index() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-6 py-10">
+      <section className="mx-auto max-w-7xl px-6 py-10" aria-labelledby="deals-heading">
+        <h2 id="deals-heading" className="sr-only">Deals</h2>
         {filtered.length === 0 ? (
           <div className="rounded-2xl border border-border bg-card p-12 text-center text-muted-foreground">
             {t("empty.no_results")}
