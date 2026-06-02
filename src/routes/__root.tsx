@@ -110,10 +110,5 @@ function RootShell({ children }: { children: React.ReactNode }) {
 }
 
 function RootComponent() {
-  return (
-    <>
-      <AnalyticsTracker />
-      <Outlet />
-    </>
-  );
+  return <Outlet />;
 }
