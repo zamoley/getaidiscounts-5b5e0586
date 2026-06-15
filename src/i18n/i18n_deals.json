@@ -7956,5 +7956,97 @@
             "zh": "以折扣价格组合访问多个人工智能工具。",
             "it": "Accesso combinato a più strumenti di IA a una tariffa scontata."
         }
+    },
+    "HeyGen Creator": {
+        "description": {
+            "en": "HeyGen Creator allows users to create unlimited videos enhanced by artificial intelligence features, making it suitable for both personal and professional use.",
+            "uk": "HeyGen Creator дозволяє користувачам створювати необмежену кількість відео, покращених функціями штучного інтелекту, що робить його підходящим як для особистого, так і для професійного використання.",
+            "ja": "HeyGen Creatorは、ユーザーが人工知能機能によって強化された無制限のビデオを作成できるようにし、個人使用とプロフェッショナル使用の両方に適しています。",
+            "es": "HeyGen Creator permite a los usuarios crear videos ilimitados mejorados con características de inteligencia artificial, lo que lo hace adecuado tanto para uso personal como profesional.",
+            "pt": "HeyGen Creator permite que os usuários criem vídeos ilimitados aprimorados com recursos de inteligência artificial, tornando-o adequado para uso pessoal e profissional.",
+            "fr": "HeyGen Creator permet aux utilisateurs de créer des vidéos illimitées améliorées par des fonctionnalités d'intelligence artificielle, ce qui le rend adapté à un usage personnel et professionnel.",
+            "de": "HeyGen Creator ermöglicht es Benutzern, unbegrenzt Videos zu erstellen, die mit Funktionen der künstlichen Intelligenz verbessert werden, sodass es sowohl für den persönlichen als auch für den professionellen Gebrauch geeignet ist.",
+            "zh": "HeyGen Creator允许用户创建无限的视频，增强了人工智能功能，使其适用于个人和专业使用。",
+            "it": "HeyGen Creator consente agli utenti di creare video illimitati potenziati da funzionalità di intelligenza artificiale, rendendolo adatto per uso personale e professionale."
+        },
+        "features": {
+            "en": "Unlock unlimited videos with advanced AI tools.",
+            "uk": "Відкрийте необмежені відео з використанням сучасних інструментів ШІ.",
+            "ja": "高度なAIツールを使用して無制限のビデオをアンロックします。",
+            "es": "Desbloquea videos ilimitados con herramientas avanzadas de inteligencia artificial.",
+            "pt": "Desbloqueie vídeos ilimitados com ferramentas avançadas de inteligência artificial.",
+            "fr": "Débloquez des vidéos illimitées avec des outils avancés d'intelligence artificielle.",
+            "de": "Schalten Sie unbegrenzte Videos mit fortschrittlichen KI-Tools frei.",
+            "zh": "使用先进的人工智能工具解锁无限视频。",
+            "it": "Sblocca video illimitati con strumenti avanzati di intelligenza artificiale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "$29/month",
+            "uk": "$29/місяць",
+            "ja": "$29/月",
+            "es": "$29/mes",
+            "pt": "$29/mês",
+            "fr": "$29/mois",
+            "de": "$29/Monat",
+            "zh": "每月$29",
+            "it": "$29/mese"
+        }
+    },
+    "Chatgpt Codex": {
+        "description": {
+            "en": "Chatgpt Codex offers advanced AI tools focused on video generation, allowing users to create engaging content efficiently.",
+            "uk": "Chatgpt Codex пропонує передові інструменти ШІ, зосереджені на генерації відео, що дозволяє користувачам ефективно створювати захоплюючий контент.",
+            "ja": "Chatgpt Codexは、動画生成に特化した高度なAIツールを提供し、ユーザーが効率的に魅力的なコンテンツを作成できるようにします。",
+            "es": "Chatgpt Codex ofrece herramientas avanzadas de IA centradas en la generación de video, lo que permite a los usuarios crear contenido atractivo de manera eficiente.",
+            "pt": "Chatgpt Codex oferece ferramentas avançadas de IA focadas na geração de vídeo, permitindo que os usuários criem conteúdo envolvente de forma eficiente.",
+            "fr": "Chatgpt Codex propose des outils avancés d'IA axés sur la génération de vidéos, permettant aux utilisateurs de créer du contenu engageant de manière efficace.",
+            "de": "Chatgpt Codex bietet fortschrittliche KI-Tools zur Videoerstellung, mit denen Benutzer effizient ansprechende Inhalte erstellen können.",
+            "zh": "Chatgpt Codex提供了专注于视频生成的高级人工智能工具，使用户能够高效地创建引人入胜的内容。",
+            "it": "Chatgpt Codex offre strumenti avanzati di IA focalizzati sulla generazione di video, consentendo agli utenti di creare contenuti coinvolgenti in modo efficiente."
+        },
+        "features": {
+            "en": "Access to advanced AI features for video generation.",
+            "uk": "Доступ до передових функцій ШІ для генерації відео.",
+            "ja": "動画生成のための高度なAI機能へのアクセス。",
+            "es": "Acceso a funciones avanzadas de IA para la generación de video.",
+            "pt": "Acesso a recursos avançados de IA para geração de vídeo.",
+            "fr": "Accès à des fonctionnalités avancées d'IA pour la génération de vidéos.",
+            "de": "Zugang zu fortschrittlichen KI-Funktionen zur Videoerstellung.",
+            "zh": "访问用于视频生成的高级人工智能功能。",
+            "it": "Accesso a funzionalità avanzate di IA per la generazione di video."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "$20 /month for Plus Plan",
+            "uk": "$20 на місяць за планом Plus",
+            "ja": "プラスプランは月額20ドル",
+            "es": "$20 /mes para el Plan Plus",
+            "pt": "$20 /mês para o Plano Plus",
+            "fr": "20 $ /mois pour le Plan Plus",
+            "de": "20 $ /Monat für den Plus-Plan",
+            "zh": "每月20美元，适用于Plus计划",
+            "it": "$20 /mese per il Piano Plus"
+        }
     }
 }

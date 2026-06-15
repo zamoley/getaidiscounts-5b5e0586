@@ -1,5 +1,5 @@
 {
-  "Subscription expenses can be saved through various offers.": {
+  "$7.50/month for access to 350+ AI models including Midjourney features.": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
     "ja": "月額10ドルから",
@@ -10,7 +10,7 @@
     "zh": "起价$10/月",
     "it": "Da $10/mese"
   },
-  "20% OFF": {
+  "20%": {
     "en": "20% OFF",
     "uk": "ЗНИЖКА 20%",
     "ja": "20%オフ",
@@ -21,7 +21,7 @@
     "zh": "20%折扣",
     "it": "20% di sconto"
   },
-  "Most popular plan's first month": {
+  "Flat 20% Off Annual Plans with 2 months free.": {
     "en": "Starts at $5/mo",
     "uk": "Від $5/міс",
     "ja": "月額5ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "22% OFF": {
+  "80%": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -97,6 +97,17 @@
     "de": "Ab 20 $/Monat",
     "zh": "起价$20/月",
     "it": "Da $20/mese"
+  },
+  "20% OFF": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
   },
   "Paid plans vary": {
     "en": "Paid plans vary",
@@ -141,17 +152,6 @@
     "de": "22 $/Monat (Jährlich)",
     "zh": "$22/月（年付）",
     "it": "$22/mese (Annuale)"
-  },
-  "20%": {
-    "en": "35% OFF",
-    "uk": "ЗНИЖКА 35%",
-    "ja": "35% オフ",
-    "es": "35% DTO",
-    "pt": "35% DTO",
-    "fr": "35% DE RABAIS",
-    "de": "35% RABATT",
-    "zh": "35% 折扣",
-    "it": "35% DI SCONTO"
   },
   "From $0.14/SEC": {
     "en": "Contact for pricing",
@@ -538,7 +538,7 @@
     "zh": "写作优惠",
     "it": "Offerta scrittura"
   },
-  "Save 50% on Lifetime AI Voice Plan.": {
+  "Save 50% on Lifetime AI Voice Plan": {
     "en": "Starts at $12/mo",
     "uk": "Починається від $12/міс",
     "ja": "月額12ドルから",
@@ -548,17 +548,6 @@
     "de": "Ab $12/Monat",
     "zh": "每月12美元起",
     "it": "A partire da $12/mese"
-  },
-  "30%": {
-    "en": "Free Trial",
-    "uk": "Безкоштовна Спроба",
-    "ja": "無料トライアル",
-    "es": "Prueba Gratuita",
-    "pt": "Teste Gratuito",
-    "fr": "Essai Gratuit",
-    "de": "Kostenlose Testphase",
-    "zh": "免费试用",
-    "it": "Prova Gratuita"
   },
   "Plans start at $29/month.": {
     "en": "$39/Month",
@@ -648,6 +637,17 @@
     "zh": "149 美元/月",
     "it": "149 $/mese"
   },
+  "30%": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
+  },
   "From $119.99/yr": {
     "en": "Starts at $119/year",
     "uk": "Від $119/рік",
@@ -714,7 +714,7 @@
     "zh": "艺术优惠",
     "it": "Offerta arte"
   },
-  "50% OFF Premium subscription for 3 months": {
+  "Premium subscription": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -945,7 +945,7 @@
     "zh": "免费访问",
     "it": "Accesso gratuito"
   },
-  "Includes annual billing discounts and student programs.": {
+  "3 Months Deal": {
     "en": "Free Tier Available",
     "uk": "Доступний безкоштовний рівень",
     "ja": "無料枠あり",
@@ -956,18 +956,7 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
-  "Real savings vary": {
-    "en": "AI Assistant",
-    "uk": "ШІ-асистент",
-    "ja": "AIアシスタント",
-    "es": "Asistente de IA",
-    "pt": "Assistente de IA",
-    "fr": "Assistant IA",
-    "de": "KI-Assistent",
-    "zh": "AI 助手",
-    "it": "Assistente IA"
-  },
-  "$20/month": {
+  "$7.50/mo": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "月額20ドル",
@@ -1198,7 +1187,7 @@
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
   },
-  "$40 OFF": {
+  "50% Off for Students": {
     "en": "Search Deal",
     "uk": "Пошукова угода",
     "ja": "サーチセール",
@@ -1527,6 +1516,17 @@
     "de": "Kostenlose Stufe verfügbar",
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
+  },
+  "$20/month": {
+    "en": "$20/month",
+    "uk": "$20/місяць",
+    "ja": "月額20ドル",
+    "es": "$20/mes",
+    "pt": "$20/mês",
+    "fr": "20 $/mois",
+    "de": "20 $/Monat",
+    "zh": "20 美元/月",
+    "it": "20 $/mese"
   },
   "Monthly subscription for $10 with a 20% discount for the first three months.": {
     "en": "Starts at $10/mo",
@@ -1891,7 +1891,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Yearly plan available with ongoing discounts.": {
+  "Yearly plan available": {
     "en": "April 2026",
     "uk": "Квітень 2026",
     "ja": "2026年4月",
@@ -1901,6 +1901,17 @@
     "de": "April 2026",
     "zh": "2026年4月",
     "it": "Aprile 2026"
+  },
+  "28%": {
+    "en": "65%",
+    "uk": "65%",
+    "ja": "65%",
+    "es": "65%",
+    "pt": "65%",
+    "fr": "65%",
+    "de": "65%",
+    "zh": "65%",
+    "it": "65%"
   },
   "Coupons for AI tools and apps.": {
     "en": "Coupons for AI tools and apps.",
@@ -1957,18 +1968,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "Free for 12 months.": {
-    "en": "Get a free trial for 12 months followed by a discount on annual plans.",
-    "uk": "Отримайте безкоштовний пробний доступ на 12 місяців, а потім - знижку на річні плани.",
-    "ja": "12ヶ月間の無料トライアルを取得し、その後、年間プランに割引が適用されます。",
-    "es": "Obtén una prueba gratuita de 12 meses seguida de un descuento en planes anuales.",
-    "pt": "Obtenha um teste gratuito de 12 meses seguido de um desconto em planos anuais.",
-    "fr": "Bénéficiez d'un essai gratuit de 12 mois suivi d'une réduction sur les plans annuels.",
-    "de": "Erhalten Sie eine 12-monatige kostenlose Testversion, gefolgt von einem Rabatt auf Jahrespläne.",
-    "zh": "获得12个月的免费试用，然后在年度计划上享受折扣。",
-    "it": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
-  },
-  "17% discount after free trial": {
+  "1 Month Free for Students": {
     "en": "17%",
     "uk": "17%",
     "ja": "17%",
@@ -1979,7 +1979,7 @@
     "zh": "17%",
     "it": "17%"
   },
-  "Plans ranged with active coupons.": {
+  "Plans Reduced": {
     "en": "14 active coupons and deals listed for May 2026.",
     "uk": "14 активних купонів та акцій, зазначених на травень 2026 року.",
     "ja": "2026年5月に掲載された14件のアクティブクーポンと特典。",
@@ -2034,16 +2034,16 @@
     "zh": "浏览2026年5月的验证优惠券代码。",
     "it": "Sfoglia i codici coupon verificati per maggio 2026."
   },
-  "35% Off": {
-    "en": "35% Off",
-    "uk": "35% знижки",
-    "ja": "35%オフ",
-    "es": "35% de descuento",
-    "pt": "35% de desconto",
-    "fr": "35 % de réduction",
-    "de": "35% Rabatt",
-    "zh": "35% 折扣",
-    "it": "35% di sconto"
+  "16% Off AI SEO Article Writer Yearly Plans": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/A",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "不适用",
+    "it": "N/D"
   },
   "$19.99/month": {
     "en": "$19.99/month",
@@ -2111,7 +2111,7 @@
     "zh": "提供各种定价选项",
     "it": "Varie opzioni di prezzo disponibili"
   },
-  "Applicable on all plans.": {
+  "Applicable to any plan.": {
     "en": "Applicable on all plans.",
     "uk": "Застосовується до всіх планів.",
     "ja": "すべてのプランに適用されます。",
@@ -2122,7 +2122,7 @@
     "zh": "适用于所有计划。",
     "it": "Applicabile a tutti i piani."
   },
-  "$7.50/month for access to over 350 AI models.": {
+  "$7.50/month": {
     "en": "$7.50/month for access to over 350 AI models.",
     "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
     "ja": "350以上のAIモデルへのアクセスには月額7.50ドル。",
@@ -2210,7 +2210,7 @@
     "zh": "适用于SEO/PPC服务的折扣。",
     "it": "Sconto applicabile ai servizi SEO/PPC."
   },
-  "Discount applies to the AI Image Generator feature.": {
+  "102 verified coupons available": {
     "en": "Discount applies to the AI Image Generator feature.",
     "uk": "Знижка застосовується до функції генератора зображень ШІ.",
     "ja": "割引はAI画像生成機能に適用されます。",
@@ -2221,7 +2221,7 @@
     "zh": "折扣适用于AI图像生成器功能。",
     "it": "Lo sconto si applica alla funzione di generazione di immagini con IA."
   },
-  "Enterprise Plan Deal": {
+  "Pro Plan for $24 per Month": {
     "en": "Enterprise Plan Deal",
     "uk": "Пропозиція для підприємств",
     "ja": "エンタープライズプランの取引",
@@ -2232,7 +2232,7 @@
     "zh": "企业计划优惠",
     "it": "Offerta del Piano Aziendale"
   },
-  "$3000 per month": {
+  "0%": {
     "en": "$3000 per month",
     "uk": "$3000 на місяць",
     "ja": "月額3000ドル",
@@ -2275,6 +2275,17 @@
     "de": "Kombinierter Zugriff auf mehrere KI-Tools zu einem ermäßigten Preis.",
     "zh": "以折扣价格组合访问多个人工智能工具。",
     "it": "Accesso combinato a più strumenti di IA a una tariffa scontata."
+  },
+  "$20 /month for Plus Plan": {
+    "en": "$20 /month for Plus Plan",
+    "uk": "$20 на місяць за планом Plus",
+    "ja": "プラスプランは月額20ドル",
+    "es": "$20 /mes para el Plan Plus",
+    "pt": "$20 /mês para o Plano Plus",
+    "fr": "20 $ /mois pour le Plan Plus",
+    "de": "20 $ /Monat für den Plus-Plan",
+    "zh": "每月20美元，适用于Plus计划",
+    "it": "$20 /mese per il Piano Plus"
   },
   "Midjourney": {
     "en": {
@@ -11962,6 +11973,118 @@
       "features": "Accesso a vari strumenti di IA in un unico pacchetto, risparmi significativi.",
       "badge": "Fino all'80%",
       "pricing": "Accesso combinato a più strumenti di IA a una tariffa scontata."
+    }
+  },
+  "HeyGen Creator": {
+    "en": {
+      "description": "HeyGen Creator allows users to create unlimited videos enhanced by artificial intelligence features, making it suitable for both personal and professional use.",
+      "features": "Unlock unlimited videos with advanced AI tools.",
+      "badge": "N/A",
+      "pricing": "$29/month"
+    },
+    "uk": {
+      "description": "HeyGen Creator дозволяє користувачам створювати необмежену кількість відео, покращених функціями штучного інтелекту, що робить його підходящим як для особистого, так і для професійного використання.",
+      "features": "Відкрийте необмежені відео з використанням сучасних інструментів ШІ.",
+      "badge": "Немає",
+      "pricing": "$29/місяць"
+    },
+    "ja": {
+      "description": "HeyGen Creatorは、ユーザーが人工知能機能によって強化された無制限のビデオを作成できるようにし、個人使用とプロフェッショナル使用の両方に適しています。",
+      "features": "高度なAIツールを使用して無制限のビデオをアンロックします。",
+      "badge": "該当なし",
+      "pricing": "$29/月"
+    },
+    "es": {
+      "description": "HeyGen Creator permite a los usuarios crear videos ilimitados mejorados con características de inteligencia artificial, lo que lo hace adecuado tanto para uso personal como profesional.",
+      "features": "Desbloquea videos ilimitados con herramientas avanzadas de inteligencia artificial.",
+      "badge": "N/A",
+      "pricing": "$29/mes"
+    },
+    "pt": {
+      "description": "HeyGen Creator permite que os usuários criem vídeos ilimitados aprimorados com recursos de inteligência artificial, tornando-o adequado para uso pessoal e profissional.",
+      "features": "Desbloqueie vídeos ilimitados com ferramentas avançadas de inteligência artificial.",
+      "badge": "N/A",
+      "pricing": "$29/mês"
+    },
+    "fr": {
+      "description": "HeyGen Creator permet aux utilisateurs de créer des vidéos illimitées améliorées par des fonctionnalités d'intelligence artificielle, ce qui le rend adapté à un usage personnel et professionnel.",
+      "features": "Débloquez des vidéos illimitées avec des outils avancés d'intelligence artificielle.",
+      "badge": "N/A",
+      "pricing": "$29/mois"
+    },
+    "de": {
+      "description": "HeyGen Creator ermöglicht es Benutzern, unbegrenzt Videos zu erstellen, die mit Funktionen der künstlichen Intelligenz verbessert werden, sodass es sowohl für den persönlichen als auch für den professionellen Gebrauch geeignet ist.",
+      "features": "Schalten Sie unbegrenzte Videos mit fortschrittlichen KI-Tools frei.",
+      "badge": "N/A",
+      "pricing": "$29/Monat"
+    },
+    "zh": {
+      "description": "HeyGen Creator允许用户创建无限的视频，增强了人工智能功能，使其适用于个人和专业使用。",
+      "features": "使用先进的人工智能工具解锁无限视频。",
+      "badge": "不适用",
+      "pricing": "每月$29"
+    },
+    "it": {
+      "description": "HeyGen Creator consente agli utenti di creare video illimitati potenziati da funzionalità di intelligenza artificiale, rendendolo adatto per uso personale e professionale.",
+      "features": "Sblocca video illimitati con strumenti avanzati di intelligenza artificiale.",
+      "badge": "N/A",
+      "pricing": "$29/mese"
+    }
+  },
+  "Chatgpt Codex": {
+    "en": {
+      "description": "Chatgpt Codex offers advanced AI tools focused on video generation, allowing users to create engaging content efficiently.",
+      "features": "Access to advanced AI features for video generation.",
+      "badge": "N/A",
+      "pricing": "$20 /month for Plus Plan"
+    },
+    "uk": {
+      "description": "Chatgpt Codex пропонує передові інструменти ШІ, зосереджені на генерації відео, що дозволяє користувачам ефективно створювати захоплюючий контент.",
+      "features": "Доступ до передових функцій ШІ для генерації відео.",
+      "badge": "Немає",
+      "pricing": "$20 на місяць за планом Plus"
+    },
+    "ja": {
+      "description": "Chatgpt Codexは、動画生成に特化した高度なAIツールを提供し、ユーザーが効率的に魅力的なコンテンツを作成できるようにします。",
+      "features": "動画生成のための高度なAI機能へのアクセス。",
+      "badge": "該当なし",
+      "pricing": "プラスプランは月額20ドル"
+    },
+    "es": {
+      "description": "Chatgpt Codex ofrece herramientas avanzadas de IA centradas en la generación de video, lo que permite a los usuarios crear contenido atractivo de manera eficiente.",
+      "features": "Acceso a funciones avanzadas de IA para la generación de video.",
+      "badge": "N/A",
+      "pricing": "$20 /mes para el Plan Plus"
+    },
+    "pt": {
+      "description": "Chatgpt Codex oferece ferramentas avançadas de IA focadas na geração de vídeo, permitindo que os usuários criem conteúdo envolvente de forma eficiente.",
+      "features": "Acesso a recursos avançados de IA para geração de vídeo.",
+      "badge": "N/A",
+      "pricing": "$20 /mês para o Plano Plus"
+    },
+    "fr": {
+      "description": "Chatgpt Codex propose des outils avancés d'IA axés sur la génération de vidéos, permettant aux utilisateurs de créer du contenu engageant de manière efficace.",
+      "features": "Accès à des fonctionnalités avancées d'IA pour la génération de vidéos.",
+      "badge": "N/A",
+      "pricing": "20 $ /mois pour le Plan Plus"
+    },
+    "de": {
+      "description": "Chatgpt Codex bietet fortschrittliche KI-Tools zur Videoerstellung, mit denen Benutzer effizient ansprechende Inhalte erstellen können.",
+      "features": "Zugang zu fortschrittlichen KI-Funktionen zur Videoerstellung.",
+      "badge": "N/A",
+      "pricing": "20 $ /Monat für den Plus-Plan"
+    },
+    "zh": {
+      "description": "Chatgpt Codex提供了专注于视频生成的高级人工智能工具，使用户能够高效地创建引人入胜的内容。",
+      "features": "访问用于视频生成的高级人工智能功能。",
+      "badge": "无",
+      "pricing": "每月20美元，适用于Plus计划"
+    },
+    "it": {
+      "description": "Chatgpt Codex offre strumenti avanzati di IA focalizzati sulla generazione di video, consentendo agli utenti di creare contenuti coinvolgenti in modo efficiente.",
+      "features": "Accesso a funzionalità avanzate di IA per la generazione di video.",
+      "badge": "N/A",
+      "pricing": "$20 /mese per il Piano Plus"
     }
   }
 }
