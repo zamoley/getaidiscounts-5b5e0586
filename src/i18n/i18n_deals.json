@@ -8048,5 +8048,235 @@
             "zh": "每月20美元，适用于Plus计划",
             "it": "$20 /mese per il Piano Plus"
         }
+    },
+    "AppSumo": {
+        "description": {
+            "en": "AppSumo is known for offering enticing lifetime deals on software products, fostering growth for users in various industries.",
+            "uk": "AppSumo відомий своїми привабливими безстроковими пропозиціями на програмне забезпечення, що сприяє зростанню користувачів у різних сферах.",
+            "ja": "AppSumoは、ソフトウェア製品に魅力的な生涯契約を提供し、さまざまな業界のユーザーの成長を促進していることで知られています。",
+            "es": "AppSumo es conocido por ofrecer atractivas ofertas de por vida en productos de software, fomentando el crecimiento de los usuarios en diversas industrias.",
+            "pt": "AppSumo é conhecido por oferecer ofertas tentadoras de vitalícias em produtos de software, promovendo o crescimento de usuários em várias indústrias.",
+            "fr": "AppSumo est connu pour proposer des offres à vie séduisantes sur des produits logiciels, favorisant la croissance des utilisateurs dans divers secteurs.",
+            "de": "AppSumo ist bekannt für seine verlockenden Lebenszeitangebote für Softwareprodukte, die das Wachstum der Nutzer in verschiedenen Branchen fördern.",
+            "zh": "AppSumo以提供诱人的终身软件产品交易而闻名，促进各行业用户的增长。",
+            "it": "AppSumo è noto per offrire allettanti offerte a vita su prodotti software, favorendo la crescita degli utenti in vari settori."
+        },
+        "features": {
+            "en": "Lifetime deals for SaaS and software targeted at entrepreneurs and small businesses.",
+            "uk": "Безстрокові пропозиції для SaaS та програмного забезпечення, спрямовані на підприємців і малі підприємства.",
+            "ja": "起業家や小規模ビジネスを対象としたSaaSおよびソフトウェアの生涯契約。",
+            "es": "Ofertas de por vida para SaaS y software dirigidas a emprendedores y pequeñas empresas.",
+            "pt": "Ofertas vitalícias para SaaS e software direcionadas a empreendedores e pequenas empresas.",
+            "fr": "Offres à vie pour les SaaS et les logiciels ciblant les entrepreneurs et les petites entreprises.",
+            "de": "Lebenslange Angebote für SaaS und Software, die sich an Unternehmer und kleine Unternehmen richten.",
+            "zh": "针对企业家和小型企业的SaaS和软件的终身交易。",
+            "it": "Offerte a vita per SaaS e software mirate a imprenditori e piccole imprese."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "НЕТ",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Best deals for December 2025.",
+            "uk": "Найкращі пропозиції на грудень 2025 року.",
+            "ja": "2025年12月の最高のお得情報です。",
+            "es": "Las mejores ofertas para diciembre de 2025.",
+            "pt": "Melhores ofertas para dezembro de 2025.",
+            "fr": "Meilleures offres pour décembre 2025.",
+            "de": "Beste Angebote für Dezember 2025.",
+            "zh": "2025年12月的最佳交易。",
+            "it": "Migliori offerte per dicembre 2025."
+        }
+    },
+    "Expertise AI Pro Plan": {
+        "description": {
+            "en": "Expertise AI offers a Pro Plan designed for businesses looking to leverage AI for enhanced functionality and support in marketing efforts.",
+            "uk": "Expertise AI пропонує Pro Plan, розроблений для бізнесу, який прагне використовувати ШІ для підвищення функціональності та підтримки в маркетингових зусиллях.",
+            "ja": "Expertise AIは、マーケティング活動の機能向上とサポートを目的としたAIを活用しようとする企業向けに設計されたProプランを提供します。",
+            "es": "Expertise AI ofrece un Plan Pro diseñado para empresas que buscan aprovechar la inteligencia artificial para mejorar la funcionalidad y el soporte en sus esfuerzos de marketing.",
+            "pt": "Expertise AI oferece um Plano Pro projetado para empresas que buscam aproveitar a IA para aumentar a funcionalidade e o suporte em esforços de marketing.",
+            "fr": "Expertise AI propose un Plan Pro conçu pour les entreprises souhaitant tirer parti de l'IA pour améliorer la fonctionnalité et le support dans leurs efforts marketing.",
+            "de": "Expertise AI bietet einen Pro-Plan, der für Unternehmen entwickelt wurde, die KI nutzen möchten, um die Funktionalität und Unterstützung in ihren Marketingaktivitäten zu verbessern.",
+            "zh": "Expertise AI提供了一个专业计划，旨在帮助希望利用人工智能增强功能和支持营销工作的企业。",
+            "it": "Expertise AI offre un Piano Pro progettato per le aziende che cercano di sfruttare l'IA per migliorare la funzionalità e il supporto negli sforzi di marketing."
+        },
+        "features": {
+            "en": "Pro Plan for advanced features",
+            "uk": "Pro Plan для розширених функцій",
+            "ja": "高度な機能のためのProプラン",
+            "es": "Plan Pro para funciones avanzadas",
+            "pt": "Plano Pro para recursos avançados",
+            "fr": "Plan Pro pour des fonctionnalités avancées",
+            "de": "Pro-Plan für erweiterte Funktionen",
+            "zh": "专业计划以获取高级功能",
+            "it": "Piano Pro per funzionalità avanzate"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$24 Per Month",
+            "uk": "$24 На Місяць",
+            "ja": "$24 月額",
+            "es": "$24 Por Mes",
+            "pt": "$24 Por Mês",
+            "fr": "$24 Par Mois",
+            "de": "$24 Pro Monat",
+            "zh": "$24 每月",
+            "it": "$24 Al Mese"
+        }
+    },
+    "AI Scribe": {
+        "description": {
+            "en": "AI Scribe is an AI-based tool designed to assist medical professionals with documentation and patient interaction. It streamlines the scribing process, allowing for more efficient healthcare delivery.",
+            "uk": "ШІ Scribe – це інструмент на основі ШІ, розроблений для допомоги медичним працівникам у веденні документації та взаємодії з пацієнтами. Він спрощує процес ведення записів, що дозволяє забезпечити більш ефективне надання медичних послуг.",
+            "ja": "AI Scribeは、医療専門家の文書作成や患者との対話を支援するために設計されたAIベースのツールです。記録プロセスを合理化し、より効率的な医療提供を可能にします。",
+            "es": "AI Scribe es una herramienta basada en IA diseñada para ayudar a los profesionales médicos con la documentación y la interacción con los pacientes. Agiliza el proceso de transcripción, lo que permite una entrega de atención médica más eficiente.",
+            "pt": "AI Scribe é uma ferramenta baseada em IA projetada para auxiliar profissionais de saúde na documentação e interações com pacientes. Ela agiliza o processo de escrita, permitindo uma entrega de cuidados de saúde mais eficiente.",
+            "fr": "AI Scribe est un outil basé sur l'IA conçu pour aider les professionnels de la santé dans la documentation et l'interaction avec les patients. Il rationalise le processus de transcription, permettant une prestation de soins de santé plus efficace.",
+            "de": "AI Scribe ist ein auf KI basierendes Tool, das medizinischen Fachkräften bei der Dokumentation und Interaktion mit Patienten hilft. Es optimiert den Schreibprozess und ermöglicht eine effizientere Gesundheitsversorgung.",
+            "zh": "AI Scribe是一款基于AI的工具，旨在帮助医疗专业人员进行文档记录和与患者的互动。它简化了记录过程，使医疗服务提供更加高效。",
+            "it": "AI Scribe è uno strumento basato su AI progettato per assistere i professionisti medici nella documentazione e nell'interazione con i pazienti. Semplifica il processo di scrittura, consentendo un'erogazione della sanità più efficiente."
+        },
+        "features": {
+            "en": "Annual plans, medical scribing capabilities",
+            "uk": "Річні плани, можливості медичного запису",
+            "ja": "年間プラン、医療記録機能",
+            "es": "Planes anuales, capacidades de transcripción médica",
+            "pt": "Planos anuais, capacidades de transcrição médica",
+            "fr": "Plans annuels, capacités de transcription médicale",
+            "de": "Jahrespläne, medizinische Schreibfähigkeiten",
+            "zh": "年度计划，医疗记录功能",
+            "it": "Piani annuali, capacità di trascrizione medica"
+        },
+        "discount": {
+            "en": "$30",
+            "uk": "$30",
+            "ja": "30ドル",
+            "es": "30 dólares",
+            "pt": "30 dólares",
+            "fr": "30 $",
+            "de": "30 $",
+            "zh": "30美元",
+            "it": "30 dollari"
+        },
+        "pricing": {
+            "en": "$69/month",
+            "uk": "$69/місяць",
+            "ja": "月額69ドル",
+            "es": "69 dólares al mes",
+            "pt": "69 dólares/mês",
+            "fr": "69 $/mois",
+            "de": "69 $/Monat",
+            "zh": "每月69美元",
+            "it": "69 dollari/mese"
+        }
+    },
+    "HeyGen AI": {
+        "description": {
+            "en": "HeyGen AI is an innovative platform that utilizes artificial intelligence to assist users in video content creation, enhancing the efficiency and effectiveness of the production process.",
+            "uk": "HeyGen ШІ - це інноваційна платформа, яка використовує штучний інтелект для допомоги користувачам у створенні відеоконтенту, підвищуючи ефективність та результативність процесу виробництва.",
+            "ja": "HeyGen AIは、ユーザーがビデオコンテンツを作成するのを支援するために人工知能を利用する革新的なプラットフォームで、制作プロセスの効率性と効果を高めます。",
+            "es": "HeyGen AI es una plataforma innovadora que utiliza inteligencia artificial para ayudar a los usuarios en la creación de contenido de video, mejorando la eficiencia y efectividad del proceso de producción.",
+            "pt": "HeyGen AI é uma plataforma inovadora que utiliza inteligência artificial para ajudar os usuários na criação de conteúdo de vídeo, aumentando a eficiência e eficácia do processo de produção.",
+            "fr": "HeyGen AI est une plateforme innovante qui utilise l'intelligence artificielle pour aider les utilisateurs dans la création de contenu vidéo, améliorant l'efficacité et l'efficacité du processus de production.",
+            "de": "HeyGen AI ist eine innovative Plattform, die künstliche Intelligenz nutzt, um Nutzern bei der Erstellung von Videoinhalten zu helfen und die Effizienz und Wirksamkeit des Produktionsprozesses zu steigern.",
+            "zh": "HeyGen AI 是一个创新的平台，利用人工智能帮助用户创建视频内容，提高生产过程的效率和有效性。",
+            "it": "HeyGen AI è una piattaforma innovativa che utilizza intelligenza artificiale per assistere gli utenti nella creazione di contenuti video, migliorando l'efficienza e l'efficacia del processo di produzione."
+        },
+        "features": {
+            "en": "Significant savings on subscription services.",
+            "uk": "Суттєві заощадження на підписних послугах.",
+            "ja": "サブスクリプションサービスでの大幅な節約。",
+            "es": "Ahorros significativos en servicios de suscripción.",
+            "pt": "Economias significativas em serviços de assinatura.",
+            "fr": "Économies significatives sur les services d'abonnement.",
+            "de": "Signifikante Einsparungen bei Abonnementdiensten.",
+            "zh": "在订阅服务上显著节省。",
+            "it": "Risparmi significativi sui servizi in abbonamento."
+        },
+        "discount": {
+            "en": "20%",
+            "uk": "20%",
+            "ja": "20%",
+            "es": "20%",
+            "pt": "20%",
+            "fr": "20%",
+            "de": "20%",
+            "zh": "20%",
+            "it": "20%"
+        },
+        "pricing": {
+            "en": "Additional 20% off during 12 months",
+            "uk": "Додаткові 20% знижки протягом 12 місяців",
+            "ja": "12か月間はさらに20％オフ",
+            "es": "20% adicional durante 12 meses",
+            "pt": "20% de desconto adicional durante 12 meses",
+            "fr": "20% de réduction supplémentaire pendant 12 mois",
+            "de": "Zusätzliche 20% Rabatt für 12 Monate",
+            "zh": "在12个月内额外优惠20%",
+            "it": "20% di sconto aggiuntivo per 12 mesi"
+        }
+    },
+    "HeyGen Coupon Codes": {
+        "description": {
+            "en": "The HeyGen Coupon Codes page provides users with various promotional codes that offer discounts on subscriptions, helping them save money on video creation tools.",
+            "uk": "Сторінка купонів HeyGen надає користувачам різноманітні промокоди, які пропонують знижки на підписки, допомагаючи їм заощаджувати кошти на інструментах для створення відео.",
+            "ja": "HeyGenクーポンコードページでは、ユーザーにサブスクリプションに対する割引を提供するさまざまなプロモーションコードを提供し、ビデオ制作ツールでお金を節約するのを助けます。",
+            "es": "La página de códigos de cupón de HeyGen proporciona a los usuarios varios códigos promocionales que ofrecen descuentos en suscripciones, ayudándoles a ahorrar dinero en herramientas de creación de videos.",
+            "pt": "A página de códigos de cupom HeyGen oferece aos usuários vários códigos promocionais que oferecem descontos em assinaturas, ajudando-os a economizar dinheiro em ferramentas de criação de vídeo.",
+            "fr": "La page des codes promo HeyGen fournit aux utilisateurs divers codes promotionnels offrant des réductions sur les abonnements, les aidant à économiser de l'argent sur les outils de création vidéo.",
+            "de": "Die HeyGen-Gutscheincodes-Seite bietet den Nutzern verschiedene Aktionscodes an, die Rabatte auf Abonnements bieten und ihnen helfen, Geld für Videokreationstools zu sparen.",
+            "zh": "HeyGen优惠券代码页面为用户提供各种促销代码，这些代码提供订阅折扣，帮助他们在视频创作工具上节省资金。",
+            "it": "La pagina dei codici coupon di HeyGen offre agli utenti vari codici promozionali che offrono sconti sugli abbonamenti, aiutandoli a risparmiare denaro sugli strumenti di creazione video."
+        },
+        "features": {
+            "en": "Multiple active promo codes for additional savings.",
+            "uk": "Багато активних промокодів для додаткових заощаджень.",
+            "ja": "追加の節約のための複数のアクティブなプロモコード。",
+            "es": "Múltiples códigos promocionales activos para un ahorro adicional.",
+            "pt": "Vários códigos promocionais ativos para economias adicionais.",
+            "fr": "Plusieurs codes promo actifs pour des économies supplémentaires.",
+            "de": "Mehrere aktive Aktionscodes für zusätzliche Einsparungen.",
+            "zh": "多个有效的促销代码以获得额外的节省。",
+            "it": "Molti codici promozionali attivi per ulteriori risparmi."
+        },
+        "discount": {
+            "en": "25%",
+            "uk": "25%",
+            "ja": "25%",
+            "es": "25%",
+            "pt": "25%",
+            "fr": "25%",
+            "de": "25%",
+            "zh": "25%",
+            "it": "25%"
+        },
+        "pricing": {
+            "en": "Up to 25% with 13 active promo codes",
+            "uk": "До 25% з 13 активними промокодами",
+            "ja": "13のアクティブなプロモコードで最大25%オフ",
+            "es": "Hasta un 25% con 13 códigos promocionales activos",
+            "pt": "Até 25% com 13 códigos promocionais ativos",
+            "fr": "Jusqu'à 25% avec 13 codes promo actifs",
+            "de": "Bis zu 25 % mit 13 aktiven Aktionscodes",
+            "zh": "最多可享25%的优惠，现有13个有效促销代码",
+            "it": "Fino al 25% con 13 codici promo attivi"
+        }
     }
 }
