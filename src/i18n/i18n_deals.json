@@ -8278,5 +8278,281 @@
             "zh": "最多可享25%的优惠，现有13个有效促销代码",
             "it": "Fino al 25% con 13 codici promo attivi"
         }
+    },
+    "Gemini Code Assist": {
+        "description": {
+            "en": "Gemini Code Assist is an AI tool that dynamically generates code snippets and offers tailored support for programmers, facilitating faster development cycles and enhancing code quality.",
+            "uk": "Gemini Code Assist — це інструмент ШІ, який динамічно генерує фрагменти коду та пропонує індивідуальну підтримку для програмістів, що сприяє прискоренню циклів розробки та підвищенню якості коду.",
+            "ja": "Gemini Code Assistは、動的にコードスニペットを生成し、プログラマーに合わせたサポートを提供するAIツールで、開発サイクルの迅速化とコードの品質向上を促進します。",
+            "es": "Gemini Code Assist es una herramienta de IA que genera dinámicamente fragmentos de código y ofrece apoyo personalizado para programadores, facilitando ciclos de desarrollo más rápidos y mejorando la calidad del código.",
+            "pt": "O Gemini Code Assist é uma ferramenta de IA que gera dinamicamente trechos de código e oferece suporte personalizado para programadores, facilitando ciclos de desenvolvimento mais rápidos e melhorando a qualidade do código.",
+            "fr": "Gemini Code Assist est un outil d'IA qui génère dynamiquement des extraits de code et offre un support personnalisé aux programmeurs, facilitant des cycles de développement plus rapides et améliorant la qualité du code.",
+            "de": "Gemini Code Assist ist ein KI-Tool, das dynamisch Code-Snippets generiert und maßgeschneiderte Unterstützung für Programmierer bietet, wodurch schnellere Entwicklungszyklen und eine verbesserte Codequalität gefördert werden.",
+            "zh": "Gemini Code Assist是一个动态生成代码片段的AI工具，为程序员提供量身定制的支持，从而促进更快的开发周期并提高代码质量。",
+            "it": "Gemini Code Assist è uno strumento AI che genera dinamicamente frammenti di codice e offre supporto personalizzato per i programmatori, facilitando cicli di sviluppo più rapidi e migliorando la qualità del codice."
+        },
+        "features": {
+            "en": "Dynamic code generation, tailored programming support.",
+            "uk": "Динамічна генерація коду, індивідуальна підтримка програмування.",
+            "ja": "動的なコード生成、カスタマイズされたプログラミングサポート。",
+            "es": "Generación de código dinámica, soporte de programación personalizado.",
+            "pt": "Geração de código dinâmica, suporte de programação personalizado.",
+            "fr": "Génération dynamique de code, support de programmation personnalisé.",
+            "de": "Dynamische Code-Generierung, maßgeschneiderte Programmierunterstützung.",
+            "zh": "动态代码生成，量身定制的编程支持。",
+            "it": "Generazione dinamica di codice, supporto di programmazione personalizzato."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Nicht zutreffend",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Nicht zutreffend",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "Codeium": {
+        "description": {
+            "en": "Codeium is an intelligent coding assistant that provides real-time code suggestions and integrates seamlessly with popular IDEs, improving developer efficiency and code accuracy.",
+            "uk": "Codeium - це інтелектуальний асистент програмування, який надає миттєві пропозиції коду та безшовно інтегрується з популярними IDE, підвищуючи ефективність розробників та точність коду.",
+            "ja": "Codeiumは、リアルタイムのコード提案を提供し、人気のあるIDEとシームレスに統合されるインテリジェントなコーディングアシスタントです。開発者の効率とコードの精度を向上させます。",
+            "es": "Codeium es un asistente de codificación inteligente que proporciona sugerencias de código en tiempo real e integra sin problemas con IDEs populares, mejorando la eficiencia del desarrollador y la precisión del código.",
+            "pt": "Codeium é um assistente de codificação inteligente que fornece sugestões de código em tempo real e se integra perfeitamente com IDEs populares, melhorando a eficiência do desenvolvedor e a precisão do código.",
+            "fr": "Codeium est un assistant de codage intelligent qui fournit des suggestions de code en temps réel et s'intègre parfaitement aux IDE populaires, améliorant l'efficacité des développeurs et la précision du code.",
+            "de": "Codeium ist ein intelligenter Programmierassistent, der in Echtzeit Codevorschläge bietet und nahtlos in beliebte IDEs integriert wird, was die Effizienz der Entwickler und die Genauigkeit des Codes verbessert.",
+            "zh": "Codeium是一个智能编程助手，提供实时代码建议，并与流行的IDE无缝集成，提高开发人员的效率和代码的准确性。",
+            "it": "Codeium è un assistente di codifica intelligente che fornisce suggerimenti di codice in tempo reale e si integra perfettamente con gli IDE popolari, migliorando l'efficienza degli sviluppatori e l'accuratezza del codice."
+        },
+        "features": {
+            "en": "Code suggestions, real-time integration with IDEs.",
+            "uk": "Пропозиції коду, миттєва інтеграція з IDE.",
+            "ja": "コード提案、IDEとのリアルタイム統合。",
+            "es": "Sugerencias de código, integración en tiempo real con IDEs.",
+            "pt": "Sugestões de código, integração em tempo real com IDEs.",
+            "fr": "Suggestions de code, intégration en temps réel avec les IDE.",
+            "de": "Codevorschläge, Echtzeite Integration mit IDEs.",
+            "zh": "代码建议，实时与IDE集成。",
+            "it": "Suggerimenti di codice, integrazione in tempo reale con IDE."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "N/A",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "N/A",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        }
+    },
+    "CodeWhisperer": {
+        "description": {
+            "en": "CodeWhisperer is an AI tool that generates code snippets based on contextual hints from developers, aiding in rapid development and reducing manual coding efforts.",
+            "uk": "CodeWhisperer – це інструмент ШІ, який генерує фрагменти коду на основі контекстних підказок від розробників, сприяючи швидкій розробці та зменшуючи зусилля ручного кодування.",
+            "ja": "CodeWhispererは、開発者からのコンテキストヒントに基づいてコードスニペットを生成するAIツールで、迅速な開発を支援し、手動コーディングの労力を軽減します。",
+            "es": "CodeWhisperer es una herramienta de IA que genera fragmentos de código basados en pistas contextuales de los desarrolladores, ayudando en el desarrollo rápido y reduciendo los esfuerzos de codificación manual.",
+            "pt": "CodeWhisperer é uma ferramenta de IA que gera trechos de código com base em dicas contextuais dos desenvolvedores, ajudando no desenvolvimento rápido e reduzindo os esforços de codificação manual.",
+            "fr": "CodeWhisperer est un outil d'IA qui génère des extraits de code en fonction des indices contextuels des développeurs, aidant au développement rapide et réduisant les efforts de codage manuel.",
+            "de": "CodeWhisperer ist ein KI-Tool, das Code-Snippets basierend auf kontextuellen Hinweisen von Entwicklern generiert und so die schnelle Entwicklung unterstützt und manuelle Codierungsanstrengungen reduziert.",
+            "zh": "CodeWhisperer是一种基于开发者的上下文提示生成代码片段的AI工具，帮助快速开发并减少手动编码工作。",
+            "it": "CodeWhisperer è uno strumento di intelligenza artificiale che genera frammenti di codice basati su suggerimenti contestuali dei programmatori, facilitando lo sviluppo rapido e riducendo gli sforzi di codifica manuale."
+        },
+        "features": {
+            "en": "AI-generated code snippets, context-aware suggestions.",
+            "uk": "Генеровані ШІ фрагменти коду, пропозиції, що враховують контекст.",
+            "ja": "AI生成のコードスニペット、コンテキストに応じた提案。",
+            "es": "Fragmentos de código generados por IA, sugerencias conscientes del contexto.",
+            "pt": "Trechos de código gerados por IA, sugestões cientes do contexto.",
+            "fr": "Extraits de code générés par l'IA, suggestions contextualisées.",
+            "de": "Von KI generierte Code-Snippets, kontextbewusste Vorschläge.",
+            "zh": "AI生成的代码片段，考虑上下文的建议。",
+            "it": "Frammenti di codice generati dall'IA, suggerimenti consapevoli del contesto."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "AI.Law": {
+        "description": {
+            "en": "AI.Law delivers advanced legal AI solutions to improve traditional legal workflows and enhance legal practice management.",
+            "uk": "AI.Law впроваджує сучасні юридичні рішення на базі ШІ для покращення традиційних юридичних процесів та підвищення управління юридичною практикою.",
+            "ja": "AI.Lawは、従来の法的ワークフローを改善し、法的業務管理を強化するための高度な法律向けのŞІソリューションを提供します。",
+            "es": "AI.Law ofrece soluciones avanzadas de ŞІ legales para mejorar los flujos de trabajo legales tradicionales y mejorar la gestión de la práctica legal.",
+            "pt": "AI.Law fornece soluções avançadas de ŞІ jurídicas para melhorar os fluxos de trabalho legais tradicionais e aprimorar a gestão da prática jurídica.",
+            "fr": "AI.Law fournit des solutions juridiques avancées basées sur la ŞІ pour améliorer les flux de travail juridiques traditionnels et renforcer la gestion des pratiques juridiques.",
+            "de": "AI.Law bietet fortschrittliche rechtliche ŞІ-Lösungen an, um traditionelle juristische Arbeitsabläufe zu verbessern und das Management von Rechtspraktiken zu optimieren.",
+            "zh": "AI.Law提供先进的法律ŞІ解决方案，以改善传统法律工作流程并增强法律实践管理。",
+            "it": "AI.Law offre soluzioni legali avanzate basate su ŞІ per migliorare i flussi di lavoro legali tradizionali e potenziare la gestione delle pratiche legali."
+        },
+        "features": {
+            "en": "Instant discounts, verified offers.",
+            "uk": "Миттєві знижки, перевірені пропозиції.",
+            "ja": "即時割引、確認済みオファー。",
+            "es": "Descuentos instantáneos, ofertas verificadas.",
+            "pt": "Descontos instantâneos, ofertas verificadas.",
+            "fr": "Réductions instantanées, offres vérifiées.",
+            "de": "Sofortige Rabatte, verifizierte Angebote.",
+            "zh": "即时折扣，验证过的优惠。",
+            "it": "Sconti istantanei, offerte verificate."
+        },
+        "discount": {
+            "en": "17%",
+            "uk": "17%",
+            "ja": "17%",
+            "es": "17%",
+            "pt": "17%",
+            "fr": "17%",
+            "de": "17%",
+            "zh": "17%",
+            "it": "17%"
+        },
+        "pricing": {
+            "en": "Limited-time offer for 2026.",
+            "uk": "Обмежена пропозиція до 2026 року.",
+            "ja": "2026年の期間限定オファー。",
+            "es": "Oferta por tiempo limitado para 2026.",
+            "pt": "Oferta por tempo limitado para 2026.",
+            "fr": "Offre à durée limitée pour 2026.",
+            "de": "Zeitlich begrenztes Angebot für 2026.",
+            "zh": "2026年限时优惠。",
+            "it": "Offerta a tempo limitato per il 2026."
+        }
+    },
+    "SimplyCodes": {
+        "description": {
+            "en": "SimplyCodes is a coupon verification extension integrated with AI and community feedback for ensuring valid discount codes.",
+            "uk": "SimplyCodes - це розширення для перевірки купонів, інтегроване з ШІ та відгуками спільноти для забезпечення дійсності кодів знижок.",
+            "ja": "SimplyCodesは、正確な割引コードを保証するために、AIおよびコミュニティのフィードバックと統合されたクーポン検証拡張です。",
+            "es": "SimplyCodes es una extensión de verificación de cupones integrada con IA y retroalimentación de la comunidad para garantizar códigos de descuento válidos.",
+            "pt": "SimplyCodes é uma extensão de verificação de cupons integrada com IA e feedback da comunidade para garantir códigos de desconto válidos.",
+            "fr": "SimplyCodes est une extension de vérification de coupons intégrée avec l'IA et des retours de la communauté pour garantir des codes de réduction valides.",
+            "de": "SimplyCodes ist eine Coupon-Überprüfungs-Erweiterung, die mit SH und Community-Feedback integriert ist, um gültige Rabattcodes sicherzustellen.",
+            "zh": "SimplyCodes是一个与人工智能和社区反馈集成的优惠券验证扩展，可确保有效的折扣代码。",
+            "it": "SimplyCodes è un'estensione di verifica dei coupon integrata con l'IA e feedback della comunità per garantire codici sconto validi."
+        },
+        "features": {
+            "en": "AI-powered verification system with real shopper involvement to ensure coupon accuracy.",
+            "uk": "Система перевірки на базі ШІ з участю реальних покупців для забезпечення точності купонів.",
+            "ja": "AIを活用した検証システムで、リアルな購入者が関与してクーポンの正確性を保証します。",
+            "es": "Sistema de verificación impulsado por IA con la participación de compradores reales para garantizar la precisión de los cupones.",
+            "pt": "Sistema de verificação com tecnologia de IA com a participação de compradores reais para garantir a precisão dos cupons.",
+            "fr": "Système de vérification alimenté par l'IA avec l'implication de vrais acheteurs pour garantir l'exactitude des coupons.",
+            "de": "KI-gestütztes Überprüfungssystem mit der Beteiligung echter Käufer, um die Genauigkeit von Coupons sicherzustellen.",
+            "zh": "基于人工智能的验证系统，真实购物者参与以确保优惠券的准确性。",
+            "it": "Sistema di verifica basato su IA con il coinvolgimento di acquirenti reali per garantire l'accuratezza dei coupon."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Free coupon extension with 40M+ shoppers.",
+            "uk": "Безкоштовне розширення купонів з понад 40 мільйонами покупців.",
+            "ja": "4000万人以上の買い物客とともに提供される無料のクーポン拡張機能です。",
+            "es": "Extensión de cupones gratuita con más de 40 millones de compradores.",
+            "pt": "Extensão de cupons gratuita com mais de 40 milhões de compradores.",
+            "fr": "Extension de coupons gratuite avec plus de 40 millions d'acheteurs.",
+            "de": "Kostenlose Coupon-Erweiterung mit über 40 Millionen Käufern.",
+            "zh": "针对超过4000万购物者的免费优惠券扩展。",
+            "it": "Estensione di coupon gratuita con oltre 40 milioni di acquirenti."
+        }
+    },
+    "AI Writing Assistants": {
+        "description": {
+            "en": "AI Writing Assistants consist of various tools designed to enhance writing capabilities through automated suggestions and optimizations.",
+            "uk": "ШІ інструменти для написання складаються з різних засобів, призначених для покращення можливостей написання через автоматизовані пропозиції та оптимізації.",
+            "ja": "AIライティングアシスタントは、自動提案や最適化を通じてライティング能力を向上させるために設計されたさまざまなツールで構成されています。",
+            "es": "Los Asistentes de Escritura AI consisten en varias herramientas diseñadas para mejorar las capacidades de escritura a través de sugerencias y optimizaciones automatizadas.",
+            "pt": "Os Assistentes de Escrita de IA consistem em várias ferramentas projetadas para aprimorar as capacidades de escrita por meio de sugestões e otimizações automatizadas.",
+            "fr": "Les Assistants d'Écriture AI se composent de divers outils conçus pour améliorer les capacités d'écriture grâce à des suggestions et à des optimisations automatisées.",
+            "de": "KI-Schreibassistenten bestehen aus verschiedenen Werkzeugen, die entwickelt wurden, um die Schreibfähigkeiten durch automatisierte Vorschläge und Optimierungen zu verbessern.",
+            "zh": "人工智能写作助手由各种工具组成，旨在通过自动建议和优化增强写作能力。",
+            "it": "Gli Assistenti alla Scrittura AI sono costituiti da vari strumenti progettati per migliorare le capacità di scrittura tramite suggerimenti e ottimizzazioni automatiche."
+        },
+        "features": {
+            "en": "Software deals, coupons, and promotions for writing tools.",
+            "uk": "Пропозиції програмного забезпечення, купони та акції для інструментів написання.",
+            "ja": "ライティングツールのためのソフトウェアの取引、クーポン、プロモーション。",
+            "es": "Ofertas de software, cupones y promociones para herramientas de escritura.",
+            "pt": "Ofertas de software, cupons e promoções para ferramentas de escrita.",
+            "fr": "Offres de logiciels, coupons et promotions pour les outils d'écriture.",
+            "de": "Softwareangebote, Gutscheine und Aktionen für Schreibwerkzeuge.",
+            "zh": "写作工具的软件交易、优惠券和促销活动。",
+            "it": "Offerte di software, coupon e promozioni per strumenti di scrittura."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Keine",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Find exclusive software deals on your favorite tools.",
+            "uk": "Знайдіть ексклюзивні пропозиції на ваше улюблене програмне забезпечення.",
+            "ja": "お気に入りのツールに関する独占ソフトウェアの取引を見つけてください。",
+            "es": "Encuentra ofertas de software exclusivas en tus herramientas favoritas.",
+            "pt": "Encontre ofertas de software exclusivas nas suas ferramentas favoritas.",
+            "fr": "Trouvez des offres logicielles exclusives sur vos outils préférés.",
+            "de": "Finden Sie exklusive Softwareangebote für Ihre Lieblingswerkzeuge.",
+            "zh": "在您最喜欢的工具上找到独家软件交易。",
+            "it": "Trova offerte software esclusive sui tuoi strumenti preferiti."
+        }
     }
 }

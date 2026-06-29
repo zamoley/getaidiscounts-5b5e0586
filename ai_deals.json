@@ -14,8 +14,8 @@
         "tool_name": "ElevenLabs",
         "tool_url": "https://elevenlabs.io",
         "code": "ELEVEN10",
-        "discount_amount": "50%",
-        "pricing_info": "29 Verified coupon codes and deals",
+        "discount_amount": "50% off first month",
+        "pricing_info": "Enjoy 50% off your first month on the Creator plan",
         "key_features": "Realistic Voice Cloning, Text-to-Speech",
         "description": "The most realistic AI voice generator available.",
         "last_verified": "2026-05-05",
@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "Exclusive 80% OFF",
-        "discount_amount": "80%",
-        "pricing_info": "Yearly plan for business at just $119/month, and unlimited videos with HeyGen Creator for $29/month.",
+        "discount_amount": "25%",
+        "pricing_info": "Save storewide with an exclusive offer for members.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -374,8 +374,8 @@
         "tool_name": "VoiceType AI",
         "tool_url": "N/A",
         "code": "50% Off Lifetime AI Voice Plan",
-        "discount_amount": "30%",
-        "pricing_info": "Special offers available for lifetime plans and podcast usage.",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Lifetime AI Voice Plan available",
         "key_features": "Speech-to-Text, Voice Control",
         "description": "Efficient voice-to-text conversion for faster typing and documentation.",
         "last_verified": "2026-05-06",
@@ -491,9 +491,9 @@
     {
         "tool_name": "Claude",
         "tool_url": "https://claude.ai",
-        "code": "START50",
+        "code": "CLAUDE50",
         "discount_amount": "50%",
-        "pricing_info": "3 Months Deal",
+        "pricing_info": "First 3 months subscription",
         "key_features": "Advanced NLU, Coding, Large Context",
         "description": "Anthropic\u2019s leading AI assistant for research, writing, and complex reasoning.",
         "last_verified": "2026-05-07",
@@ -821,7 +821,7 @@
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
         "discount_amount": "3 Months Free",
-        "pricing_info": "Monthly plan starts from $20.",
+        "pricing_info": "Utilization of Perplexity AI\u2019s features with savings.",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1426,7 +1426,7 @@
         "tool_url": "https://compai.vectortemplates.com/",
         "code": "N/A",
         "discount_amount": "28%",
-        "pricing_info": "Save up to 28% with codes updated daily.",
+        "pricing_info": "Updated daily by our team.",
         "key_features": "Deals on templates, themes, and AI tools such as writing tools and chatbots.",
         "description": "Comp AI offers a range of coupons and promo codes for various AI tools and templates, helping users access essential resources at discounted rates.",
         "category": "Search AI"
@@ -1465,8 +1465,8 @@
         "tool_name": "Perplexity Pro",
         "tool_url": "https://stackedreview.com/perplexity-pro-free-trial/",
         "code": "N/A",
-        "discount_amount": "1 Month Free for Students",
-        "pricing_info": "$7.50/mo",
+        "discount_amount": "85% OFF",
+        "pricing_info": "Discount applied to 1-Year Plan.",
         "key_features": "Access to premium features with discounted rates after trial.",
         "description": "Perplexity Pro is an advanced version of the Perplexity AI platform, providing users with enhanced capabilities for data analysis and search efficiency, ideal for professionals seeking in-depth insights.",
         "category": "Search AI"
@@ -1476,7 +1476,7 @@
         "tool_url": "https://novelistai.startupworld.com/",
         "code": "N/A",
         "discount_amount": "Varied discounts available",
-        "pricing_info": "Discounts available for Novelist AI Writer and AI Detector plans.",
+        "pricing_info": "We've gathered 14 active Novelist AI coupons & deals for June 2026.",
         "key_features": "Offers AI tools for writing novels and detecting AI-generated text.",
         "description": "Novelist AI is a tailored solution that assists authors in creating, editing, and refining their novels through advanced AI techniques.",
         "category": "Writing AI"
@@ -1495,8 +1495,8 @@
         "tool_name": "AI-Lawyer",
         "tool_url": "https://ailawyer.startupworld.com/",
         "code": "N/A",
-        "discount_amount": "Various discounts",
-        "pricing_info": "15 verified coupons for June 2026",
+        "discount_amount": "10%",
+        "pricing_info": "Discount on AI-Lawyer's innovative legal services.",
         "key_features": "Verified by team before listing.",
         "description": "AI-Lawyer provides cutting-edge AI tools designed to support law firms with their legal practices, focusing on efficiency and accuracy.",
         "category": "Legal AI"
@@ -1594,9 +1594,9 @@
     {
         "tool_name": "Undetectable AI",
         "tool_url": "https://aixradar.com/undetectable-ai-promo-code",
-        "code": "Verified",
+        "code": "VERIFIED",
         "discount_amount": "20%",
-        "pricing_info": "Get 20% off any plan.",
+        "pricing_info": "Provides a 20% discount on any plan.",
         "key_features": "Includes verified promo codes",
         "description": "Undetectable AI offers advanced image generation tools that prioritize authenticity and user control, making it easier to create realistic images.",
         "category": "Image AI"
@@ -1605,8 +1605,8 @@
         "tool_name": "Krater",
         "tool_url": "https://krater.ai/coupon/midjourney",
         "code": "N/A",
-        "discount_amount": "25%",
-        "pricing_info": "$7.50/month",
+        "discount_amount": "$7.50/mo",
+        "pricing_info": "Access to 350+ AI models including Midjourney features.",
         "key_features": "Comprehensive access to AI models including Midjourney\u2019s features, affordable pricing.",
         "description": "Krater is a platform that provides a variety of AI models for creative applications, making advanced AI tools accessible for a low monthly fee.",
         "category": "Group-Buy & Sharing"
@@ -1675,8 +1675,8 @@
         "tool_name": "Expertise AI",
         "tool_url": "https://expertiseai.startupworld.com",
         "code": "N/A",
-        "discount_amount": "0%",
-        "pricing_info": "Pro Plan Deal for Just $24 Per Month",
+        "discount_amount": "$24 per month",
+        "pricing_info": "Pro Plan Deal for just $24 per Month.",
         "key_features": "Powerful AI tools, automation features, premium support, advanced capabilities for businesses.",
         "description": "Expertise AI provides advanced artificial intelligence solutions designed for enterprise needs, integrating automation and high-level support to enhance business processes.",
         "category": "Industrial AI"
@@ -1736,7 +1736,7 @@
         "tool_url": "https://chatgptcodex.creativebin.com",
         "code": "N/A",
         "discount_amount": "Multiple active codes available.",
-        "pricing_info": "Plus Plan for Sora Video Generation at $20/month; Plus Plan for $21.12.",
+        "pricing_info": "$20/month for Plus Plan, $21.12 for Plus Plan",
         "key_features": "Access to advanced AI features for video generation.",
         "description": "Chatgpt Codex offers advanced AI tools focused on video generation, allowing users to create engaging content efficiently.",
         "category": "Video AI"
@@ -1775,8 +1775,8 @@
         "tool_name": "HeyGen AI",
         "tool_url": "https://www.freelance-stack.io/en/deals/heygen-ia-discount-promo-code",
         "code": "20% off",
-        "discount_amount": "20%",
-        "pricing_info": "Additional 20% off during 12 months",
+        "discount_amount": "UP TO 50%",
+        "pricing_info": "Monthly Creator plan available for $29.",
         "key_features": "Significant savings on subscription services.",
         "description": "HeyGen AI is an innovative platform that utilizes artificial intelligence to assist users in video content creation, enhancing the efficiency and effectiveness of the production process.",
         "category": "Video AI"
@@ -1790,5 +1790,65 @@
         "key_features": "Multiple active promo codes for additional savings.",
         "description": "The HeyGen Coupon Codes page provides users with various promotional codes that offer discounts on subscriptions, helping them save money on video creation tools.",
         "category": "Video AI"
+    },
+    {
+        "tool_name": "Gemini Code Assist",
+        "tool_url": "https://gurusup.com/blog/best-ai-for-coding",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Dynamic code generation, tailored programming support.",
+        "description": "Gemini Code Assist is an AI tool that dynamically generates code snippets and offers tailored support for programmers, facilitating faster development cycles and enhancing code quality.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "Codeium",
+        "tool_url": "https://gurusup.com/blog/best-ai-for-coding",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Code suggestions, real-time integration with IDEs.",
+        "description": "Codeium is an intelligent coding assistant that provides real-time code suggestions and integrates seamlessly with popular IDEs, improving developer efficiency and code accuracy.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "CodeWhisperer",
+        "tool_url": "https://gurusup.com/blog/best-ai-for-coding",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "AI-generated code snippets, context-aware suggestions.",
+        "description": "CodeWhisperer is an AI tool that generates code snippets based on contextual hints from developers, aiding in rapid development and reducing manual coding efforts.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "AI.Law",
+        "tool_url": "https://www.colormango.com/product/ailaw_155137.html",
+        "code": "N/A",
+        "discount_amount": "17%",
+        "pricing_info": "Limited-time offer for 2026.",
+        "key_features": "Instant discounts, verified offers.",
+        "description": "AI.Law delivers advanced legal AI solutions to improve traditional legal workflows and enhance legal practice management.",
+        "category": "Legal AI"
+    },
+    {
+        "tool_name": "SimplyCodes",
+        "tool_url": "https://play.google.com/store/apps/details?id=com.simplycodes.mobile&hl=en_US",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Free coupon extension with 40M+ shoppers.",
+        "key_features": "AI-powered verification system with real shopper involvement to ensure coupon accuracy.",
+        "description": "SimplyCodes is a coupon verification extension integrated with AI and community feedback for ensuring valid discount codes.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "AI Writing Assistants",
+        "tool_url": "https://findstack.com/deals/category/ai-writing-assistants",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Find exclusive software deals on your favorite tools.",
+        "key_features": "Software deals, coupons, and promotions for writing tools",
+        "description": "AI Writing Assistants consist of various tools designed to enhance writing capabilities through automated suggestions and optimizations.",
+        "category": "Writing AI"
     }
 ]

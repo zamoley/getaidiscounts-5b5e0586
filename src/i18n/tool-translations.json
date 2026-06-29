@@ -21,7 +21,7 @@
     "zh": "20%折扣",
     "it": "20% di sconto"
   },
-  "29 Verified coupon codes and deals": {
+  "Enjoy 50% off your first month on the Creator plan": {
     "en": "Starts at $5/mo",
     "uk": "Від $5/міс",
     "ja": "月額5ドルから",
@@ -32,7 +32,7 @@
     "zh": "起价$5/月",
     "it": "Da $5/mese"
   },
-  "50%": {
+  "50% off first month": {
     "en": "10% OFF",
     "uk": "ЗНИЖКА 10%",
     "ja": "10%オフ",
@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "Yearly plan for business at just $119/month, and unlimited videos with HeyGen Creator for $29/month.": {
+  "Save storewide with an exclusive offer for members.": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "80%": {
+  "25%": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -75,6 +75,17 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
+  },
+  "50%": {
+    "en": "$10 Credit",
+    "uk": "Кредит $10",
+    "ja": "10ドルのクレジット",
+    "es": "$10 de crédito",
+    "pt": "$10 de crédito",
+    "fr": "10 $ de crédit",
+    "de": "10 $ Guthaben",
+    "zh": "10 美元额度",
+    "it": "$10 di credito"
   },
   "Starts at $20/mo": {
     "en": "Starts at $20/mo",
@@ -527,7 +538,7 @@
     "zh": "写作优惠",
     "it": "Offerta scrittura"
   },
-  "Special offers available for lifetime plans and podcast usage.": {
+  "Lifetime AI Voice Plan available": {
     "en": "Starts at $12/mo",
     "uk": "Починається від $12/міс",
     "ja": "月額12ドルから",
@@ -538,7 +549,7 @@
     "zh": "每月12美元起",
     "it": "A partire da $12/mese"
   },
-  "30%": {
+  "50% OFF": {
     "en": "Free Trial",
     "uk": "Безкоштовна Спроба",
     "ja": "無料トライアル",
@@ -637,6 +648,17 @@
     "zh": "149 美元/月",
     "it": "149 $/mese"
   },
+  "30%": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
+  },
   "From $119.99/yr": {
     "en": "Starts at $119/year",
     "uk": "Від $119/рік",
@@ -703,7 +725,7 @@
     "zh": "艺术优惠",
     "it": "Offerta arte"
   },
-  "3 Months Deal": {
+  "First 3 months subscription": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -868,17 +890,6 @@
     "zh": "定制价格",
     "it": "Prezzi personalizzati"
   },
-  "25%": {
-    "en": "Marketing Pro",
-    "uk": "Маркетинг Про",
-    "ja": "マーケティングプロ",
-    "es": "Marketing Pro",
-    "pt": "Marketing Pro",
-    "fr": "Marketing Pro",
-    "de": "Marketing Pro",
-    "zh": "营销专业版",
-    "it": "Marketing Pro"
-  },
   "$29/month for basic plan": {
     "en": "Starts at $21/mo",
     "uk": "Від $21/міс",
@@ -933,6 +944,17 @@
     "de": "Kostenloser Zugang",
     "zh": "免费访问",
     "it": "Accesso gratuito"
+  },
+  "3 Months Deal": {
+    "en": "Free Tier Available",
+    "uk": "Доступний безкоштовний рівень",
+    "ja": "無料枠あり",
+    "es": "Nivel gratuito disponible",
+    "pt": "Nível gratuito disponível",
+    "fr": "Niveau gratuit disponible",
+    "de": "Kostenlose Stufe verfügbar",
+    "zh": "提供免费档位",
+    "it": "Livello gratuito disponibile"
   },
   "350+ AI models": {
     "en": "$20/month",
@@ -1154,7 +1176,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Monthly plan starts from $20.": {
+  "Utilization of Perplexity AI’s features with savings.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1869,7 +1891,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Save up to 28% with codes updated daily.": {
+  "Updated daily by our team.": {
     "en": "April 2026",
     "uk": "Квітень 2026",
     "ja": "2026年4月",
@@ -1946,7 +1968,18 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "1 Month Free for Students": {
+  "Discount applied to 1-Year Plan.": {
+    "en": "Get a free trial for 12 months followed by a discount on annual plans.",
+    "uk": "Отримайте безкоштовний пробний доступ на 12 місяців, а потім - знижку на річні плани.",
+    "ja": "12ヶ月間の無料トライアルを取得し、その後、年間プランに割引が適用されます。",
+    "es": "Obtén una prueba gratuita de 12 meses seguida de un descuento en planes anuales.",
+    "pt": "Obtenha um teste gratuito de 12 meses seguido de um desconto em planos anuais.",
+    "fr": "Bénéficiez d'un essai gratuit de 12 mois suivi d'une réduction sur les plans annuels.",
+    "de": "Erhalten Sie eine 12-monatige kostenlose Testversion, gefolgt von einem Rabatt auf Jahrespläne.",
+    "zh": "获得12个月的免费试用，然后在年度计划上享受折扣。",
+    "it": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
+  },
+  "85% OFF": {
     "en": "17%",
     "uk": "17%",
     "ja": "17%",
@@ -1957,7 +1990,7 @@
     "zh": "17%",
     "it": "17%"
   },
-  "Discounts available for Novelist AI Writer and AI Detector plans.": {
+  "We've gathered 14 active Novelist AI coupons & deals for June 2026.": {
     "en": "14 active coupons and deals listed for May 2026.",
     "uk": "14 активних купонів та акцій, зазначених на травень 2026 року.",
     "ja": "2026年5月に掲載された14件のアクティブクーポンと特典。",
@@ -1990,7 +2023,7 @@
     "zh": "2026年3月的7个有效AI律师促销代码。",
     "it": "7 codici promozionali attivi di AI Lawyer per marzo 2026."
   },
-  "15 verified coupons for June 2026": {
+  "Discount on AI-Lawyer's innovative legal services.": {
     "en": "15 active AI-Lawyer coupons & deals for May 2026.",
     "uk": "15 активних купонів та пропозицій AI-Lawyer на травень 2026 року.",
     "ja": "2026年5月のための15件の有効なAI-Lawyerクーポンとディール。",
@@ -2000,17 +2033,6 @@
     "de": "15 aktive AI-Lawyer-Coupons und Angebote für Mai 2026.",
     "zh": "2026年5月的15个有效的AI-Lawyer优惠券和交易。",
     "it": "15 coupon e offerte attive di AI-Lawyer per maggio 2026."
-  },
-  "Various discounts": {
-    "en": "N/A",
-    "uk": "Немає",
-    "ja": "該当なし",
-    "es": "N/A",
-    "pt": "N/A",
-    "fr": "N/A",
-    "de": "N/A",
-    "zh": "无",
-    "it": "N/A"
   },
   "Browse verified coupon codes for May 2026.": {
     "en": "Browse verified coupon codes for May 2026.",
@@ -2100,7 +2122,7 @@
     "zh": "提供各种定价选项",
     "it": "Varie opzioni di prezzo disponibili"
   },
-  "Get 20% off any plan.": {
+  "Provides a 20% discount on any plan.": {
     "en": "Applicable on all plans.",
     "uk": "Застосовується до всіх планів.",
     "ja": "すべてのプランに適用されます。",
@@ -2111,7 +2133,7 @@
     "zh": "适用于所有计划。",
     "it": "Applicabile a tutti i piani."
   },
-  "$7.50/month": {
+  "Access to 350+ AI models including Midjourney features.": {
     "en": "$7.50/month for access to over 350 AI models.",
     "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
     "ja": "350以上のAIモデルへのアクセスには月額7.50ドル。",
@@ -2210,7 +2232,7 @@
     "zh": "折扣适用于AI图像生成器功能。",
     "it": "Lo sconto si applica alla funzione di generazione di immagini con IA."
   },
-  "Pro Plan Deal for Just $24 Per Month": {
+  "Pro Plan Deal for just $24 per Month.": {
     "en": "Enterprise Plan Deal",
     "uk": "Пропозиція для підприємств",
     "ja": "エンタープライズプランの取引",
@@ -2221,7 +2243,7 @@
     "zh": "企业计划优惠",
     "it": "Offerta del Piano Aziendale"
   },
-  "0%": {
+  "$24 per month": {
     "en": "$3000 per month",
     "uk": "$3000 на місяць",
     "ja": "月額3000ドル",
@@ -2276,7 +2298,7 @@
     "zh": "每月$29",
     "it": "$29/mese"
   },
-  "Plus Plan for Sora Video Generation at $20/month; Plus Plan for $21.12.": {
+  "$20/month for Plus Plan, $21.12 for Plus Plan": {
     "en": "$20 /month for Plus Plan",
     "uk": "$20 на місяць за планом Plus",
     "ja": "プラスプランは月額20ドル",
@@ -2342,7 +2364,7 @@
     "zh": "30美元",
     "it": "30 dollari"
   },
-  "Additional 20% off during 12 months": {
+  "Monthly Creator plan available for $29.": {
     "en": "Additional 20% off during 12 months",
     "uk": "Додаткові 20% знижки протягом 12 місяців",
     "ja": "12か月間はさらに20％オフ",
@@ -2352,6 +2374,17 @@
     "de": "Zusätzliche 20% Rabatt für 12 Monate",
     "zh": "在12个月内额外优惠20%",
     "it": "20% di sconto aggiuntivo per 12 mesi"
+  },
+  "UP TO 50%": {
+    "en": "20%",
+    "uk": "20%",
+    "ja": "20%",
+    "es": "20%",
+    "pt": "20%",
+    "fr": "20%",
+    "de": "20%",
+    "zh": "20%",
+    "it": "20%"
   },
   "Up to 25% with 13 active promo codes": {
     "en": "Up to 25% with 13 active promo codes",
@@ -2363,6 +2396,50 @@
     "de": "Bis zu 25 % mit 13 aktiven Aktionscodes",
     "zh": "最多可享25%的优惠，现有13个有效促销代码",
     "it": "Fino al 25% con 13 codici promo attivi"
+  },
+  "Limited-time offer for 2026.": {
+    "en": "Limited-time offer for 2026.",
+    "uk": "Обмежена пропозиція до 2026 року.",
+    "ja": "2026年の期間限定オファー。",
+    "es": "Oferta por tiempo limitado para 2026.",
+    "pt": "Oferta por tempo limitado para 2026.",
+    "fr": "Offre à durée limitée pour 2026.",
+    "de": "Zeitlich begrenztes Angebot für 2026.",
+    "zh": "2026年限时优惠。",
+    "it": "Offerta a tempo limitato per il 2026."
+  },
+  "17%": {
+    "en": "17%",
+    "uk": "17%",
+    "ja": "17%",
+    "es": "17%",
+    "pt": "17%",
+    "fr": "17%",
+    "de": "17%",
+    "zh": "17%",
+    "it": "17%"
+  },
+  "Free coupon extension with 40M+ shoppers.": {
+    "en": "Free coupon extension with 40M+ shoppers.",
+    "uk": "Безкоштовне розширення купонів з понад 40 мільйонами покупців.",
+    "ja": "4000万人以上の買い物客とともに提供される無料のクーポン拡張機能です。",
+    "es": "Extensión de cupones gratuita con más de 40 millones de compradores.",
+    "pt": "Extensão de cupons gratuita com mais de 40 milhões de compradores.",
+    "fr": "Extension de coupons gratuite avec plus de 40 millions d'acheteurs.",
+    "de": "Kostenlose Coupon-Erweiterung mit über 40 Millionen Käufern.",
+    "zh": "针对超过4000万购物者的免费优惠券扩展。",
+    "it": "Estensione di coupon gratuita con oltre 40 milioni di acquirenti."
+  },
+  "Find exclusive software deals on your favorite tools.": {
+    "en": "Find exclusive software deals on your favorite tools.",
+    "uk": "Знайдіть ексклюзивні пропозиції на ваше улюблене програмне забезпечення.",
+    "ja": "お気に入りのツールに関する独占ソフトウェアの取引を見つけてください。",
+    "es": "Encuentra ofertas de software exclusivas en tus herramientas favoritas.",
+    "pt": "Encontre ofertas de software exclusivas nas suas ferramentas favoritas.",
+    "fr": "Trouvez des offres logicielles exclusives sur vos outils préférés.",
+    "de": "Finden Sie exklusive Softwareangebote für Ihre Lieblingswerkzeuge.",
+    "zh": "在您最喜欢的工具上找到独家软件交易。",
+    "it": "Trova offerte software esclusive sui tuoi strumenti preferiti."
   },
   "Midjourney": {
     "en": {
@@ -12442,6 +12519,342 @@
       "features": "Molti codici promozionali attivi per ulteriori risparmi.",
       "badge": "25%",
       "pricing": "Fino al 25% con 13 codici promo attivi"
+    }
+  },
+  "Gemini Code Assist": {
+    "en": {
+      "description": "Gemini Code Assist is an AI tool that dynamically generates code snippets and offers tailored support for programmers, facilitating faster development cycles and enhancing code quality.",
+      "features": "Dynamic code generation, tailored programming support.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Gemini Code Assist — це інструмент ШІ, який динамічно генерує фрагменти коду та пропонує індивідуальну підтримку для програмістів, що сприяє прискоренню циклів розробки та підвищенню якості коду.",
+      "features": "Динамічна генерація коду, індивідуальна підтримка програмування.",
+      "badge": "Немає",
+      "pricing": "Немає"
+    },
+    "ja": {
+      "description": "Gemini Code Assistは、動的にコードスニペットを生成し、プログラマーに合わせたサポートを提供するAIツールで、開発サイクルの迅速化とコードの品質向上を促進します。",
+      "features": "動的なコード生成、カスタマイズされたプログラミングサポート。",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Gemini Code Assist es una herramienta de IA que genera dinámicamente fragmentos de código y ofrece apoyo personalizado para programadores, facilitando ciclos de desarrollo más rápidos y mejorando la calidad del código.",
+      "features": "Generación de código dinámica, soporte de programación personalizado.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "O Gemini Code Assist é uma ferramenta de IA que gera dinamicamente trechos de código e oferece suporte personalizado para programadores, facilitando ciclos de desenvolvimento mais rápidos e melhorando a qualidade do código.",
+      "features": "Geração de código dinâmica, suporte de programação personalizado.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Gemini Code Assist est un outil d'IA qui génère dynamiquement des extraits de code et offre un support personnalisé aux programmeurs, facilitant des cycles de développement plus rapides et améliorant la qualité du code.",
+      "features": "Génération dynamique de code, support de programmation personnalisé.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Gemini Code Assist ist ein KI-Tool, das dynamisch Code-Snippets generiert und maßgeschneiderte Unterstützung für Programmierer bietet, wodurch schnellere Entwicklungszyklen und eine verbesserte Codequalität gefördert werden.",
+      "features": "Dynamische Code-Generierung, maßgeschneiderte Programmierunterstützung.",
+      "badge": "Nicht zutreffend",
+      "pricing": "Nicht zutreffend"
+    },
+    "zh": {
+      "description": "Gemini Code Assist是一个动态生成代码片段的AI工具，为程序员提供量身定制的支持，从而促进更快的开发周期并提高代码质量。",
+      "features": "动态代码生成，量身定制的编程支持。",
+      "badge": "不适用",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "Gemini Code Assist è uno strumento AI che genera dinamicamente frammenti di codice e offre supporto personalizzato per i programmatori, facilitando cicli di sviluppo più rapidi e migliorando la qualità del codice.",
+      "features": "Generazione dinamica di codice, supporto di programmazione personalizzato.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    }
+  },
+  "Codeium": {
+    "en": {
+      "description": "Codeium is an intelligent coding assistant that provides real-time code suggestions and integrates seamlessly with popular IDEs, improving developer efficiency and code accuracy.",
+      "features": "Code suggestions, real-time integration with IDEs.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Codeium - це інтелектуальний асистент програмування, який надає миттєві пропозиції коду та безшовно інтегрується з популярними IDE, підвищуючи ефективність розробників та точність коду.",
+      "features": "Пропозиції коду, миттєва інтеграція з IDE.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "ja": {
+      "description": "Codeiumは、リアルタイムのコード提案を提供し、人気のあるIDEとシームレスに統合されるインテリジェントなコーディングアシスタントです。開発者の効率とコードの精度を向上させます。",
+      "features": "コード提案、IDEとのリアルタイム統合。",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "es": {
+      "description": "Codeium es un asistente de codificación inteligente que proporciona sugerencias de código en tiempo real e integra sin problemas con IDEs populares, mejorando la eficiencia del desarrollador y la precisión del código.",
+      "features": "Sugerencias de código, integración en tiempo real con IDEs.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "Codeium é um assistente de codificação inteligente que fornece sugestões de código em tempo real e se integra perfeitamente com IDEs populares, melhorando a eficiência do desenvolvedor e a precisão do código.",
+      "features": "Sugestões de código, integração em tempo real com IDEs.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Codeium est un assistant de codage intelligent qui fournit des suggestions de code en temps réel et s'intègre parfaitement aux IDE populaires, améliorant l'efficacité des développeurs et la précision du code.",
+      "features": "Suggestions de code, intégration en temps réel avec les IDE.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Codeium ist ein intelligenter Programmierassistent, der in Echtzeit Codevorschläge bietet und nahtlos in beliebte IDEs integriert wird, was die Effizienz der Entwickler und die Genauigkeit des Codes verbessert.",
+      "features": "Codevorschläge, Echtzeite Integration mit IDEs.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "Codeium是一个智能编程助手，提供实时代码建议，并与流行的IDE无缝集成，提高开发人员的效率和代码的准确性。",
+      "features": "代码建议，实时与IDE集成。",
+      "badge": "无",
+      "pricing": "无"
+    },
+    "it": {
+      "description": "Codeium è un assistente di codifica intelligente che fornisce suggerimenti di codice in tempo reale e si integra perfettamente con gli IDE popolari, migliorando l'efficienza degli sviluppatori e l'accuratezza del codice.",
+      "features": "Suggerimenti di codice, integrazione in tempo reale con IDE.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    }
+  },
+  "CodeWhisperer": {
+    "en": {
+      "description": "CodeWhisperer is an AI tool that generates code snippets based on contextual hints from developers, aiding in rapid development and reducing manual coding efforts.",
+      "features": "AI-generated code snippets, context-aware suggestions.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "CodeWhisperer – це інструмент ШІ, який генерує фрагменти коду на основі контекстних підказок від розробників, сприяючи швидкій розробці та зменшуючи зусилля ручного кодування.",
+      "features": "Генеровані ШІ фрагменти коду, пропозиції, що враховують контекст.",
+      "badge": "Н/Д",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "CodeWhispererは、開発者からのコンテキストヒントに基づいてコードスニペットを生成するAIツールで、迅速な開発を支援し、手動コーディングの労力を軽減します。",
+      "features": "AI生成のコードスニペット、コンテキストに応じた提案。",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "CodeWhisperer es una herramienta de IA que genera fragmentos de código basados en pistas contextuales de los desarrolladores, ayudando en el desarrollo rápido y reduciendo los esfuerzos de codificación manual.",
+      "features": "Fragmentos de código generados por IA, sugerencias conscientes del contexto.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "CodeWhisperer é uma ferramenta de IA que gera trechos de código com base em dicas contextuais dos desenvolvedores, ajudando no desenvolvimento rápido e reduzindo os esforços de codificação manual.",
+      "features": "Trechos de código gerados por IA, sugestões cientes do contexto.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "CodeWhisperer est un outil d'IA qui génère des extraits de code en fonction des indices contextuels des développeurs, aidant au développement rapide et réduisant les efforts de codage manuel.",
+      "features": "Extraits de code générés par l'IA, suggestions contextualisées.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "CodeWhisperer ist ein KI-Tool, das Code-Snippets basierend auf kontextuellen Hinweisen von Entwicklern generiert und so die schnelle Entwicklung unterstützt und manuelle Codierungsanstrengungen reduziert.",
+      "features": "Von KI generierte Code-Snippets, kontextbewusste Vorschläge.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "CodeWhisperer是一种基于开发者的上下文提示生成代码片段的AI工具，帮助快速开发并减少手动编码工作。",
+      "features": "AI生成的代码片段，考虑上下文的建议。",
+      "badge": "不适用",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "CodeWhisperer è uno strumento di intelligenza artificiale che genera frammenti di codice basati su suggerimenti contestuali dei programmatori, facilitando lo sviluppo rapido e riducendo gli sforzi di codifica manuale.",
+      "features": "Frammenti di codice generati dall'IA, suggerimenti consapevoli del contesto.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    }
+  },
+  "AI.Law": {
+    "en": {
+      "description": "AI.Law delivers advanced legal AI solutions to improve traditional legal workflows and enhance legal practice management.",
+      "features": "Instant discounts, verified offers.",
+      "badge": "17%",
+      "pricing": "Limited-time offer for 2026."
+    },
+    "uk": {
+      "description": "AI.Law впроваджує сучасні юридичні рішення на базі ШІ для покращення традиційних юридичних процесів та підвищення управління юридичною практикою.",
+      "features": "Миттєві знижки, перевірені пропозиції.",
+      "badge": "17%",
+      "pricing": "Обмежена пропозиція до 2026 року."
+    },
+    "ja": {
+      "description": "AI.Lawは、従来の法的ワークフローを改善し、法的業務管理を強化するための高度な法律向けのŞІソリューションを提供します。",
+      "features": "即時割引、確認済みオファー。",
+      "badge": "17%",
+      "pricing": "2026年の期間限定オファー。"
+    },
+    "es": {
+      "description": "AI.Law ofrece soluciones avanzadas de ŞІ legales para mejorar los flujos de trabajo legales tradicionales y mejorar la gestión de la práctica legal.",
+      "features": "Descuentos instantáneos, ofertas verificadas.",
+      "badge": "17%",
+      "pricing": "Oferta por tiempo limitado para 2026."
+    },
+    "pt": {
+      "description": "AI.Law fornece soluções avançadas de ŞІ jurídicas para melhorar os fluxos de trabalho legais tradicionais e aprimorar a gestão da prática jurídica.",
+      "features": "Descontos instantâneos, ofertas verificadas.",
+      "badge": "17%",
+      "pricing": "Oferta por tempo limitado para 2026."
+    },
+    "fr": {
+      "description": "AI.Law fournit des solutions juridiques avancées basées sur la ŞІ pour améliorer les flux de travail juridiques traditionnels et renforcer la gestion des pratiques juridiques.",
+      "features": "Réductions instantanées, offres vérifiées.",
+      "badge": "17%",
+      "pricing": "Offre à durée limitée pour 2026."
+    },
+    "de": {
+      "description": "AI.Law bietet fortschrittliche rechtliche ŞІ-Lösungen an, um traditionelle juristische Arbeitsabläufe zu verbessern und das Management von Rechtspraktiken zu optimieren.",
+      "features": "Sofortige Rabatte, verifizierte Angebote.",
+      "badge": "17%",
+      "pricing": "Zeitlich begrenztes Angebot für 2026."
+    },
+    "zh": {
+      "description": "AI.Law提供先进的法律ŞІ解决方案，以改善传统法律工作流程并增强法律实践管理。",
+      "features": "即时折扣，验证过的优惠。",
+      "badge": "17%",
+      "pricing": "2026年限时优惠。"
+    },
+    "it": {
+      "description": "AI.Law offre soluzioni legali avanzate basate su ŞІ per migliorare i flussi di lavoro legali tradizionali e potenziare la gestione delle pratiche legali.",
+      "features": "Sconti istantanei, offerte verificate.",
+      "badge": "17%",
+      "pricing": "Offerta a tempo limitato per il 2026."
+    }
+  },
+  "SimplyCodes": {
+    "en": {
+      "description": "SimplyCodes is a coupon verification extension integrated with AI and community feedback for ensuring valid discount codes.",
+      "features": "AI-powered verification system with real shopper involvement to ensure coupon accuracy.",
+      "badge": "N/A",
+      "pricing": "Free coupon extension with 40M+ shoppers."
+    },
+    "uk": {
+      "description": "SimplyCodes - це розширення для перевірки купонів, інтегроване з ШІ та відгуками спільноти для забезпечення дійсності кодів знижок.",
+      "features": "Система перевірки на базі ШІ з участю реальних покупців для забезпечення точності купонів.",
+      "badge": "Н/Д",
+      "pricing": "Безкоштовне розширення купонів з понад 40 мільйонами покупців."
+    },
+    "ja": {
+      "description": "SimplyCodesは、正確な割引コードを保証するために、AIおよびコミュニティのフィードバックと統合されたクーポン検証拡張です。",
+      "features": "AIを活用した検証システムで、リアルな購入者が関与してクーポンの正確性を保証します。",
+      "badge": "該当なし",
+      "pricing": "4000万人以上の買い物客とともに提供される無料のクーポン拡張機能です。"
+    },
+    "es": {
+      "description": "SimplyCodes es una extensión de verificación de cupones integrada con IA y retroalimentación de la comunidad para garantizar códigos de descuento válidos.",
+      "features": "Sistema de verificación impulsado por IA con la participación de compradores reales para garantizar la precisión de los cupones.",
+      "badge": "N/D",
+      "pricing": "Extensión de cupones gratuita con más de 40 millones de compradores."
+    },
+    "pt": {
+      "description": "SimplyCodes é uma extensão de verificação de cupons integrada com IA e feedback da comunidade para garantir códigos de desconto válidos.",
+      "features": "Sistema de verificação com tecnologia de IA com a participação de compradores reais para garantir a precisão dos cupons.",
+      "badge": "N/A",
+      "pricing": "Extensão de cupons gratuita com mais de 40 milhões de compradores."
+    },
+    "fr": {
+      "description": "SimplyCodes est une extension de vérification de coupons intégrée avec l'IA et des retours de la communauté pour garantir des codes de réduction valides.",
+      "features": "Système de vérification alimenté par l'IA avec l'implication de vrais acheteurs pour garantir l'exactitude des coupons.",
+      "badge": "N/A",
+      "pricing": "Extension de coupons gratuite avec plus de 40 millions d'acheteurs."
+    },
+    "de": {
+      "description": "SimplyCodes ist eine Coupon-Überprüfungs-Erweiterung, die mit SH und Community-Feedback integriert ist, um gültige Rabattcodes sicherzustellen.",
+      "features": "KI-gestütztes Überprüfungssystem mit der Beteiligung echter Käufer, um die Genauigkeit von Coupons sicherzustellen.",
+      "badge": "k.A.",
+      "pricing": "Kostenlose Coupon-Erweiterung mit über 40 Millionen Käufern."
+    },
+    "zh": {
+      "description": "SimplyCodes是一个与人工智能和社区反馈集成的优惠券验证扩展，可确保有效的折扣代码。",
+      "features": "基于人工智能的验证系统，真实购物者参与以确保优惠券的准确性。",
+      "badge": "不适用",
+      "pricing": "针对超过4000万购物者的免费优惠券扩展。"
+    },
+    "it": {
+      "description": "SimplyCodes è un'estensione di verifica dei coupon integrata con l'IA e feedback della comunità per garantire codici sconto validi.",
+      "features": "Sistema di verifica basato su IA con il coinvolgimento di acquirenti reali per garantire l'accuratezza dei coupon.",
+      "badge": "N/D",
+      "pricing": "Estensione di coupon gratuita con oltre 40 milioni di acquirenti."
+    }
+  },
+  "AI Writing Assistants": {
+    "en": {
+      "description": "AI Writing Assistants consist of various tools designed to enhance writing capabilities through automated suggestions and optimizations.",
+      "features": "Software deals, coupons, and promotions for writing tools.",
+      "badge": "N/A",
+      "pricing": "Find exclusive software deals on your favorite tools."
+    },
+    "uk": {
+      "description": "ШІ інструменти для написання складаються з різних засобів, призначених для покращення можливостей написання через автоматизовані пропозиції та оптимізації.",
+      "features": "Пропозиції програмного забезпечення, купони та акції для інструментів написання.",
+      "badge": "Немає",
+      "pricing": "Знайдіть ексклюзивні пропозиції на ваше улюблене програмне забезпечення."
+    },
+    "ja": {
+      "description": "AIライティングアシスタントは、自動提案や最適化を通じてライティング能力を向上させるために設計されたさまざまなツールで構成されています。",
+      "features": "ライティングツールのためのソフトウェアの取引、クーポン、プロモーション。",
+      "badge": "該当なし",
+      "pricing": "お気に入りのツールに関する独占ソフトウェアの取引を見つけてください。"
+    },
+    "es": {
+      "description": "Los Asistentes de Escritura AI consisten en varias herramientas diseñadas para mejorar las capacidades de escritura a través de sugerencias y optimizaciones automatizadas.",
+      "features": "Ofertas de software, cupones y promociones para herramientas de escritura.",
+      "badge": "N/D",
+      "pricing": "Encuentra ofertas de software exclusivas en tus herramientas favoritas."
+    },
+    "pt": {
+      "description": "Os Assistentes de Escrita de IA consistem em várias ferramentas projetadas para aprimorar as capacidades de escrita por meio de sugestões e otimizações automatizadas.",
+      "features": "Ofertas de software, cupons e promoções para ferramentas de escrita.",
+      "badge": "N/A",
+      "pricing": "Encontre ofertas de software exclusivas nas suas ferramentas favoritas."
+    },
+    "fr": {
+      "description": "Les Assistants d'Écriture AI se composent de divers outils conçus pour améliorer les capacités d'écriture grâce à des suggestions et à des optimisations automatisées.",
+      "features": "Offres de logiciels, coupons et promotions pour les outils d'écriture.",
+      "badge": "N/A",
+      "pricing": "Trouvez des offres logicielles exclusives sur vos outils préférés."
+    },
+    "de": {
+      "description": "KI-Schreibassistenten bestehen aus verschiedenen Werkzeugen, die entwickelt wurden, um die Schreibfähigkeiten durch automatisierte Vorschläge und Optimierungen zu verbessern.",
+      "features": "Softwareangebote, Gutscheine und Aktionen für Schreibwerkzeuge.",
+      "badge": "Keine",
+      "pricing": "Finden Sie exklusive Softwareangebote für Ihre Lieblingswerkzeuge."
+    },
+    "zh": {
+      "description": "人工智能写作助手由各种工具组成，旨在通过自动建议和优化增强写作能力。",
+      "features": "写作工具的软件交易、优惠券和促销活动。",
+      "badge": "不适用",
+      "pricing": "在您最喜欢的工具上找到独家软件交易。"
+    },
+    "it": {
+      "description": "Gli Assistenti alla Scrittura AI sono costituiti da vari strumenti progettati per migliorare le capacità di scrittura tramite suggerimenti e ottimizzazioni automatiche.",
+      "features": "Offerte di software, coupon e promozioni per strumenti di scrittura.",
+      "badge": "N/D",
+      "pricing": "Trova offerte software esclusive sui tuoi strumenti preferiti."
     }
   }
 }
