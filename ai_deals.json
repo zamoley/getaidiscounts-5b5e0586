@@ -14,8 +14,8 @@
         "tool_name": "ElevenLabs",
         "tool_url": "https://elevenlabs.io",
         "code": "ELEVEN10",
-        "discount_amount": "50% off first month",
-        "pricing_info": "Enjoy 50% off your first month on the Creator plan",
+        "discount_amount": "50%",
+        "pricing_info": "Up to 17% off annual billing",
         "key_features": "Realistic Voice Cloning, Text-to-Speech",
         "description": "The most realistic AI voice generator available.",
         "last_verified": "2026-05-05",
@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "Exclusive 80% OFF",
-        "discount_amount": "25%",
-        "pricing_info": "Save storewide with an exclusive offer for members.",
+        "discount_amount": "80%",
+        "pricing_info": "Just $29/month",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -374,8 +374,8 @@
         "tool_name": "VoiceType AI",
         "tool_url": "N/A",
         "code": "50% Off Lifetime AI Voice Plan",
-        "discount_amount": "50% OFF",
-        "pricing_info": "Lifetime AI Voice Plan available",
+        "discount_amount": "50%",
+        "pricing_info": "Lifetime AI Voice Plan",
         "key_features": "Speech-to-Text, Voice Control",
         "description": "Efficient voice-to-text conversion for faster typing and documentation.",
         "last_verified": "2026-05-06",
@@ -650,8 +650,8 @@
         "tool_name": "Claude AI",
         "tool_url": "https://www.anthropic.com/claude",
         "code": "CLAUDE123",
-        "discount_amount": "50%",
-        "pricing_info": "3 Months Deal",
+        "discount_amount": "17% off on annual billing",
+        "pricing_info": "Free API credits worth $1,000-$25 available.",
         "key_features": "Advanced natural language understanding, Conversational AI capabilities, Flexible API integration",
         "description": "Claude is a state-of-the-art conversational AI developed by Anthropic. It is designed to assist users with a wide array of tasks, from answering questions to generating content in a human-like manner. With its advanced algorithms and training on diverse datasets, Claude aims to understand context and provide relevant, coherent responses. The AI can be utilized in various industries including customer support, content creation, and education.",
         "category": "No-Code AI"
@@ -821,7 +821,7 @@
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
         "discount_amount": "3 Months Free",
-        "pricing_info": "Utilization of Perplexity AI\u2019s features with savings.",
+        "pricing_info": "Perplexity Pro valued at $240 for free for students.",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1425,8 +1425,8 @@
         "tool_name": "Comp AI",
         "tool_url": "https://compai.vectortemplates.com/",
         "code": "N/A",
-        "discount_amount": "28%",
-        "pricing_info": "Updated daily by our team.",
+        "discount_amount": "25% Off",
+        "pricing_info": "Prices vary, coupons updated daily.",
         "key_features": "Deals on templates, themes, and AI tools such as writing tools and chatbots.",
         "description": "Comp AI offers a range of coupons and promo codes for various AI tools and templates, helping users access essential resources at discounted rates.",
         "category": "Search AI"
@@ -1476,7 +1476,7 @@
         "tool_url": "https://novelistai.startupworld.com/",
         "code": "N/A",
         "discount_amount": "Varied discounts available",
-        "pricing_info": "We've gathered 14 active Novelist AI coupons & deals for June 2026.",
+        "pricing_info": "Offers various discounts and deals for users.",
         "key_features": "Offers AI tools for writing novels and detecting AI-generated text.",
         "description": "Novelist AI is a tailored solution that assists authors in creating, editing, and refining their novels through advanced AI techniques.",
         "category": "Writing AI"
@@ -1494,7 +1494,7 @@
     {
         "tool_name": "AI-Lawyer",
         "tool_url": "https://ailawyer.startupworld.com/",
-        "code": "N/A",
+        "code": "Discount Code",
         "discount_amount": "10%",
         "pricing_info": "Discount on AI-Lawyer's innovative legal services.",
         "key_features": "Verified by team before listing.",
@@ -1676,7 +1676,7 @@
         "tool_url": "https://expertiseai.startupworld.com",
         "code": "N/A",
         "discount_amount": "$24 per month",
-        "pricing_info": "Pro Plan Deal for just $24 per Month.",
+        "pricing_info": "Pro Plan available for $24 per month",
         "key_features": "Powerful AI tools, automation features, premium support, advanced capabilities for businesses.",
         "description": "Expertise AI provides advanced artificial intelligence solutions designed for enterprise needs, integrating automation and high-level support to enhance business processes.",
         "category": "Industrial AI"
@@ -1685,8 +1685,8 @@
         "tool_name": "ChatGPT Codex",
         "tool_url": "https://chatgptcodex.startupworld.com",
         "code": "10% Off",
-        "discount_amount": "10%",
-        "pricing_info": "N/A",
+        "discount_amount": "various",
+        "pricing_info": "Plus Plan for Sora Video Generation at $20/month and Plus Plan for $21.12",
         "key_features": "API access, automatic discount application.",
         "description": "ChatGPT Codex provides developers with access to OpenAI's GPT-3 capabilities through a flexible and functional API. This enhances the ability to build applications that leverage advanced natural language processing.",
         "category": "Coding AI"
@@ -1766,7 +1766,7 @@
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
         "code": "TWOFOLD30",
         "discount_amount": "$30",
-        "pricing_info": "$69/month",
+        "pricing_info": "Discount applicable on annual plans.",
         "key_features": "Annual plans, medical scribing capabilities",
         "description": "AI Scribe is an AI-based tool designed to assist medical professionals with documentation and patient interaction. It streamlines the scribing process, allowing for more efficient healthcare delivery.",
         "category": "Medical AI"
@@ -1850,5 +1850,55 @@
         "key_features": "Software deals, coupons, and promotions for writing tools",
         "description": "AI Writing Assistants consist of various tools designed to enhance writing capabilities through automated suggestions and optimizations.",
         "category": "Writing AI"
+    },
+    {
+        "tool_name": "Midjourney Promo Code",
+        "tool_url": "https://www.bitdegree.org/ai/deals/midjourney-promo-code",
+        "code": "N/A",
+        "discount_amount": "Varies",
+        "pricing_info": "Deals on subscription plans.",
+        "key_features": "Exclusive promotional deals.",
+        "description": "Midjourney is an AI-powered image generator that allows users to create stunning visuals. Various promo codes can be utilized to save on subscription costs.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "Midjourney Coupon Code",
+        "tool_url": "https://krater.ai/coupon/midjourney",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "$7.50/mo for access to 350+ AI models.",
+        "key_features": "Including Midjourney features, ChatGPT, Claude, Gemini.",
+        "description": "Midjourney Coupon Code provides a pathway to access a variety of AI models bundled in a subscription, enabling users to explore advanced AI functionalities at an affordable price.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "ElevenAgents",
+        "tool_url": "https://elevenlabs.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "$0.1 per minute for the Starter Plan",
+        "key_features": "Conversational AI services, affordable pricing",
+        "description": "ElevenAgents provides affordable access to conversational AI services, making it easier for businesses to integrate AI into their operations.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "MusicCreator AI",
+        "tool_url": "https://techjury.net/ai-coupons/musiccreator-ai",
+        "code": "N/A",
+        "discount_amount": "30% Off",
+        "pricing_info": "Applicable for yearly plans.",
+        "key_features": "Creates unlimited royalty-free music, simple user interface.",
+        "description": "MusicCreator AI is a platform that harnesses the power of artificial intelligence to aid in music composition, offering tools that cater to both beginners and experienced musicians.",
+        "category": "Music AI"
+    },
+    {
+        "tool_name": "ChatGPT Promo Codes",
+        "tool_url": "https://blog.nachonacho.com/best/chatgpt-promo-codes",
+        "code": "N/A",
+        "discount_amount": "$25k Credits",
+        "pricing_info": "Multiple active promo codes available for discounts.",
+        "key_features": "Comprehensive overview of all available promo codes and discounts.",
+        "description": "This tool aggregates promo codes and discount offers for ChatGPT, providing users with an extensive list of savings opportunities.",
+        "category": "Marketing AI"
     }
 ]

@@ -21,7 +21,7 @@
     "zh": "20%折扣",
     "it": "20% di sconto"
   },
-  "Enjoy 50% off your first month on the Creator plan": {
+  "Up to 17% off annual billing": {
     "en": "Starts at $5/mo",
     "uk": "Від $5/міс",
     "ja": "月額5ドルから",
@@ -32,7 +32,7 @@
     "zh": "起价$5/月",
     "it": "Da $5/mese"
   },
-  "50% off first month": {
+  "50%": {
     "en": "10% OFF",
     "uk": "ЗНИЖКА 10%",
     "ja": "10%オフ",
@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "Save storewide with an exclusive offer for members.": {
+  "Just $29/month": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "25%": {
+  "80%": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -75,17 +75,6 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
-  },
-  "50%": {
-    "en": "$10 Credit",
-    "uk": "Кредит $10",
-    "ja": "10ドルのクレジット",
-    "es": "$10 de crédito",
-    "pt": "$10 de crédito",
-    "fr": "10 $ de crédit",
-    "de": "10 $ Guthaben",
-    "zh": "10 美元额度",
-    "it": "$10 di credito"
   },
   "Starts at $20/mo": {
     "en": "Starts at $20/mo",
@@ -538,7 +527,7 @@
     "zh": "写作优惠",
     "it": "Offerta scrittura"
   },
-  "Lifetime AI Voice Plan available": {
+  "Lifetime AI Voice Plan": {
     "en": "Starts at $12/mo",
     "uk": "Починається від $12/міс",
     "ja": "月額12ドルから",
@@ -548,17 +537,6 @@
     "de": "Ab $12/Monat",
     "zh": "每月12美元起",
     "it": "A partire da $12/mese"
-  },
-  "50% OFF": {
-    "en": "Free Trial",
-    "uk": "Безкоштовна Спроба",
-    "ja": "無料トライアル",
-    "es": "Prueba Gratuita",
-    "pt": "Teste Gratuito",
-    "fr": "Essai Gratuit",
-    "de": "Kostenlose Testphase",
-    "zh": "免费试用",
-    "it": "Prova Gratuita"
   },
   "Plans start at $29/month.": {
     "en": "$39/Month",
@@ -890,6 +868,17 @@
     "zh": "定制价格",
     "it": "Prezzi personalizzati"
   },
+  "25%": {
+    "en": "Marketing Pro",
+    "uk": "Маркетинг Про",
+    "ja": "マーケティングプロ",
+    "es": "Marketing Pro",
+    "pt": "Marketing Pro",
+    "fr": "Marketing Pro",
+    "de": "Marketing Pro",
+    "zh": "营销专业版",
+    "it": "Marketing Pro"
+  },
   "$29/month for basic plan": {
     "en": "Starts at $21/mo",
     "uk": "Від $21/міс",
@@ -945,7 +934,7 @@
     "zh": "免费访问",
     "it": "Accesso gratuito"
   },
-  "3 Months Deal": {
+  "Free API credits worth $1,000-$25 available.": {
     "en": "Free Tier Available",
     "uk": "Доступний безкоштовний рівень",
     "ja": "無料枠あり",
@@ -955,6 +944,17 @@
     "de": "Kostenlose Stufe verfügbar",
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
+  },
+  "17% off on annual billing": {
+    "en": "AI Assistant",
+    "uk": "ШІ-асистент",
+    "ja": "AIアシスタント",
+    "es": "Asistente de IA",
+    "pt": "Assistente de IA",
+    "fr": "Assistant IA",
+    "de": "KI-Assistent",
+    "zh": "AI 助手",
+    "it": "Assistente IA"
   },
   "350+ AI models": {
     "en": "$20/month",
@@ -1176,7 +1176,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Utilization of Perplexity AI’s features with savings.": {
+  "Perplexity Pro valued at $240 for free for students.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1891,7 +1891,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Updated daily by our team.": {
+  "Prices vary, coupons updated daily.": {
     "en": "April 2026",
     "uk": "Квітень 2026",
     "ja": "2026年4月",
@@ -1902,7 +1902,7 @@
     "zh": "2026年4月",
     "it": "Aprile 2026"
   },
-  "28%": {
+  "25% Off": {
     "en": "65%",
     "uk": "65%",
     "ja": "65%",
@@ -1990,7 +1990,7 @@
     "zh": "17%",
     "it": "17%"
   },
-  "We've gathered 14 active Novelist AI coupons & deals for June 2026.": {
+  "Offers various discounts and deals for users.": {
     "en": "14 active coupons and deals listed for May 2026.",
     "uk": "14 активних купонів та акцій, зазначених на травень 2026 року.",
     "ja": "2026年5月に掲載された14件のアクティブクーポンと特典。",
@@ -2232,7 +2232,7 @@
     "zh": "折扣适用于AI图像生成器功能。",
     "it": "Lo sconto si applica alla funzione di generazione di immagini con IA."
   },
-  "Pro Plan Deal for just $24 per Month.": {
+  "Pro Plan available for $24 per month": {
     "en": "Enterprise Plan Deal",
     "uk": "Пропозиція для підприємств",
     "ja": "エンタープライズプランの取引",
@@ -2253,6 +2253,28 @@
     "de": "3000 $ pro Monat",
     "zh": "每月3000美元",
     "it": "3000 dollari al mese"
+  },
+  "Plus Plan for Sora Video Generation at $20/month and Plus Plan for $21.12": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/D",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "无",
+    "it": "N/A"
+  },
+  "various": {
+    "en": "10%",
+    "uk": "10%",
+    "ja": "10%",
+    "es": "10%",
+    "pt": "10%",
+    "fr": "10%",
+    "de": "10%",
+    "zh": "10%",
+    "it": "10%"
   },
   "Affordable access to powerful AI performance.": {
     "en": "Affordable access to powerful AI performance.",
@@ -2286,17 +2308,6 @@
     "de": "Kombinierter Zugriff auf mehrere KI-Tools zu einem ermäßigten Preis.",
     "zh": "以折扣价格组合访问多个人工智能工具。",
     "it": "Accesso combinato a più strumenti di IA a una tariffa scontata."
-  },
-  "Just $29/month": {
-    "en": "$29/month",
-    "uk": "$29/місяць",
-    "ja": "$29/月",
-    "es": "$29/mes",
-    "pt": "$29/mês",
-    "fr": "$29/mois",
-    "de": "$29/Monat",
-    "zh": "每月$29",
-    "it": "$29/mese"
   },
   "$20/month for Plus Plan, $21.12 for Plus Plan": {
     "en": "$20 /month for Plus Plan",
@@ -2342,7 +2353,7 @@
     "zh": "$24 每月",
     "it": "$24 Al Mese"
   },
-  "$69/month": {
+  "Discount applicable on annual plans.": {
     "en": "$69/month",
     "uk": "$69/місяць",
     "ja": "月額69ドル",
@@ -2440,6 +2451,83 @@
     "de": "Finden Sie exklusive Softwareangebote für Ihre Lieblingswerkzeuge.",
     "zh": "在您最喜欢的工具上找到独家软件交易。",
     "it": "Trova offerte software esclusive sui tuoi strumenti preferiti."
+  },
+  "Deals on subscription plans.": {
+    "en": "Deals on subscription plans.",
+    "uk": "Знижки на підписні плани.",
+    "ja": "サブスクリプションプランのディール。",
+    "es": "Ofertas en planes de suscripción.",
+    "pt": "Ofertas em planos de assinatura.",
+    "fr": "Offres sur les plans d'abonnement.",
+    "de": "Angebote für Abonnementpläne.",
+    "zh": "订阅计划的交易。",
+    "it": "Offerte sui piani di abbonamento."
+  },
+  "$7.50/mo for access to 350+ AI models.": {
+    "en": "$7.50/mo for access to 350+ AI models.",
+    "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
+    "ja": "$7.50/月で350以上のAIモデルにアクセス。",
+    "es": "$7.50/mes por acceso a más de 350 modelos de IA.",
+    "pt": "$7,50/mês para acesso a mais de 350 modelos de IA.",
+    "fr": "7,50 $/mois pour accéder à plus de 350 modèles d'IA.",
+    "de": "7,50 $/Monat für den Zugang zu über 350 KI-Modellen.",
+    "zh": "$7.50/月，访问超过350种AI模型。",
+    "it": "$7,50/mese per accedere a oltre 350 modelli di IA."
+  },
+  "$0.1 per minute for the Starter Plan": {
+    "en": "$0.1 per minute for the Starter Plan",
+    "uk": "$0.1 за хвилину для Стартового плану",
+    "ja": "スタータープランは1分あたり$0.1",
+    "es": "$0.1 por minuto para el Plan Inicial",
+    "pt": "$0.1 por minuto para o Plano Inicial",
+    "fr": "$0.1 par minute pour le Plan de Démarrage",
+    "de": "$0.1 pro Minute für den Starter-Plan",
+    "zh": "初始计划每分钟$0.1",
+    "it": "$0.1 al minuto per il Piano Iniziale"
+  },
+  "Applicable for yearly plans.": {
+    "en": "Applicable for yearly plans.",
+    "uk": "Діє для річних планів.",
+    "ja": "年会費プランに適用されます。",
+    "es": "Aplicable a planes anuales.",
+    "pt": "Aplicável a planos anuais.",
+    "fr": "Applicable pour les plans annuels.",
+    "de": "Anwendbar für Jahrespläne.",
+    "zh": "适用于年度计划。",
+    "it": "Applicabile ai piani annuali."
+  },
+  "30% Off": {
+    "en": "30% Off",
+    "uk": "Знижка 30%",
+    "ja": "30%オフ",
+    "es": "30% de descuento",
+    "pt": "30% de desconto",
+    "fr": "30% de réduction",
+    "de": "30% Rabatt",
+    "zh": "享受 30% 折扣",
+    "it": "30% di sconto"
+  },
+  "Multiple active promo codes available for discounts.": {
+    "en": "Multiple active promo codes available for discounts.",
+    "uk": "Доступно кілька активних промокодів для знижок.",
+    "ja": "割引用の複数のアクティブなプロモコードが利用可能です。",
+    "es": "Múltiples códigos promocionales activos disponibles para descuentos.",
+    "pt": "Múltiplos códigos promocionais ativos disponíveis para descontos.",
+    "fr": "Plusieurs codes promo actifs disponibles pour des réductions.",
+    "de": "Mehrere aktive Promo-Codes sind verfügbar, um Rabatte zu erhalten.",
+    "zh": "提供多个可用的促销代码以获取折扣。",
+    "it": "Multipli codici promozionali attivi disponibili per sconti."
+  },
+  "$25k Credits": {
+    "en": "$25k Credits",
+    "uk": "25 тисяч доларів кредитів",
+    "ja": "25,000ドルのクレジット",
+    "es": "25,000 dólares en créditos",
+    "pt": "25 mil dólares em créditos",
+    "fr": "25 000 $ de crédits",
+    "de": "25.000 $ Guthaben",
+    "zh": "25,000美元的积分",
+    "it": "25.000 dollari in crediti"
   },
   "Midjourney": {
     "en": {
@@ -12855,6 +12943,286 @@
       "features": "Offerte di software, coupon e promozioni per strumenti di scrittura.",
       "badge": "N/D",
       "pricing": "Trova offerte software esclusive sui tuoi strumenti preferiti."
+    }
+  },
+  "Midjourney Promo Code": {
+    "en": {
+      "description": "Midjourney is an AI-powered image generator that allows users to create stunning visuals. Various promo codes can be utilized to save on subscription costs.",
+      "features": "Exclusive promotional deals.",
+      "badge": "Varies",
+      "pricing": "Deals on subscription plans."
+    },
+    "uk": {
+      "description": "Midjourney - це генератор зображень, що працює на основі ШІ, який дозволяє користувачам створювати вражаючі візуальні ефекти. Різні акційні коди можуть бути використані для економії на витратах на підписку.",
+      "features": "Ексклюзивні промоційні пропозиції.",
+      "badge": "Змінюється",
+      "pricing": "Знижки на підписні плани."
+    },
+    "ja": {
+      "description": "Midjourneyは、ユーザーが素晴らしいビジュアルを作成できるAI駆動の画像生成器です。さまざまなプロモーションコードを利用して、サブスクリプションコストを節約できます。",
+      "features": "独占的プロモーションディール。",
+      "badge": "さまざま",
+      "pricing": "サブスクリプションプランのディール。"
+    },
+    "es": {
+      "description": "Midjourney es un generador de imágenes impulsado por IA que permite a los usuarios crear visuales impresionantes. Se pueden utilizar varios códigos promocionales para ahorrar en costos de suscripción.",
+      "features": "Ofertas promocionales exclusivas.",
+      "badge": "Varía",
+      "pricing": "Ofertas en planes de suscripción."
+    },
+    "pt": {
+      "description": "Midjourney é um gerador de imagens alimentado por IA que permite aos usuários criar visuais impressionantes. Vários códigos promocionais podem ser utilizados para economizar nos custos de assinatura.",
+      "features": "Ofertas promocionais exclusivas.",
+      "badge": "Varia",
+      "pricing": "Ofertas em planos de assinatura."
+    },
+    "fr": {
+      "description": "Midjourney est un générateur d'images alimenté par l'IA qui permet aux utilisateurs de créer des visuels époustouflants. Divers codes promotionnels peuvent être utilisés pour économiser sur les coûts d'abonnement.",
+      "features": "Offres promotionnelles exclusives.",
+      "badge": "Varie",
+      "pricing": "Offres sur les plans d'abonnement."
+    },
+    "de": {
+      "description": "Midjourney ist ein bildgenerator, der von ШІ unterstützt wird, und es den Benutzern ermöglicht, beeindruckende visuelle Inhalte zu erstellen. Verschiedene Aktionscodes können verwendet werden, um bei den Abonnementkosten zu sparen.",
+      "features": "Exklusive Werbeaktionen.",
+      "badge": "Variiert",
+      "pricing": "Angebote für Abonnementpläne."
+    },
+    "zh": {
+      "description": "Midjourney是一个由ШІ驱动的图像生成器，允许用户创建惊人的视觉效果。可使用多种促销代码来节省订阅费用。",
+      "features": "独家促销交易。",
+      "badge": "多种多样",
+      "pricing": "订阅计划的交易。"
+    },
+    "it": {
+      "description": "Midjourney è un generatore di immagini alimentato da ШІ che consente agli utenti di creare visual fantastici. Vari codici promozionali possono essere utilizzati per risparmiare sui costi di abbonamento.",
+      "features": "Offerte promozionali esclusive.",
+      "badge": "Varia",
+      "pricing": "Offerte sui piani di abbonamento."
+    }
+  },
+  "Midjourney Coupon Code": {
+    "en": {
+      "description": "Midjourney Coupon Code provides a pathway to access a variety of AI models bundled in a subscription, enabling users to explore advanced AI functionalities at an affordable price.",
+      "features": "Including Midjourney features, ChatGPT, Claude, Gemini.",
+      "badge": "N/A",
+      "pricing": "$7.50/mo for access to 350+ AI models."
+    },
+    "uk": {
+      "description": "Код купону Midjourney надає можливість отримати доступ до різноманітних моделей ШІ, об'єднаних у підписці, що дозволяє користувачам досліджувати розвинені функції ШІ за доступною ціною.",
+      "features": "Включає можливості Midjourney, ChatGPT, Claude, Gemini.",
+      "badge": "Н/Д",
+      "pricing": "$7.50/місяць за доступ до понад 350 моделей ШІ."
+    },
+    "ja": {
+      "description": "Midjourneyクーポンコードは、サブスクリプションでバンドルされたさまざまなAIモデルにアクセスするための道を提供し、ユーザーが手頃な価格で高度なAI機能を探索できるようにします。",
+      "features": "Midjourneyの機能、ChatGPT、Claude、Geminiを含む。",
+      "badge": "該当なし",
+      "pricing": "$7.50/月で350以上のAIモデルにアクセス。"
+    },
+    "es": {
+      "description": "El código de cupón de Midjourney proporciona una vía para acceder a una variedad de modelos de IA agrupados en una suscripción, lo que permite a los usuarios explorar funcionalidades avanzadas de IA a un precio asequible.",
+      "features": "Incluye características de Midjourney, ChatGPT, Claude, Gemini.",
+      "badge": "N/A",
+      "pricing": "$7.50/mes por acceso a más de 350 modelos de IA."
+    },
+    "pt": {
+      "description": "O código de cupão do Midjourney oferece um caminho para acessar uma variedade de modelos de IA agrupados em uma assinatura, permitindo que os usuários explorem funcionalidades avançadas de IA a um preço acessível.",
+      "features": "Inclui recursos do Midjourney, ChatGPT, Claude, Gemini.",
+      "badge": "N/A",
+      "pricing": "$7,50/mês para acesso a mais de 350 modelos de IA."
+    },
+    "fr": {
+      "description": "Le code de réduction Midjourney offre un moyen d'accéder à une variété de modèles d'IA regroupés dans un abonnement, permettant aux utilisateurs d'explorer des fonctionnalités avancées de l'IA à un prix abordable.",
+      "features": "Comprend les fonctionnalités de Midjourney, ChatGPT, Claude, Gemini.",
+      "badge": "N/A",
+      "pricing": "7,50 $/mois pour accéder à plus de 350 modèles d'IA."
+    },
+    "de": {
+      "description": "Der Midjourney-Gutscheincode bietet einen Weg, um auf eine Vielzahl von KI-Modellen zuzugreifen, die in einem Abonnement gebündelt sind, wodurch Benutzer erweiterte KI-Funktionalitäten zu einem erschwinglichen Preis erkunden können.",
+      "features": "Enthält Midjourney-Funktionen, ChatGPT, Claude, Gemini.",
+      "badge": "N/A",
+      "pricing": "7,50 $/Monat für den Zugang zu über 350 KI-Modellen."
+    },
+    "zh": {
+      "description": "Midjourney优惠码提供了一条通道，允许用户通过订阅访问多种捆绑在一起的AI模型，使用户能够以实惠的价格探索先进的AI功能。",
+      "features": "包括Midjourney功能、ChatGPT、Claude、Gemini。",
+      "badge": "N/A",
+      "pricing": "$7.50/月，访问超过350种AI模型。"
+    },
+    "it": {
+      "description": "Il codice coupon di Midjourney fornisce un modo per accedere a una varietà di modelli di IA raggruppati in un abbonamento, consentendo agli utenti di esplorare funzionalità avanzate di IA a un prezzo accessibile.",
+      "features": "Include le funzionalità di Midjourney, ChatGPT, Claude, Gemini.",
+      "badge": "N/D",
+      "pricing": "$7,50/mese per accedere a oltre 350 modelli di IA."
+    }
+  },
+  "ElevenAgents": {
+    "en": {
+      "description": "ElevenAgents provides affordable access to conversational AI services, making it easier for businesses to integrate AI into their operations.",
+      "features": "Conversational AI services, affordable pricing",
+      "badge": "N/A",
+      "pricing": "$0.1 per minute for the Starter Plan"
+    },
+    "uk": {
+      "description": "ElevenAgents надає доступ до розмовних послуг ШІ за доступними цінами, що полегшує бізнесам інтеграцію ШІ у свої процеси.",
+      "features": "Послуги розмовного ШІ, доступні ціни",
+      "badge": "Немає",
+      "pricing": "$0.1 за хвилину для Стартового плану"
+    },
+    "ja": {
+      "description": "ElevenAgentsは、会話型AIサービスへの手頃なアクセスを提供し、ビジネスがAIを業務に統合しやすくします。",
+      "features": "会話型AIサービス、手頃な価格",
+      "badge": "該当なし",
+      "pricing": "スタータープランは1分あたり$0.1"
+    },
+    "es": {
+      "description": "ElevenAgents ofrece acceso asequible a servicios de inteligencia artificial conversacional, facilitando a las empresas la integración de la IA en sus operaciones.",
+      "features": "Servicios de IA conversacional, precios asequibles",
+      "badge": "N/A",
+      "pricing": "$0.1 por minuto para el Plan Inicial"
+    },
+    "pt": {
+      "description": "ElevenAgents oferece acesso acessível a serviços de IA conversacional, facilitando para as empresas a integração da IA em suas operações.",
+      "features": "Serviços de IA conversacional, preços acessíveis",
+      "badge": "N/A",
+      "pricing": "$0.1 por minuto para o Plano Inicial"
+    },
+    "fr": {
+      "description": "ElevenAgents propose un accès abordable aux services de IA conversationnelle, facilitant l'intégration de l'IA dans les opérations des entreprises.",
+      "features": "Services d'IA conversationnelle, tarification abordable",
+      "badge": "N/A",
+      "pricing": "$0.1 par minute pour le Plan de Démarrage"
+    },
+    "de": {
+      "description": "ElevenAgents bietet erschwinglichen Zugang zu Conversational AI-Diensten, was es Unternehmen erleichtert, KI in ihre Abläufe zu integrieren.",
+      "features": "Conversational AI-Dienste, erschwingliche Preise",
+      "badge": "N/A",
+      "pricing": "$0.1 pro Minute für den Starter-Plan"
+    },
+    "zh": {
+      "description": "ElevenAgents 提供负担得起的对话式AI服务，帮助企业更容易地将AI整合到其运营中。",
+      "features": "对话式AI服务，实惠的定价",
+      "badge": "N/A",
+      "pricing": "初始计划每分钟$0.1"
+    },
+    "it": {
+      "description": "ElevenAgents offre un accesso economico ai servizi di intelligenza artificiale conversazionale, facilitando l'integrazione dell'IA nelle operazioni aziendali.",
+      "features": "Servizi di IA conversazionale, prezzi accessibili",
+      "badge": "N/A",
+      "pricing": "$0.1 al minuto per il Piano Iniziale"
+    }
+  },
+  "MusicCreator AI": {
+    "en": {
+      "description": "MusicCreator AI is a platform that harnesses the power of artificial intelligence to aid in music composition, offering tools that cater to both beginners and experienced musicians.",
+      "features": "Creates unlimited royalty-free music, simple user interface.",
+      "badge": "30% Off",
+      "pricing": "Applicable for yearly plans."
+    },
+    "uk": {
+      "description": "MusicCreator ШІ - це платформа, яка використовує потужність штучного інтелекту для допомоги в музичному складанні, пропонуючи інструменти, які підходять як для початківців, так і для досвідчених музикантів.",
+      "features": "Створює необмежену кількість музики без роялті, простий інтерфейс користувача.",
+      "badge": "Знижка 30%",
+      "pricing": "Діє для річних планів."
+    },
+    "ja": {
+      "description": "MusicCreator AIは、音楽作曲を支援するために人工知能の力を活用するプラットフォームであり、初心者と経験豊富なミュージシャンの両方に対応したツールを提供します。",
+      "features": "無制限のロイヤリティフリー音楽を作成し、シンプルなユーザーインターフェースを提供します。",
+      "badge": "30%オフ",
+      "pricing": "年会費プランに適用されます。"
+    },
+    "es": {
+      "description": "MusicCreator AI es una plataforma que aprovecha el poder de la inteligencia artificial para ayudar en la composición musical, ofreciendo herramientas que se adaptan tanto a principiantes como a músicos experimentados.",
+      "features": "Crea música ilimitada libre de regalías, interfaz de usuario simple.",
+      "badge": "30% de descuento",
+      "pricing": "Aplicable a planes anuales."
+    },
+    "pt": {
+      "description": "MusicCreator AI é uma plataforma que utiliza o poder da inteligência artificial para ajudar na composição musical, oferecendo ferramentas que atendem a iniciantes e músicos experientes.",
+      "features": "Cria música ilimitada livre de royalties, interface de usuário simples.",
+      "badge": "30% de desconto",
+      "pricing": "Aplicável a planos anuais."
+    },
+    "fr": {
+      "description": "MusicCreator AI est une plateforme qui exploite la puissance de l'intelligence artificielle pour aider à la composition musicale, offrant des outils adaptés tant aux débutants qu'aux musiciens expérimentés.",
+      "features": "Crée une musique illimitée sans droits d’auteur, interface utilisateur simple.",
+      "badge": "30% de réduction",
+      "pricing": "Applicable pour les plans annuels."
+    },
+    "de": {
+      "description": "MusicCreator AI ist eine Plattform, die die Kraft der künstlichen Intelligenz nutzt, um bei der Musikkomposition zu helfen, und Tools anbietet, die sowohl für Anfänger als auch für erfahrene Musiker geeignet sind.",
+      "features": "Erstellt unbegrenzt lizenzfreie Musik, einfache Benutzeroberfläche.",
+      "badge": "30% Rabatt",
+      "pricing": "Anwendbar für Jahrespläne."
+    },
+    "zh": {
+      "description": "MusicCreator AI 是一个利用人工智能的力量来帮助音乐创作的平台，提供适合初学者和经验丰富的音乐家的工具。",
+      "features": "创建无限制的免版税音乐，简单的用户界面。",
+      "badge": "享受 30% 折扣",
+      "pricing": "适用于年度计划。"
+    },
+    "it": {
+      "description": "MusicCreator AI è una piattaforma che sfrutta la potenza dell'intelligenza artificiale per aiutare nella composizione musicale, offrendo strumenti adatti sia ai principianti che ai musicisti esperti.",
+      "features": "Crea musica illimitata senza diritti d'autore, interfaccia utente semplice.",
+      "badge": "30% di sconto",
+      "pricing": "Applicabile ai piani annuali."
+    }
+  },
+  "ChatGPT Promo Codes": {
+    "en": {
+      "description": "This tool aggregates promo codes and discount offers for ChatGPT, providing users with an extensive list of savings opportunities.",
+      "features": "Comprehensive overview of all available promo codes and discounts.",
+      "badge": "$25k Credits",
+      "pricing": "Multiple active promo codes available for discounts."
+    },
+    "uk": {
+      "description": "Цей інструмент збирає промокоди та акційні пропозиції для ChatGPT, надаючи користувачам широкий список можливостей для заощаджень.",
+      "features": "Всеосяжний огляд усіх доступних промокодів і знижок.",
+      "badge": "25 тисяч доларів кредитів",
+      "pricing": "Доступно кілька активних промокодів для знижок."
+    },
+    "ja": {
+      "description": "このツールはChatGPTのプロモコードと割引オファーを集約し、ユーザーに節約の機会の広範なリストを提供します。",
+      "features": "利用可能なすべてのプロモコードと割引の包括的な概要。",
+      "badge": "25,000ドルのクレジット",
+      "pricing": "割引用の複数のアクティブなプロモコードが利用可能です。"
+    },
+    "es": {
+      "description": "Esta herramienta agrega códigos promocionales y ofertas de descuento para ChatGPT, proporcionando a los usuarios una extensa lista de oportunidades de ahorro.",
+      "features": "Visión general completa de todos los códigos promocionales y descuentos disponibles.",
+      "badge": "25,000 dólares en créditos",
+      "pricing": "Múltiples códigos promocionales activos disponibles para descuentos."
+    },
+    "pt": {
+      "description": "Esta ferramenta agrega códigos promocionais e ofertas de desconto para o ChatGPT, oferecendo aos usuários uma extensa lista de oportunidades de economia.",
+      "features": "Visão geral abrangente de todos os códigos promocionais e descontos disponíveis.",
+      "badge": "25 mil dólares em créditos",
+      "pricing": "Múltiplos códigos promocionais ativos disponíveis para descontos."
+    },
+    "fr": {
+      "description": "Cet outil agrège des codes promo et des offres de réduction pour ChatGPT, offrant aux utilisateurs une liste complète d'opportunités d'économies.",
+      "features": "Vue d'ensemble complète de tous les codes promo et remises disponibles.",
+      "badge": "25 000 $ de crédits",
+      "pricing": "Plusieurs codes promo actifs disponibles pour des réductions."
+    },
+    "de": {
+      "description": "Dieses Tool aggregiert Promo-Codes und Rabattangebote für ChatGPT und bietet den Nutzern eine umfangreiche Liste von Einsparmöglichkeiten.",
+      "features": "Umfassender Überblick über alle verfügbaren Promo-Codes und Rabatte.",
+      "badge": "25.000 $ Guthaben",
+      "pricing": "Mehrere aktive Promo-Codes sind verfügbar, um Rabatte zu erhalten."
+    },
+    "zh": {
+      "description": "此工具汇总了ChatGPT的促销代码和折扣优惠，为用户提供了广泛的节省机会列表。",
+      "features": "所有可用促销代码和折扣的全面概述。",
+      "badge": "25,000美元的积分",
+      "pricing": "提供多个可用的促销代码以获取折扣。"
+    },
+    "it": {
+      "description": "Questo strumento aggrega codici promozionali e offerte di sconto per ChatGPT, offrendo agli utenti un'ampia lista di opportunità di risparmio.",
+      "features": "Panoramica completa di tutti i codici promozionali e sconti disponibili.",
+      "badge": "25.000 dollari in crediti",
+      "pricing": "Multipli codici promozionali attivi disponibili per sconti."
     }
   }
 }
