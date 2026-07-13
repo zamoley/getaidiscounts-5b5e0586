@@ -14,8 +14,8 @@
         "tool_name": "ElevenLabs",
         "tool_url": "https://elevenlabs.io",
         "code": "ELEVEN10",
-        "discount_amount": "50%",
-        "pricing_info": "Up to 17% off annual billing",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Various pricing options available",
         "key_features": "Realistic Voice Cloning, Text-to-Speech",
         "description": "The most realistic AI voice generator available.",
         "last_verified": "2026-05-05",
@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "Exclusive 80% OFF",
-        "discount_amount": "80%",
-        "pricing_info": "Just $29/month",
+        "discount_amount": "23%",
+        "pricing_info": "Pricing information not specified.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -374,8 +374,8 @@
         "tool_name": "VoiceType AI",
         "tool_url": "N/A",
         "code": "50% Off Lifetime AI Voice Plan",
-        "discount_amount": "50%",
-        "pricing_info": "Lifetime AI Voice Plan",
+        "discount_amount": "30%",
+        "pricing_info": "April 2026",
         "key_features": "Speech-to-Text, Voice Control",
         "description": "Efficient voice-to-text conversion for faster typing and documentation.",
         "last_verified": "2026-05-06",
@@ -821,7 +821,7 @@
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
         "discount_amount": "3 Months Free",
-        "pricing_info": "Perplexity Pro valued at $240 for free for students.",
+        "pricing_info": "No public discount codes available",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1455,8 +1455,8 @@
         "tool_name": "ChatGPT",
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
         "code": "N/A",
-        "discount_amount": "Varies",
-        "pricing_info": "Plans starting at $20/month for Plus and $25/month for Pro.",
+        "discount_amount": "$25k Credits",
+        "pricing_info": "Active promo codes available.",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -1465,8 +1465,8 @@
         "tool_name": "Perplexity Pro",
         "tool_url": "https://stackedreview.com/perplexity-pro-free-trial/",
         "code": "N/A",
-        "discount_amount": "85% OFF",
-        "pricing_info": "Discount applied to 1-Year Plan.",
+        "discount_amount": "$40 Off",
+        "pricing_info": "Annual plans with a one-month free trial and 50% discount for students and educators",
         "key_features": "Access to premium features with discounted rates after trial.",
         "description": "Perplexity Pro is an advanced version of the Perplexity AI platform, providing users with enhanced capabilities for data analysis and search efficiency, ideal for professionals seeking in-depth insights.",
         "category": "Search AI"
@@ -1496,7 +1496,7 @@
         "tool_url": "https://ailawyer.startupworld.com/",
         "code": "Discount Code",
         "discount_amount": "10%",
-        "pricing_info": "Discount on AI-Lawyer's innovative legal services.",
+        "pricing_info": "35 active coupons available for July 2026.",
         "key_features": "Verified by team before listing.",
         "description": "AI-Lawyer provides cutting-edge AI tools designed to support law firms with their legal practices, focusing on efficiency and accuracy.",
         "category": "Legal AI"
@@ -1606,7 +1606,7 @@
         "tool_url": "https://krater.ai/coupon/midjourney",
         "code": "N/A",
         "discount_amount": "$7.50/mo",
-        "pricing_info": "Access to 350+ AI models including Midjourney features.",
+        "pricing_info": "Get access to 350+ AI models including Midjourney features.",
         "key_features": "Comprehensive access to AI models including Midjourney\u2019s features, affordable pricing.",
         "description": "Krater is a platform that provides a variety of AI models for creative applications, making advanced AI tools accessible for a low monthly fee.",
         "category": "Group-Buy & Sharing"
@@ -1675,8 +1675,8 @@
         "tool_name": "Expertise AI",
         "tool_url": "https://expertiseai.startupworld.com",
         "code": "N/A",
-        "discount_amount": "$24 per month",
-        "pricing_info": "Pro Plan available for $24 per month",
+        "discount_amount": "$24 Per Month",
+        "pricing_info": "Claim Expertise AI Pro Plan Deal for $24 Per Month.",
         "key_features": "Powerful AI tools, automation features, premium support, advanced capabilities for businesses.",
         "description": "Expertise AI provides advanced artificial intelligence solutions designed for enterprise needs, integrating automation and high-level support to enhance business processes.",
         "category": "Industrial AI"
@@ -1736,7 +1736,7 @@
         "tool_url": "https://chatgptcodex.creativebin.com",
         "code": "N/A",
         "discount_amount": "Multiple active codes available.",
-        "pricing_info": "$20/month for Plus Plan, $21.12 for Plus Plan",
+        "pricing_info": "Grab Plus Plan for $20/month.",
         "key_features": "Access to advanced AI features for video generation.",
         "description": "Chatgpt Codex offers advanced AI tools focused on video generation, allowing users to create engaging content efficiently.",
         "category": "Video AI"
@@ -1900,5 +1900,55 @@
         "key_features": "Comprehensive overview of all available promo codes and discounts.",
         "description": "This tool aggregates promo codes and discount offers for ChatGPT, providing users with an extensive list of savings opportunities.",
         "category": "Marketing AI"
+    },
+    {
+        "tool_name": "Best AI Tools Deals",
+        "tool_url": "https://www.bitdegree.org/ai/deals",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Not specified.",
+        "key_features": "A collection of AI tool coupon codes and discount offerings for various AI software.",
+        "description": "This resource compiles the best available deals and discounts on AI tools, offering users a chance to save on innovative software solutions.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "10 No-Code AI Tools",
+        "tool_url": "https://launchlemonade.app/blog/no-code-ai-tools-2026",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Not specified.",
+        "key_features": "Highlights ten effective no-code AI tools with practical applications.",
+        "description": "The article reviews a selection of no-code AI tools that users can employ to integrate AI functionalities into their projects without coding knowledge. Each tool has been tested for effectiveness.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "SimpleGen.AI",
+        "tool_url": "https://simplegenai.vectortemplates.com",
+        "code": "N/A",
+        "discount_amount": "30% Off",
+        "pricing_info": "AI Content Generator is 25% off, priced lower.",
+        "key_features": "High-quality content generation capabilities.",
+        "description": "SimpleGen.AI provides tools for generating AI-powered content that meets a variety of user needs in different domains.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "Bitdegree AI Tools Deals",
+        "tool_url": "https://www.bitdegree.org/ai/deals",
+        "code": "N/A",
+        "discount_amount": "Varies",
+        "pricing_info": "Access to exclusive AI software coupon codes and AI tool discount codes.",
+        "key_features": "Curated deals for AI tools, extensive support from a dedicated team.",
+        "description": "Bitdegree features a comprehensive list of deals and promotional codes for AI tools, helping consumers save money while accessing high-quality software for various applications.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "InVideo AI",
+        "tool_url": "https://www.youtube.com/watch?v=5hxR2UVGENw",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Updated promo codes available",
+        "key_features": "Video creation, templates, easy editing",
+        "description": "InVideo AI offers a user-friendly platform for creating professional-quality videos using a vast library of templates and tools.",
+        "category": "Video AI"
     }
 ]

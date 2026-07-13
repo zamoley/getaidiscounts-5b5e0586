@@ -21,7 +21,7 @@
     "zh": "20%折扣",
     "it": "20% di sconto"
   },
-  "Up to 17% off annual billing": {
+  "Various pricing options available": {
     "en": "Starts at $5/mo",
     "uk": "Від $5/міс",
     "ja": "月額5ドルから",
@@ -32,7 +32,7 @@
     "zh": "起价$5/月",
     "it": "Da $5/mese"
   },
-  "50%": {
+  "50% OFF": {
     "en": "10% OFF",
     "uk": "ЗНИЖКА 10%",
     "ja": "10%オフ",
@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "Just $29/month": {
+  "Pricing information not specified.": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "80%": {
+  "23%": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -75,6 +75,17 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
+  },
+  "50%": {
+    "en": "$10 Credit",
+    "uk": "Кредит $10",
+    "ja": "10ドルのクレジット",
+    "es": "$10 de crédito",
+    "pt": "$10 de crédito",
+    "fr": "10 $ de crédit",
+    "de": "10 $ Guthaben",
+    "zh": "10 美元额度",
+    "it": "$10 di credito"
   },
   "Starts at $20/mo": {
     "en": "Starts at $20/mo",
@@ -527,7 +538,7 @@
     "zh": "写作优惠",
     "it": "Offerta scrittura"
   },
-  "Lifetime AI Voice Plan": {
+  "April 2026": {
     "en": "Starts at $12/mo",
     "uk": "Починається від $12/міс",
     "ja": "月額12ドルから",
@@ -537,6 +548,17 @@
     "de": "Ab $12/Monat",
     "zh": "每月12美元起",
     "it": "A partire da $12/mese"
+  },
+  "30%": {
+    "en": "Free Trial",
+    "uk": "Безкоштовна Спроба",
+    "ja": "無料トライアル",
+    "es": "Prueba Gratuita",
+    "pt": "Teste Gratuito",
+    "fr": "Essai Gratuit",
+    "de": "Kostenlose Testphase",
+    "zh": "免费试用",
+    "it": "Prova Gratuita"
   },
   "Plans start at $29/month.": {
     "en": "$39/Month",
@@ -625,17 +647,6 @@
     "de": "149 $/Monat",
     "zh": "149 美元/月",
     "it": "149 $/mese"
-  },
-  "30%": {
-    "en": "20% OFF",
-    "uk": "ЗНИЖКА 20%",
-    "ja": "20% オフ",
-    "es": "20% DTO",
-    "pt": "20% DTO",
-    "fr": "20% DE RABAIS",
-    "de": "20% RABATT",
-    "zh": "20% 折扣",
-    "it": "20% DI SCONTO"
   },
   "From $119.99/yr": {
     "en": "Starts at $119/year",
@@ -1176,7 +1187,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Perplexity Pro valued at $240 for free for students.": {
+  "No public discount codes available": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1946,7 +1957,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Plans starting at $20/month for Plus and $25/month for Pro.": {
+  "Active promo codes available.": {
     "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
     "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
     "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
@@ -1957,7 +1968,7 @@
     "zh": "Plus计划起价$20/月，Pro计划$25/月。",
     "it": "Il Piano Plus parte da $20/mese, il Piano Pro a $25/mese."
   },
-  "Varies": {
+  "$25k Credits": {
     "en": "N/A",
     "uk": "Немає",
     "ja": "該当なし",
@@ -1968,7 +1979,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "Discount applied to 1-Year Plan.": {
+  "Annual plans with a one-month free trial and 50% discount for students and educators": {
     "en": "Get a free trial for 12 months followed by a discount on annual plans.",
     "uk": "Отримайте безкоштовний пробний доступ на 12 місяців, а потім - знижку на річні плани.",
     "ja": "12ヶ月間の無料トライアルを取得し、その後、年間プランに割引が適用されます。",
@@ -1979,7 +1990,7 @@
     "zh": "获得12个月的免费试用，然后在年度计划上享受折扣。",
     "it": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
   },
-  "85% OFF": {
+  "$40 Off": {
     "en": "17%",
     "uk": "17%",
     "ja": "17%",
@@ -2023,7 +2034,7 @@
     "zh": "2026年3月的7个有效AI律师促销代码。",
     "it": "7 codici promozionali attivi di AI Lawyer per marzo 2026."
   },
-  "Discount on AI-Lawyer's innovative legal services.": {
+  "35 active coupons available for July 2026.": {
     "en": "15 active AI-Lawyer coupons & deals for May 2026.",
     "uk": "15 активних купонів та пропозицій AI-Lawyer на травень 2026 року.",
     "ja": "2026年5月のための15件の有効なAI-Lawyerクーポンとディール。",
@@ -2111,17 +2122,6 @@
     "zh": "六折优惠",
     "it": "60% di sconto"
   },
-  "Various pricing options available": {
-    "en": "Various pricing options available",
-    "uk": "Доступні різні варіанти ціноутворення",
-    "ja": "さまざまな価格オプションが利用可能",
-    "es": "Varias opciones de precios disponibles",
-    "pt": "Várias opções de preços disponíveis",
-    "fr": "Différentes options de tarification disponibles",
-    "de": "Verschiedene Preismodelle verfügbar",
-    "zh": "提供各种定价选项",
-    "it": "Varie opzioni di prezzo disponibili"
-  },
   "Provides a 20% discount on any plan.": {
     "en": "Applicable on all plans.",
     "uk": "Застосовується до всіх планів.",
@@ -2133,7 +2133,7 @@
     "zh": "适用于所有计划。",
     "it": "Applicabile a tutti i piani."
   },
-  "Access to 350+ AI models including Midjourney features.": {
+  "Get access to 350+ AI models including Midjourney features.": {
     "en": "$7.50/month for access to over 350 AI models.",
     "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
     "ja": "350以上のAIモデルへのアクセスには月額7.50ドル。",
@@ -2232,7 +2232,7 @@
     "zh": "折扣适用于AI图像生成器功能。",
     "it": "Lo sconto si applica alla funzione di generazione di immagini con IA."
   },
-  "Pro Plan available for $24 per month": {
+  "Claim Expertise AI Pro Plan Deal for $24 Per Month.": {
     "en": "Enterprise Plan Deal",
     "uk": "Пропозиція для підприємств",
     "ja": "エンタープライズプランの取引",
@@ -2243,7 +2243,7 @@
     "zh": "企业计划优惠",
     "it": "Offerta del Piano Aziendale"
   },
-  "$24 per month": {
+  "$24 Per Month": {
     "en": "$3000 per month",
     "uk": "$3000 на місяць",
     "ja": "月額3000ドル",
@@ -2309,7 +2309,18 @@
     "zh": "以折扣价格组合访问多个人工智能工具。",
     "it": "Accesso combinato a più strumenti di IA a una tariffa scontata."
   },
-  "$20/month for Plus Plan, $21.12 for Plus Plan": {
+  "Just $29/month": {
+    "en": "$29/month",
+    "uk": "$29/місяць",
+    "ja": "$29/月",
+    "es": "$29/mes",
+    "pt": "$29/mês",
+    "fr": "$29/mois",
+    "de": "$29/Monat",
+    "zh": "每月$29",
+    "it": "$29/mese"
+  },
+  "Grab Plus Plan for $20/month.": {
     "en": "$20 /month for Plus Plan",
     "uk": "$20 на місяць за планом Plus",
     "ja": "プラスプランは月額20ドル",
@@ -2341,17 +2352,6 @@
     "de": "Beste Angebote für Dezember 2025.",
     "zh": "2025年12月的最佳交易。",
     "it": "Migliori offerte per dicembre 2025."
-  },
-  "$24 Per Month": {
-    "en": "$24 Per Month",
-    "uk": "$24 На Місяць",
-    "ja": "$24 月額",
-    "es": "$24 Por Mes",
-    "pt": "$24 Por Mês",
-    "fr": "$24 Par Mois",
-    "de": "$24 Pro Monat",
-    "zh": "$24 每月",
-    "it": "$24 Al Mese"
   },
   "Discount applicable on annual plans.": {
     "en": "$69/month",
@@ -2463,6 +2463,17 @@
     "zh": "订阅计划的交易。",
     "it": "Offerte sui piani di abbonamento."
   },
+  "Varies": {
+    "en": "Varies",
+    "uk": "Змінюється",
+    "ja": "さまざま",
+    "es": "Varía",
+    "pt": "Varia",
+    "fr": "Varie",
+    "de": "Variiert",
+    "zh": "多种多样",
+    "it": "Varia"
+  },
   "$7.50/mo for access to 350+ AI models.": {
     "en": "$7.50/mo for access to 350+ AI models.",
     "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
@@ -2518,16 +2529,49 @@
     "zh": "提供多个可用的促销代码以获取折扣。",
     "it": "Multipli codici promozionali attivi disponibili per sconti."
   },
-  "$25k Credits": {
-    "en": "$25k Credits",
-    "uk": "25 тисяч доларів кредитів",
-    "ja": "25,000ドルのクレジット",
-    "es": "25,000 dólares en créditos",
-    "pt": "25 mil dólares em créditos",
-    "fr": "25 000 $ de crédits",
-    "de": "25.000 $ Guthaben",
-    "zh": "25,000美元的积分",
-    "it": "25.000 dollari in crediti"
+  "Not specified.": {
+    "en": "Not specified.",
+    "uk": "Не вказано.",
+    "ja": "明記されていません。",
+    "es": "No especificado.",
+    "pt": "Não especificado.",
+    "fr": "Non spécifié.",
+    "de": "Nicht spezifiziert.",
+    "zh": "未指定。",
+    "it": "Non specificato."
+  },
+  "AI Content Generator is 25% off, priced lower.": {
+    "en": "AI Content Generator is 25% off, priced lower.",
+    "uk": "Генератор контенту на основі ШІ має знижку 25%, ціна знижена.",
+    "ja": "AIコンテンツジェネレーターは25%オフで、価格が下がっています。",
+    "es": "El generador de contenido de IA tiene un 25% de descuento, con un precio más bajo.",
+    "pt": "O Gerador de Conteúdo de IA está com 25% de desconto, com preço mais baixo.",
+    "fr": "Le générateur de contenu AI est à 25% de réduction, avec un prix réduit.",
+    "de": "Der KI-Inhalt-Generator ist 25% günstiger, der Preis ist gesenkt.",
+    "zh": "AI内容生成器享受25%的折扣，价格降低。",
+    "it": "Il generatore di contenuti IA è scontato del 25%, con un prezzo più basso."
+  },
+  "Access to exclusive AI software coupon codes and AI tool discount codes.": {
+    "en": "Access to exclusive AI software coupon codes and AI tool discount codes.",
+    "uk": "Доступ до ексклюзивних купонів на ШІ-потрібне програмне забезпечення та кодів знижок на ШІ-інструменти.",
+    "ja": "独占的なAIソフトウェアクーポンコードおよびAIツール割引コードへのアクセス。",
+    "es": "Acceso a códigos de cupón exclusivos para software de IA y códigos de descuento para herramientas de IA.",
+    "pt": "Acesso a códigos de cupom de software de IA exclusivos e códigos de desconto para ferramentas de IA.",
+    "fr": "Accès à des codes de coupon exclusifs pour des logiciels d'IA et à des codes de réduction pour des outils d'IA.",
+    "de": "Zugang zu exklusiven Gutscheincodes für KI-Software und Rabattcodes für KI-Tools.",
+    "zh": "访问独特的AI软件优惠券代码和AI工具折扣代码。",
+    "it": "Accesso a codici coupon esclusivi per software di intelligenza artificiale e codici sconto per strumenti di intelligenza artificiale."
+  },
+  "Updated promo codes available": {
+    "en": "Updated promo codes available",
+    "uk": "Доступні оновлені промокоди",
+    "ja": "更新されたプロモコードが利用可能",
+    "es": "Códigos promocionales actualizados disponibles",
+    "pt": "Códigos promocionais atualizados disponíveis",
+    "fr": "Codes promo mis à jour disponibles",
+    "de": "Aktualisierte Aktionscodes verfügbar",
+    "zh": "可用更新的促销代码",
+    "it": "Codici promozionali aggiornati disponibili"
   },
   "Midjourney": {
     "en": {
@@ -13223,6 +13267,286 @@
       "features": "Panoramica completa di tutti i codici promozionali e sconti disponibili.",
       "badge": "25.000 dollari in crediti",
       "pricing": "Multipli codici promozionali attivi disponibili per sconti."
+    }
+  },
+  "Best AI Tools Deals": {
+    "en": {
+      "description": "This resource compiles the best available deals and discounts on AI tools, offering users a chance to save on innovative software solutions.",
+      "features": "A collection of AI tool coupon codes and discount offerings for various AI software.",
+      "badge": "N/A",
+      "pricing": "Not specified."
+    },
+    "uk": {
+      "description": "Цей ресурс збирає найкращі доступні пропозиції та знижки на інструменти ШІ, пропонуючи користувачам можливість заощадити на інноваційних програмних рішеннях.",
+      "features": "Збірка купонних кодів інструментів ШІ та знижок на різне програмне забезпечення ШІ.",
+      "badge": "НД",
+      "pricing": "Не вказано."
+    },
+    "ja": {
+      "description": "このリソースは、利用可能な最高のAIツールのディールと割引をまとめており、ユーザーが革新的なソフトウェアソリューションを節約できる機会を提供します。",
+      "features": "さまざまなAIソフトウェアのためのAIツールクーポンコードと割引オファーのコレクション。",
+      "badge": "該当なし",
+      "pricing": "明記されていません。"
+    },
+    "es": {
+      "description": "Este recurso compila las mejores ofertas y descuentos disponibles en herramientas de IA, ofreciendo a los usuarios la oportunidad de ahorrar en soluciones de software innovadoras.",
+      "features": "Una colección de códigos de cupón para herramientas de IA y ofertas de descuento para varios software de IA.",
+      "badge": "N/A",
+      "pricing": "No especificado."
+    },
+    "pt": {
+      "description": "Este recurso compila os melhores negócios e descontos disponíveis em ferramentas de IA, oferecendo aos usuários a chance de economizar em soluções de software inovadoras.",
+      "features": "Uma coleção de códigos de cupom para ferramentas de IA e ofertas de desconto para vários softwares de IA.",
+      "badge": "N/A",
+      "pricing": "Não especificado."
+    },
+    "fr": {
+      "description": "Cette ressource compile les meilleures offres et réductions disponibles sur les outils d'IA, offrant aux utilisateurs la possibilité d'économiser sur des solutions logicielles innovantes.",
+      "features": "Une collection de codes de réduction pour outils d'IA et d'offres de réduction pour divers logiciels d'IA.",
+      "badge": "N/D",
+      "pricing": "Non spécifié."
+    },
+    "de": {
+      "description": "Diese Ressource bündelt die besten verfügbaren Angebote und Rabatte für KI-Tools und bietet Benutzern die Möglichkeit, bei innovativen Softwarelösungen zu sparen.",
+      "features": "Eine Sammlung von Rabattcodes für KI-Tools und Discount-Angeboten für verschiedene KI-Software.",
+      "badge": "k.A.",
+      "pricing": "Nicht spezifiziert."
+    },
+    "zh": {
+      "description": "本资源汇集了可用的最佳人工智能工具交易和折扣，为用户提供在创新软件解决方案上节省的机会。",
+      "features": "各种人工智能软件的人工智能工具优惠券代码和折扣优惠的集合。",
+      "badge": "无",
+      "pricing": "未指定。"
+    },
+    "it": {
+      "description": "Questa risorsa raccoglie le migliori offerte e sconti disponibili sugli strumenti di intelligenza artificiale, offrendo agli utenti la possibilità di risparmiare su soluzioni software innovative.",
+      "features": "Una raccolta di codici promozionali per strumenti di intelligenza artificiale e offerte di sconto per vari software di intelligenza artificiale.",
+      "badge": "N/D",
+      "pricing": "Non specificato."
+    }
+  },
+  "10 No-Code AI Tools": {
+    "en": {
+      "description": "The article reviews a selection of no-code AI tools that users can employ to integrate AI functionalities into their projects without coding knowledge. Each tool has been tested for effectiveness.",
+      "features": "Highlights ten effective no-code AI tools with practical applications.",
+      "badge": "N/A",
+      "pricing": "Not specified."
+    },
+    "uk": {
+      "description": "Стаття оглядає вибір інструментів ШІ без коду, які користувачі можуть використовувати для інтеграції функцій ШІ у свої проекти без знання програмування. Кожен інструмент був протестований на ефективність.",
+      "features": "Виділяє десять ефективних інструментів ШІ без коду з практичними застосуваннями.",
+      "badge": "N/A",
+      "pricing": "Не вказано."
+    },
+    "ja": {
+      "description": "この記事は、ユーザーがコーディング知識なしにプロジェクトにAI機能を統合するために使用できるノーコードAIツールの選択肢をレビューします。各ツールは効果があるかどうかがテストされています。",
+      "features": "実用的なアプリケーションを持つ10の効果的なノーコードAIツールを強調しています。",
+      "badge": "該当なし",
+      "pricing": "未指定。"
+    },
+    "es": {
+      "description": "El artículo revisa una selección de herramientas de IA sin código que los usuarios pueden emplear para integrar funciones de IA en sus proyectos sin conocimientos de programación. Cada herramienta ha sido probada por su efectividad.",
+      "features": "Destaca diez herramientas de IA sin código efectivas con aplicaciones prácticas.",
+      "badge": "N/A",
+      "pricing": "No especificado."
+    },
+    "pt": {
+      "description": "O artigo revisa uma seleção de ferramentas de IA sem código que os usuários podem usar para integrar funcionalidades de IA em seus projetos sem conhecimento em programação. Cada ferramenta foi testada quanto à eficácia.",
+      "features": "Destaque para dez ferramentas de IA sem código eficazes com aplicações práticas.",
+      "badge": "N/A",
+      "pricing": "Não especificado."
+    },
+    "fr": {
+      "description": "L'article passe en revue une sélection d'outils d'IA sans code que les utilisateurs peuvent utiliser pour intégrer des fonctionnalités d'IA dans leurs projets sans connaissances en programmation. Chaque outil a été testé pour son efficacité.",
+      "features": "Met en avant dix outils d'IA sans code efficaces avec des applications pratiques.",
+      "badge": "N/A",
+      "pricing": "Non spécifié."
+    },
+    "de": {
+      "description": "Der Artikel überprüft eine Auswahl von No-Code-Tools für KI, die Benutzer verwenden können, um KI-Funktionalitäten in ihre Projekte zu integrieren, ohne Programmierkenntnisse zu benötigen. Jedes Tool wurde auf seine Wirksamkeit getestet.",
+      "features": "Hervorhebung von zehn effektiven No-Code-KI-Tools mit praktischen Anwendungen.",
+      "badge": "N/A",
+      "pricing": "Nicht angegeben."
+    },
+    "zh": {
+      "description": "本文回顾了一些无代码AI工具，用户可以利用这些工具在不具备编码知识的情况下将AI功能集成到他们的项目中。每个工具的有效性都经过了测试。",
+      "features": "突出了十种有效的无代码AI工具及其实际应用。",
+      "badge": "无",
+      "pricing": "未指定。"
+    },
+    "it": {
+      "description": "L'articolo recensisce una selezione di strumenti AI senza codice che gli utenti possono utilizzare per integrare funzionalità AI nei propri progetti senza conoscenze di programmazione. Ogni strumento è stato testato per efficacia.",
+      "features": "Evidenzia dieci strumenti AI senza codice efficaci con applicazioni pratiche.",
+      "badge": "N/D",
+      "pricing": "Non specificato."
+    }
+  },
+  "SimpleGen.AI": {
+    "en": {
+      "description": "SimpleGen.AI provides tools for generating AI-powered content that meets a variety of user needs in different domains.",
+      "features": "High-quality content generation capabilities.",
+      "badge": "30% Off",
+      "pricing": "AI Content Generator is 25% off, priced lower."
+    },
+    "uk": {
+      "description": "SimpleGen.AI надає інструменти для генерації контенту на основі ШІ, що відповідає різноманітним потребам користувачів у різних сферах.",
+      "features": "Високоякісні можливості генерації контенту.",
+      "badge": "30% знижка",
+      "pricing": "Генератор контенту на основі ШІ має знижку 25%, ціна знижена."
+    },
+    "ja": {
+      "description": "SimpleGen.AIは、さまざまな領域でのユーザーのニーズに応えるAIコンテンツ生成ツールを提供します。",
+      "features": "高品質なコンテンツ生成機能。",
+      "badge": "30%オフ",
+      "pricing": "AIコンテンツジェネレーターは25%オフで、価格が下がっています。"
+    },
+    "es": {
+      "description": "SimpleGen.AI proporciona herramientas para generar contenido impulsado por IA que satisface diversas necesidades de los usuarios en diferentes dominios.",
+      "features": "Capacidades de generación de contenido de alta calidad.",
+      "badge": "30% de descuento",
+      "pricing": "El generador de contenido de IA tiene un 25% de descuento, con un precio más bajo."
+    },
+    "pt": {
+      "description": "O SimpleGen.AI fornece ferramentas para gerar conteúdo movido por IA que atende a uma variedade de necessidades dos usuários em diferentes domínios.",
+      "features": "Capacidades de geração de conteúdo de alta qualidade.",
+      "badge": "30% de desconto",
+      "pricing": "O Gerador de Conteúdo de IA está com 25% de desconto, com preço mais baixo."
+    },
+    "fr": {
+      "description": "SimpleGen.AI fournit des outils pour générer du contenu alimenté par l'IA qui répond à divers besoins des utilisateurs dans différents domaines.",
+      "features": "Capacités de génération de contenu de haute qualité.",
+      "badge": "30% de réduction",
+      "pricing": "Le générateur de contenu AI est à 25% de réduction, avec un prix réduit."
+    },
+    "de": {
+      "description": "SimpleGen.AI bietet Werkzeuge zur Erstellung von KI-gestütztem Inhalt, der eine Vielzahl von Benutzerbedürfnissen in verschiedenen Bereichen erfüllt.",
+      "features": "Hochwertige Inhalte-Erstellungsfähigkeiten.",
+      "badge": "30% Rabatt",
+      "pricing": "Der KI-Inhalt-Generator ist 25% günstiger, der Preis ist gesenkt."
+    },
+    "zh": {
+      "description": "SimpleGen.AI 提供生成AI驱动内容的工具，以满足不同领域用户的各种需求。",
+      "features": "高质量内容生成能力。",
+      "badge": "享受30%的折扣",
+      "pricing": "AI内容生成器享受25%的折扣，价格降低。"
+    },
+    "it": {
+      "description": "SimpleGen.AI fornisce strumenti per generare contenuti alimentati dall'IA che soddisfano una varietà di esigenze degli utenti in diversi domini.",
+      "features": "Capacità di generazione di contenuti di alta qualità.",
+      "badge": "30% di sconto",
+      "pricing": "Il generatore di contenuti IA è scontato del 25%, con un prezzo più basso."
+    }
+  },
+  "Bitdegree AI Tools Deals": {
+    "en": {
+      "description": "Bitdegree features a comprehensive list of deals and promotional codes for AI tools, helping consumers save money while accessing high-quality software for various applications.",
+      "features": "Curated deals for AI tools, extensive support from a dedicated team.",
+      "badge": "Varies",
+      "pricing": "Access to exclusive AI software coupon codes and AI tool discount codes."
+    },
+    "uk": {
+      "description": "Bitdegree має вичерпний список угод і промо-кодів для ШІ-інструментів, допомагаючи споживачам економити гроші під час доступу до високоякісного програмного забезпечення для різних застосувань.",
+      "features": "Добірка угод для ШІ-інструментів, всебічна підтримка від спеціалізованої команди.",
+      "badge": "Варіюється",
+      "pricing": "Доступ до ексклюзивних купонів на ШІ-потрібне програмне забезпечення та кодів знижок на ШІ-інструменти."
+    },
+    "ja": {
+      "description": "Bitdegreeは、AIツールのための包括的な取引とプロモーションコードのリストを提供しており、消費者が高品質のソフトウェアにアクセスしながらお金を節約するのを助けています。",
+      "features": "AIツールのためにキュレーションされた取引、専任チームによる幅広いサポート。",
+      "badge": "異なる",
+      "pricing": "独占的なAIソフトウェアクーポンコードおよびAIツール割引コードへのアクセス。"
+    },
+    "es": {
+      "description": "Bitdegree presenta una lista integral de ofertas y códigos promocionales para herramientas de IA, ayudando a los consumidores a ahorrar dinero mientras acceden a software de alta calidad para diversas aplicaciones.",
+      "features": "Ofertas seleccionadas para herramientas de IA, amplio soporte de un equipo dedicado.",
+      "badge": "Varía",
+      "pricing": "Acceso a códigos de cupón exclusivos para software de IA y códigos de descuento para herramientas de IA."
+    },
+    "pt": {
+      "description": "O Bitdegree apresenta uma lista abrangente de ofertas e códigos promocionais para ferramentas de IA, ajudando os consumidores a economizar dinheiro enquanto acessam software de alta qualidade para várias aplicações.",
+      "features": "Ofertas curadas para ferramentas de IA, suporte extenso de uma equipe dedicada.",
+      "badge": "Varia",
+      "pricing": "Acesso a códigos de cupom de software de IA exclusivos e códigos de desconto para ferramentas de IA."
+    },
+    "fr": {
+      "description": "Bitdegree propose une liste complète d'offres et de codes promotionnels pour des outils d'IA, aidant les consommateurs à économiser de l'argent tout en accédant à un logiciel de haute qualité pour diverses applications.",
+      "features": "Offres sélectionnées pour des outils d'IA, soutien complet d'une équipe dédiée.",
+      "badge": "Varie",
+      "pricing": "Accès à des codes de coupon exclusifs pour des logiciels d'IA et à des codes de réduction pour des outils d'IA."
+    },
+    "de": {
+      "description": "Bitdegree bietet eine umfassende Liste von Angeboten und Rabattcodes für KI-Tools, die Verbrauchern helfen, Geld zu sparen, während sie auf hochwertige Software für verschiedene Anwendungen zugreifen.",
+      "features": "Kuratierten Deals für KI-Tools, umfangreiche Unterstützung durch ein engagiertes Team.",
+      "badge": "Variiert",
+      "pricing": "Zugang zu exklusiven Gutscheincodes für KI-Software und Rabattcodes für KI-Tools."
+    },
+    "zh": {
+      "description": "Bitdegree提供了一个综合的AI工具交易和促销代码列表，帮助消费者在获取各种应用的高质量软件时节省资金。",
+      "features": "为AI工具提供精心策划的交易，专门团队的广泛支持。",
+      "badge": "不等",
+      "pricing": "访问独特的AI软件优惠券代码和AI工具折扣代码。"
+    },
+    "it": {
+      "description": "Bitdegree presenta un elenco completo di offerte e codici promozionali per strumenti di intelligenza artificiale, aiutando i consumatori a risparmiare denaro mentre accedono a software di alta qualità per vari utilizzi.",
+      "features": "Offerte curate per strumenti di intelligenza artificiale, supporto esteso da parte di un team dedicato.",
+      "badge": "Varia",
+      "pricing": "Accesso a codici coupon esclusivi per software di intelligenza artificiale e codici sconto per strumenti di intelligenza artificiale."
+    }
+  },
+  "InVideo AI": {
+    "en": {
+      "description": "InVideo AI offers a user-friendly platform for creating professional-quality videos using a vast library of templates and tools.",
+      "features": "Video creation, templates, easy editing",
+      "badge": "N/A",
+      "pricing": "Updated promo codes available"
+    },
+    "uk": {
+      "description": "InVideo ШІ пропонує зручну платформу для створення професійних відео за допомогою величезної бібліотеки шаблонів та інструментів.",
+      "features": "Створення відео, шаблони, зручне редагування",
+      "badge": "Н/Д",
+      "pricing": "Доступні оновлені промокоди"
+    },
+    "ja": {
+      "description": "InVideo AIは、膨大なテンプレートとツールのライブラリを使用して、プロ品質のビデオを作成するための使いやすいプラットフォームを提供します。",
+      "features": "ビデオ作成、テンプレート、簡単な編集",
+      "badge": "該当なし",
+      "pricing": "更新されたプロモコードが利用可能"
+    },
+    "es": {
+      "description": "InVideo AI ofrece una plataforma fácil de usar para crear videos de calidad profesional utilizando una amplia biblioteca de plantillas y herramientas.",
+      "features": "Creación de videos, plantillas, edición fácil",
+      "badge": "N/D",
+      "pricing": "Códigos promocionales actualizados disponibles"
+    },
+    "pt": {
+      "description": "InVideo AI oferece uma plataforma amigável para criar vídeos de qualidade profissional usando uma vasta biblioteca de modelos e ferramentas.",
+      "features": "Criação de vídeo, modelos, edição fácil",
+      "badge": "N/A",
+      "pricing": "Códigos promocionais atualizados disponíveis"
+    },
+    "fr": {
+      "description": "InVideo AI propose une plateforme conviviale pour créer des vidéos de qualité professionnelle en utilisant une vaste bibliothèque de modèles et d'outils.",
+      "features": "Création de vidéos, modèles, édition facile",
+      "badge": "N/A",
+      "pricing": "Codes promo mis à jour disponibles"
+    },
+    "de": {
+      "description": "InVideo AI bietet eine benutzerfreundliche Plattform zum Erstellen von professionellen Videos mit einer umfangreichen Bibliothek von Vorlagen und Tools.",
+      "features": "Videoerstellung, Vorlagen, einfache Bearbeitung",
+      "badge": "k.A.",
+      "pricing": "Aktualisierte Aktionscodes verfügbar"
+    },
+    "zh": {
+      "description": "InVideo AI提供一个用户友好的平台，通过丰富的模板和工具库创建专业质量的视频。",
+      "features": "视频创作、模板、简单编辑",
+      "badge": "不适用",
+      "pricing": "可用更新的促销代码"
+    },
+    "it": {
+      "description": "InVideo AI offre una piattaforma facile da usare per creare video di qualità professionale utilizzando una vasta libreria di modelli e strumenti.",
+      "features": "Creazione video, modelli, editing facile",
+      "badge": "N/A",
+      "pricing": "Codici promozionali aggiornati disponibili"
     }
   }
 }

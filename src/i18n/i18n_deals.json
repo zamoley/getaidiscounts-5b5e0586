@@ -8784,5 +8784,235 @@
             "zh": "提供多个可用的促销代码以获取折扣。",
             "it": "Multipli codici promozionali attivi disponibili per sconti."
         }
+    },
+    "Best AI Tools Deals": {
+        "description": {
+            "en": "This resource compiles the best available deals and discounts on AI tools, offering users a chance to save on innovative software solutions.",
+            "uk": "Цей ресурс збирає найкращі доступні пропозиції та знижки на інструменти ШІ, пропонуючи користувачам можливість заощадити на інноваційних програмних рішеннях.",
+            "ja": "このリソースは、利用可能な最高のAIツールのディールと割引をまとめており、ユーザーが革新的なソフトウェアソリューションを節約できる機会を提供します。",
+            "es": "Este recurso compila las mejores ofertas y descuentos disponibles en herramientas de IA, ofreciendo a los usuarios la oportunidad de ahorrar en soluciones de software innovadoras.",
+            "pt": "Este recurso compila os melhores negócios e descontos disponíveis em ferramentas de IA, oferecendo aos usuários a chance de economizar em soluções de software inovadoras.",
+            "fr": "Cette ressource compile les meilleures offres et réductions disponibles sur les outils d'IA, offrant aux utilisateurs la possibilité d'économiser sur des solutions logicielles innovantes.",
+            "de": "Diese Ressource bündelt die besten verfügbaren Angebote und Rabatte für KI-Tools und bietet Benutzern die Möglichkeit, bei innovativen Softwarelösungen zu sparen.",
+            "zh": "本资源汇集了可用的最佳人工智能工具交易和折扣，为用户提供在创新软件解决方案上节省的机会。",
+            "it": "Questa risorsa raccoglie le migliori offerte e sconti disponibili sugli strumenti di intelligenza artificiale, offrendo agli utenti la possibilità di risparmiare su soluzioni software innovative."
+        },
+        "features": {
+            "en": "A collection of AI tool coupon codes and discount offerings for various AI software.",
+            "uk": "Збірка купонних кодів інструментів ШІ та знижок на різне програмне забезпечення ШІ.",
+            "ja": "さまざまなAIソフトウェアのためのAIツールクーポンコードと割引オファーのコレクション。",
+            "es": "Una colección de códigos de cupón para herramientas de IA y ofertas de descuento para varios software de IA.",
+            "pt": "Uma coleção de códigos de cupom para ferramentas de IA e ofertas de desconto para vários softwares de IA.",
+            "fr": "Une collection de codes de réduction pour outils d'IA et d'offres de réduction pour divers logiciels d'IA.",
+            "de": "Eine Sammlung von Rabattcodes für KI-Tools und Discount-Angeboten für verschiedene KI-Software.",
+            "zh": "各种人工智能软件的人工智能工具优惠券代码和折扣优惠的集合。",
+            "it": "Una raccolta di codici promozionali per strumenti di intelligenza artificiale e offerte di sconto per vari software di intelligenza artificiale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "НД",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/D",
+            "de": "k.A.",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Not specified.",
+            "uk": "Не вказано.",
+            "ja": "明記されていません。",
+            "es": "No especificado.",
+            "pt": "Não especificado.",
+            "fr": "Non spécifié.",
+            "de": "Nicht spezifiziert.",
+            "zh": "未指定。",
+            "it": "Non specificato."
+        }
+    },
+    "10 No-Code AI Tools": {
+        "description": {
+            "en": "The article reviews a selection of no-code AI tools that users can employ to integrate AI functionalities into their projects without coding knowledge. Each tool has been tested for effectiveness.",
+            "uk": "Стаття оглядає вибір інструментів ШІ без коду, які користувачі можуть використовувати для інтеграції функцій ШІ у свої проекти без знання програмування. Кожен інструмент був протестований на ефективність.",
+            "ja": "この記事は、ユーザーがコーディング知識なしにプロジェクトにAI機能を統合するために使用できるノーコードAIツールの選択肢をレビューします。各ツールは効果があるかどうかがテストされています。",
+            "es": "El artículo revisa una selección de herramientas de IA sin código que los usuarios pueden emplear para integrar funciones de IA en sus proyectos sin conocimientos de programación. Cada herramienta ha sido probada por su efectividad.",
+            "pt": "O artigo revisa uma seleção de ferramentas de IA sem código que os usuários podem usar para integrar funcionalidades de IA em seus projetos sem conhecimento em programação. Cada ferramenta foi testada quanto à eficácia.",
+            "fr": "L'article passe en revue une sélection d'outils d'IA sans code que les utilisateurs peuvent utiliser pour intégrer des fonctionnalités d'IA dans leurs projets sans connaissances en programmation. Chaque outil a été testé pour son efficacité.",
+            "de": "Der Artikel überprüft eine Auswahl von No-Code-Tools für KI, die Benutzer verwenden können, um KI-Funktionalitäten in ihre Projekte zu integrieren, ohne Programmierkenntnisse zu benötigen. Jedes Tool wurde auf seine Wirksamkeit getestet.",
+            "zh": "本文回顾了一些无代码AI工具，用户可以利用这些工具在不具备编码知识的情况下将AI功能集成到他们的项目中。每个工具的有效性都经过了测试。",
+            "it": "L'articolo recensisce una selezione di strumenti AI senza codice che gli utenti possono utilizzare per integrare funzionalità AI nei propri progetti senza conoscenze di programmazione. Ogni strumento è stato testato per efficacia."
+        },
+        "features": {
+            "en": "Highlights ten effective no-code AI tools with practical applications.",
+            "uk": "Виділяє десять ефективних інструментів ШІ без коду з практичними застосуваннями.",
+            "ja": "実用的なアプリケーションを持つ10の効果的なノーコードAIツールを強調しています。",
+            "es": "Destaca diez herramientas de IA sin código efectivas con aplicaciones prácticas.",
+            "pt": "Destaque para dez ferramentas de IA sem código eficazes com aplicações práticas.",
+            "fr": "Met en avant dix outils d'IA sans code efficaces avec des applications pratiques.",
+            "de": "Hervorhebung von zehn effektiven No-Code-KI-Tools mit praktischen Anwendungen.",
+            "zh": "突出了十种有效的无代码AI工具及其实际应用。",
+            "it": "Evidenzia dieci strumenti AI senza codice efficaci con applicazioni pratiche."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Not specified.",
+            "uk": "Не вказано.",
+            "ja": "未指定。",
+            "es": "No especificado.",
+            "pt": "Não especificado.",
+            "fr": "Non spécifié.",
+            "de": "Nicht angegeben.",
+            "zh": "未指定。",
+            "it": "Non specificato."
+        }
+    },
+    "SimpleGen.AI": {
+        "description": {
+            "en": "SimpleGen.AI provides tools for generating AI-powered content that meets a variety of user needs in different domains.",
+            "uk": "SimpleGen.AI надає інструменти для генерації контенту на основі ШІ, що відповідає різноманітним потребам користувачів у різних сферах.",
+            "ja": "SimpleGen.AIは、さまざまな領域でのユーザーのニーズに応えるAIコンテンツ生成ツールを提供します。",
+            "es": "SimpleGen.AI proporciona herramientas para generar contenido impulsado por IA que satisface diversas necesidades de los usuarios en diferentes dominios.",
+            "pt": "O SimpleGen.AI fornece ferramentas para gerar conteúdo movido por IA que atende a uma variedade de necessidades dos usuários em diferentes domínios.",
+            "fr": "SimpleGen.AI fournit des outils pour générer du contenu alimenté par l'IA qui répond à divers besoins des utilisateurs dans différents domaines.",
+            "de": "SimpleGen.AI bietet Werkzeuge zur Erstellung von KI-gestütztem Inhalt, der eine Vielzahl von Benutzerbedürfnissen in verschiedenen Bereichen erfüllt.",
+            "zh": "SimpleGen.AI 提供生成AI驱动内容的工具，以满足不同领域用户的各种需求。",
+            "it": "SimpleGen.AI fornisce strumenti per generare contenuti alimentati dall'IA che soddisfano una varietà di esigenze degli utenti in diversi domini."
+        },
+        "features": {
+            "en": "High-quality content generation capabilities.",
+            "uk": "Високоякісні можливості генерації контенту.",
+            "ja": "高品質なコンテンツ生成機能。",
+            "es": "Capacidades de generación de contenido de alta calidad.",
+            "pt": "Capacidades de geração de conteúdo de alta qualidade.",
+            "fr": "Capacités de génération de contenu de haute qualité.",
+            "de": "Hochwertige Inhalte-Erstellungsfähigkeiten.",
+            "zh": "高质量内容生成能力。",
+            "it": "Capacità di generazione di contenuti di alta qualità."
+        },
+        "discount": {
+            "en": "30% Off",
+            "uk": "30% знижка",
+            "ja": "30%オフ",
+            "es": "30% de descuento",
+            "pt": "30% de desconto",
+            "fr": "30% de réduction",
+            "de": "30% Rabatt",
+            "zh": "享受30%的折扣",
+            "it": "30% di sconto"
+        },
+        "pricing": {
+            "en": "AI Content Generator is 25% off, priced lower.",
+            "uk": "Генератор контенту на основі ШІ має знижку 25%, ціна знижена.",
+            "ja": "AIコンテンツジェネレーターは25%オフで、価格が下がっています。",
+            "es": "El generador de contenido de IA tiene un 25% de descuento, con un precio más bajo.",
+            "pt": "O Gerador de Conteúdo de IA está com 25% de desconto, com preço mais baixo.",
+            "fr": "Le générateur de contenu AI est à 25% de réduction, avec un prix réduit.",
+            "de": "Der KI-Inhalt-Generator ist 25% günstiger, der Preis ist gesenkt.",
+            "zh": "AI内容生成器享受25%的折扣，价格降低。",
+            "it": "Il generatore di contenuti IA è scontato del 25%, con un prezzo più basso."
+        }
+    },
+    "Bitdegree AI Tools Deals": {
+        "description": {
+            "en": "Bitdegree features a comprehensive list of deals and promotional codes for AI tools, helping consumers save money while accessing high-quality software for various applications.",
+            "uk": "Bitdegree має вичерпний список угод і промо-кодів для ШІ-інструментів, допомагаючи споживачам економити гроші під час доступу до високоякісного програмного забезпечення для різних застосувань.",
+            "ja": "Bitdegreeは、AIツールのための包括的な取引とプロモーションコードのリストを提供しており、消費者が高品質のソフトウェアにアクセスしながらお金を節約するのを助けています。",
+            "es": "Bitdegree presenta una lista integral de ofertas y códigos promocionales para herramientas de IA, ayudando a los consumidores a ahorrar dinero mientras acceden a software de alta calidad para diversas aplicaciones.",
+            "pt": "O Bitdegree apresenta uma lista abrangente de ofertas e códigos promocionais para ferramentas de IA, ajudando os consumidores a economizar dinheiro enquanto acessam software de alta qualidade para várias aplicações.",
+            "fr": "Bitdegree propose une liste complète d'offres et de codes promotionnels pour des outils d'IA, aidant les consommateurs à économiser de l'argent tout en accédant à un logiciel de haute qualité pour diverses applications.",
+            "de": "Bitdegree bietet eine umfassende Liste von Angeboten und Rabattcodes für KI-Tools, die Verbrauchern helfen, Geld zu sparen, während sie auf hochwertige Software für verschiedene Anwendungen zugreifen.",
+            "zh": "Bitdegree提供了一个综合的AI工具交易和促销代码列表，帮助消费者在获取各种应用的高质量软件时节省资金。",
+            "it": "Bitdegree presenta un elenco completo di offerte e codici promozionali per strumenti di intelligenza artificiale, aiutando i consumatori a risparmiare denaro mentre accedono a software di alta qualità per vari utilizzi."
+        },
+        "features": {
+            "en": "Curated deals for AI tools, extensive support from a dedicated team.",
+            "uk": "Добірка угод для ШІ-інструментів, всебічна підтримка від спеціалізованої команди.",
+            "ja": "AIツールのためにキュレーションされた取引、専任チームによる幅広いサポート。",
+            "es": "Ofertas seleccionadas para herramientas de IA, amplio soporte de un equipo dedicado.",
+            "pt": "Ofertas curadas para ferramentas de IA, suporte extenso de uma equipe dedicada.",
+            "fr": "Offres sélectionnées pour des outils d'IA, soutien complet d'une équipe dédiée.",
+            "de": "Kuratierten Deals für KI-Tools, umfangreiche Unterstützung durch ein engagiertes Team.",
+            "zh": "为AI工具提供精心策划的交易，专门团队的广泛支持。",
+            "it": "Offerte curate per strumenti di intelligenza artificiale, supporto esteso da parte di un team dedicato."
+        },
+        "discount": {
+            "en": "Varies",
+            "uk": "Варіюється",
+            "ja": "異なる",
+            "es": "Varía",
+            "pt": "Varia",
+            "fr": "Varie",
+            "de": "Variiert",
+            "zh": "不等",
+            "it": "Varia"
+        },
+        "pricing": {
+            "en": "Access to exclusive AI software coupon codes and AI tool discount codes.",
+            "uk": "Доступ до ексклюзивних купонів на ШІ-потрібне програмне забезпечення та кодів знижок на ШІ-інструменти.",
+            "ja": "独占的なAIソフトウェアクーポンコードおよびAIツール割引コードへのアクセス。",
+            "es": "Acceso a códigos de cupón exclusivos para software de IA y códigos de descuento para herramientas de IA.",
+            "pt": "Acesso a códigos de cupom de software de IA exclusivos e códigos de desconto para ferramentas de IA.",
+            "fr": "Accès à des codes de coupon exclusifs pour des logiciels d'IA et à des codes de réduction pour des outils d'IA.",
+            "de": "Zugang zu exklusiven Gutscheincodes für KI-Software und Rabattcodes für KI-Tools.",
+            "zh": "访问独特的AI软件优惠券代码和AI工具折扣代码。",
+            "it": "Accesso a codici coupon esclusivi per software di intelligenza artificiale e codici sconto per strumenti di intelligenza artificiale."
+        }
+    },
+    "InVideo AI": {
+        "description": {
+            "en": "InVideo AI offers a user-friendly platform for creating professional-quality videos using a vast library of templates and tools.",
+            "uk": "InVideo ШІ пропонує зручну платформу для створення професійних відео за допомогою величезної бібліотеки шаблонів та інструментів.",
+            "ja": "InVideo AIは、膨大なテンプレートとツールのライブラリを使用して、プロ品質のビデオを作成するための使いやすいプラットフォームを提供します。",
+            "es": "InVideo AI ofrece una plataforma fácil de usar para crear videos de calidad profesional utilizando una amplia biblioteca de plantillas y herramientas.",
+            "pt": "InVideo AI oferece uma plataforma amigável para criar vídeos de qualidade profissional usando uma vasta biblioteca de modelos e ferramentas.",
+            "fr": "InVideo AI propose une plateforme conviviale pour créer des vidéos de qualité professionnelle en utilisant une vaste bibliothèque de modèles et d'outils.",
+            "de": "InVideo AI bietet eine benutzerfreundliche Plattform zum Erstellen von professionellen Videos mit einer umfangreichen Bibliothek von Vorlagen und Tools.",
+            "zh": "InVideo AI提供一个用户友好的平台，通过丰富的模板和工具库创建专业质量的视频。",
+            "it": "InVideo AI offre una piattaforma facile da usare per creare video di qualità professionale utilizzando una vasta libreria di modelli e strumenti."
+        },
+        "features": {
+            "en": "Video creation, templates, easy editing",
+            "uk": "Створення відео, шаблони, зручне редагування",
+            "ja": "ビデオ作成、テンプレート、簡単な編集",
+            "es": "Creación de videos, plantillas, edición fácil",
+            "pt": "Criação de vídeo, modelos, edição fácil",
+            "fr": "Création de vidéos, modèles, édition facile",
+            "de": "Videoerstellung, Vorlagen, einfache Bearbeitung",
+            "zh": "视频创作、模板、简单编辑",
+            "it": "Creazione video, modelli, editing facile"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Updated promo codes available",
+            "uk": "Доступні оновлені промокоди",
+            "ja": "更新されたプロモコードが利用可能",
+            "es": "Códigos promocionales actualizados disponibles",
+            "pt": "Códigos promocionais atualizados disponíveis",
+            "fr": "Codes promo mis à jour disponibles",
+            "de": "Aktualisierte Aktionscodes verfügbar",
+            "zh": "可用更新的促销代码",
+            "it": "Codici promozionali aggiornati disponibili"
+        }
     }
 }
