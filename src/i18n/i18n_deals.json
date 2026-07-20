@@ -9014,5 +9014,189 @@
             "zh": "可用更新的促销代码",
             "it": "Codici promozionali aggiornati disponibili"
         }
+    },
+    "AI Tools Coupons - Startupworld": {
+        "description": {
+            "en": "Startupworld lists a variety of verified AI tools coupon codes to aid users in finding the best discounts available.",
+            "uk": "Startupworld перераховує різноманітні перевірені коди купонів для інструментів ШІ, щоб допомогти користувачам знайти найкращі доступні знижки.",
+            "ja": "Startupworldは、ユーザーが入手可能な最高の割引を見つけるのを助けるために、さまざまな検証されたAIツールのクーポンコードをリストしています。",
+            "es": "Startupworld lista una variedad de códigos de cupones verificados para herramientas de IA para ayudar a los usuarios a encontrar los mejores descuentos disponibles.",
+            "pt": "A Startupworld lista uma variedade de códigos de cupom verificados para ferramentas de IA para ajudar os usuários a encontrar os melhores descontos disponíveis.",
+            "fr": "Startupworld répertorie une variété de codes de coupon pour outils IA vérifiés afin d'aider les utilisateurs à trouver les meilleures réductions disponibles.",
+            "de": "Startupworld listet eine Vielzahl von verifizierten Rabattcodes für KI-Tools, um den Nutzern zu helfen, die besten verfügbaren Rabatte zu finden.",
+            "zh": "Startupworld列出了各种经过验证的AI工具优惠券代码，以帮助用户找到可用的最佳折扣。",
+            "it": "Startupworld elenca una varietà di codici coupon verificati per strumenti di IA per aiutare gli utenti a trovare i migliori sconti disponibili."
+        },
+        "features": {
+            "en": "Extensive directory of verified coupon codes.",
+            "uk": "Широкий каталог перевірених кодів купонів.",
+            "ja": "検証済みのクーポンコードの広範なディレクトリ。",
+            "es": "Amplio directorio de códigos de cupones verificados.",
+            "pt": "Extenso diretório de códigos de cupom verificados.",
+            "fr": "Un vaste annuaire de codes de coupon vérifiés.",
+            "de": "Umfangverzeichnis verifizierter Rabattcodes.",
+            "zh": "大量经过验证的优惠券代码目录。",
+            "it": "Ampio catalogo di codici coupon verificati."
+        },
+        "discount": {
+            "en": "10% Off site-wide",
+            "uk": "10% знижка на весь сайт",
+            "ja": "サイト全体で10%オフ",
+            "es": "10% de descuento en todo el sitio",
+            "pt": "10% de desconto em todo o site",
+            "fr": "10% de réduction sur tout le site",
+            "de": "10% Rabatt auf der gesamten Site",
+            "zh": "全站10%优惠",
+            "it": "10% di sconto su tutto il sito"
+        },
+        "pricing": {
+            "en": "622 verified coupons from 40 stores.",
+            "uk": "622 перевірених купонів з 40 магазинів.",
+            "ja": "40店舗からの622件の検証済みクーポン。",
+            "es": "622 cupones verificados de 40 tiendas.",
+            "pt": "622 cupons verificados de 40 lojas.",
+            "fr": "622 coupons vérifiés de 40 magasins.",
+            "de": "622 verifizierte Coupons von 40 Geschäften.",
+            "zh": "来自40家商店的622个验证过的优惠券。",
+            "it": "622 coupon verificati da 40 negozi."
+        }
+    },
+    "Bitdegree": {
+        "description": {
+            "en": "Bitdegree serves as a platform for discovering exclusive deals on AI tools and software, helping users save money with verified discount codes.",
+            "uk": "Bitdegree є платформою для знаходження ексклюзивних угод на інструменти та програмне забезпечення ШІ, що допомагає користувачам заощаджувати за допомогою перевірених кодів знижок.",
+            "ja": "Bitdegreeは、AIツールとソフトウェアの独自の取引を発見するためのプラットフォームとして機能し、ユーザーが確認済みの割引コードでお金を節約する手助けをします。",
+            "es": "Bitdegree sirve como una plataforma para descubrir ofertas exclusivas en herramientas de IA y software, ayudando a los usuarios a ahorrar dinero con códigos de descuento verificados.",
+            "pt": "Bitdegree serve como uma plataforma para descobrir ofertas exclusivas em ferramentas e software de IA, ajudando os usuários a economizar dinheiro com códigos de desconto verificados.",
+            "fr": "Bitdegree sert de plateforme pour découvrir des offres exclusives sur les outils et logiciels d'IA, aidant les utilisateurs à économiser de l'argent grâce à des codes de réduction vérifiés.",
+            "de": "Bitdegree dient als Plattform zur Entdeckung exklusiver Angebote für KI-Tools und -Software und hilft Benutzern, mit verifiziertem Rabattcodes Geld zu sparen.",
+            "zh": "Bitdegree是一个发现AI工具和软件独家优惠的平台，帮助用户通过验证的折扣代码节省开支。",
+            "it": "Bitdegree funge da piattaforma per scoprire offerte esclusive su strumenti e software di IA, aiutando gli utenti a risparmiare denaro con codici sconto verificati."
+        },
+        "features": {
+            "en": "Dedicated team for finding top AI tool deals.",
+            "uk": "Спеціалізована команда для пошуку найкращих угод на інструменти ШІ.",
+            "ja": "トップのAIツールの取引を見つけるための専任チーム。",
+            "es": "Equipo dedicado para encontrar las mejores ofertas de herramientas de IA.",
+            "pt": "Equipe dedicada para encontrar as melhores ofertas de ferramentas de IA.",
+            "fr": "Équipe dédiée à la recherche des meilleures offres d'outils d'IA.",
+            "de": "Ein engagiertes Team zur Suche nach den besten Angeboten für KI-Tools.",
+            "zh": "专门团队负责寻找最佳AI工具交易。",
+            "it": "Team dedicato per trovare le migliori offerte sugli strumenti di IA."
+        },
+        "discount": {
+            "en": "Exclusive AI Tool Deals",
+            "uk": "Ексклюзивні угоди на інструменти ШІ",
+            "ja": "独自のAIツールの取引",
+            "es": "Ofertas exclusivas de herramientas de IA",
+            "pt": "Ofertas exclusivas de ferramentas de IA",
+            "fr": "Offres exclusives sur les outils d'IA",
+            "de": "Exklusive Angebote für KI-Tools",
+            "zh": "独家AI工具交易",
+            "it": "Offerte esclusive sugli strumenti di IA"
+        },
+        "pricing": {
+            "en": "Best AI software coupon codes and AI tool discount codes.",
+            "uk": "Найкращі коди купонів на програмне забезпечення ШІ та коди знижок на інструменти ШІ.",
+            "ja": "最高のAIソフトウェアクーポンコードとAIツール割引コード。",
+            "es": "Los mejores códigos de cupón de software de IA y códigos de descuento de herramientas de IA.",
+            "pt": "Os melhores códigos de cupom de software de IA e códigos de desconto para ferramentas de IA.",
+            "fr": "Meilleurs codes de coupon de logiciel d'IA et codes de réduction d'outils d'IA.",
+            "de": "Die besten Rabattcodes für KI-Software und Rabattcodes für KI-Tools.",
+            "zh": "最佳AI软件优惠券代码和AI工具折扣代码。",
+            "it": "I migliori codici coupon per software di IA e codici sconto per strumenti di IA."
+        }
+    },
+    "Top 10 Business & Marketing Tools": {
+        "description": {
+            "en": "This resource lists top promo codes for a variety of business and marketing tools, helping consumers save on essential software.",
+            "uk": "Цей ресурс містить найкращі промокоди для різноманітних бізнес-інструментів та інструментів маркетингу, допомагаючи споживачам заощадити на необхідному програмному забезпеченні.",
+            "ja": "このリソースは、さまざまなビジネスおよびマーケティングツールのためのトッププロモーションコードをリストし、消費者が必須ソフトウェアを節約できるように支援します。",
+            "es": "Este recurso lista los mejores códigos promocionales para una variedad de herramientas de negocios y marketing, ayudando a los consumidores a ahorrar en software esencial.",
+            "pt": "Este recurso lista os melhores códigos promocionais para uma variedade de ferramentas de negócios e marketing, ajudando os consumidores a economizar em software essencial.",
+            "fr": "Cette ressource répertorie les meilleurs codes promotionnels pour une variété d'outils commerciaux et marketing, aidant ainsi les consommateurs à économiser sur les logiciels essentiels.",
+            "de": "Diese Ressource listet die besten Aktionscodes für eine Vielzahl von Geschäfts- und Marketingtools auf und hilft Verbrauchern, bei wesentlicher Software zu sparen.",
+            "zh": "此资源列出了各种业务和营销工具的顶级促销代码，帮助消费者在必要的软件上节省开支。",
+            "it": "Questa risorsa elenca i migliori codici promozionali per una varietà di strumenti aziendali e di marketing, aiutando i consumatori a risparmiare su software essenziali."
+        },
+        "features": {
+            "en": "Business tools, Marketing tools",
+            "uk": "Бізнес-інструменти, Маркетингові інструменти",
+            "ja": "ビジネスツール、マーケティングツール",
+            "es": "Herramientas de negocio, Herramientas de marketing",
+            "pt": "Ferramentas de negócios, Ferramentas de marketing",
+            "fr": "Outils commerciaux, Outils marketing",
+            "de": "Geschäftswerkzeuge, Marketing-Tools",
+            "zh": "商业工具，营销工具",
+            "it": "Strumenti aziendali, Strumenti di marketing"
+        },
+        "discount": {
+            "en": "up to 50%",
+            "uk": "до 50%",
+            "ja": "最大50%",
+            "es": "hasta el 50%",
+            "pt": "até 50%",
+            "fr": "jusqu'à 50%",
+            "de": "bis zu 50%",
+            "zh": "最高50%",
+            "it": "fino al 50%"
+        },
+        "pricing": {
+            "en": "Various discounts on CRM software, email marketing tools, SEO platforms",
+            "uk": "Різні знижки на програмне забезпечення CRM, інструменти електронного маркетингу, платформи SEO",
+            "ja": "CRMソフトウェア、メールマーケティングツール、SEOプラットフォームに対するさまざまな割引",
+            "es": "Diversos descuentos en software de CRM, herramientas de marketing por correo electrónico, plataformas de SEO",
+            "pt": "Vários descontos em software de CRM, ferramentas de email marketing, plataformas de SEO",
+            "fr": "Diverses réductions sur les logiciels CRM, les outils de marketing par e-mail, les plateformes SEO",
+            "de": "Verschiedene Rabatte auf CRM-Software, E-Mail-Marketing-Tools, SEO-Plattformen",
+            "zh": "CRM软件、电子邮件营销工具和SEO平台的各种折扣",
+            "it": "Vari sconti su software CRM, strumenti di email marketing, piattaforme SEO"
+        }
+    },
+    "AI Video Editing Tools": {
+        "description": {
+            "en": "AI Video Editing Tools encompasses a range of software that leverages artificial intelligence to enhance and automate the video editing process.",
+            "uk": "Інструменти редагування відео на основі ШІ охоплюють ряд програмного забезпечення, яке використовує штучний інтелект для покращення та автоматизації процесу редагування відео.",
+            "ja": "AIビデオ編集ツールは、人工知能を活用してビデオ編集プロセスを強化および自動化するソフトウェアの範囲を含みます。",
+            "es": "Las herramientas de edición de video con IA abarcan una variedad de software que aprovecha la inteligencia artificial para mejorar y automatizar el proceso de edición de video.",
+            "pt": "As ferramentas de edição de vídeo com IA abrangem uma variedade de software que aproveita a inteligência artificial para aprimorar e automatizar o processo de edição de vídeo.",
+            "fr": "Les outils de montage vidéo basés sur l'IA englobent une gamme de logiciels qui exploitent l'intelligence artificielle pour améliorer et automatiser le processus de montage vidéo.",
+            "de": "KI-Video-Bearbeitungstools umfassen eine Reihe von Software, die künstliche Intelligenz nutzt, um den Video-Bearbeitungsprozess zu verbessern und zu automatisieren.",
+            "zh": "AI视频编辑工具包括一系列利用人工智能增强和自动化视频编辑过程的软件。",
+            "it": "Gli strumenti di editing video basati su IA comprendono una serie di software che sfrutta l'intelligenza artificiale per migliorare e automatizzare il processo di editing video."
+        },
+        "features": {
+            "en": "Daily tested offers, wide variety of tools.",
+            "uk": "Щодня перевірені пропозиції, широкий вибір інструментів.",
+            "ja": "毎日テストされたオファー、多様なツール。",
+            "es": "Ofertas verificadas diariamente, amplia variedad de herramientas.",
+            "pt": "Ofertas testadas diariamente, ampla variedade de ferramentas.",
+            "fr": "Offres testées quotidiennement, large variété d'outils.",
+            "de": "Täglich getestete Angebote, große Auswahl an Werkzeugen.",
+            "zh": "每日测试的优惠，工具种类繁多。",
+            "it": "Offerte testate quotidianamente, ampia varietà di strumenti."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Browse 161 verified AI Video Editing Tools coupon codes for June 2026.",
+            "uk": "Перегляньте 161 перевірений купон для інструментів редагування відео на основі ШІ за червень 2026 року.",
+            "ja": "2026年6月のAIビデオ編集ツールの161の確認済みクーポンコードを閲覧してください。",
+            "es": "Consulta 161 códigos de descuento verificados para herramientas de edición de video con IA de junio de 2026.",
+            "pt": "Navegue por 161 códigos de cupom verificados para ferramentas de edição de vídeo com IA para junho de 2026.",
+            "fr": "Parcourez 161 codes de réduction vérifiés pour les outils de montage vidéo basés sur l'IA pour juin 2026.",
+            "de": "Durchsuchen Sie 161 verifiziertes Gutscheincodes für KI-Video-Bearbeitungstools für Juni 2026.",
+            "zh": "浏览161个经过验证的AI视频编辑工具优惠券代码，适用于2026年6月。",
+            "it": "Sfoglia 161 codici coupon verificati per strumenti di editing video basati su IA per giugno 2026."
+        }
     }
 }

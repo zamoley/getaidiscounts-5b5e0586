@@ -21,7 +21,7 @@
     "zh": "20%折扣",
     "it": "20% di sconto"
   },
-  "Various pricing options available": {
+  "33 million characters of free access": {
     "en": "Starts at $5/mo",
     "uk": "Від $5/міс",
     "ja": "月額5ドルから",
@@ -32,7 +32,7 @@
     "zh": "起价$5/月",
     "it": "Da $5/mese"
   },
-  "50% OFF": {
+  "12 months free": {
     "en": "10% OFF",
     "uk": "ЗНИЖКА 10%",
     "ja": "10%オフ",
@@ -538,7 +538,7 @@
     "zh": "写作优惠",
     "it": "Offerta scrittura"
   },
-  "April 2026": {
+  "Lifetime plan available at a discounted rate.": {
     "en": "Starts at $12/mo",
     "uk": "Починається від $12/міс",
     "ja": "月額12ドルから",
@@ -548,17 +548,6 @@
     "de": "Ab $12/Monat",
     "zh": "每月12美元起",
     "it": "A partire da $12/mese"
-  },
-  "30%": {
-    "en": "Free Trial",
-    "uk": "Безкоштовна Спроба",
-    "ja": "無料トライアル",
-    "es": "Prueba Gratuita",
-    "pt": "Teste Gratuito",
-    "fr": "Essai Gratuit",
-    "de": "Kostenlose Testphase",
-    "zh": "免费试用",
-    "it": "Prova Gratuita"
   },
   "Plans start at $29/month.": {
     "en": "$39/Month",
@@ -647,6 +636,17 @@
     "de": "149 $/Monat",
     "zh": "149 美元/月",
     "it": "149 $/mese"
+  },
+  "30%": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
   },
   "From $119.99/yr": {
     "en": "Starts at $119/year",
@@ -945,7 +945,7 @@
     "zh": "免费访问",
     "it": "Accesso gratuito"
   },
-  "Free API credits worth $1,000-$25 available.": {
+  "Annual billing option available": {
     "en": "Free Tier Available",
     "uk": "Доступний безкоштовний рівень",
     "ja": "無料枠あり",
@@ -956,7 +956,7 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
-  "17% off on annual billing": {
+  "17%": {
     "en": "AI Assistant",
     "uk": "ШІ-асистент",
     "ja": "AIアシスタント",
@@ -1187,7 +1187,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "No public discount codes available": {
+  "Free 1-Year Perplexity Pro Offer valued at $240 for students.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1902,7 +1902,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Prices vary, coupons updated daily.": {
+  "Save up to 25% with codes updated daily.": {
     "en": "April 2026",
     "uk": "Квітень 2026",
     "ja": "2026年4月",
@@ -1912,17 +1912,6 @@
     "de": "April 2026",
     "zh": "2026年4月",
     "it": "Aprile 2026"
-  },
-  "25% Off": {
-    "en": "65%",
-    "uk": "65%",
-    "ja": "65%",
-    "es": "65%",
-    "pt": "65%",
-    "fr": "65%",
-    "de": "65%",
-    "zh": "65%",
-    "it": "65%"
   },
   "Coupons for AI tools and apps.": {
     "en": "Coupons for AI tools and apps.",
@@ -1957,7 +1946,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Active promo codes available.": {
+  "Active promo codes available for usage.": {
     "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
     "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
     "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
@@ -1968,7 +1957,7 @@
     "zh": "Plus计划起价$20/月，Pro计划$25/月。",
     "it": "Il Piano Plus parte da $20/mese, il Piano Pro a $25/mese."
   },
-  "$25k Credits": {
+  "$25,000 credits": {
     "en": "N/A",
     "uk": "Немає",
     "ja": "該当なし",
@@ -2034,7 +2023,7 @@
     "zh": "2026年3月的7个有效AI律师促销代码。",
     "it": "7 codici promozionali attivi di AI Lawyer per marzo 2026."
   },
-  "35 active coupons available for July 2026.": {
+  "10% off AI-Lawyer services with the discount code.": {
     "en": "15 active AI-Lawyer coupons & deals for May 2026.",
     "uk": "15 активних купонів та пропозицій AI-Lawyer на травень 2026 року.",
     "ja": "2026年5月のための15件の有効なAI-Lawyerクーポンとディール。",
@@ -2122,6 +2111,17 @@
     "zh": "六折优惠",
     "it": "60% di sconto"
   },
+  "Various pricing options available": {
+    "en": "Various pricing options available",
+    "uk": "Доступні різні варіанти ціноутворення",
+    "ja": "さまざまな価格オプションが利用可能",
+    "es": "Varias opciones de precios disponibles",
+    "pt": "Várias opções de preços disponíveis",
+    "fr": "Différentes options de tarification disponibles",
+    "de": "Verschiedene Preismodelle verfügbar",
+    "zh": "提供各种定价选项",
+    "it": "Varie opzioni di prezzo disponibili"
+  },
   "Provides a 20% discount on any plan.": {
     "en": "Applicable on all plans.",
     "uk": "Застосовується до всіх планів.",
@@ -2177,7 +2177,7 @@
     "zh": "最高可达20%",
     "it": "Fino al 20%"
   },
-  "Comparative deals from 61 active AI tool providers.": {
+  "61 active providers and coupon codes available": {
     "en": "Comparative deals from 61 active AI tool providers.",
     "uk": "Порівняльні пропозиції від 61 активного постачальника ШІ інструментів.",
     "ja": "61のアクティブなAIツールプロバイダーからの比較取引。",
@@ -2187,6 +2187,17 @@
     "de": "Vergleichsangebote von 61 aktiven KI-Tool-Anbietern.",
     "zh": "来自61个活跃的AI工具提供商的比较交易。",
     "it": "Offerte comparative da 61 fornitori attivi di strumenti di IA."
+  },
+  "Up to 80% Off": {
+    "en": "Up to 80%",
+    "uk": "До 80%",
+    "ja": "最大80%",
+    "es": "Hasta un 80%",
+    "pt": "Até 80%",
+    "fr": "Jusqu'à 80%",
+    "de": "Bis zu 80%",
+    "zh": "高达80%",
+    "it": "Fino all'80%"
   },
   "Best AI Music Tools Stores.": {
     "en": "Best AI Music Tools Stores.",
@@ -2254,7 +2265,7 @@
     "zh": "每月3000美元",
     "it": "3000 dollari al mese"
   },
-  "Plus Plan for Sora Video Generation at $20/month and Plus Plan for $21.12": {
+  "$20/month for Plus Plan": {
     "en": "N/A",
     "uk": "Н/Д",
     "ja": "該当なし",
@@ -2308,17 +2319,6 @@
     "de": "Kombinierter Zugriff auf mehrere KI-Tools zu einem ermäßigten Preis.",
     "zh": "以折扣价格组合访问多个人工智能工具。",
     "it": "Accesso combinato a più strumenti di IA a una tariffa scontata."
-  },
-  "Just $29/month": {
-    "en": "$29/month",
-    "uk": "$29/місяць",
-    "ja": "$29/月",
-    "es": "$29/mes",
-    "pt": "$29/mês",
-    "fr": "$29/mois",
-    "de": "$29/Monat",
-    "zh": "每月$29",
-    "it": "$29/mese"
   },
   "Grab Plus Plan for $20/month.": {
     "en": "$20 /month for Plus Plan",
@@ -2375,7 +2375,7 @@
     "zh": "30美元",
     "it": "30 dollari"
   },
-  "Monthly Creator plan available for $29.": {
+  "$23.99 → $29": {
     "en": "Additional 20% off during 12 months",
     "uk": "Додаткові 20% знижки протягом 12 місяців",
     "ja": "12か月間はさらに20％オフ",
@@ -2385,17 +2385,6 @@
     "de": "Zusätzliche 20% Rabatt für 12 Monate",
     "zh": "在12个月内额外优惠20%",
     "it": "20% di sconto aggiuntivo per 12 mesi"
-  },
-  "UP TO 50%": {
-    "en": "20%",
-    "uk": "20%",
-    "ja": "20%",
-    "es": "20%",
-    "pt": "20%",
-    "fr": "20%",
-    "de": "20%",
-    "zh": "20%",
-    "it": "20%"
   },
   "Up to 25% with 13 active promo codes": {
     "en": "Up to 25% with 13 active promo codes",
@@ -2418,17 +2407,6 @@
     "de": "Zeitlich begrenztes Angebot für 2026.",
     "zh": "2026年限时优惠。",
     "it": "Offerta a tempo limitato per il 2026."
-  },
-  "17%": {
-    "en": "17%",
-    "uk": "17%",
-    "ja": "17%",
-    "es": "17%",
-    "pt": "17%",
-    "fr": "17%",
-    "de": "17%",
-    "zh": "17%",
-    "it": "17%"
   },
   "Free coupon extension with 40M+ shoppers.": {
     "en": "Free coupon extension with 40M+ shoppers.",
@@ -2529,7 +2507,18 @@
     "zh": "提供多个可用的促销代码以获取折扣。",
     "it": "Multipli codici promozionali attivi disponibili per sconti."
   },
-  "Not specified.": {
+  "$25k Credits": {
+    "en": "$25k Credits",
+    "uk": "25 тисяч доларів кредитів",
+    "ja": "25,000ドルのクレジット",
+    "es": "25,000 dólares en créditos",
+    "pt": "25 mil dólares em créditos",
+    "fr": "25 000 $ de crédits",
+    "de": "25.000 $ Guthaben",
+    "zh": "25,000美元的积分",
+    "it": "25.000 dollari in crediti"
+  },
+  "Top AI software coupon codes available.": {
     "en": "Not specified.",
     "uk": "Не вказано.",
     "ja": "明記されていません。",
@@ -2537,6 +2526,28 @@
     "pt": "Não especificado.",
     "fr": "Non spécifié.",
     "de": "Nicht spezifiziert.",
+    "zh": "未指定。",
+    "it": "Non specificato."
+  },
+  "Various exclusive deals": {
+    "en": "N/A",
+    "uk": "НД",
+    "ja": "該当なし",
+    "es": "N/A",
+    "pt": "N/A",
+    "fr": "N/D",
+    "de": "k.A.",
+    "zh": "无",
+    "it": "N/D"
+  },
+  "Not specified.": {
+    "en": "Not specified.",
+    "uk": "Не вказано.",
+    "ja": "未指定。",
+    "es": "No especificado.",
+    "pt": "Não especificado.",
+    "fr": "Non spécifié.",
+    "de": "Nicht angegeben.",
     "zh": "未指定。",
     "it": "Non specificato."
   },
@@ -2572,6 +2583,83 @@
     "de": "Aktualisierte Aktionscodes verfügbar",
     "zh": "可用更新的促销代码",
     "it": "Codici promozionali aggiornati disponibili"
+  },
+  "622 verified coupons from 40 stores.": {
+    "en": "622 verified coupons from 40 stores.",
+    "uk": "622 перевірених купонів з 40 магазинів.",
+    "ja": "40店舗からの622件の検証済みクーポン。",
+    "es": "622 cupones verificados de 40 tiendas.",
+    "pt": "622 cupons verificados de 40 lojas.",
+    "fr": "622 coupons vérifiés de 40 magasins.",
+    "de": "622 verifizierte Coupons von 40 Geschäften.",
+    "zh": "来自40家商店的622个验证过的优惠券。",
+    "it": "622 coupon verificati da 40 negozi."
+  },
+  "10% Off site-wide": {
+    "en": "10% Off site-wide",
+    "uk": "10% знижка на весь сайт",
+    "ja": "サイト全体で10%オフ",
+    "es": "10% de descuento en todo el sitio",
+    "pt": "10% de desconto em todo o site",
+    "fr": "10% de réduction sur tout le site",
+    "de": "10% Rabatt auf der gesamten Site",
+    "zh": "全站10%优惠",
+    "it": "10% di sconto su tutto il sito"
+  },
+  "Best AI software coupon codes and AI tool discount codes.": {
+    "en": "Best AI software coupon codes and AI tool discount codes.",
+    "uk": "Найкращі коди купонів на програмне забезпечення ШІ та коди знижок на інструменти ШІ.",
+    "ja": "最高のAIソフトウェアクーポンコードとAIツール割引コード。",
+    "es": "Los mejores códigos de cupón de software de IA y códigos de descuento de herramientas de IA.",
+    "pt": "Os melhores códigos de cupom de software de IA e códigos de desconto para ferramentas de IA.",
+    "fr": "Meilleurs codes de coupon de logiciel d'IA et codes de réduction d'outils d'IA.",
+    "de": "Die besten Rabattcodes für KI-Software und Rabattcodes für KI-Tools.",
+    "zh": "最佳AI软件优惠券代码和AI工具折扣代码。",
+    "it": "I migliori codici coupon per software di IA e codici sconto per strumenti di IA."
+  },
+  "Exclusive AI Tool Deals": {
+    "en": "Exclusive AI Tool Deals",
+    "uk": "Ексклюзивні угоди на інструменти ШІ",
+    "ja": "独自のAIツールの取引",
+    "es": "Ofertas exclusivas de herramientas de IA",
+    "pt": "Ofertas exclusivas de ferramentas de IA",
+    "fr": "Offres exclusives sur les outils d'IA",
+    "de": "Exklusive Angebote für KI-Tools",
+    "zh": "独家AI工具交易",
+    "it": "Offerte esclusive sugli strumenti di IA"
+  },
+  "Various discounts on CRM software, email marketing tools, SEO platforms": {
+    "en": "Various discounts on CRM software, email marketing tools, SEO platforms",
+    "uk": "Різні знижки на програмне забезпечення CRM, інструменти електронного маркетингу, платформи SEO",
+    "ja": "CRMソフトウェア、メールマーケティングツール、SEOプラットフォームに対するさまざまな割引",
+    "es": "Diversos descuentos en software de CRM, herramientas de marketing por correo electrónico, plataformas de SEO",
+    "pt": "Vários descontos em software de CRM, ferramentas de email marketing, plataformas de SEO",
+    "fr": "Diverses réductions sur les logiciels CRM, les outils de marketing par e-mail, les plateformes SEO",
+    "de": "Verschiedene Rabatte auf CRM-Software, E-Mail-Marketing-Tools, SEO-Plattformen",
+    "zh": "CRM软件、电子邮件营销工具和SEO平台的各种折扣",
+    "it": "Vari sconti su software CRM, strumenti di email marketing, piattaforme SEO"
+  },
+  "up to 50%": {
+    "en": "up to 50%",
+    "uk": "до 50%",
+    "ja": "最大50%",
+    "es": "hasta el 50%",
+    "pt": "até 50%",
+    "fr": "jusqu'à 50%",
+    "de": "bis zu 50%",
+    "zh": "最高50%",
+    "it": "fino al 50%"
+  },
+  "Browse 161 verified AI Video Editing Tools coupon codes for June 2026.": {
+    "en": "Browse 161 verified AI Video Editing Tools coupon codes for June 2026.",
+    "uk": "Перегляньте 161 перевірений купон для інструментів редагування відео на основі ШІ за червень 2026 року.",
+    "ja": "2026年6月のAIビデオ編集ツールの161の確認済みクーポンコードを閲覧してください。",
+    "es": "Consulta 161 códigos de descuento verificados para herramientas de edición de video con IA de junio de 2026.",
+    "pt": "Navegue por 161 códigos de cupom verificados para ferramentas de edição de vídeo com IA para junho de 2026.",
+    "fr": "Parcourez 161 codes de réduction vérifiés pour les outils de montage vidéo basés sur l'IA pour juin 2026.",
+    "de": "Durchsuchen Sie 161 verifiziertes Gutscheincodes für KI-Video-Bearbeitungstools für Juni 2026.",
+    "zh": "浏览161个经过验证的AI视频编辑工具优惠券代码，适用于2026年6月。",
+    "it": "Sfoglia 161 codici coupon verificati per strumenti di editing video basati su IA per giugno 2026."
   },
   "Midjourney": {
     "en": {
@@ -13547,6 +13635,230 @@
       "features": "Creazione video, modelli, editing facile",
       "badge": "N/A",
       "pricing": "Codici promozionali aggiornati disponibili"
+    }
+  },
+  "AI Tools Coupons - Startupworld": {
+    "en": {
+      "description": "Startupworld lists a variety of verified AI tools coupon codes to aid users in finding the best discounts available.",
+      "features": "Extensive directory of verified coupon codes.",
+      "badge": "10% Off site-wide",
+      "pricing": "622 verified coupons from 40 stores."
+    },
+    "uk": {
+      "description": "Startupworld перераховує різноманітні перевірені коди купонів для інструментів ШІ, щоб допомогти користувачам знайти найкращі доступні знижки.",
+      "features": "Широкий каталог перевірених кодів купонів.",
+      "badge": "10% знижка на весь сайт",
+      "pricing": "622 перевірених купонів з 40 магазинів."
+    },
+    "ja": {
+      "description": "Startupworldは、ユーザーが入手可能な最高の割引を見つけるのを助けるために、さまざまな検証されたAIツールのクーポンコードをリストしています。",
+      "features": "検証済みのクーポンコードの広範なディレクトリ。",
+      "badge": "サイト全体で10%オフ",
+      "pricing": "40店舗からの622件の検証済みクーポン。"
+    },
+    "es": {
+      "description": "Startupworld lista una variedad de códigos de cupones verificados para herramientas de IA para ayudar a los usuarios a encontrar los mejores descuentos disponibles.",
+      "features": "Amplio directorio de códigos de cupones verificados.",
+      "badge": "10% de descuento en todo el sitio",
+      "pricing": "622 cupones verificados de 40 tiendas."
+    },
+    "pt": {
+      "description": "A Startupworld lista uma variedade de códigos de cupom verificados para ferramentas de IA para ajudar os usuários a encontrar os melhores descontos disponíveis.",
+      "features": "Extenso diretório de códigos de cupom verificados.",
+      "badge": "10% de desconto em todo o site",
+      "pricing": "622 cupons verificados de 40 lojas."
+    },
+    "fr": {
+      "description": "Startupworld répertorie une variété de codes de coupon pour outils IA vérifiés afin d'aider les utilisateurs à trouver les meilleures réductions disponibles.",
+      "features": "Un vaste annuaire de codes de coupon vérifiés.",
+      "badge": "10% de réduction sur tout le site",
+      "pricing": "622 coupons vérifiés de 40 magasins."
+    },
+    "de": {
+      "description": "Startupworld listet eine Vielzahl von verifizierten Rabattcodes für KI-Tools, um den Nutzern zu helfen, die besten verfügbaren Rabatte zu finden.",
+      "features": "Umfangverzeichnis verifizierter Rabattcodes.",
+      "badge": "10% Rabatt auf der gesamten Site",
+      "pricing": "622 verifizierte Coupons von 40 Geschäften."
+    },
+    "zh": {
+      "description": "Startupworld列出了各种经过验证的AI工具优惠券代码，以帮助用户找到可用的最佳折扣。",
+      "features": "大量经过验证的优惠券代码目录。",
+      "badge": "全站10%优惠",
+      "pricing": "来自40家商店的622个验证过的优惠券。"
+    },
+    "it": {
+      "description": "Startupworld elenca una varietà di codici coupon verificati per strumenti di IA per aiutare gli utenti a trovare i migliori sconti disponibili.",
+      "features": "Ampio catalogo di codici coupon verificati.",
+      "badge": "10% di sconto su tutto il sito",
+      "pricing": "622 coupon verificati da 40 negozi."
+    }
+  },
+  "Bitdegree": {
+    "en": {
+      "description": "Bitdegree serves as a platform for discovering exclusive deals on AI tools and software, helping users save money with verified discount codes.",
+      "features": "Dedicated team for finding top AI tool deals.",
+      "badge": "Exclusive AI Tool Deals",
+      "pricing": "Best AI software coupon codes and AI tool discount codes."
+    },
+    "uk": {
+      "description": "Bitdegree є платформою для знаходження ексклюзивних угод на інструменти та програмне забезпечення ШІ, що допомагає користувачам заощаджувати за допомогою перевірених кодів знижок.",
+      "features": "Спеціалізована команда для пошуку найкращих угод на інструменти ШІ.",
+      "badge": "Ексклюзивні угоди на інструменти ШІ",
+      "pricing": "Найкращі коди купонів на програмне забезпечення ШІ та коди знижок на інструменти ШІ."
+    },
+    "ja": {
+      "description": "Bitdegreeは、AIツールとソフトウェアの独自の取引を発見するためのプラットフォームとして機能し、ユーザーが確認済みの割引コードでお金を節約する手助けをします。",
+      "features": "トップのAIツールの取引を見つけるための専任チーム。",
+      "badge": "独自のAIツールの取引",
+      "pricing": "最高のAIソフトウェアクーポンコードとAIツール割引コード。"
+    },
+    "es": {
+      "description": "Bitdegree sirve como una plataforma para descubrir ofertas exclusivas en herramientas de IA y software, ayudando a los usuarios a ahorrar dinero con códigos de descuento verificados.",
+      "features": "Equipo dedicado para encontrar las mejores ofertas de herramientas de IA.",
+      "badge": "Ofertas exclusivas de herramientas de IA",
+      "pricing": "Los mejores códigos de cupón de software de IA y códigos de descuento de herramientas de IA."
+    },
+    "pt": {
+      "description": "Bitdegree serve como uma plataforma para descobrir ofertas exclusivas em ferramentas e software de IA, ajudando os usuários a economizar dinheiro com códigos de desconto verificados.",
+      "features": "Equipe dedicada para encontrar as melhores ofertas de ferramentas de IA.",
+      "badge": "Ofertas exclusivas de ferramentas de IA",
+      "pricing": "Os melhores códigos de cupom de software de IA e códigos de desconto para ferramentas de IA."
+    },
+    "fr": {
+      "description": "Bitdegree sert de plateforme pour découvrir des offres exclusives sur les outils et logiciels d'IA, aidant les utilisateurs à économiser de l'argent grâce à des codes de réduction vérifiés.",
+      "features": "Équipe dédiée à la recherche des meilleures offres d'outils d'IA.",
+      "badge": "Offres exclusives sur les outils d'IA",
+      "pricing": "Meilleurs codes de coupon de logiciel d'IA et codes de réduction d'outils d'IA."
+    },
+    "de": {
+      "description": "Bitdegree dient als Plattform zur Entdeckung exklusiver Angebote für KI-Tools und -Software und hilft Benutzern, mit verifiziertem Rabattcodes Geld zu sparen.",
+      "features": "Ein engagiertes Team zur Suche nach den besten Angeboten für KI-Tools.",
+      "badge": "Exklusive Angebote für KI-Tools",
+      "pricing": "Die besten Rabattcodes für KI-Software und Rabattcodes für KI-Tools."
+    },
+    "zh": {
+      "description": "Bitdegree是一个发现AI工具和软件独家优惠的平台，帮助用户通过验证的折扣代码节省开支。",
+      "features": "专门团队负责寻找最佳AI工具交易。",
+      "badge": "独家AI工具交易",
+      "pricing": "最佳AI软件优惠券代码和AI工具折扣代码。"
+    },
+    "it": {
+      "description": "Bitdegree funge da piattaforma per scoprire offerte esclusive su strumenti e software di IA, aiutando gli utenti a risparmiare denaro con codici sconto verificati.",
+      "features": "Team dedicato per trovare le migliori offerte sugli strumenti di IA.",
+      "badge": "Offerte esclusive sugli strumenti di IA",
+      "pricing": "I migliori codici coupon per software di IA e codici sconto per strumenti di IA."
+    }
+  },
+  "Top 10 Business & Marketing Tools": {
+    "en": {
+      "description": "This resource lists top promo codes for a variety of business and marketing tools, helping consumers save on essential software.",
+      "features": "Business tools, Marketing tools",
+      "badge": "up to 50%",
+      "pricing": "Various discounts on CRM software, email marketing tools, SEO platforms"
+    },
+    "uk": {
+      "description": "Цей ресурс містить найкращі промокоди для різноманітних бізнес-інструментів та інструментів маркетингу, допомагаючи споживачам заощадити на необхідному програмному забезпеченні.",
+      "features": "Бізнес-інструменти, Маркетингові інструменти",
+      "badge": "до 50%",
+      "pricing": "Різні знижки на програмне забезпечення CRM, інструменти електронного маркетингу, платформи SEO"
+    },
+    "ja": {
+      "description": "このリソースは、さまざまなビジネスおよびマーケティングツールのためのトッププロモーションコードをリストし、消費者が必須ソフトウェアを節約できるように支援します。",
+      "features": "ビジネスツール、マーケティングツール",
+      "badge": "最大50%",
+      "pricing": "CRMソフトウェア、メールマーケティングツール、SEOプラットフォームに対するさまざまな割引"
+    },
+    "es": {
+      "description": "Este recurso lista los mejores códigos promocionales para una variedad de herramientas de negocios y marketing, ayudando a los consumidores a ahorrar en software esencial.",
+      "features": "Herramientas de negocio, Herramientas de marketing",
+      "badge": "hasta el 50%",
+      "pricing": "Diversos descuentos en software de CRM, herramientas de marketing por correo electrónico, plataformas de SEO"
+    },
+    "pt": {
+      "description": "Este recurso lista os melhores códigos promocionais para uma variedade de ferramentas de negócios e marketing, ajudando os consumidores a economizar em software essencial.",
+      "features": "Ferramentas de negócios, Ferramentas de marketing",
+      "badge": "até 50%",
+      "pricing": "Vários descontos em software de CRM, ferramentas de email marketing, plataformas de SEO"
+    },
+    "fr": {
+      "description": "Cette ressource répertorie les meilleurs codes promotionnels pour une variété d'outils commerciaux et marketing, aidant ainsi les consommateurs à économiser sur les logiciels essentiels.",
+      "features": "Outils commerciaux, Outils marketing",
+      "badge": "jusqu'à 50%",
+      "pricing": "Diverses réductions sur les logiciels CRM, les outils de marketing par e-mail, les plateformes SEO"
+    },
+    "de": {
+      "description": "Diese Ressource listet die besten Aktionscodes für eine Vielzahl von Geschäfts- und Marketingtools auf und hilft Verbrauchern, bei wesentlicher Software zu sparen.",
+      "features": "Geschäftswerkzeuge, Marketing-Tools",
+      "badge": "bis zu 50%",
+      "pricing": "Verschiedene Rabatte auf CRM-Software, E-Mail-Marketing-Tools, SEO-Plattformen"
+    },
+    "zh": {
+      "description": "此资源列出了各种业务和营销工具的顶级促销代码，帮助消费者在必要的软件上节省开支。",
+      "features": "商业工具，营销工具",
+      "badge": "最高50%",
+      "pricing": "CRM软件、电子邮件营销工具和SEO平台的各种折扣"
+    },
+    "it": {
+      "description": "Questa risorsa elenca i migliori codici promozionali per una varietà di strumenti aziendali e di marketing, aiutando i consumatori a risparmiare su software essenziali.",
+      "features": "Strumenti aziendali, Strumenti di marketing",
+      "badge": "fino al 50%",
+      "pricing": "Vari sconti su software CRM, strumenti di email marketing, piattaforme SEO"
+    }
+  },
+  "AI Video Editing Tools": {
+    "en": {
+      "description": "AI Video Editing Tools encompasses a range of software that leverages artificial intelligence to enhance and automate the video editing process.",
+      "features": "Daily tested offers, wide variety of tools.",
+      "badge": "N/A",
+      "pricing": "Browse 161 verified AI Video Editing Tools coupon codes for June 2026."
+    },
+    "uk": {
+      "description": "Інструменти редагування відео на основі ШІ охоплюють ряд програмного забезпечення, яке використовує штучний інтелект для покращення та автоматизації процесу редагування відео.",
+      "features": "Щодня перевірені пропозиції, широкий вибір інструментів.",
+      "badge": "Немає",
+      "pricing": "Перегляньте 161 перевірений купон для інструментів редагування відео на основі ШІ за червень 2026 року."
+    },
+    "ja": {
+      "description": "AIビデオ編集ツールは、人工知能を活用してビデオ編集プロセスを強化および自動化するソフトウェアの範囲を含みます。",
+      "features": "毎日テストされたオファー、多様なツール。",
+      "badge": "該当なし",
+      "pricing": "2026年6月のAIビデオ編集ツールの161の確認済みクーポンコードを閲覧してください。"
+    },
+    "es": {
+      "description": "Las herramientas de edición de video con IA abarcan una variedad de software que aprovecha la inteligencia artificial para mejorar y automatizar el proceso de edición de video.",
+      "features": "Ofertas verificadas diariamente, amplia variedad de herramientas.",
+      "badge": "N/A",
+      "pricing": "Consulta 161 códigos de descuento verificados para herramientas de edición de video con IA de junio de 2026."
+    },
+    "pt": {
+      "description": "As ferramentas de edição de vídeo com IA abrangem uma variedade de software que aproveita a inteligência artificial para aprimorar e automatizar o processo de edição de vídeo.",
+      "features": "Ofertas testadas diariamente, ampla variedade de ferramentas.",
+      "badge": "N/D",
+      "pricing": "Navegue por 161 códigos de cupom verificados para ferramentas de edição de vídeo com IA para junho de 2026."
+    },
+    "fr": {
+      "description": "Les outils de montage vidéo basés sur l'IA englobent une gamme de logiciels qui exploitent l'intelligence artificielle pour améliorer et automatiser le processus de montage vidéo.",
+      "features": "Offres testées quotidiennement, large variété d'outils.",
+      "badge": "N/A",
+      "pricing": "Parcourez 161 codes de réduction vérifiés pour les outils de montage vidéo basés sur l'IA pour juin 2026."
+    },
+    "de": {
+      "description": "KI-Video-Bearbeitungstools umfassen eine Reihe von Software, die künstliche Intelligenz nutzt, um den Video-Bearbeitungsprozess zu verbessern und zu automatisieren.",
+      "features": "Täglich getestete Angebote, große Auswahl an Werkzeugen.",
+      "badge": "N/A",
+      "pricing": "Durchsuchen Sie 161 verifiziertes Gutscheincodes für KI-Video-Bearbeitungstools für Juni 2026."
+    },
+    "zh": {
+      "description": "AI视频编辑工具包括一系列利用人工智能增强和自动化视频编辑过程的软件。",
+      "features": "每日测试的优惠，工具种类繁多。",
+      "badge": "无",
+      "pricing": "浏览161个经过验证的AI视频编辑工具优惠券代码，适用于2026年6月。"
+    },
+    "it": {
+      "description": "Gli strumenti di editing video basati su IA comprendono una serie di software che sfrutta l'intelligenza artificiale per migliorare e automatizzare il processo di editing video.",
+      "features": "Offerte testate quotidianamente, ampia varietà di strumenti.",
+      "badge": "N/D",
+      "pricing": "Sfoglia 161 codici coupon verificati per strumenti di editing video basati su IA per giugno 2026."
     }
   }
 }
