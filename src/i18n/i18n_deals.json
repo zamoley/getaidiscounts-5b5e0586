@@ -9198,5 +9198,511 @@
             "zh": "浏览161个经过验证的AI视频编辑工具优惠券代码，适用于2026年6月。",
             "it": "Sfoglia 161 codici coupon verificati per strumenti di editing video basati su IA per giugno 2026."
         }
+    },
+    "DocLegal.Ai": {
+        "description": {
+            "en": "DocLegal.Ai offers legal document assistance powered by artificial intelligence, providing efficient solutions for legal practitioners to enhance their workflow.",
+            "uk": "DocLegal.Ai пропонує допомогу в підготовці юридичних документів, основану на штучному інтелекті, забезпечуючи ефективні рішення для юридичних фахівців з метою покращення їхнє робочого процесу.",
+            "ja": "DocLegal.Aiは人工知能を活用した法的文書の支援を提供し、法務専門家のワークフローを強化する効率的なソリューションを提供します。",
+            "es": "DocLegal.Ai ofrece asistencia en documentos legales impulsada por inteligencia artificial, proporcionando soluciones eficientes para los profesionales legales que buscan mejorar su flujo de trabajo.",
+            "pt": "DocLegal.Ai oferece assistência em documentos legais impulsionada por inteligência artificial, fornecendo soluções eficientes para profissionais jurídicos aprimorarem seu fluxo de trabalho.",
+            "fr": "DocLegal.Ai propose une assistance juridique pour les documents alimentée par l'intelligence artificielle, offrant des solutions efficaces aux praticiens du droit pour améliorer leur flux de travail.",
+            "de": "DocLegal.Ai bietet rechtliche Dokumentenhilfe, die durch künstliche Intelligenz unterstützt wird, und bietet effiziente Lösungen für Juristen zur Verbesserung ihres Arbeitsablaufs.",
+            "zh": "DocLegal.Ai 提供由人工智能驱动的法律文书协助，为法律从业者提供高效的解决方案，以提升他们的工作流程。",
+            "it": "DocLegal.Ai offre assistenza per documenti legali alimentata da intelligenza artificiale, fornendo soluzioni efficienti per i professionisti legali per migliorare il loro flusso di lavoro."
+        },
+        "features": {
+            "en": "Best Value legal tools for 2026.",
+            "uk": "Найкращі юридичні інструменти за найкращою ціною на 2026 рік.",
+            "ja": "2026年の最高の価値のある法的ツール。",
+            "es": "Herramientas legales de mejor valor para 2026.",
+            "pt": "Melhores ferramentas legais com o melhor valor para 2026.",
+            "fr": "Meilleurs outils juridiques au meilleur rapport qualité-prix pour 2026.",
+            "de": "Die besten Rechtsinstrumente zum besten Preis-Leistungs-Verhältnis für 2026.",
+            "zh": "2026年最佳价值法律工具。",
+            "it": "Migliori strumenti legali al miglior prezzo per il 2026."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Free Trial",
+            "uk": "Безкоштовний пробний період",
+            "ja": "無料トライアル",
+            "es": "Prueba Gratis",
+            "pt": "Teste Grátis",
+            "fr": "Essai gratuit",
+            "de": "Kostenlose Testversion",
+            "zh": "免费试用",
+            "it": "Prova gratuita"
+        }
+    },
+    "CoCounsel": {
+        "description": {
+            "en": "CoCounsel is an AI tool designed specifically for legal research, streamlining the process for legal professionals searching for case law and relevant legal precedents.",
+            "uk": "CoCounsel – це ШІ інструмент, спеціально створений для юридичних досліджень, який спрощує процес для юридичних фахівців, що шукають судову практику та відповідні юридичні прецеденти.",
+            "ja": "CoCounselは、法的調査専用に設計されたシステムで、ケース法や関連する法的先例を探す法務専門家のプロセスを効率化します。",
+            "es": "CoCounsel es una herramienta de IA diseñada específicamente para la investigación legal, agilizando el proceso para los profesionales legales que buscan jurisprudencia y precedentes legales relevantes.",
+            "pt": "CoCounsel é uma ferramenta de IA projetada especificamente para pesquisa jurídica, que agiliza o processo para profissionais do direito em busca de jurisprudência e precedentes legais relevantes.",
+            "fr": "CoCounsel est un outil d'IA conçu spécifiquement pour la recherche juridique, rationalisant le processus pour les professionnels du droit cherchant des jurisprudences et des précédents légaux pertinents.",
+            "de": "CoCounsel ist ein AI-Tool, das speziell für die rechtliche Forschung entwickelt wurde und den Prozess für Juristen, die nach Rechtsprechung und relevanten rechtlichen Präzedenzfällen suchen, rationalisiert.",
+            "zh": "CoCounsel是专为法律研究设计的人工智能工具，简化了法律专业人士搜索案例法和相关法律先例的过程。",
+            "it": "CoCounsel è uno strumento di IA progettato specificamente per la ricerca legale, semplificando il processo per i professionisti del diritto che cercano giurisprudenza e precedenti giuridici rilevanti."
+        },
+        "features": {
+            "en": "Best for legal research.",
+            "uk": "Найкраще для юридичних досліджень.",
+            "ja": "法的調査に最適です。",
+            "es": "Mejor para la investigación legal.",
+            "pt": "Melhor para pesquisa jurídica.",
+            "fr": "Meilleur pour la recherche juridique.",
+            "de": "Am besten geeignet für rechtliche Forschung.",
+            "zh": "最适合法律研究。",
+            "it": "Ideale per la ricerca legale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Невідомо",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Невідомо",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "Lexis+ AI": {
+        "description": {
+            "en": "Lexis+ AI is an advanced AI research tool that assists lawyers in finding pertinent legal information and case law efficiently, enhancing the overall workflow and productivity.",
+            "uk": "Lexis+ ШІ — це передовий інструмент дослідження ШІ, який допомагає юристам ефективно знаходити відповідну юридичну інформацію та судову практику, покращуючи загальний робочий процес та продуктивність.",
+            "ja": "Lexis+ AIは、弁護士が関連する法的情報や判例を効率的に見つけるのを支援し、全体のワークフローと生産性を向上させる先進的なAI研究ツールです。",
+            "es": "Lexis+ AI es una herramienta de investigación avanzada de IA que ayuda a los abogados a encontrar información legal pertinente y jurisprudencia de manera eficiente, mejorando el flujo de trabajo y la productividad en general.",
+            "pt": "Lexis+ IA é uma ferramenta avançada de pesquisa de IA que ajuda os advogados a encontrar informações legais pertinentes e jurisprudência de forma eficiente, aprimorando o fluxo de trabalho e a produtividade geral.",
+            "fr": "Lexis+ AI est un outil de recherche avancé en IA qui aide les avocats à trouver efficacement des informations juridiques pertinentes et des jurisprudences, améliorant ainsi le flux de travail et la productivité globale.",
+            "de": "Lexis+ AI ist ein fortschrittliches KI-Forschungstool, das Anwälten hilft, relevante rechtliche Informationen und Rechtsprechung effizient zu finden und so den gesamten Arbeitsablauf und die Produktivität zu verbessern.",
+            "zh": "Lexis+ AI是一款先进的人工智能研究工具，帮助律师高效地找到相关的法律信息和案例法，从而提高整体工作流程和生产力。",
+            "it": "Lexis+ AI è uno strumento di ricerca avanzato in intelligenza artificiale che aiuta gli avvocati a trovare in modo efficiente informazioni legali pertinenti e giurisprudenza, migliorando il flusso di lavoro e la produttività complessivi."
+        },
+        "features": {
+            "en": "Best for legal research.",
+            "uk": "Найкраще для юридичних досліджень.",
+            "ja": "法律研究に最適。",
+            "es": "Mejor para investigación legal.",
+            "pt": "Melhor para pesquisa legal.",
+            "fr": "Meilleur pour la recherche juridique.",
+            "de": "Am besten für die rechtliche Forschung.",
+            "zh": "最适合法律研究。",
+            "it": "Migliore per la ricerca legale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        }
+    },
+    "Spellbook": {
+        "description": {
+            "en": "Spellbook harnesses AI technology for contract drafting, aiding lawyers in creating accurate and compliant legal documents with greater speed and efficiency.",
+            "uk": "Spellbook використовує технології ШІ для складання контрактів, допомагаючи юристам створювати точні та відповідні юридичні документи з більшою швидкістю та ефективністю.",
+            "ja": "Spellbookは契約作成のためにAI技術を活用し、弁護士がより迅速かつ効率的に正確で準拠した法的文書を作成するのを支援します。",
+            "es": "Spellbook aprovecha la tecnología de IA para la redacción de contratos, ayudando a los abogados a crear documentos legales precisos y conformes con mayor rapidez y eficiencia.",
+            "pt": "Spellbook aproveita a tecnologia de IA para a elaboração de contratos, auxiliando advogados a criar documentos legais precisos e em conformidade com mais rapidez e eficiência.",
+            "fr": "Spellbook tire parti de la technologie de l'IA pour la rédaction de contrats, aidant les avocats à créer des documents juridiques précis et conformes avec plus de rapidité et d'efficacité.",
+            "de": "Spellbook nutzt KI-Technologie für die Vertragsgestaltung und unterstützt Anwälte dabei, genaue und konforme juristische Dokumente schneller und effizienter zu erstellen.",
+            "zh": "Spellbook利用人工智能技术进行合同起草，帮助律师更快速和高效地创建准确合规的法律文件。",
+            "it": "Spellbook sfrutta la tecnologia dell'IA per la redazione di contratti, aiutando gli avvocati a creare documenti legali precisi e conformi con maggiore rapidità ed efficienza."
+        },
+        "features": {
+            "en": "Best for contract drafting.",
+            "uk": "Найкраще для складання контрактів.",
+            "ja": "契約作成に最適です。",
+            "es": "Mejor para la redacción de contratos.",
+            "pt": "Melhor para a elaboração de contratos.",
+            "fr": "Meilleur pour la rédaction de contrats.",
+            "de": "Am besten für die Vertragsgestaltung.",
+            "zh": "最适合合同起草。",
+            "it": "Ottimo per la redazione di contratti."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "Harvey": {
+        "description": {
+            "en": "Harvey is an AI tool tailored for enterprise law firms, providing robust features that streamline case management and legal documentation processes.",
+            "uk": "Harvey - це інструмент ШІ, призначений для юридичних фірм підприємницького рівня, який пропонує потужні функції для спрощення управління справами та процесами правової документації.",
+            "ja": "Harveyは、企業法律事務所向けに設計されたAIツールで、ケース管理と法律文書プロセスを効率化する強力な機能を提供します。",
+            "es": "Harvey es una herramienta de IA diseñada para bufetes de abogados empresariales, que ofrece funciones robustas que simplifican la gestión de casos y los procesos de documentación legal.",
+            "pt": "Harvey é uma ferramenta de IA adaptada para escritórios de advocacia empresariais, oferecendo recursos robustos que simplificam a gestão de casos e os processos de documentação legal.",
+            "fr": "Harvey est un outil d'IA conçu pour les cabinets d'avocats d'entreprise, offrant des fonctionnalités robustes qui rationalisent la gestion des affaires et les processus de documentation juridique.",
+            "de": "Harvey ist ein KI-Tool, das für Unternehmensrechtskanzleien entwickelt wurde und robuste Funktionen bietet, die das Fallmanagement und die Prozesse der juristischen Dokumentation optimieren.",
+            "zh": "Harvey是一款为企业律师事务所量身定制的人工智能工具，提供强大的功能，以简化案件管理和法律文档处理流程。",
+            "it": "Harvey è uno strumento di intelligenza artificiale progettato per studi legali aziendali, che offre funzionalità robuste per semplificare la gestione dei casi e i processi di documentazione legale."
+        },
+        "features": {
+            "en": "Best for enterprise firms.",
+            "uk": "Найкраще для підприємницьких фірм.",
+            "ja": "企業向けの最適なツールです。",
+            "es": "Mejor para bufetes de abogados empresariales.",
+            "pt": "Melhor para escritórios de advocacia empresariais.",
+            "fr": "Le meilleur pour les cabinets d'avocats d'entreprise.",
+            "de": "Am besten für Unternehmenskanzleien.",
+            "zh": "最适合企业律师事务所。",
+            "it": "Ottimo per studi legali aziendali."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "Midjourney Coupon Code 2026": {
+        "description": {
+            "en": "This service offers a subscription that grants users access to numerous AI models, including features from Midjourney, at a competitive monthly rate.",
+            "uk": "Цей сервіс пропонує підписку, яка надає користувачам доступ до численних AI моделей, включаючи функції Midjourney, за конкурентною щомісячною ставкою.",
+            "ja": "このサービスは、ユーザーにMidjourneyの機能を含む多くのAIモデルへのアクセスを提供するサブスクリプションを競争力のある月額料金で提供します。",
+            "es": "Este servicio ofrece una suscripción que otorga a los usuarios acceso a numerosos modelos de IA, incluidas las funciones de Midjourney, a una tarifa mensual competitiva.",
+            "pt": "Este serviço oferece uma assinatura que concede aos usuários acesso a vários modelos de IA, incluindo recursos do Midjourney, a uma tarifa mensal competitiva.",
+            "fr": "Ce service propose un abonnement qui donne aux utilisateurs accès à de nombreux modèles d'IA, y compris des fonctionnalités de Midjourney, à un tarif mensuel compétitif.",
+            "de": "Dieser Dienst bietet ein Abonnement, das den Benutzern den Zugang zu zahlreichen KI-Modellen, einschließlich Funktionen von Midjourney, zu einem wettbewerbsfähigen monatlichen Tarif ermöglicht.",
+            "zh": "该服务提供月度订阅，用户可以以竞争的月费访问许多AI模型，包括Midjourney的功能。",
+            "it": "Questo servizio offre un abbonamento che consente agli utenti di accedere a numerosi modelli di IA, comprese le funzionalità di Midjourney, a un prezzo mensile competitivo."
+        },
+        "features": {
+            "en": "Access to 350+ AI models including Midjourney features.",
+            "uk": "Доступ до 350+ AI моделей, включаючи функції Midjourney.",
+            "ja": "Midjourneyの機能を含む350以上のAIモデルへのアクセス。",
+            "es": "Acceso a más de 350 modelos de IA, incluidas las funciones de Midjourney.",
+            "pt": "Acesso a mais de 350 modelos de IA, incluindo recursos do Midjourney.",
+            "fr": "Accès à plus de 350 modèles d'IA, y compris des fonctionnalités de Midjourney.",
+            "de": "Zugang zu über 350 KI-Modellen, einschließlich Funktionen von Midjourney.",
+            "zh": "访问350多个AI模型，包括Midjourney的功能。",
+            "it": "Accesso a oltre 350 modelli di IA, comprese le funzionalità di Midjourney."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "$20/mo for 350+ AI models",
+            "uk": "$20/міс. за 350+ AI моделей",
+            "ja": "350以上のAIモデルを月額20ドルで",
+            "es": "$20/mes para más de 350 modelos de IA",
+            "pt": "$20/mês por mais de 350 modelos de IA",
+            "fr": "20 $/mois pour plus de 350 modèles d'IA",
+            "de": "20 $/Monat für über 350 KI-Modelle",
+            "zh": "$20/月，获取350多个AI模型",
+            "it": "$20/mese per oltre 350 modelli di IA"
+        }
+    },
+    "KWFinder": {
+        "description": {
+            "en": "KWFinder is a comprehensive SEO tool that provides accurate keyword difficulty scores and various features to enhance website optimization and performance.",
+            "uk": "KWFinder - це всебічний інструмент SEO, який надає точні оцінки складності ключових слів та різні функції для покращення оптимізації та продуктивності веб-сайту.",
+            "ja": "KWFinderは、正確なキーワード難易度スコアと、ウェブサイトの最適化とパフォーマンスを向上させるためのさまざまな機能を提供する包括的なSEOツールです。",
+            "es": "KWFinder es una herramienta SEO completa que proporciona puntuaciones precisas de dificultad de palabras clave y varias funciones para mejorar la optimización y el rendimiento del sitio web.",
+            "pt": "KWFinder é uma ferramenta de SEO abrangente que fornece pontuações precisas de dificuldade de palavras-chave e várias funcionalidades para melhorar a otimização e o desempenho do site.",
+            "fr": "KWFinder est un outil SEO complet qui fournit des scores de difficulté de mots-clés précis et diverses fonctionnalités pour améliorer l'optimisation et les performances des sites web.",
+            "de": "KWFinder ist ein umfassendes SEO-Tool, das genaue Schwierigkeitsbewertungen für Keywords bietet und verschiedene Funktionen zur Verbesserung der Website-Optimierung und -Leistung umfasst.",
+            "zh": "KWFinder是一款综合性SEO工具，提供准确的关键词难度评分和多种功能，以增强网站优化和性能。",
+            "it": "KWFinder è uno strumento SEO completo che fornisce punteggi di difficoltà delle parole chiave accurati e varie funzionalità per migliorare l'ottimizzazione e le prestazioni del sito web."
+        },
+        "features": {
+            "en": "Keyword research, rank tracking, SERP analysis, backlinks, site audit.",
+            "uk": "Дослідження ключових слів, відстеження позицій, аналіз SERP, зворотні посилання, аудит сайту.",
+            "ja": "キーワードリサーチ、ランキング追跡、SERP分析、バックリンク、サイト監査。",
+            "es": "Investigación de palabras clave, seguimiento de posiciones, análisis de SERP, backlinks, auditoría del sitio.",
+            "pt": "Pesquisa de palavras-chave, monitoramento de classificações, análise de SERP, backlinks, auditoria de site.",
+            "fr": "Recherche de mots-clés, suivi des classements, analyse SERP, backlinks, audit de site.",
+            "de": "Keyword-Recherche, Rangverfolgung, SERP-Analyse, Backlinks, Site-Audit.",
+            "zh": "关键词研究、排名跟踪、SERP分析、反向链接、网站审核。",
+            "it": "Ricerca di parole chiave, monitoraggio delle posizioni, analisi SERP, backlink, audit del sito."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Не застосовується",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Detailed pricing information not provided.",
+            "uk": "Детальна інформація про ціни не надана.",
+            "ja": "詳細な価格情報は提供されていません。",
+            "es": "Información detallada sobre precios no proporcionada.",
+            "pt": "Informações detalhadas sobre preços não fornecidas.",
+            "fr": "Informations tarifaires détaillées non fournies.",
+            "de": "Detaillierte Preisangaben sind nicht verfügbar.",
+            "zh": "未提供详细的定价信息。",
+            "it": "Informazioni sui prezzi dettagliate non fornite."
+        }
+    },
+    "vidIQ": {
+        "description": {
+            "en": "vidIQ is a powerful YouTube growth tool designed to help creators optimize their channels for better visibility and engagement. It offers a range of features including video analytics, keyword research, and competitor analysis.",
+            "uk": "vidIQ - це потужний інструмент для зростання на YouTube, призначений для допомоги творцям оптимізувати свої канали для кращої видимості та залучення. Він пропонує ряд функцій, включаючи аналітику відео, дослідження ключових слів та аналіз конкурентів.",
+            "ja": "vidIQは、クリエイターがチャンネルを最適化して視認性とエンゲージメントを向上させるために設計された強力なYouTube成長ツールです。動画分析、キーワードリサーチ、競合分析などのさまざまな機能を提供しています。",
+            "es": "vidIQ es una poderosa herramienta de crecimiento en YouTube diseñada para ayudar a los creadores a optimizar sus canales para una mejor visibilidad y participación. Ofrece una gama de funciones que incluyen análisis de video, investigación de palabras clave y análisis de competidores.",
+            "pt": "vidIQ é uma poderosa ferramenta de crescimento no YouTube projetada para ajudar os criadores a otimizar seus canais para melhor visibilidade e engajamento. Oferece uma variedade de recursos, incluindo análise de vídeos, pesquisa de palavras-chave e análise de concorrentes.",
+            "fr": "vidIQ est un puissant outil de croissance YouTube conçu pour aider les créateurs à optimiser leurs chaînes pour une meilleure visibilité et engagement. Il offre une gamme de fonctionnalités, y compris l'analyse vidéo, la recherche de mots-clés et l'analyse des concurrents.",
+            "de": "vidIQ ist ein leistungsstarkes YouTube-Wachstumswerkzeug, das entwickelt wurde, um Kreativen zu helfen, ihre Kanäle für bessere Sichtbarkeit und Interaktion zu optimieren. Es bietet eine Vielzahl von Funktionen, darunter Videoanalysen, Keyword-Recherche und Wettbewerbsanalyse.",
+            "zh": "vidIQ是一个强大的YouTube增长工具，旨在帮助创作者优化他们的频道，以获得更好的可见性和参与度。它提供了一系列功能，包括视频分析、关键词研究和竞争对手分析。",
+            "it": "vidIQ è un potente strumento di crescita per YouTube progettato per aiutare i creatori a ottimizzare i propri canali per una migliore visibilità e coinvolgimento. Offre una gamma di funzionalità, tra cui analisi video, ricerca di parole chiave e analisi dei concorrenti."
+        },
+        "features": {
+            "en": "YouTube growth tools providing insights and optimization recommendations.",
+            "uk": "Інструменти зростання на YouTube, які надають аналітику та рекомендації щодо оптимізації.",
+            "ja": "YouTube成長ツールは、洞察と最適化の推奨を提供します。",
+            "es": "Herramientas de crecimiento en YouTube que brindan información y recomendaciones de optimización.",
+            "pt": "Ferramentas de crescimento no YouTube que fornecem insights e recomendações de otimização.",
+            "fr": "Outils de croissance YouTube fournissant des informations et des recommandations d'optimisation.",
+            "de": "YouTube-Wachstumswerkzeuge, die Einblicke und Optimierungsempfehlungen bereitstellen.",
+            "zh": "提供洞察和优化建议的YouTube增长工具。",
+            "it": "Strumenti di crescita per YouTube che forniscono approfondimenti e raccomandazioni di ottimizzazione."
+        },
+        "discount": {
+            "en": "99%",
+            "uk": "99%",
+            "ja": "99%",
+            "es": "99%",
+            "pt": "99%",
+            "fr": "99%",
+            "de": "99%",
+            "zh": "99%",
+            "it": "99%"
+        },
+        "pricing": {
+            "en": "locks in 25% off Boost monthly for life",
+            "uk": "фіксує знижку 25% на Boost щомісяця на все життя",
+            "ja": "生涯にわたりBoostの月額料金から25%オフを固定します",
+            "es": "bloquea un 25% de descuento en Boost mensualmente de por vida",
+            "pt": "garante 25% de desconto no Boost mensal para sempre",
+            "fr": "verrouille 25 % de réduction sur Boost chaque mois à vie",
+            "de": "sichert 25 % Rabatt auf Boost monatlich für immer",
+            "zh": "终身锁定Boost每月25%的折扣",
+            "it": "blocca il 25% di sconto su Boost mensile per sempre"
+        }
+    },
+    "Jasper Pro": {
+        "description": {
+            "en": "Jasper Pro is an advanced AI writing tool designed for marketing professionals, facilitating the creation of engaging brand copy and ad campaigns.",
+            "uk": "Jasper Pro - це розширений інструмент написання на базі ШІ, розроблений для маркетингових професіоналів, що полегшує створення захоплюючих рекламних текстів та рекламних кампаній.",
+            "ja": "Jasper Proは、マーケティングの専門家向けに設計された高度なAIライティングツールで、魅力的なブランドコピーや広告キャンペーンの作成を容易にします。",
+            "es": "Jasper Pro es una herramienta avanzada de escritura con IA diseñada para profesionales de marketing, que facilita la creación de copias de marca atractivas y campañas publicitarias.",
+            "pt": "Jasper Pro é uma ferramenta avançada de redação com IА projetada para profissionais de marketing, facilitando a criação de textos de marca envolventes e campanhas publicitárias.",
+            "fr": "Jasper Pro est un outil d'écriture avancé basé sur l'IA, conçu pour les professionnels du marketing, facilitant la création de contenus de marque engageants et de campagnes publicitaires.",
+            "de": "Jasper Pro ist ein fortschrittliches AI-Schreibtool, das für Marketingfachleute entwickelt wurde und die Erstellung ansprechender Markentexte und Werbekampagnen erleichtert.",
+            "zh": "Jasper Pro是一个先进的AI写作工具，专为营销专业人士设计，促进引人入胜的品牌文案和广告活动的创建。",
+            "it": "Jasper Pro è uno strumento di scrittura avanzato basato su AI, progettato per i professionisti del marketing, che facilita la creazione di testi di marca coinvolgenti e campagne pubblicitarie."
+        },
+        "features": {
+            "en": "Brand copy, campaigns",
+            "uk": "Рекламні тексти, кампанії",
+            "ja": "ブランドコピー、キャンペーン",
+            "es": "Copias de marca, campañas",
+            "pt": "Textos de marca, campanhas",
+            "fr": "Texte de marque, campagnes",
+            "de": "Markentexte, Kampagnen",
+            "zh": "品牌文案，广告活动",
+            "it": "Testi di marca, campagne"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "$69/seat monthly, $59/seat annual",
+            "uk": "$69/місечко щомісяця, $59/місечко щорічно",
+            "ja": "$69/席 月額、$59/席 年額",
+            "es": "$69/usuario mensual, $59/usuario anual",
+            "pt": "$69/assento mensal, $59/assento anualmente",
+            "fr": "$69/par siège par mois, $59/par siège par an",
+            "de": "$69/Platz monatlich, $59/Platz jährlich",
+            "zh": "$69/席位每月，$59/席位每年",
+            "it": "$69/posto mensile, $59/posto annuale"
+        }
+    },
+    "Frase Professional": {
+        "description": {
+            "en": "Frase Professional is an AI writing assistant that helps users generate content quickly and optimize it for SEO, making it ideal for marketers.",
+            "uk": "Frase Professional - це ШІ помічник для написання, який допомагає користувачам швидко генерувати контент і оптимізувати його для SEO, що робить його ідеальним для маркетологів.",
+            "ja": "Frase Professionalは、ユーザーが迅速にコンテンツを生成し、SEOに最適化するのを助けるAIライティングアシスタントで、マーケッターに最適です。",
+            "es": "Frase Professional es un asistente de escritura de IA que ayuda a los usuarios a generar contenido rápidamente y optimizarlo para SEO, lo que lo hace ideal para los comercializadores.",
+            "pt": "Frase Professional é um assistente de escrita de IA que ajuda os usuários a gerar conteúdo rapidamente e otimizá-lo para SEO, tornando-o ideal para profissionais de marketing.",
+            "fr": "Frase Professional est un assistant d'écriture IA qui aide les utilisateurs à générer rapidement du contenu et à l'optimiser pour le SEO, ce qui en fait un outil idéal pour les marketeurs.",
+            "de": "Frase Professional ist ein KI-Schreibassistent, der Benutzern hilft, Inhalte schnell zu erstellen und sie für SEO zu optimieren, was ihn ideal für Vermarkter macht.",
+            "zh": "Frase Professional是一个AI写作助手，帮助用户快速生成内容并进行SEO优化，使其成为营销人员的理想选择。",
+            "it": "Frase Professional è un assistente alla scrittura AI che aiuta gli utenti a generare contenuti rapidamente e a ottimizzarli per la SEO, rendendolo ideale per i marketer."
+        },
+        "features": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "$129 for 3 seats monthly, $103 annual",
+            "uk": "$129 за 3 місця на місяць, $103 на рік",
+            "ja": "月額3席で129ドル、年額103ドル",
+            "es": "$129 por 3 asientos mensuales, $103 anuales",
+            "pt": "$129 por 3 assentos mensais, $103 anuais",
+            "fr": "$129 pour 3 places par mois, $103 par an",
+            "de": "129 $ für 3 Plätze monatlich, 103 $ jährlich",
+            "zh": "每月129美元，适用于3个席位，年度费用为103美元",
+            "it": "$129 per 3 posti al mese, $103 annuali"
+        }
+    },
+    "Copy.ai Chat": {
+        "description": {
+            "en": "Copy.ai Chat is a user-friendly AI writing tool that enables users to create and edit text effortlessly, aimed at enhancing productivity in writing.",
+            "uk": "Copy.ai Chat — це зручний інструмент для написання тексту з використанням ШІ, який дозволяє користувачам легко створювати та редагувати тексти, спрямований на підвищення продуктивності в написанні.",
+            "ja": "Copy.ai Chatは、ユーザーがテキストを簡単に作成および編集できるユーザーフレンドリーなAIライティングツールであり、執筆の生産性を向上させることを目的としています。",
+            "es": "Copy.ai Chat es una herramienta de escritura basada en IA fácil de usar que permite a los usuarios crear y editar texto sin esfuerzo, con el objetivo de mejorar la productividad en la escritura.",
+            "pt": "Copy.ai Chat é uma ferramenta de escrita com IA amigável que permite aos usuários criar e editar texto sem esforço, visando aumentar a produtividade na escrita.",
+            "fr": "Copy.ai Chat est un outil d'écriture facile à utiliser qui permet aux utilisateurs de créer et d'éditer du texte sans effort, visant à améliorer la productivité dans l'écriture.",
+            "de": "Copy.ai Chat ist ein benutzerfreundliches Schreibtool mit KI, das es Benutzern ermöglicht, mühelos Texte zu erstellen und zu bearbeiten, um die Produktivität beim Schreiben zu steigern.",
+            "zh": "Copy.ai Chat 是一个用户友好的AI写作工具，使用户能够轻松创建和编辑文本，旨在提高写作的生产力。",
+            "it": "Copy.ai Chat è uno strumento di scrittura intuitivo con IA che consente agli utenti di creare e modificare testi senza sforzo, con l'obiettivo di aumentare la produttività nella scrittura."
+        },
+        "features": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$29 for 5 seats monthly, $24 annual",
+            "uk": "$29 за 5 місць щомісячно, $24 на рік",
+            "ja": "月額5席で29ドル、年間24ドル",
+            "es": "29 dólares por 5 asientos al mes, 24 dólares anuales",
+            "pt": "29 dólares por 5 assentos mensais, 24 dólares anuais",
+            "fr": "29 $ pour 5 places par mois, 24 $ annuels",
+            "de": "29 $ für 5 Plätze monatlich, 24 $ jährlich",
+            "zh": "每月29美元，5个名额，年费24美元",
+            "it": "29 dollari per 5 posti mensili, 24 dollari annuali"
+        }
     }
 }
