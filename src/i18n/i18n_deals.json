@@ -9704,5 +9704,879 @@
             "zh": "每月29美元，5个名额，年费24美元",
             "it": "29 dollari per 5 posti mensili, 24 dollari annuali"
         }
+    },
+    "Atoms": {
+        "description": {
+            "en": "Atoms is a no-code AI platform that enables users to develop fully functional products without any coding skills. It simplifies the process of product creation for anyone.",
+            "uk": "Atoms – це платформа ШІ без коду, яка дозволяє користувачам розробляти повноцінні продукти без знання програмування. Вона спрощує процес створення продуктів для всіх.",
+            "ja": "Atomsは、ユーザーがコーディングスキルなしで完全に機能する製品を開発できるノーコードAIプラットフォームです。誰でも製品作成のプロセスを簡素化します。",
+            "es": "Atoms es una plataforma de IA sin código que permite a los usuarios desarrollar productos totalmente funcionales sin habilidades de programación. Simplifica el proceso de creación de productos para cualquier persona.",
+            "pt": "Atoms é uma plataforma de IA sem código que permite que os usuários desenvolvam produtos totalmente funcionais sem habilidades de programação. Simplifica o processo de criação de produtos para qualquer pessoa.",
+            "fr": "Atoms est une plateforme d'IA sans code qui permet aux utilisateurs de développer des produits entièrement fonctionnels sans compétences en programmation. Elle simplifie le processus de création de produits pour tous.",
+            "de": "Atoms ist eine No-Code-Platform für KI, die es Benutzern ermöglicht, vollständig funktionale Produkte zu entwickeln, ohne Programmierkenntnisse zu haben. Sie vereinfacht den Produktentwicklungsprozess für jedermann.",
+            "zh": "Atoms 是一个无代码的人工智能平台，使用户能够在没有任何编码技能的情况下开发完全可功能的产品。它简化了任何人的产品创建过程。",
+            "it": "Atoms è una piattaforma di IA senza codice che consente agli utenti di sviluppare prodotti completamente funzionali senza alcuna abilità di programmazione. Semplifica il processo di creazione di prodotti per chiunque."
+        },
+        "features": {
+            "en": "No-code platform for building and launching products.",
+            "uk": "Платформа без коду для створення та запуску продуктів.",
+            "ja": "製品を作成し起動するためのノーコードプラットフォーム。",
+            "es": "Plataforma sin código para construir y lanzar productos.",
+            "pt": "Plataforma sem código para construir e lançar produtos.",
+            "fr": "Plateforme sans code pour créer et lancer des produits.",
+            "de": "No-Code-Plattform zum Erstellen und Starten von Produkten.",
+            "zh": "无代码平台用于构建和推出产品。",
+            "it": "Piattaforma senza codice per costruire e lanciare prodotti."
+        },
+        "discount": {
+            "en": "10%",
+            "uk": "10%",
+            "ja": "10%",
+            "es": "10%",
+            "pt": "10%",
+            "fr": "10%",
+            "de": "10%",
+            "zh": "10%",
+            "it": "10%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "无",
+            "it": "N/D"
+        }
+    },
+    "SuperSonic Monthly Plan": {
+        "description": {
+            "en": "The SuperSonic Monthly Plan provides users with premium tools designed to boost productivity and optimize search efficiency through AI technology.",
+            "uk": "Щомісячний план SuperSonic надає користувачам преміум інструменти, розроблені для підвищення продуктивності та оптимізації ефективності пошуку за допомогою технології ШІ.",
+            "ja": "SuperSonic月間プランは、ユーザーに生産性を向上させ、AI技術を通じて検索効率を最適化するためのプレミアムツールを提供します。",
+            "es": "El Plan Mensual SuperSonic proporciona a los usuarios herramientas premium diseñadas para aumentar la productividad y optimizar la eficiencia de búsqueda a través de la tecnología de IA.",
+            "pt": "O Plano Mensal SuperSonic fornece aos usuários ferramentas premium projetadas para aumentar a produtividade e otimizar a eficiência de busca por meio da tecnologia de IA.",
+            "fr": "Le Plan Mensuel SuperSonic fournit aux utilisateurs des outils premium conçus pour augmenter la productivité et optimiser l'efficacité de recherche grâce à la technologie de l'IA.",
+            "de": "Der SuperSonic-Monatsplan bietet Nutzern Premium-Tools, die entwickelt wurden, um die Produktivität zu steigern und die Sucheffizienz durch SchI-Technologie zu optimieren.",
+            "zh": "SuperSonic月度计划为用户提供旨在通过人工智能技术提高生产力并优化搜索效率的高级工具。",
+            "it": "Il Piano Mensile SuperSonic offre agli utenti strumenti premium progettati per aumentare la produttività e ottimizzare l'efficienza della ricerca tramite la tecnologia dell'IA."
+        },
+        "features": {
+            "en": "Performance tools for productivity and search efficiency.",
+            "uk": "Інструменти продуктивності для підвищення продуктивності та ефективності пошуку.",
+            "ja": "生産性と検索効率を高めるためのパフォーマンスツール。",
+            "es": "Herramientas de rendimiento para la productividad y la eficiencia en la búsqueda.",
+            "pt": "Ferramentas de desempenho para produtividade e eficiência de busca.",
+            "fr": "Outils de performance pour la productivité et l'efficacité de recherche.",
+            "de": "Leistungsstarke Tools für Produktivität und Sucheffizienz.",
+            "zh": "提高生产力和搜索效率的性能工具。",
+            "it": "Strumenti di prestazione per la produttività e l'efficienza nella ricerca."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "$97 per month",
+            "uk": "$97 на місяць",
+            "ja": "月額97ドル",
+            "es": "$97 por mes",
+            "pt": "$97 por mês",
+            "fr": "97 $ par mois",
+            "de": "97 $ pro Monat",
+            "zh": "每月97美元",
+            "it": "97 $ al mese"
+        }
+    },
+    "Custom GPTs": {
+        "description": {
+            "en": "Custom GPTs are bespoke AI experiences designed to cater to unique business needs and enhance productivity in various sectors.",
+            "uk": "Індивідуальні GPT – це адаптовані ШІ-досвіди, створені для задоволення унікальних бізнес-потреб і підвищення продуктивності в різних секторах.",
+            "ja": "カスタムGPTは、独自のビジネスニーズに応じて設計されたオーダーメイドのAI体験であり、さまざまな分野での生産性を向上させます。",
+            "es": "Los GPT personalizados son experiencias de IA a medida diseñadas para satisfacer necesidades empresariales únicas y mejorar la productividad en diversos sectores.",
+            "pt": "Os GPTs personalizados são experiências de IA sob medida, projetadas para atender a necessidades comerciais únicas e aumentar a produtividade em vários setores.",
+            "fr": "Les GPT personnalisés sont des expériences d'IA sur mesure conçues pour répondre à des besoins commerciaux uniques et améliorer la productivité dans divers secteurs.",
+            "de": "Benutzerdefinierte GPTs sind maßgeschneiderte KI-Erlebnisse, die darauf abzielen, einzigartige Geschäftsbedürfnisse zu erfüllen und die Produktivität in verschiedenen Sektoren zu steigern.",
+            "zh": "定制GPT是为满足独特商业需求而设计的定制化人工智能体验，旨在提升各个行业的生产力.",
+            "it": "I GPT personalizzati sono esperienze di IA su misura progettate per soddisfare esigenze aziendali uniche e migliorare la produttività in vari settori."
+        },
+        "features": {
+            "en": "Tailored AI solutions for specific tasks and industries.",
+            "uk": "Адаптовані ШІ-рішення для конкретних завдань та промисловостей.",
+            "ja": "特定のタスクや業界向けにカスタマイズされたAIソリューション。",
+            "es": "Soluciones de IA personalizadas para tareas e industrias específicas.",
+            "pt": "Soluções de IA personalizadas para tarefas e indústrias específicas.",
+            "fr": "Solutions d'IA sur mesure pour des tâches et des industries spécifiques.",
+            "de": "Maßgeschneiderte KI-Lösungen für spezifische Aufgaben und Branchen.",
+            "zh": "针对特定任务和行业量身定制的人工智能解决方案。",
+            "it": "Soluzioni di IA su misura per compiti e settori specifici."
+        },
+        "discount": {
+            "en": "50% OFF",
+            "uk": "Знижка 50%",
+            "ja": "50%オフ",
+            "es": "50% de descuento",
+            "pt": "50% de desconto",
+            "fr": "50% de réduction",
+            "de": "50% Rabatt",
+            "zh": "50%优惠",
+            "it": "50% di sconto"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "ThesisAI": {
+        "description": {
+            "en": "ThesisAI offers an advanced platform for content generation and management, incorporating ШІ to streamline the writing process.",
+            "uk": "ThesisAI пропонує розвинуту платформу для генерації та управління контентом, вбудовуючи ШІ для спрощення процесу написання.",
+            "ja": "ThesisAIは、コンテンツ生成と管理のための高度なプラットフォームを提供し、執筆プロセスを効率化するためにシステムを統合しています。",
+            "es": "ThesisAI ofrece una plataforma avanzada para la generación y gestión de contenido, incorporando ШІ para agilizar el proceso de escritura.",
+            "pt": "ThesisAI oferece uma plataforma avançada para geração e gestão de conteúdo, incorporando ШІ para simplificar o processo de escrita.",
+            "fr": "ThesisAI propose une plateforme avancée pour la génération et la gestion de contenu, intégrant de l'ШІ pour rationaliser le processus d'écriture.",
+            "de": "ThesisAI bietet eine fortschrittliche Plattform für die Erstellung und Verwaltung von Inhalten und integriert ШІ, um den Schreibprozess zu optimieren.",
+            "zh": "ThesisAI 提供一个先进的内容生成和管理平台，结合 ШІ 简化写作过程。",
+            "it": "ThesisAI offre una piattaforma avanzata per la generazione e gestione dei contenuti, incorporando ШІ per semplificare il processo di scrittura."
+        },
+        "features": {
+            "en": "Monthly Pro Subscription Plan",
+            "uk": "Місячний професійний підписний план",
+            "ja": "月額プロサブスクリプションプラン",
+            "es": "Plan de suscripción profesional mensual",
+            "pt": "Plano de assinatura profissional mensal",
+            "fr": "Plan d'abonnement professionnel mensuel",
+            "de": "Monatlicher Pro-Abonnement-Plan",
+            "zh": "月度专业订阅计划",
+            "it": "Piano di abbonamento professionale mensile"
+        },
+        "discount": {
+            "en": "20% OFF",
+            "uk": "Знижка 20%",
+            "ja": "20% 割引",
+            "es": "20% de descuento",
+            "pt": "20% de desconto",
+            "fr": "20% de réduction",
+            "de": "20% Rabatt",
+            "zh": "优惠20%",
+            "it": "20% di sconto"
+        },
+        "pricing": {
+            "en": "$24/Month",
+            "uk": "$24/місяць",
+            "ja": "$24/月",
+            "es": "$24/mes",
+            "pt": "$24/mês",
+            "fr": "24 $/mois",
+            "de": "24 $/Monat",
+            "zh": "$24/每月",
+            "it": "$24/mese"
+        }
+    },
+    "Lalal.AI": {
+        "description": {
+            "en": "Lalal.AI is a music separation tool that utilizes machine learning to split vocal and instrumental tracks from songs.",
+            "uk": "Lalal.AI – це інструмент для розділення музики, який використовує машинне навчання для відділення вокальних і інструментальних треків від пісень.",
+            "ja": "Lalal.AIは、機械学習を利用して曲からボーカルとインストゥルメンタルトラックを分離する音楽分離ツールです。",
+            "es": "Lalal.AI es una herramienta de separación de música que utiliza el aprendizaje automático para dividir las pistas vocales e instrumentales de las canciones.",
+            "pt": "Lalal.AI é uma ferramenta de separação de música que utiliza aprendizado de máquina para dividir as faixas vocais e instrumentais das músicas.",
+            "fr": "Lalal.AI est un outil de séparation musicale qui utilise l'apprentissage automatique pour séparer les pistes vocales et instrumentales des chansons.",
+            "de": "Lalal.AI ist ein Musiktrennungswerkzeug, das maschinelles Lernen nutzt, um Gesangs- und Instrumentaltracks von Songs zu trennen.",
+            "zh": "Lalal.AI 是一款音乐分离工具，利用机器学习从歌曲中分离人声和伴奏轨道。",
+            "it": "Lalal.AI è uno strumento di separazione musicale che utilizza l'apprendimento automatico per separare le tracce vocali e strumentali dalle canzoni."
+        },
+        "features": {
+            "en": "Lite Monthly Plan",
+            "uk": "Легкий щомісячний план",
+            "ja": "ライト月額プラン",
+            "es": "Plan mensual Lite",
+            "pt": "Plano Mensal Lite",
+            "fr": "Plan mensuel Lite",
+            "de": "Leichter Monatsplan",
+            "zh": "轻量级月度计划",
+            "it": "Piano Mensile Lite"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$9.99 Per Month",
+            "uk": "$9.99 на місяць",
+            "ja": "月額$9.99",
+            "es": "$9.99 por mes",
+            "pt": "$9.99 por mês",
+            "fr": "9,99 $ par mois",
+            "de": "9,99 $ pro Monat",
+            "zh": "$9.99每月",
+            "it": "$9.99 al mese"
+        }
+    },
+    "Eleven Labs Starter Plan": {
+        "description": {
+            "en": "The Eleven Labs Starter Plan offers entry-level access to a suite of powerful text-to-speech tools for enhanced voice synthesis.",
+            "uk": "План початкового рівня Eleven Labs забезпечує базовий доступ до набору потужних інструментів тексту в мову для покращеного синтезу голосу.",
+            "ja": "エレヴェンラボのスタータープランは、強力なテキスト読み上げツールのスイートへのエントリーレベルのアクセスを提供し、音声合成を強化します。",
+            "es": "El Plan Inicial de Eleven Labs ofrece acceso a nivel de entrada a un conjunto de potentes herramientas de texto a voz para mejorar la síntesis de voz.",
+            "pt": "O Plano Inicial da Eleven Labs oferece acesso básico a um conjunto de poderosas ferramentas de conversão de texto em fala para melhorar a síntese vocal.",
+            "fr": "Le Plan de démarrage d'Eleven Labs offre un accès de base à une suite d'outils de synthèse vocale puissants.",
+            "de": "Der Eleven Labs Starter-Plan bietet einen Einstieg in eine Suite leistungsstarker Text-to-Speech-Tools zur Verbesserung der Sprachsynthese.",
+            "zh": "Eleven Labs初学者计划提供对一套强大的文本转语音工具的入门级访问，以增强语音合成。",
+            "it": "Il Piano Starter di Eleven Labs offre accesso a livello base a una suite di potenti strumenti di sintesi vocale da testo."
+        },
+        "features": {
+            "en": "Text-to-speech tools, studio-quality voices.",
+            "uk": "Інструменти переходу від тексту до мови, голоси студійної якості.",
+            "ja": "テキスト読み上げツール、スタジオ品質の音声。",
+            "es": "Herramientas de texto a voz, voces de calidad de estudio.",
+            "pt": "Ferramentas de conversão de texto em fala, vozes de qualidade de estúdio.",
+            "fr": "Outils de synthèse vocale, voix de qualité studio.",
+            "de": "Text-to-Speech-Tools, Stimmen in Studioqualität.",
+            "zh": "文本转语音工具，专业音质的声音。",
+            "it": "Strumenti di sintesi vocale da testo, voci di qualità da studio."
+        },
+        "discount": {
+            "en": "30%",
+            "uk": "30%",
+            "ja": "30%",
+            "es": "30%",
+            "pt": "30%",
+            "fr": "30%",
+            "de": "30%",
+            "zh": "30%",
+            "it": "30%"
+        },
+        "pricing": {
+            "en": "$6 per month.",
+            "uk": "$6 на місяць.",
+            "ja": "月額6ドル。",
+            "es": "6 dólares al mes.",
+            "pt": "6 dólares por mês.",
+            "fr": "6 $ par mois.",
+            "de": "6 $ pro Monat.",
+            "zh": "每月6美元。",
+            "it": "6 dollari al mese."
+        }
+    },
+    "Gamma Business": {
+        "description": {
+            "en": "Gamma Business provides enterprise-grade AI-powered creation capabilities tailored for professional users seeking extensive features.",
+            "uk": "Gamma Business пропонує рішення для створення на базі ШІ рівня підприємств, адаптовані для професійних користувачів, які шукають розширені можливості.",
+            "ja": "Gamma Businessは、豊富な機能を求めるプロフェッショナルユーザー向けに調整された、エンタープライズグレードのAI駆動の作成機能を提供します。",
+            "es": "Gamma Business ofrece capacidades de creación impulsadas por IA de nivel empresarial, adaptadas para usuarios profesionales que buscan características extensas.",
+            "pt": "Gamma Business oferece capacidades de criação impulsionadas por IA de nível empresarial, adaptadas para usuários profissionais que buscam recursos extensivos.",
+            "fr": "Gamma Business propose des capacités de création alimentées par l'IA de niveau entreprise, adaptées aux utilisateurs professionnels recherchant des fonctionnalités étendues.",
+            "de": "Gamma Business bietet leistungsstarke, KI-gestützte Erstellungsmöglichkeiten für professionelle Nutzer, die umfangreiche Funktionen suchen.",
+            "zh": "Gamma Business 提供面向企业级的人工智能驱动的创作能力，专为寻求广泛功能的专业用户量身定制。",
+            "it": "Gamma Business offre capacità di creazione powered by AI di livello enterprise, progettate per utenti professionali in cerca di funzionalità estese."
+        },
+        "features": {
+            "en": "Unlimited access to AI-powered creation tools.",
+            "uk": "Безмежний доступ до інструментів створення на базі ШІ.",
+            "ja": "AI駆動の作成ツールへの無制限アクセス。",
+            "es": "Acceso ilimitado a herramientas de creación impulsadas por IA.",
+            "pt": "Acesso ilimitado a ferramentas de criação impulsionadas por IA.",
+            "fr": "Accès illimité aux outils de création alimentés par l'IA.",
+            "de": "Unbegrenzter Zugriff auf KI-gestützte Erstellungstools.",
+            "zh": "无限访问人工智能驱动的创作工具。",
+            "it": "Accesso illimitato a strumenti di creazione basati su AI."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$1,320 per month.",
+            "uk": "$1,320 на місяць.",
+            "ja": "月額1,320ドル。",
+            "es": "$1,320 por mes.",
+            "pt": "$1.320 por mês.",
+            "fr": "1 320 $ par mois.",
+            "de": "1.320 $ pro Monat.",
+            "zh": "每月1,320美元。",
+            "it": "1.320 $ al mese."
+        }
+    },
+    "AppSumo Lifetime Deals": {
+        "description": {
+            "en": "AppSumo offers lifetime access to various AI tools aimed at enhancing content creation, recording, and transcription capabilities for businesses.",
+            "uk": "AppSumo пропонує довічний доступ до різноманітних ШІ-інструментів, спрямованих на покращення створення контенту, запису та транскрипції для бізнесу.",
+            "ja": "AppSumoは、ビジネス向けにコンテンツ作成、録音、転写機能を強化するさまざまなAIツールへの生涯アクセスを提供します。",
+            "es": "AppSumo ofrece acceso de por vida a varias herramientas de IA destinadas a mejorar la creación de contenido, grabación y capacidades de transcripción para empresas.",
+            "pt": "AppSumo oferece acesso vitalício a várias ferramentas de IA destinadas a melhorar a criação de conteúdo, gravação e capacidades de transcrição para empresas.",
+            "fr": "AppSumo offre un accès à vie à divers outils d'IA visant à améliorer la création de contenu, l'enregistrement et les capacités de transcription pour les entreprises.",
+            "de": "AppSumo bietet lebenslangen Zugang zu verschiedenen KI-Tools, die darauf abzielen, die Erstellung von Inhalten, Aufzeichnung und Transkriptionsfähigkeiten für Unternehmen zu verbessern.",
+            "zh": "AppSumo提供终身访问各种AI工具，旨在增强企业的内容创建、录制和转录能力。",
+            "it": "AppSumo offre accesso a vita a vari strumenti di IA progettati per migliorare la creazione di contenuti, la registrazione e le capacità di trascrizione per le aziende."
+        },
+        "features": {
+            "en": "Fathom, Speechify, and HeyGen",
+            "uk": "Fathom, Speechify та HeyGen",
+            "ja": "Fathom、Speechify、HeyGen",
+            "es": "Fathom, Speechify y HeyGen",
+            "pt": "Fathom, Speechify e HeyGen",
+            "fr": "Fathom, Speechify et HeyGen",
+            "de": "Fathom, Speechify und HeyGen",
+            "zh": "Fathom、Speechify和HeyGen",
+            "it": "Fathom, Speechify e HeyGen"
+        },
+        "discount": {
+            "en": "$700+ savings",
+            "uk": "Економія понад 700 доларів",
+            "ja": "700ドル以上の節約",
+            "es": "Ahorros de más de $700",
+            "pt": "Economia de mais de $700",
+            "fr": "Économies de plus de 700 $",
+            "de": "Über 700 $ Einsparungen",
+            "zh": "节省700美元以上",
+            "it": "Risparmi superiori a $700"
+        },
+        "pricing": {
+            "en": "Get 1-year access to three premium AI tools",
+            "uk": "Отримайте річний доступ до трьох преміум ШІ-інструментів",
+            "ja": "3つのプレミアムAIツールへの1年間のアクセスを取得",
+            "es": "Consigue acceso de 1 año a tres herramientas de IA premium",
+            "pt": "Obtenha acesso de 1 ano a três ferramentas de IA premium",
+            "fr": "Obtenez un accès d'un an à trois outils d'IA premium",
+            "de": "Erhalten Sie 1 Jahr Zugang zu drei Premium-KI-Tools",
+            "zh": "获得三款优质AI工具的一年访问权限",
+            "it": "Ottieni accesso di 1 anno a tre strumenti di IA premium"
+        }
+    },
+    "Quillbot": {
+        "description": {
+            "en": "Quillbot is an AI-powered writing tool that helps users enhance their writing with features like grammar checking, paraphrasing, and providing synonyms. It's popular among students and professionals for its versatility.",
+            "uk": "Quillbot - це інструмент написання на основі ШІ, який допомагає користувачам покращувати свої тексти за допомогою таких функцій, як перевірка граматики, перефразування та надання синонімів. Він популярний серед студентів та професіоналів завдяки своїй універсальності.",
+            "ja": "Quillbotは、文法チェック、言い換え、同義語の提供などの機能を使用して、ユーザーがライティングを強化するのを支援する、AI駆動のライティングツールです。学生やプロフェッショナルの間でその汎用性から人気があります。",
+            "es": "Quillbot es una herramienta de escritura impulsada por IA que ayuda a los usuarios a mejorar su escritura con características como la verificación gramatical, la paráfrasis y la provisión de sinónimos. Es popular entre estudiantes y profesionales por su versatilidad.",
+            "pt": "Quillbot é uma ferramenta de escrita movida por IA que ajuda os usuários a aprimorar sua escrita com recursos como verificação gramatical, parafraseamento e fornecimento de sinônimos. É popular entre estudantes e profissionais pela sua versatilidade.",
+            "fr": "Quillbot est un outil d'écriture alimenté par l'IA qui aide les utilisateurs à améliorer leur écriture grâce à des fonctionnalités telles que la vérification grammaticale, le paraphrasage et la fourniture de synonymes. Il est populaire parmi les étudiants et les professionnels en raison de sa polyvalence.",
+            "de": "Quillbot ist ein KI-gestütztes Schreibwerkzeug, das den Nutzern hilft, ihre Schreibfähigkeiten mit Funktionen wie der Grammatikprüfung, dem Paraphrasieren und der Bereitstellung von Synonymen zu verbessern. Es ist bei Studenten und Fachleuten aufgrund seiner Vielseitigkeit beliebt.",
+            "zh": "Quillbot是一个基于人工智能的写作工具，帮助用户通过语法检查、改写和提供同义词等功能来提升写作能力。它因其多功能性而在学生和专业人士中非常受欢迎。",
+            "it": "Quillbot è uno strumento di scrittura potenziato da IA che aiuta gli utenti a migliorare la scrittura con caratteristiche come il controllo grammaticale, la parafrasi e la fornitura di sinonimi. È popolare tra studenti e professionisti per la sua versatilità."
+        },
+        "features": {
+            "en": "AI-powered writing assistance, Grammar checking, Paraphrasing",
+            "uk": "Допомога у написанні на основі ШІ, Перевірка граматики, Перефразування",
+            "ja": "AI駆動のライティングアシスタンス、文法チェック、言い換え",
+            "es": "Asistencia de escritura impulsada por IA, Verificación gramatical, Paráfrasis",
+            "pt": "Assistência de escrita movida por IA, Verificação gramatical, Parafraseamento",
+            "fr": "Assistance à l'écriture basée sur l'IA, Vérification grammaticale, Paraphrasage",
+            "de": "KI-gestützte Schreibassistenz, Grammatikprüfung, Paraphrasierung",
+            "zh": "基于人工智能的写作辅助，语法检查，改写",
+            "it": "Assistenza alla scrittura potenziata da IA, Controllo grammaticale, Parafrasi"
+        },
+        "discount": {
+            "en": "Varies",
+            "uk": "Змінюється",
+            "ja": "さまざま",
+            "es": "Varía",
+            "pt": "Varia",
+            "fr": "Varie",
+            "de": "Variiert",
+            "zh": "不定",
+            "it": "Varia"
+        },
+        "pricing": {
+            "en": "Various subscription plans available",
+            "uk": "Доступні різні плани підписки",
+            "ja": "さまざまなサブスクリプションプランがあります",
+            "es": "Hay varios planes de suscripción disponibles",
+            "pt": "Vários planos de assinatura disponíveis",
+            "fr": "Différents plans d'abonnement disponibles",
+            "de": "Verschiedene Abonnementpläne verfügbar",
+            "zh": "提供多种订阅计划",
+            "it": "Vari piani di abbonamento disponibili"
+        }
+    },
+    "Zemith": {
+        "description": {
+            "en": "Zemith is an all-in-one AI platform that combines various functionalities needed for content generation and image creation, making it ideal for users looking to streamline their AI tool usage.",
+            "uk": "Zemith - це універсальна платформа ШІ, яка об'єднує різні функції, необхідні для генерації контенту та створення зображень, що робить її ідеальною для користувачів, які прагнуть оптимізувати використання своїх інструментів ШІ.",
+            "ja": "Zemithは、コンテンツ生成や画像作成に必要なさまざまな機能を組み合わせたオールインワンプラットフォームであり、AIツールの使用を効率化したいユーザーに最適です。",
+            "es": "Zemith es una plataforma de inteligencia artificial todo en uno que combina diversas funcionalidades necesarias para la generación de contenido y la creación de imágenes, lo que la convierte en ideal para usuarios que buscan optimizar el uso de sus herramientas de IA.",
+            "pt": "Zemith é uma plataforma de IA tudo-em-um que combina várias funcionalidades necessárias para geração de conteúdo e criação de imagens, tornando-a ideal para usuários que buscam otimizar o uso de suas ferramentas de IA.",
+            "fr": "Zemith est une plateforme IA tout-en-un qui combine diverses fonctionnalités nécessaires à la génération de contenu et à la création d'images, ce qui la rend idéale pour les utilisateurs souhaitant rationaliser l'utilisation de leurs outils IA.",
+            "de": "Zemith ist eine All-in-One-ŠІ-Plattform, die verschiedene Funktionen zur Inhaltsgenerierung und Bildgestaltung kombiniert,was sie ideal für Benutzer macht, die ihre ŠІ-Tool-Nutzung optimieren möchten.",
+            "zh": "Zemith是一个一体化的人工智能平台，结合了内容生成和图像创建所需的各种功能，非常适合希望简化其人工智能工具使用的用户。",
+            "it": "Zemith è una piattaforma di intelligenza artificiale tutto-in-uno che unisce varie funzionalità necessarie per la generazione di contenuti e la creazione di immagini, rendendola ideale per gli utenti che cercano di ottimizzare l'uso dei propri strumenti di IA."
+        },
+        "features": {
+            "en": "All-in-one platform for content generation, image creation",
+            "uk": "Універсальна платформа для генерації контенту, створення зображень",
+            "ja": "コンテンツ生成、画像作成のためのオールインワンプラットフォーム",
+            "es": "Plataforma todo en uno para generación de contenido, creación de imágenes",
+            "pt": "Plataforma tudo-em-um para geração de conteúdo, criação de imagens",
+            "fr": "Plateforme tout-en-un pour la génération de contenu, la création d'images",
+            "de": "All-in-One-Plattform für Inhaltsgenerierung, Bilderstellung",
+            "zh": "内容生成和图像创建的全合一平台",
+            "it": "Piattaforma tutto-in-uno per generazione di contenuti e creazione di immagini"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "N/A",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "N/A",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "Channel AI Plus": {
+        "description": {
+            "en": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
+            "uk": "Channel AI Plus пропонує інструменти для покращеного створення відео та взаємодії з користувачами, орієнтуючись на тих, хто шукає спрощений досвід.",
+            "ja": "Channel AI Plusは、スムーズな体験を求めるユーザーに対応した、強化されたビデオ生成とユーザーインタラクションのためのツールを提供します。",
+            "es": "Channel AI Plus ofrece herramientas para la generación de videos mejorada y la interacción del usuario, atendiendo a los usuarios que buscan una experiencia simplificada.",
+            "pt": "Channel AI Plus oferece ferramentas para geração de vídeo aprimorada e interação do usuário, atendendo os usuários que buscam uma experiência simplificada.",
+            "fr": "Channel AI Plus propose des outils pour une génération vidéo améliorée et une interaction utilisateur, s'adressant à ceux qui recherchent une expérience simplifiée.",
+            "de": "Channel AI Plus bietet Werkzeuge für verbesserte Videoerstellung und Benutzerinteraktion, die auf Benutzer abzielt, die nach einem optimierten Erlebnis suchen.",
+            "zh": "Channel AI Plus提供增强的视频生成和用户交互工具，满足寻求简化体验的用户。",
+            "it": "Channel AI Plus offre strumenti per la generazione video avanzata e l'interazione con l'utente, rivolgendosi a utenti che cercano un'esperienza semplificata."
+        },
+        "features": {
+            "en": "Unlimited chats, faster video generation, ad-free experience",
+            "uk": "Необмежені чати, швидше створення відео, без реклами",
+            "ja": "無制限のチャット、より速いビデオ生成、広告なしの体験",
+            "es": "Chats ilimitados, generación de videos más rápida, experiencia sin anuncios",
+            "pt": "Chats ilimitados, geração de vídeo mais rápida, experiência sem anúncios",
+            "fr": "Chats illimités, génération vidéo plus rapide, expérience sans publicité",
+            "de": "Unbegrenzte Chats, schnellere Videoerstellung, werbefreies Erlebnis",
+            "zh": "无限聊天，更快的视频生成，无广告体验",
+            "it": "Chat illimitati, generazione video più veloce, esperienza senza pubblicità"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$6.49 for the first month",
+            "uk": "$6.49 за перший місяць",
+            "ja": "最初の月は6.49ドル",
+            "es": "6.49 dólares para el primer mes",
+            "pt": "6,49 dólares para o primeiro mês",
+            "fr": "6,49 $ pour le premier mois",
+            "de": "6,49 $ für den ersten Monat",
+            "zh": "首月6.49美元",
+            "it": "6,49 $ per il primo mese"
+        }
+    },
+    "AI Law Enforcement Tools": {
+        "description": {
+            "en": "AI Law Enforcement Tools are designed to improve legal processes by using artificial intelligence to increase efficiency and accuracy in law enforcement.",
+            "uk": "Інструменти правопорядку на базі ШІ призначені для покращення юридичних процесів шляхом використання штучного інтелекту для підвищення ефективності та точності в правозастосуванні.",
+            "ja": "AI法執行ツールは、法律執行における効率と正確性を高めるために人工知能を使用して法的プロセスを改善するように設計されています。",
+            "es": "Las herramientas de aplicación de la ley basadas en IA están diseñadas para mejorar los procesos legales mediante el uso de inteligencia artificial para aumentar la eficiencia y precisión en la aplicación de la ley.",
+            "pt": "As Ferramentas de Aplicação da Lei com IA são projetadas para melhorar os processos legais usando inteligência artificial para aumentar a eficiência e a precisão na aplicação da lei.",
+            "fr": "Les outils d'application de la loi basés sur l'IA sont conçus pour améliorer les processus juridiques en utilisant l'intelligence artificielle pour accroître l'efficacité et la précision dans l'application de la loi.",
+            "de": "KI-gestützte Werkzeuge für die Strafverfolgung sind darauf ausgelegt, rechtliche Prozesse zu verbessern, indem sie künstliche Intelligenz einsetzen, um die Effizienz und Genauigkeit in der Strafverfolgung zu erhöhen.",
+            "zh": "AI执法工具旨在通过使用人工智能提高效率和准确性来改进法律流程。",
+            "it": "Gli strumenti di applicazione della legge basati su IA sono progettati per migliorare i processi legali utilizzando l'intelligenza artificiale per aumentare l'efficienza e la precisione nell'applicazione della legge."
+        },
+        "features": {
+            "en": "Enhances efficiency and accuracy in legal tech.",
+            "uk": "Підвищує ефективність і точність у юридичних технологіях.",
+            "ja": "法的技術の効率と正確性を向上させます。",
+            "es": "Mejora la eficiencia y precisión en la tecnología legal.",
+            "pt": "Aumenta a eficiência e precisão na tecnologia jurídica.",
+            "fr": "Améliore l'efficacité et la précision dans la technologie juridique.",
+            "de": "Erhöht die Effizienz und Genauigkeit in der juristischen Technologie.",
+            "zh": "提高法律技术的效率和准确性。",
+            "it": "Aumenta l'efficienza e la precisione nella tecnologia legale."
+        },
+        "discount": {
+            "en": "20%",
+            "uk": "20%",
+            "ja": "20%",
+            "es": "20%",
+            "pt": "20%",
+            "fr": "20%",
+            "de": "20%",
+            "zh": "20%",
+            "it": "20%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        }
+    },
+    "Legora": {
+        "description": {
+            "en": "Legora provides interactive tools for legal education and training, focusing on enhancing understanding through user-friendly interfaces.",
+            "uk": "Legora пропонує інтерактивні інструменти для юридичної освіти та навчання, зосереджуючи увагу на покращенні розуміння через зручні для користувача інтерфейси.",
+            "ja": "Legoraは、ユーザーフレンドリーなインターフェースを通じて理解を深めることに焦点を当て、法教育とトレーニングのためのインタラクティブなツールを提供します。",
+            "es": "Legora proporciona herramientas interactivas para la educación y formación legal, enfocándose en mejorar la comprensión a través de interfaces amigables para el usuario.",
+            "pt": "Legora fornece ferramentas interativas para educação e treinamento jurídico, com foco em melhorar a compreensão por meio de interfaces amigáveis ao usuário.",
+            "fr": "Legora propose des outils interactifs pour l'éducation et la formation juridiques, en se concentrant sur l'amélioration de la compréhension grâce à des interfaces conviviales.",
+            "de": "Legora bietet interaktive Werkzeuge für juristische Bildung und Schulung an, die darauf abzielen, das Verständnis durch benutzerfreundliche Schnittstellen zu verbessern.",
+            "zh": "Legora 提供互动工具，用于法律教育和培训，专注于通过用户友好的界面增强理解。",
+            "it": "Legora offre strumenti interattivi per l'istruzione e la formazione legale, concentrandosi sul miglioramento della comprensione attraverso interfacce user-friendly."
+        },
+        "features": {
+            "en": "Interactive legal learning and training.",
+            "uk": "Інтерактивне юридичне навчання та тренування.",
+            "ja": "インタラクティブな法的学習とトレーニング。",
+            "es": "Aprendizaje y formación jurídica interactiva.",
+            "pt": "Aprendizagem e treinamento jurídico interativos.",
+            "fr": "Apprentissage et formation juridiques interactifs.",
+            "de": "Interaktives juristisches Lernen und Training.",
+            "zh": "互动法律学习和培训。",
+            "it": "Apprendimento e formazione legale interattivi."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "CASUS": {
+        "description": {
+            "en": "CASUS specializes in providing legal analysis and insights to support legal practitioners in their casework.",
+            "uk": "CASUS спеціалізується на наданні юридичного аналізу та інсайтів для підтримки юридичних працівників у їхній справі.",
+            "ja": "CASUSは、法的実務者のケースワークをサポートするために、法的分析と洞察を提供することを専門としています。",
+            "es": "CASUS se especializa en proporcionar análisis legales y conocimientos para apoyar a los profesionales del derecho en su trabajo de casos.",
+            "pt": "CASUS se especializa em fornecer análise legal e insights para apoiar os profissionais do direito em seu trabalho de casos.",
+            "fr": "CASUS se spécialise dans la fourniture d'analyses juridiques et d'insights pour soutenir les praticiens du droit dans leur travail de cas.",
+            "de": "CASUS ist auf rechtliche Analysen und Insights spezialisiert, um Juristen in ihrer Fallarbeit zu unterstützen.",
+            "zh": "CASUS专注于提供法律分析和见解，以支持法律从业人员的案件工作。",
+            "it": "CASUS si specializza nella fornitura di analisi legali e approfondimenti per supportare i professionisti del settore legale nel loro lavoro sui casi."
+        },
+        "features": {
+            "en": "Legal analysis and case insights.",
+            "uk": "Юридичний аналіз та інсайти по справах.",
+            "ja": "法的分析とケースの洞察。",
+            "es": "Análisis legal e información sobre casos.",
+            "pt": "Análise legal e insights sobre casos.",
+            "fr": "Analyse juridique et insights sur les affaires.",
+            "de": "Rechtsanalyse und Fallinsights.",
+            "zh": "法律分析和案件见解。",
+            "it": "Analisi legale e approfondimenti sui casi."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "LexisNexis+ with Protégé": {
+        "description": {
+            "en": "LexisNexis+ with Protégé offers a comprehensive legal research platform that provides access to a wide variety of legal information and resources.",
+            "uk": "LexisNexis+ з Protégé пропонує комплексну платформу для юридичних досліджень, що забезпечує доступ до різноманітної юридичної інформації та ресурсів.",
+            "ja": "LexisNexis+ with Protégéは、幅広い法的情報とリソースへのアクセスを提供する包括的な法的研究プラットフォームを提供します。",
+            "es": "LexisNexis+ con Protégé ofrece una plataforma integral de investigación legal que proporciona acceso a una amplia variedad de información y recursos legales.",
+            "pt": "LexisNexis+ com Protégé oferece uma plataforma abrangente de pesquisa jurídica que fornece acesso a uma ampla variedade de informações e recursos legais.",
+            "fr": "LexisNexis+ avec Protégé propose une plateforme de recherche juridique complète offrant un accès à une grande variété d'informations et de ressources juridiques.",
+            "de": "LexisNexis+ mit Protégé bietet eine umfassende Plattform für juristische Recherchen, die Zugang zu einer Vielzahl von rechtlichen Informationen und Ressourcen bietet.",
+            "zh": "LexisNexis+与Protégé提供一个全面的法律研究平台，提供对各种法律信息和资源的访问。",
+            "it": "LexisNexis+ con Protégé offre una piattaforma completa di ricerca legale che fornisce accesso a una vasta gamma di informazioni e risorse legali."
+        },
+        "features": {
+            "en": "Extensive legal research database.",
+            "uk": "Широка база даних для юридичних досліджень.",
+            "ja": "広範な法的研究データベース。",
+            "es": "Extensa base de datos de investigación legal.",
+            "pt": "Extensa base de dados de pesquisa jurídica.",
+            "fr": "Base de données de recherche juridique étendue.",
+            "de": "Umfangreiche Datenbank für juristische Recherchen.",
+            "zh": "广泛的法律研究数据库。",
+            "it": "Ampia base di dati per la ricerca legale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "N/A",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "N/A",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        }
+    },
+    "LegalFly": {
+        "description": {
+            "en": "LegalFly provides solutions to streamline legal workflows, offering tools to manage case files and client communications effectively.",
+            "uk": "LegalFly пропонує рішення для оптимізації юридичних робочих процесів, надаючи інструменти для ефективного управління справами та спілкуванням з клієнтами.",
+            "ja": "LegalFlyは法的ワークフローを合理化するソリューションを提供し、ケースファイルや顧客とのコミュニケーションを効果的に管理するためのツールを提供します。",
+            "es": "LegalFly ofrece soluciones para optimizar los flujos de trabajo legales, proporcionando herramientas para gestionar eficazmente los expedientes de casos y las comunicaciones con los clientes.",
+            "pt": "LegalFly fornece soluções para simplificar fluxos de trabalho legais, oferecendo ferramentas para gerenciar arquivos de casos e comunicações com clientes de forma eficaz.",
+            "fr": "LegalFly fournit des solutions pour rationaliser les flux de travail juridiques, offrant des outils pour gérer efficacement les dossiers de cas et les communications avec les clients.",
+            "de": "LegalFly bietet Lösungen zur Optimierung von Rechtsabläufen und bietet Tools zur effektiven Verwaltung von Fallakten und der Kommunikation mit Klienten.",
+            "zh": "LegalFly提供解决方案，以简化法律工作流程，提供有效管理案件档案和客户沟通的工具。",
+            "it": "LegalFly offre soluzioni per semplificare i flussi di lavoro legali, offrendo strumenti per gestire efficacemente i fascicoli dei casi e le comunicazioni con i clienti."
+        },
+        "features": {
+            "en": "Legal workflow management.",
+            "uk": "Управління юридичними робочими процесами.",
+            "ja": "法的ワークフロー管理。",
+            "es": "Gestión de flujos de trabajo legales.",
+            "pt": "Gestão de fluxos de trabalho legais.",
+            "fr": "Gestion des flux de travail juridiques.",
+            "de": "Rechtsworkflow-Management.",
+            "zh": "法律工作流程管理。",
+            "it": "Gestione dei flussi di lavoro legali."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "GenieAI": {
+        "description": {
+            "en": "GenieAI specializes in drafting legal documents with advanced natural language processing capabilities, enhancing productivity for lawyers.",
+            "uk": "GenieAI спеціалізується на складанні юридичних документів з використанням розвинених можливостей обробки природної мови, підвищуючи продуктивність для юристів.",
+            "ja": "GenieAIは、高度な自然言語処理機能を備えた法的文書の作成に特化しており、弁護士の生産性を向上させます。",
+            "es": "GenieAI se especializa en redactar documentos legales con capacidades avanzadas de procesamiento de lenguaje natural, mejorando la productividad de los abogados.",
+            "pt": "GenieAI se especializa em redigir documentos legais com avançadas capacidades de processamento de linguagem natural, aumentando a produtividade dos advogados.",
+            "fr": "GenieAI se spécialise dans la rédaction de documents juridiques avec des capacités avancées de traitement du langage naturel, renforçant la productivité des avocats.",
+            "de": "GenieAI ist auf die Erstellung juristischer Dokumente mit fortschrittlichen Fähigkeiten zur Verarbeitung natürlicher Sprache spezialisiert, was die Produktivität von Anwälten steigert.",
+            "zh": "GenieAI专注于利用先进的自然语言处理能力起草法律文件，从而提高律师的工作效率。",
+            "it": "GenieAI si specializza nella redazione di documenti legali con capacità avanzate di elaborazione del linguaggio naturale, aumentando la produttività degli avvocati."
+        },
+        "features": {
+            "en": "Intelligent legal drafting.",
+            "uk": "Інтелектуальне юридичне складання.",
+            "ja": "インテリジェントな法的文書作成。",
+            "es": "Redacción legal inteligente.",
+            "pt": "Redação legal inteligente.",
+            "fr": "Rédaction légale intelligente.",
+            "de": "Intelligente juristische Erstellung.",
+            "zh": "智能法律起草。",
+            "it": "Redazione legale intelligente."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "Parachute": {
+        "description": {
+            "en": "Parachute uses AI algorithms to predict case outcomes and analyze legal strategies, empowering lawyers with data-driven insights.",
+            "uk": "Parachute використовує алгоритми ШІ для прогнозування результатів справ та аналізу юридичних стратегій, надаючи юристам можливість приймати рішення на основі даних.",
+            "ja": "パラシュートは、AIアルゴリズムを使用してケースの結果を予測し、法的戦略を分析します。これにより、弁護士はデータ主導の洞察を得ることができます。",
+            "es": "Parachute utiliza algoritmos de IA para predecir los resultados de los casos y analizar estrategias legales, empoderando a los abogados con información basada en datos.",
+            "pt": "Parachute utiliza algoritmos de IA para prever os resultados de casos e analisar estratégias jurídicas, capacitando advogados com insights baseados em dados.",
+            "fr": "Parachute utilise des algorithmes d'IA pour prédire les résultats des affaires et analyser les stratégies juridiques, donnant aux avocats un aperçu basé sur les données.",
+            "de": "Parachute nutzt KI-Algorithmen, um Fallausgänge vorherzusagen und rechtliche Strategien zu analysieren, und ermöglicht Anwälten datengestützte Einblicke.",
+            "zh": "Parachute使用人工智能算法来预测案件结果和分析法律策略，赋能律师以数据驱动的洞察力。",
+            "it": "Parachute utilizza algoritmi di intelligenza artificiale per prevedere gli esiti dei casi e analizzare le strategie legali, dando agli avvocati informazioni basate sui dati."
+        },
+        "features": {
+            "en": "Case prediction and analysis.",
+            "uk": "Прогнозування та аналіз справ.",
+            "ja": "ケースの予測と分析。",
+            "es": "Predicción y análisis de casos.",
+            "pt": "Previsão e análise de casos.",
+            "fr": "Prédiction et analyse des affaires.",
+            "de": "Fallvorhersage und -analyse.",
+            "zh": "案件预测和分析。",
+            "it": "Previsione e analisi dei casi."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "Andri": {
+        "description": {
+            "en": "Andri is an AI tool that provides legal advice based on user queries, designed to help clients and legal practitioners find quick answers to legal questions.",
+            "uk": "Андрі – це інструмент ШІ, який надає юридичні консультації на основі запитів користувачів, призначений для допомоги клієнтам та юридичним фахівцям у швидкому отриманні відповідей на юридичні питання.",
+            "ja": "アンドリは、ユーザーのクエリに基づいて法的アドバイスを提供する人工知能ツールで、クライアントや法律専門家が法的質問に迅速に回答を見つけるのを助けるために設計されています。",
+            "es": "Andri es una herramienta de IA que proporciona asesoramiento legal basado en consultas de usuarios, diseñada para ayudar a clientes y profesionales legales a encontrar respuestas rápidas a preguntas legales.",
+            "pt": "Andri é uma ferramenta de IA que fornece consultoria jurídica com base em consultas de usuários, projetada para ajudar clientes e profissionais jurídicos a encontrar respostas rápidas para perguntas legais.",
+            "fr": "Andri est un outil d'IA qui fournit des conseils juridiques basés sur les requêtes des utilisateurs, conçu pour aider les clients et les praticiens du droit à trouver des réponses rapides aux questions juridiques.",
+            "de": "Andri ist ein KI-Tool, das rechtliche Beratung basierend auf Benutzeranfragen bietet und dazu entwickelt wurde, Klienten und Rechtspraktikern zu helfen, schnelle Antworten auf rechtliche Fragen zu finden.",
+            "zh": "Andri 是一个基于用户查询提供法律建议的人工智能工具，旨在帮助客户和法律从业者快速找到法律问题的答案。",
+            "it": "Andri è uno strumento di intelligenza artificiale che fornisce consulenza legale basata su query degli utenti, progettato per aiutare i clienti e i professionisti legali a trovare risposte rapide a domande legali."
+        },
+        "features": {
+            "en": "AI-assisted legal advice.",
+            "uk": "Юридична консультація з підтримкою ШІ.",
+            "ja": "AI支援の法的助言。",
+            "es": "Asesoría legal asistida por IA.",
+            "pt": "Consultoria jurídica assistida por IA.",
+            "fr": "Conseil juridique assisté par IA.",
+            "de": "KI-gestützte rechtliche Beratung.",
+            "zh": "人工智能辅助的法律建议。",
+            "it": "Consulenza legale assistita da IA."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Nicht zutreffend",
+            "zh": "不可用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Nicht zutreffend",
+            "zh": "不可用",
+            "it": "N/D"
+        }
     }
 }
