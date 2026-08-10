@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "JAMM20",
-        "discount_amount": "60% OFF",
-        "pricing_info": "On all plans.",
+        "discount_amount": "23%",
+        "pricing_info": "2026 update",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -650,8 +650,8 @@
         "tool_name": "Claude AI",
         "tool_url": "https://www.anthropic.com/claude",
         "code": "CLAUDE123",
-        "discount_amount": "17%",
-        "pricing_info": "Annual billing option available.",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Official per-million-token pricing runs from Claude Haiku 4.5 at $1/$5.",
         "key_features": "Advanced natural language understanding, Conversational AI capabilities, Flexible API integration",
         "description": "Claude is a state-of-the-art conversational AI developed by Anthropic. It is designed to assist users with a wide array of tasks, from answering questions to generating content in a human-like manner. With its advanced algorithms and training on diverse datasets, Claude aims to understand context and provide relevant, coherent responses. The AI can be utilized in various industries including customer support, content creation, and education.",
         "category": "No-Code AI"
@@ -820,8 +820,8 @@
         "tool_name": "Perplexity AI",
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
-        "discount_amount": "Free 12 months of Perplexity Pro ($240 Value)",
-        "pricing_info": "Get full access to Channel AI Plus for just $6.49 for your first month.",
+        "discount_amount": "20% discount",
+        "pricing_info": "Enterprise Pro at $40/month or $400/year.",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1425,8 +1425,8 @@
         "tool_name": "Comp AI",
         "tool_url": "https://compai.vectortemplates.com/",
         "code": "N/A",
-        "discount_amount": "50%",
-        "pricing_info": "Price reduction on customer service solutions",
+        "discount_amount": "60%",
+        "pricing_info": "Multiple verified coupons available.",
         "key_features": "Deals on templates, themes, and AI tools such as writing tools and chatbots.",
         "description": "Comp AI offers a range of coupons and promo codes for various AI tools and templates, helping users access essential resources at discounted rates.",
         "category": "Search AI"
@@ -2126,7 +2126,7 @@
         "tool_url": "https://chatgptcodex.creativebin.com",
         "code": "N/A",
         "discount_amount": "50% OFF",
-        "pricing_info": "N/A",
+        "pricing_info": "Custom solutions available at a massive 50% discount.",
         "key_features": "Tailored AI solutions for specific tasks and industries.",
         "description": "Custom GPTs are bespoke AI experiences designed to cater to unique business needs and enhance productivity in various sectors.",
         "category": "No-Code AI"
@@ -2156,7 +2156,7 @@
         "tool_url": "https://elevenlabs.vectortemplates.com",
         "code": "N/A",
         "discount_amount": "30%",
-        "pricing_info": "$6 per month.",
+        "pricing_info": "$6 per month",
         "key_features": "Text-to-speech tools, studio-quality voices.",
         "description": "The Eleven Labs Starter Plan offers entry-level access to a suite of powerful text-to-speech tools for enhanced voice synthesis.",
         "category": "Voice AI"
@@ -2205,8 +2205,8 @@
         "tool_name": "Channel AI Plus",
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "$6.49 for the first month",
+        "discount_amount": "$6.49 for the first month",
+        "pricing_info": "Enjoy the first month for just $6.49.",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2290,5 +2290,115 @@
         "key_features": "AI-assisted legal advice.",
         "description": "Andri is an AI tool that provides legal advice based on user queries, designed to help clients and legal practitioners find quick answers to legal questions.",
         "category": "Legal AI"
+    },
+    {
+        "tool_name": "AI Customer Service",
+        "tool_url": "https://compai.vectortemplates.com",
+        "code": "N/A",
+        "discount_amount": "10%",
+        "pricing_info": "Contact for pricing.",
+        "key_features": "Streamlined support operations aimed at enhancing customer satisfaction.",
+        "description": "AI Customer Service provides automated support solutions to enhance customer interaction and operational efficiency.",
+        "category": "Industrial AI"
+    },
+    {
+        "tool_name": "Writer AI Detector",
+        "tool_url": "https://novelistai.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "15%",
+        "pricing_info": "N/A",
+        "key_features": "Enhances content authenticity, ensures writing is original and human-crafted.",
+        "description": "Writer AI Detector is a service that evaluates written content for originality and authenticity, aimed at ensuring your work meets high qualitative standards.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "ThesisAI Pro",
+        "tool_url": "https://www.barakatalan.com/top-ai-tools-it-services-coupons",
+        "code": "N/A",
+        "discount_amount": "20%",
+        "pricing_info": "$24/month",
+        "key_features": "Access to advanced writing and research tools, ability to write 48 documents per year, document creation up to 80 pages.",
+        "description": "ThesisAI Pro is a subscription-based tool that provides advanced features for writers, allowing them to efficiently create and manage multiple documents with significantly enhanced capabilities.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "Vibecodeapp Pro Plan",
+        "tool_url": "https://vibecodeapp.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "$50 per month",
+        "key_features": "Wholesale pricing, full features access, no hidden costs",
+        "description": "Vibecodeapp offers premium access to AI tools through its Pro Plan, focusing on providing all features without any hidden charges.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Professional AI Headshot Pro",
+        "tool_url": "https://tryitonai.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "$61",
+        "key_features": "Create high-quality portraits, customize styles, enhance personal or business images.",
+        "description": "Professional AI Headshot Pro is a service that uses artificial intelligence to create high-quality headshot portraits tailored to individual preferences.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "ChatGPT Codex Plus",
+        "tool_url": "https://chatgptcodex.creativebin.com",
+        "code": "N/A",
+        "discount_amount": "15%",
+        "pricing_info": "$21.12",
+        "key_features": "Access advanced AI features, enhance coding and content creation.",
+        "description": "ChatGPT Codex Plus is an advanced AI tool designed to assist with coding and content generation, utilizing the capabilities of the GPT model.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "HeyGen AI Video Tool",
+        "tool_url": "https://appheygen.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "$119",
+        "pricing_info": "Start for free",
+        "key_features": "Powerful AI features, effortless video creation.",
+        "description": "HeyGen AI Video Tool is designed to assist users in creating videos effortlessly by leveraging advanced AI capabilities, making it easy to bring their ideas to life.",
+        "category": "Video AI"
+    },
+    {
+        "tool_name": "ElevenLabs AI Student Pack",
+        "tool_url": "https://devopscube.com/elevenlabs-discount",
+        "code": "N/A",
+        "discount_amount": "50%",
+        "pricing_info": "$1,500 Free Credits",
+        "key_features": "Includes 16 AI tools, large discounts for students and educators.",
+        "description": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "ElevenLabs Annual Pro Subscription",
+        "tool_url": "https://www.joinsecret.com/elevenlabs",
+        "code": "N/A",
+        "discount_amount": "25%",
+        "pricing_info": "First year of annual subscription.",
+        "key_features": "Access causes intense AI features for video production.",
+        "description": "The ElevenLabs Annual Pro Subscription provides users with extensive capabilities for creating professional videos using AI technology, with a special discount for the first year.",
+        "category": "Video AI"
+    },
+    {
+        "tool_name": "ElevenLabs Creator",
+        "tool_url": "https://blog.nachonacho.com/best/elevenlabs-promo-codes",
+        "code": "N/A",
+        "discount_amount": "3 months free",
+        "pricing_info": "N/A",
+        "key_features": "Includes a discount for new creator subscriptions.",
+        "description": "ElevenLabs Creator provides users with tools for creativity and production, paired with incentives for new subscribers, enhancing the creative process.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Try It On AI",
+        "tool_url": "https://tryitonai.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "$61",
+        "key_features": "Create high-quality portraits, customize styles.",
+        "description": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
+        "category": "Image AI"
     }
 ]

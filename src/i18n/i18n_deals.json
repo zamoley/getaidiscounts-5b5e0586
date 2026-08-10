@@ -10578,5 +10578,511 @@
             "zh": "不可用",
             "it": "N/D"
         }
+    },
+    "AI Customer Service": {
+        "description": {
+            "en": "AI Customer Service provides automated support solutions to enhance customer interaction and operational efficiency.",
+            "uk": "ШІ для обслуговування клієнтів надає автоматизовані рішення для підтримки, щоб покращити взаємодію з клієнтами та операційну ефективність.",
+            "ja": "AIカスタマーサービスは、顧客のインタラクションと運用効率を高めるための自動化されたサポートソリューションを提供します。",
+            "es": "El servicio al cliente de IA ofrece soluciones de soporte automatizadas para mejorar la interacción con los clientes y la eficiencia operativa.",
+            "pt": "O serviço de atendimento ao cliente de IA fornece soluções de suporte automatizadas para melhorar a interação com o cliente e a eficiência operacional.",
+            "fr": "Le service client AI propose des solutions de support automatisées pour améliorer l'interaction avec les clients et l'efficacité opérationnelle.",
+            "de": "Der KI-Kundenservice bietet automatisierte Unterstützungslösungen, um die Kundeninteraktion und die operative Effizienz zu verbessern.",
+            "zh": "AI客户服务提供自动化支持解决方案，以增强客户互动和运营效率。",
+            "it": "Il servizio clienti AI fornisce soluzioni di supporto automatizzate per migliorare l'interazione con i clienti e l'efficienza operativa."
+        },
+        "features": {
+            "en": "Streamlined support operations aimed at enhancing customer satisfaction.",
+            "uk": "Оптимізовані операції підтримки, спрямовані на підвищення задоволеності клієнтів.",
+            "ja": "顧客満足度を向上させることを目的とした効率化されたサポート業務。",
+            "es": "Operaciones de soporte optimizadas con el objetivo de mejorar la satisfacción del cliente.",
+            "pt": "Operações de suporte simplificadas com o objetivo de melhorar a satisfação do cliente.",
+            "fr": "Opérations de support rationalisées visant à améliorer la satisfaction client.",
+            "de": "Optimierte Supportoperationen zur Steigerung der Kundenzufriedenheit.",
+            "zh": "简化的支持操作，旨在提高客户满意度。",
+            "it": "Operazioni di supporto semplificate volte a migliorare la soddisfazione del cliente."
+        },
+        "discount": {
+            "en": "10%",
+            "uk": "10%",
+            "ja": "10%",
+            "es": "10%",
+            "pt": "10%",
+            "fr": "10%",
+            "de": "10%",
+            "zh": "10%",
+            "it": "10%"
+        },
+        "pricing": {
+            "en": "Contact for pricing.",
+            "uk": "Зв'яжіться для отримання цін.",
+            "ja": "価格についてはお問い合わせください。",
+            "es": "Contactar para precios.",
+            "pt": "Entre em contato para preços.",
+            "fr": "Contactez-nous pour les prix.",
+            "de": "Kontaktieren Sie uns für Preise.",
+            "zh": "联系方式以获取定价信息。",
+            "it": "Contattaci per i prezzi."
+        }
+    },
+    "Writer AI Detector": {
+        "description": {
+            "en": "Writer AI Detector is a service that evaluates written content for originality and authenticity, aimed at ensuring your work meets high qualitative standards.",
+            "uk": "Writer AI Detector — це сервіс, що оцінює написаний контент на оригінальність і автентичність, метою якого є забезпечення того, щоб ваша робота відповідала високим якісним стандартам.",
+            "ja": "Writer AI Detectorは、書かれたコンテンツの独自性と真正性を評価するサービスであり、あなたの作品が高い質の基準を満たすようにすることを目的としています。",
+            "es": "Writer AI Detector es un servicio que evalúa el contenido escrito por originalidad y autenticidad, con el objetivo de garantizar que tu trabajo cumpla con altos estándares cualitativos.",
+            "pt": "Writer AI Detector é um serviço que avalia o conteúdo escrito quanto à originalidade e autenticidade, visando garantir que seu trabalho atenda a altos padrões qualitativos.",
+            "fr": "Writer AI Detector est un service qui évalue le contenu écrit pour son originalité et son authenticité, visant à garantir que votre travail respecte des normes qualitatives élevées.",
+            "de": "Writer AI Detector ist ein Service, der schriftliche Inhalte auf Originalität und Authentizität bewertet, mit dem Ziel, sicherzustellen, dass Ihre Arbeit hohen qualitativen Standards entspricht.",
+            "zh": "Writer AI Detector是一个评估书面内容的原创性和真实性的服务，旨在确保您的作品符合高质量标准。",
+            "it": "Writer AI Detector è un servizio che valuta i contenuti scritti per originalità e autenticità, mirato a garantire che il tuo lavoro soddisfi alti standard qualitativi."
+        },
+        "features": {
+            "en": "Enhances content authenticity, ensures writing is original and human-crafted.",
+            "uk": "Покращує автентичність контенту, гарантує, що написане є оригінальним та створеним людиною.",
+            "ja": "コンテンツの真正性を向上させ、執筆がオリジナルで人間によって作成されたものであることを保証します。",
+            "es": "Mejora la autenticidad del contenido, asegura que la escritura sea original y creada por humanos.",
+            "pt": "Melhora a autenticidade do conteúdo, garantindo que a escrita seja original e elaborada por humanos.",
+            "fr": "Améliore l'authenticité du contenu, garantit que l'écriture est originale et créée par des humains.",
+            "de": "Verbessert die Authentizität des Inhalts, stellt sicher, dass das Schreiben original und von Menschen verfasst ist.",
+            "zh": "增强内容的真实性，确保写作是原创且由人类创作。",
+            "it": "Migliora l'autenticità dei contenuti, garantendo che la scrittura sia originale e creata da esseri umani."
+        },
+        "discount": {
+            "en": "15%",
+            "uk": "15%",
+            "ja": "15%",
+            "es": "15%",
+            "pt": "15%",
+            "fr": "15%",
+            "de": "15%",
+            "zh": "15%",
+            "it": "15%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "ThesisAI Pro": {
+        "description": {
+            "en": "ThesisAI Pro is a subscription-based tool that provides advanced features for writers, allowing them to efficiently create and manage multiple documents with significantly enhanced capabilities.",
+            "uk": "ThesisAI Pro - це інструмент на основі підписки, який надає розширені функції для авторів, дозволяючи їм ефективно створювати та керувати кількома документами з значно покращеними можливостями.",
+            "ja": "ThesisAI Proは、サブスクリプションベースのツールで、ライター向けに高度な機能を提供し、効率的に複数の文書を作成および管理することを可能にします。",
+            "es": "ThesisAI Pro es una herramienta basada en suscripción que ofrece funciones avanzadas para escritores, lo que les permite crear y gestionar múltiples documentos de manera eficiente con capacidades significativamente mejoradas.",
+            "pt": "ThesisAI Pro é uma ferramenta baseada em assinatura que oferece recursos avançados para escritores, permitindo-lhes criar e gerenciar vários documentos de forma eficiente com capacidades significativamente aprimoradas.",
+            "fr": "ThesisAI Pro est un outil basé sur un abonnement qui fournit des fonctionnalités avancées pour les écrivains, leur permettant de créer et de gérer efficacement plusieurs documents avec des capacités considérablement améliorées.",
+            "de": "ThesisAI Pro ist ein abonnementbasiertes Tool, das fortschrittliche Funktionen für Autoren bereitstellt, sodass sie mehrere Dokumente effizient erstellen und verwalten können mit erheblich verbesserten Möglichkeiten.",
+            "zh": "ThesisAI Pro是一个基于订阅的工具，提供高级功能，允许作者高效地创建和管理多个文档，具有显著增强的能力。",
+            "it": "ThesisAI Pro è uno strumento basato su abbonamento che offre funzionalità avanzate per scrittori, consentendo loro di creare e gestire in modo efficiente più documenti con capacità significativamente migliorate."
+        },
+        "features": {
+            "en": "Access to advanced writing and research tools, ability to write 48 documents per year, document creation up to 80 pages.",
+            "uk": "Доступ до розширених інструментів написання та дослідження, можливість створювати 48 документів на рік, створення документа до 80 сторінок.",
+            "ja": "高度な執筆および研究ツールへのアクセス、年間48件の文書を作成する能力、最大80ページの文書作成。",
+            "es": "Acceso a herramientas avanzadas de escritura e investigación, capacidad para escribir 48 documentos al año, creación de documentos de hasta 80 páginas.",
+            "pt": "Acesso a ferramentas avançadas de escrita e pesquisa, capacidade de escrever 48 documentos por ano, criação de documentos de até 80 páginas.",
+            "fr": "Accès à des outils avancés de rédaction et de recherche, capacité à écrire 48 documents par an, création de documents de jusqu'à 80 pages.",
+            "de": "Zugriff auf fortschrittliche Schreib- und Forschungstools, Möglichkeit, 48 Dokumente pro Jahr zu erstellen, Dokumentenerstellung von bis zu 80 Seiten.",
+            "zh": "访问高级写作和研究工具，每年可以撰写48个文档，文档创建最多80页。",
+            "it": "Accesso a strumenti avanzati di scrittura e ricerca, capacità di scrivere 48 documenti all'anno, creazione di documenti fino a 80 pagine."
+        },
+        "discount": {
+            "en": "20%",
+            "uk": "20%",
+            "ja": "20%",
+            "es": "20%",
+            "pt": "20%",
+            "fr": "20%",
+            "de": "20%",
+            "zh": "20%",
+            "it": "20%"
+        },
+        "pricing": {
+            "en": "$24/month",
+            "uk": "$24/місяць",
+            "ja": "$24/月",
+            "es": "$24/mes",
+            "pt": "$24/mês",
+            "fr": "$24/mois",
+            "de": "24 $/Monat",
+            "zh": "$24/月",
+            "it": "$24/mese"
+        }
+    },
+    "Vibecodeapp Pro Plan": {
+        "description": {
+            "en": "Vibecodeapp offers premium access to AI tools through its Pro Plan, focusing on providing all features without any hidden charges.",
+            "uk": "Vibecodeapp пропонує преміум-доступ до ШІ-інструментів через свій Про план, зосереджуючи увагу на наданні всіх функцій без прихованих витрат.",
+            "ja": "Vibecodeappは、隠れた料金なしで全機能を提供することに焦点を当てたProプランを通じて、AIツールへのプレミアムアクセスを提供します。",
+            "es": "Vibecodeapp ofrece acceso premium a herramientas de IA a través de su Plan Pro, centrándose en proporcionar todas las funciones sin costos ocultos.",
+            "pt": "Vibecodeapp oferece acesso premium a ferramentas de IA por meio de seu Plano Pro, focando em fornecer todos os recursos sem custos ocultos.",
+            "fr": "Vibecodeapp propose un accès premium aux outils d'IA via son Plan Pro, en se concentrant sur la fourniture de toutes les fonctionnalités sans frais cachés.",
+            "de": "Vibecodeapp bietet über seinen Pro-Plan Premium-Zugang zu KI-Tools an und konzentriert sich auf die Bereitstellung aller Funktionen ohne versteckte Kosten.",
+            "zh": "Vibecodeapp通过其专业计划提供对人工智能工具的高级访问，专注于提供所有功能而没有任何隐藏费用。",
+            "it": "Vibecodeapp offre accesso premium agli strumenti di intelligenza artificiale tramite il suo Piano Pro, concentrandosi sulla fornitura di tutte le funzionalità senza costi nascosti."
+        },
+        "features": {
+            "en": "Wholesale pricing, full features access, no hidden costs",
+            "uk": "Оптові ціни, повний доступ до функцій, без прихованих витрат",
+            "ja": "卸売価格、全機能へのアクセス、隠れたコストはなし",
+            "es": "Precios al por mayor, acceso completo a funciones, sin costos ocultos",
+            "pt": "Preços por atacado, acesso a todas as funcionalidades, sem custos ocultos",
+            "fr": "Tarification en gros, accès complet aux fonctionnalités, sans coûts cachés",
+            "de": "Großhandelspreise, voller Funktionszugang, keine versteckten Kosten",
+            "zh": "批发定价，全面功能访问，无隐藏费用",
+            "it": "Prezzi all'ingrosso, accesso completo alle funzionalità, senza costi nascosti"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "$50 per month",
+            "uk": "$50 на місяць",
+            "ja": "月額50ドル",
+            "es": "$50 por mes",
+            "pt": "$50 por mês",
+            "fr": "50 $ par mois",
+            "de": "50 $ pro Monat",
+            "zh": "$50每月",
+            "it": "$50 al mese"
+        }
+    },
+    "Professional AI Headshot Pro": {
+        "description": {
+            "en": "Professional AI Headshot Pro is a service that uses artificial intelligence to create high-quality headshot portraits tailored to individual preferences.",
+            "uk": "Professional AI Headshot Pro - це сервіс, який використовує штучний інтелект для створення високоякісних портретів, адаптованих до індивідуальних вподобань.",
+            "ja": "Professional AI Headshot Proは、個々の好みに合わせた高品質のヘッドショットポートレートを作成するために人工知能を使用するサービスです。",
+            "es": "Professional AI Headshot Pro es un servicio que utiliza inteligencia artificial para crear retratos de alta calidad adaptados a las preferencias individuales.",
+            "pt": "Professional AI Headshot Pro é um serviço que usa inteligência artificial para criar retratos em alta qualidade personalizados de acordo com as preferências individuais.",
+            "fr": "Professional AI Headshot Pro est un service qui utilise l'intelligence artificielle pour créer des portraits de tête de haute qualité adaptés aux préférences individuelles.",
+            "de": "Professional AI Headshot Pro ist ein Dienst, der künstliche Intelligenz nutzt, um hochwertige Bewerbungsfotos zu erstellen, die auf individuelle Vorlieben zugeschnitten sind.",
+            "zh": "Professional AI Headshot Pro 是一项使用人工智能创建高质量头部肖像的服务，旨在满足个人喜好。",
+            "it": "Professional AI Headshot Pro è un servizio che utilizza intelligenza artificiale per creare ritratti di alta qualità personalizzati in base alle preferenze individuali."
+        },
+        "features": {
+            "en": "Create high-quality portraits, customize styles, enhance personal or business images.",
+            "uk": "Створення високоякісних портретів, кастомізація стилів, покращення особистих або бізнесових зображень.",
+            "ja": "高品質のポートレートを作成し、スタイルをカスタマイズし、個人またはビジネスの画像を強化します。",
+            "es": "Crear retratos de alta calidad, personalizar estilos, mejorar imágenes personales o comerciales.",
+            "pt": "Criar retratos de alta qualidade, personalizar estilos, aprimorar imagens pessoais ou de negócios.",
+            "fr": "Créer des portraits de haute qualité, personnaliser les styles, améliorer les images personnelles ou professionnelles.",
+            "de": "Erstellen Sie hochwertige Porträts, passen Sie Stile an, verbessern Sie persönliche oder geschäftliche Bilder.",
+            "zh": "创建高质量的肖像，自定义风格，提升个人或商业形象。",
+            "it": "Creare ritratti di alta qualità, personalizzare stili, migliorare immagini personali o aziendali."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$61",
+            "uk": "$61",
+            "ja": "$61",
+            "es": "$61",
+            "pt": "$61",
+            "fr": "$61",
+            "de": "$61",
+            "zh": "$61",
+            "it": "$61"
+        }
+    },
+    "ChatGPT Codex Plus": {
+        "description": {
+            "en": "ChatGPT Codex Plus is an advanced AI tool designed to assist with coding and content generation, utilizing the capabilities of the GPT model.",
+            "uk": "ChatGPT Codex Plus - це просунутий ШІ інструмент, розроблений для допомоги в програмуванні та створенні контенту, що використовує можливості моделі GPT.",
+            "ja": "ChatGPT Codex Plusは、GPTモデルの機能を利用してコーディングとコンテンツ生成を支援するために設計された高度なシステムです。",
+            "es": "ChatGPT Codex Plus es una herramienta avanzada de IA diseñada para ayudar con la codificación y generación de contenido, utilizando las capacidades del modelo GPT.",
+            "pt": "ChatGPT Codex Plus é uma ferramenta avançada de IA projetada para ajudar com codificação e geração de conteúdo, utilizando as capacidades do modelo GPT.",
+            "fr": "ChatGPT Codex Plus est un outil avancé d'IA conçu pour aider à la programmation et à la génération de contenu, en utilisant les capacités du modèle GPT.",
+            "de": "ChatGPT Codex Plus ist ein fortschrittliches KI-Tool, das entwickelt wurde, um beim Programmieren und Erstellen von Inhalten zu unterstützen, indem es die Fähigkeiten des GPT-Modells nutzt.",
+            "zh": "ChatGPT Codex Plus 是一款先进的人工智能工具，旨在利用 GPT 模型的能力来协助编码和内容生成。",
+            "it": "ChatGPT Codex Plus è uno strumento avanzato di IA progettato per assistere nella codifica e nella generazione di contenuti, sfruttando le capacità del modello GPT."
+        },
+        "features": {
+            "en": "Access advanced AI features, enhance coding and content creation.",
+            "uk": "Доступ до просунутих функцій ШІ, покращення програмування та створення контенту.",
+            "ja": "高度なAI機能にアクセスし、コーディングとコンテンツ作成を強化します。",
+            "es": "Acceso a funciones avanzadas de IA, mejora en la codificación y creación de contenido.",
+            "pt": "Acesso a recursos avançados de IA, melhoria na codificação e criação de conteúdo.",
+            "fr": "Accédez à des fonctionnalités avancées d'IA, améliorez la programmation et la création de contenu.",
+            "de": "Zugriff auf fortschrittliche KI-Funktionen, Verbesserung der Programmierung und der Inhaltserstellung.",
+            "zh": "访问高级人工智能功能，增强编码和内容创建。",
+            "it": "Accesso a funzionalità avanzate di IA, miglioramento della codifica e della creazione di contenuti."
+        },
+        "discount": {
+            "en": "15%",
+            "uk": "15%",
+            "ja": "15%",
+            "es": "15%",
+            "pt": "15%",
+            "fr": "15%",
+            "de": "15%",
+            "zh": "15%",
+            "it": "15%"
+        },
+        "pricing": {
+            "en": "$21.12",
+            "uk": "$21.12",
+            "ja": "$21.12",
+            "es": "$21.12",
+            "pt": "$21.12",
+            "fr": "$21.12",
+            "de": "$21.12",
+            "zh": "$21.12",
+            "it": "$21.12"
+        }
+    },
+    "HeyGen AI Video Tool": {
+        "description": {
+            "en": "HeyGen AI Video Tool is designed to assist users in creating videos effortlessly by leveraging advanced AI capabilities, making it easy to bring their ideas to life.",
+            "uk": "HeyGen ШІ Відео Інструмент розроблений для допомоги користувачам у створенні відео без зусиль, використовуючи розвинені можливості ШІ, що спрощує втілення їх ідей у життя.",
+            "ja": "HeyGen AIビデオツールは、高度なAI機能を活用してユーザーが簡単に動画を作成できるように設計されており、アイデアを形にするのが簡単です。",
+            "es": "La herramienta de video HeyGen AI está diseñada para ayudar a los usuarios a crear videos sin esfuerzo aprovechando las avanzadas capacidades de IA, lo que facilita llevar sus ideas a la vida.",
+            "pt": "O HeyGen AI Video Tool foi projetado para ajudar os usuários a criar vídeos sem esforço, aproveitando as avançadas capacidades de IA, facilitando a concretização de suas ideias.",
+            "fr": "L'outil vidéo HeyGen AI est conçu pour aider les utilisateurs à créer des vidéos sans effort en tirant parti des capacités avancées de l'IA, rendant facile la mise en œuvre de leurs idées.",
+            "de": "Das HeyGen AI Video Tool wurde entwickelt, um Benutzern zu helfen, Videos mühelos zu erstellen, indem es fortschrittliche KI-Funktionen nutzt, die es einfach machen, ihre Ideen zum Leben zu erwecken.",
+            "zh": "HeyGen AI视频工具旨在通过利用先进的AI功能，帮助用户轻松创建视频，使他们的创意得以实现。",
+            "it": "HeyGen AI Video Tool è progettato per assistere gli utenti nella creazione di video senza sforzo sfruttando le avanzate capacità dell'IA, rendendo facile dare vita alle loro idee."
+        },
+        "features": {
+            "en": "Powerful AI features, effortless video creation.",
+            "uk": "Потужні функції ШІ, просте створення відео.",
+            "ja": "強力なAI機能、簡単な動画作成。",
+            "es": "Funciones de IA potentes, creación de videos sin esfuerzo.",
+            "pt": "Recursos poderosos de IA, criação de vídeos sem esforço.",
+            "fr": "Fonctionnalités AI puissantes, création de vidéos sans effort.",
+            "de": "Leistungsstarke KI-Funktionen, mühelose Videoerstellung.",
+            "zh": "强大的AI功能，轻松的视频创建。",
+            "it": "Funzionalità AI potenti, creazione di video senza sforzo."
+        },
+        "discount": {
+            "en": "$119",
+            "uk": "$119",
+            "ja": "$119",
+            "es": "$119",
+            "pt": "$119",
+            "fr": "$119",
+            "de": "$119",
+            "zh": "$119",
+            "it": "$119"
+        },
+        "pricing": {
+            "en": "Start for free",
+            "uk": "Почніть безкоштовно",
+            "ja": "無料で始める",
+            "es": "Comienza gratis",
+            "pt": "Comece gratuitamente",
+            "fr": "Commencez gratuitement",
+            "de": "Kostenlos starten",
+            "zh": "免费开始",
+            "it": "Inizia gratuitamente"
+        }
+    },
+    "ElevenLabs AI Student Pack": {
+        "description": {
+            "en": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
+            "uk": "Пакет для студентів ElevenLabs ШІ пропонує значні ресурси для студентів, включаючи колекцію інструментів ШІ разом із значним кредитом для використання.",
+            "ja": "ElevenLabs AI学生パックは、学生向けに重要なリソースを提供し、AIツールのコレクションと使用のための大きな金銭的クレジットを特徴としています。",
+            "es": "El Paquete Estudiantil de ElevenLabs AI ofrece recursos significativos para estudiantes, con una colección de herramientas de IA junto con un sustancial crédito monetario para su uso.",
+            "pt": "O Pacote Estudantil ElevenLabs AI oferece recursos significativos para estudantes, apresentando uma coleção de ferramentas de IA juntamente com um crédito monetário substancial para uso.",
+            "fr": "Le Pack Étudiant ElevenLabs AI offre des ressources significatives pour les étudiants, comprenant une collection d'outils d'IA ainsi qu'un crédit monétaire substantiel pour utilisation.",
+            "de": "Das ElevenLabs AI Student Pack bietet bedeutende Ressourcen für Studierende und enthält eine Sammlung von KI-Tools sowie ein erhebliches Geldguthaben für die Nutzung.",
+            "zh": "ElevenLabs AI学生包为学生提供了重要资源，特色是包含一系列AI工具以及可用的大额货币信用。",
+            "it": "Il Pacchetto Studente ElevenLabs AI offre risorse significative per gli studenti, con una collezione di strumenti di intelligenza artificiale insieme a un sostanzioso credito monetario per l'uso."
+        },
+        "features": {
+            "en": "Includes 16 AI tools, large discounts for students and educators.",
+            "uk": "Включає 16 інструментів ШІ, великі знижки для студентів та викладачів.",
+            "ja": "16のAIツールを含み、学生や教育者向けの大きな割引が提供されます。",
+            "es": "Incluye 16 herramientas de IA, grandes descuentos para estudiantes y educadores.",
+            "pt": "Inclui 16 ferramentas de IA, grandes descontos para estudantes e educadores.",
+            "fr": "Comprend 16 outils d'IA et de grandes réductions pour les étudiants et les enseignants.",
+            "de": "Beinhaltet 16 KI-Tools sowie große Rabatte für Studierende und Lehrkräfte.",
+            "zh": "包括16个AI工具，为学生和教育工作者提供大幅折扣。",
+            "it": "Include 16 strumenti di intelligenza artificiale, grandi sconti per studenti e insegnanti."
+        },
+        "discount": {
+            "en": "50%",
+            "uk": "50%",
+            "ja": "50%",
+            "es": "50%",
+            "pt": "50%",
+            "fr": "50%",
+            "de": "50%",
+            "zh": "50%",
+            "it": "50%"
+        },
+        "pricing": {
+            "en": "$1,500 Free Credits",
+            "uk": "$1,500 безкоштовних кредитів",
+            "ja": "$1,500の無料クレジット",
+            "es": "$1,500 en créditos gratuitos",
+            "pt": "$1.500 em créditos gratuitos",
+            "fr": "$1 500 en crédits gratuits",
+            "de": "$1.500 kostenlose Kredite",
+            "zh": "$1,500免费信用",
+            "it": "$1.500 di crediti gratuiti"
+        }
+    },
+    "ElevenLabs Annual Pro Subscription": {
+        "description": {
+            "en": "The ElevenLabs Annual Pro Subscription provides users with extensive capabilities for creating professional videos using AI technology, with a special discount for the first year.",
+            "uk": "Річна професійна підписка ElevenLabs надає користувачам широкі можливості для створення професійних відео за допомогою технологій ШІ, із спеціальною знижкою на перший рік.",
+            "ja": "ElevenLabsの年間プロサブスクリプションは、ユーザーにAI技術を使用してプロフェッショナルなビデオを作成するための広範な能力を提供し、初年度に特別割引があります。",
+            "es": "La suscripción anual Pro de ElevenLabs proporciona a los usuarios amplias capacidades para crear videos profesionales utilizando tecnología de IA, con un descuento especial para el primer año.",
+            "pt": "A Assinatura Anual Pro da ElevenLabs oferece aos usuários amplas capacidades para criar vídeos profissionais usando tecnologia de IA, com um desconto especial para o primeiro ano.",
+            "fr": "L'abonnement annuel Pro d'ElevenLabs offre aux utilisateurs des capacités étendues pour créer des vidéos professionnelles en utilisant la technologie d'IA, avec une remise spéciale pour la première année.",
+            "de": "Das ElevenLabs Jahresabo Pro bietet den Nutzern umfangreiche Möglichkeiten zur Erstellung professioneller Videos mit Hilfe von SchІ-Technologie, mit einem speziellen Rabatt für das erste Jahr.",
+            "zh": "ElevenLabs年度专业订阅为用户提供了使用人工智能技术创建专业视频的广泛能力，并在第一年提供特别折扣。",
+            "it": "L'abbonamento annuale Pro di ElevenLabs offre agli utenti ampie capacità per creare video professionali utilizzando la tecnologia ŠІ, con uno sconto speciale per il primo anno."
+        },
+        "features": {
+            "en": "Access causes intense AI features for video production.",
+            "uk": "Доступ до інтенсивних функцій ШІ для виробництва відео.",
+            "ja": "ビデオ制作のための強力なAI機能にアクセスできます。",
+            "es": "Acceso a potentes funciones de IA para la producción de video.",
+            "pt": "Acesso a recursos poderosos de IA para produção de vídeo.",
+            "fr": "Accès à des fonctionnalités d'IA intenses pour la production de vidéos.",
+            "de": "Zugang zu intensiven SchІ-Funktionen für die Videoproduktion.",
+            "zh": "访问强大的人工智能功能用于视频制作。",
+            "it": "Accesso a potenti funzionalità di IA per la produzione di video."
+        },
+        "discount": {
+            "en": "25%",
+            "uk": "25%",
+            "ja": "25%",
+            "es": "25%",
+            "pt": "25%",
+            "fr": "25%",
+            "de": "25%",
+            "zh": "25%",
+            "it": "25%"
+        },
+        "pricing": {
+            "en": "First year of annual subscription.",
+            "uk": "Перший рік річної підписки.",
+            "ja": "年間サブスクリプションの初年度。",
+            "es": "Primer año de suscripción anual.",
+            "pt": "Primeiro ano de assinatura anual.",
+            "fr": "Première année d'abonnement annuel.",
+            "de": "Erstes Jahr des Jahresabonnements.",
+            "zh": "年度订阅的第一年。",
+            "it": "Primo anno di abbonamento annuale."
+        }
+    },
+    "ElevenLabs Creator": {
+        "description": {
+            "en": "ElevenLabs Creator provides users with tools for creativity and production, paired with incentives for new subscribers, enhancing the creative process.",
+            "uk": "ElevenLabs Creator надає користувачам інструменти для творчості та продукції, супроводжуючи їх заохоченнями для нових підписників, що покращує творчий процес.",
+            "ja": "ElevenLabs Creatorは、創造性と制作のためのツールをユーザーに提供し、新しいサブスクライバーへのインセンティブを組み合わせることで、クリエイティブプロセスを高めます。",
+            "es": "ElevenLabs Creator proporciona a los usuarios herramientas para la creatividad y producción, junto con incentivos para nuevos suscriptores, mejorando el proceso creativo.",
+            "pt": "ElevenLabs Creator oferece aos usuários ferramentas para criatividade e produção, combinadas com incentivos para novos assinantes, aprimorando o processo criativo.",
+            "fr": "ElevenLabs Creator fournit aux utilisateurs des outils pour la créativité et la production, associés à des incitations pour les nouveaux abonnés, améliorant le processus créatif.",
+            "de": "ElevenLabs Creator bietet Benutzern Werkzeuge für Kreativität und Produktion, kombiniert mit Anreizen für neue Abonnenten, was den kreativen Prozess verbessert.",
+            "zh": "ElevenLabs Creator为用户提供创造力和生产的工具，并结合了针对新订阅者的激励措施，从而增强了创造过程。",
+            "it": "ElevenLabs Creator offre agli utenti strumenti per la creatività e la produzione, affiancati da incentivi per i nuovi abbonati, migliorando il processo creativo."
+        },
+        "features": {
+            "en": "Includes a discount for new creator subscriptions.",
+            "uk": "Включає знижку на нові підписки для творців.",
+            "ja": "新しいクリエイターのサブスクリプションには割引が含まれています。",
+            "es": "Incluye un descuento para nuevas suscripciones de creadores.",
+            "pt": "Inclui um desconto para novas assinaturas de criadores.",
+            "fr": "Comprend un rabais pour les nouvelles abonnements de créateurs.",
+            "de": "Beinhaltet einen Rabatt für neue Creator-Abonnements.",
+            "zh": "包括针对新创作者订阅的折扣。",
+            "it": "Include uno sconto per nuove iscrizioni di creatori."
+        },
+        "discount": {
+            "en": "3 months free",
+            "uk": "3 місяці безкоштовно",
+            "ja": "3か月間無料",
+            "es": "3 meses gratis",
+            "pt": "3 meses grátis",
+            "fr": "3 mois gratuits",
+            "de": "3 Monate kostenlos",
+            "zh": "免费3个月",
+            "it": "3 mesi gratuiti"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "N/A",
+            "ja": "N/A",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        }
+    },
+    "Try It On AI": {
+        "description": {
+            "en": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
+            "uk": "Try It On AI пропонує професійний план AI Headshot Pro, який допомагає користувачам створювати персоналізовані портрети високої якості для особистого або бізнес-використання.",
+            "ja": "Try It On AIは、ユーザーが個人用またはビジネス用にパーソナライズされた高品質のポートレートを作成できるプロフェッショナルなAIヘッドショットプロプランを提供します。",
+            "es": "Try It On AI ofrece un plan profesional AI Headshot Pro que ayuda a los usuarios a crear retratos personalizados de alta calidad para uso personal o empresarial.",
+            "pt": "Try It On AI fornece um plano profissional AI Headshot Pro que ajuda os usuários a criar retratos personalizados de alta qualidade para uso pessoal ou empresarial.",
+            "fr": "Try It On AI propose un plan professionnel AI Headshot Pro qui aide les utilisateurs à créer des portraits personnalisés de haute qualité pour un usage personnel ou professionnel.",
+            "de": "Try It On AI bietet einen professionellen AI Headshot Pro-Plan, der Benutzern hilft, personalisierte, hochwertige Porträts für den persönlichen oder geschäftlichen Gebrauch zu erstellen.",
+            "zh": "Try It On AI 提供专业的 AI 头像专业计划，帮助用户为个人或商业用途创建个性化的高质量肖像。",
+            "it": "Try It On AI offre un piano professionale AI Headshot Pro che aiuta gli utenti a creare ritratti personalizzati di alta qualità per uso personale o aziendale."
+        },
+        "features": {
+            "en": "Create high-quality portraits, customize styles.",
+            "uk": "Створюйте портрети високої якості, налаштуйте стилі.",
+            "ja": "高品質のポートレートを作成し、スタイルをカスタマイズします。",
+            "es": "Crea retratos de alta calidad, personaliza estilos.",
+            "pt": "Crie retratos de alta qualidade, personalize estilos.",
+            "fr": "Créez des portraits de haute qualité, personnalisez les styles.",
+            "de": "Erstellen Sie hochwertige Porträts, personalisieren Sie Stile.",
+            "zh": "创建高质量肖像，定制风格。",
+            "it": "Crea ritratti di alta qualità, personalizza gli stili."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Keine",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$61",
+            "uk": "$61",
+            "ja": "$61",
+            "es": "$61",
+            "pt": "$61",
+            "fr": "$61",
+            "de": "$61",
+            "zh": "$61",
+            "it": "$61"
+        }
     }
 }
