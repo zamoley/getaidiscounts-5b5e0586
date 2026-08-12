@@ -15,6 +15,10 @@ export const Route = createFileRoute("/{-$locale}/terms")({
     meta: [
       { title: "Terms of Service | GetAIDiscounts" },
       { name: "description", content: "The terms governing your use of GetAIDiscounts.com." },
+      { property: "og:title", content: "Terms of Service | GetAIDiscounts" },
+      { property: "og:description", content: "Rules for using GetAIDiscounts, including affiliate links, third-party offers, and liability limits." },
+      { name: "twitter:title", content: "Terms of Service | GetAIDiscounts" },
+      { name: "twitter:description", content: "Rules for using GetAIDiscounts, including affiliate links, third-party offers, and liability limits." },
       { property: "og:locale", content: loc },
       { property: "og:url", content: canonicalFor(loc, "/terms") },
     ],
