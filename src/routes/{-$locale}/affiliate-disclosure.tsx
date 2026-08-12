@@ -15,6 +15,10 @@ export const Route = createFileRoute("/{-$locale}/affiliate-disclosure")({
     meta: [
       { title: "Affiliate Disclosure | GetAIDiscounts" },
       { name: "description", content: "How GetAIDiscounts earns commissions through affiliate links." },
+      { property: "og:title", content: "Affiliate Disclosure | GetAIDiscounts" },
+      { property: "og:description", content: "How GetAIDiscounts earns commissions from partner links — and why affiliate status never affects which deals we list." },
+      { name: "twitter:title", content: "Affiliate Disclosure | GetAIDiscounts" },
+      { name: "twitter:description", content: "How GetAIDiscounts earns commissions from partner links — and why affiliate status never affects which deals we list." },
       { property: "og:locale", content: loc },
       { property: "og:url", content: canonicalFor(loc, "/affiliate-disclosure") },
     ],
