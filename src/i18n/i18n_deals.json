@@ -11084,5 +11084,741 @@
             "zh": "$61",
             "it": "$61"
         }
+    },
+    "AI Sales Assistant": {
+        "description": {
+            "en": "AI Sales Assistant is designed to enhance sales team performance by utilizing artificial intelligence to streamline processes and improve close rates.",
+            "uk": "ШІ Продавцеві Асистент розроблений для підвищення продуктивності команди продажу, використовуючи штучний інтелект для оптимізації процесів та підвищення рівня закриття угод.",
+            "ja": "AIセールスアシスタントは、プロセスを合理化し、成約率を改善するために人工知能を活用して、営業チームのパフォーマンスを向上させることを目的としています。",
+            "es": "El Asistente de Ventas AI está diseñado para mejorar el rendimiento del equipo de ventas mediante el uso de inteligencia artificial para agilizar procesos y mejorar las tasas de cierre.",
+            "pt": "O Assistente de Vendas de IA é projetado para melhorar o desempenho da equipe de vendas, utilizando inteligência artificial para simplificar processos e aumentar as taxas de fechamento.",
+            "fr": "L'assistant commercial par IA est conçu pour améliorer la performance de l'équipe de vente en utilisant l'intelligence artificielle pour rationaliser les processus et améliorer les taux de clôture.",
+            "de": "Der AI Sales Assistant wurde entwickelt, um die Leistung des Verkaufsteams zu verbessern, indem künstliche Intelligenz genutzt wird, um Prozesse zu optimieren und die Abschlussraten zu steigern.",
+            "zh": "AI销售助手旨在通过利用人工智能精简流程和提高成交率，从而增强销售团队的表现。",
+            "it": "L'Assistente alle Vendite AI è progettato per migliorare le performance del team di vendita utilizzando l'intelligenza artificiale per semplificare i processi e migliorare i tassi di chiusura."
+        },
+        "features": {
+            "en": "Boost your team's efficiency and close more deals with this powerful tool.",
+            "uk": "Підвищте ефективність своєї команди та закривайте більше угод з цим потужним інструментом.",
+            "ja": "この強力なツールでチームの効率を高め、より多くの契約を締結しましょう。",
+            "es": "Aumente la eficiencia de su equipo y cierre más tratos con esta poderosa herramienta.",
+            "pt": "Aumente a eficiência da sua equipe e feche mais negócios com esta poderosa ferramenta.",
+            "fr": "Boostez l'efficacité de votre équipe et concluez davantage de ventes avec cet outil puissant.",
+            "de": "Steigern Sie die Effizienz Ihres Teams und schließen Sie mit diesem leistungsstarken Tool mehr Geschäfte ab.",
+            "zh": "借助这个强大的工具，提高团队的效率并达成更多交易。",
+            "it": "Aumenta l'efficienza del tuo team e chiudi più affari con questo potente strumento."
+        },
+        "discount": {
+            "en": "50%",
+            "uk": "50%",
+            "ja": "50%",
+            "es": "50%",
+            "pt": "50%",
+            "fr": "50%",
+            "de": "50%",
+            "zh": "50%",
+            "it": "50%"
+        },
+        "pricing": {
+            "en": "Get a significant 50% discount.",
+            "uk": "Отримайте значну знижку 50%.",
+            "ja": "大幅な50％の割引を受け取ってください。",
+            "es": "Obtenga un descuento significativo del 50%.",
+            "pt": "Obtenha um desconto significativo de 50%.",
+            "fr": "Recevez une réduction significative de 50%.",
+            "de": "Erhalten Sie einen erheblichen Rabatt von 50%.",
+            "zh": "获取50%的重大折扣。",
+            "it": "Ottieni un significativo sconto del 50%."
+        }
+    },
+    "CodeRabbit Pro Plus": {
+        "description": {
+            "en": "CodeRabbit Pro Plus is an AI-powered coding tool designed to enhance the coding experience with advanced features for code reviews and suggestions.",
+            "uk": "CodeRabbit Pro Plus - це інструмент кодування на базі ШІ, призначений для покращення процесу програмування з розширеними функціями для оглядів коду та пропозицій.",
+            "ja": "CodeRabbit Pro Plusは、コードレビューと提案のための高度な機能を備えたコーディング体験を向上させるために設計されたAI駆動のコーディングツールです。",
+            "es": "CodeRabbit Pro Plus es una herramienta de codificación impulsada por IA diseñada para mejorar la experiencia de codificación con características avanzadas para revisiones y sugerencias de código.",
+            "pt": "CodeRabbit Pro Plus é uma ferramenta de codificação impulsionada por IA projetada para aprimorar a experiência de codificação com recursos avançados para revisões e sugestões de código.",
+            "fr": "CodeRabbit Pro Plus est un outil de codage alimenté par l'IA conçu pour améliorer l'expérience de codage avec des fonctionnalités avancées pour les revues et suggestions de code.",
+            "de": "CodeRabbit Pro Plus ist ein KI-gestütztes Codierungstool, das entwickelt wurde, um das Programmiererlebnis mit fortschrittlichen Funktionen für Codeüberprüfungen und Vorschläge zu verbessern.",
+            "zh": "CodeRabbit Pro Plus是一个基于AI的编码工具，旨在通过先进的代码审查和建议功能提升编码体验。",
+            "it": "CodeRabbit Pro Plus è uno strumento di codifica alimentato da IA, progettato per migliorare l'esperienza di codifica con funzionalità avanzate per revisioni e suggerimenti di codice."
+        },
+        "features": {
+            "en": "Context-aware AI pull request reviews, line-by-line code suggestions, seamless IDE/CLI workflows.",
+            "uk": "Огляди запитів на злиття з урахуванням контексту від ШІ, пропозиції коду рядок за рядком, безперешкодні робочі процеси IDE/CLI.",
+            "ja": "コンテキストを考慮したAIプルリクエストレビュー、行ごとのコード提案、シームレスなIDE/CLIワークフロー。",
+            "es": "Revisiones de solicitudes de incorporación de cambios conscientes del contexto de IA, sugerencias de código línea por línea, flujos de trabajo IDE/CLI sin interrupciones.",
+            "pt": "Revisões de pull request cientes do contexto da IA, sugestões de código linha por linha, fluxos de trabalho IDE/CLI sem costura.",
+            "fr": "Revisions de demandes de tirage conscientes du contexte, suggestions de code ligne par ligne, flux de travail IDE/CLI fluides.",
+            "de": "Kontextbewusste KI-Pull-Request-Überprüfungen, zeilenweise Codevorschläge, nahtlose IDE/CLI-Workflows.",
+            "zh": "上下文敏感的AI拉取请求审查、逐行代码建议、无缝的IDE/CLI工作流程。",
+            "it": "Revisioni delle richieste di pull consapevoli del contesto, suggerimenti di codice riga per riga, flussi di lavoro IDE/CLI senza soluzione di continuità."
+        },
+        "discount": {
+            "en": "14-day free trial.",
+            "uk": "14-дневна безкоштовна пробна версія.",
+            "ja": "14日間の無料トライアル。",
+            "es": "Prueba gratuita de 14 días.",
+            "pt": "Teste gratuito de 14 dias.",
+            "fr": "Essai gratuit de 14 jours.",
+            "de": "14-tägige kostenlose Testversion.",
+            "zh": "14天免费试用。",
+            "it": "Prova gratuita di 14 giorni."
+        },
+        "pricing": {
+            "en": "Free trial for 14 days.",
+            "uk": "Безкоштовна пробна версія на 14 днів.",
+            "ja": "14日間の無料トライアル。",
+            "es": "Prueba gratuita de 14 días.",
+            "pt": "Teste gratuito de 14 dias.",
+            "fr": "Essai gratuit de 14 jours.",
+            "de": "14-tägige kostenlose Testversion.",
+            "zh": "14天免费试用。",
+            "it": "Prova gratuita di 14 giorni."
+        }
+    },
+    "Grok": {
+        "description": {
+            "en": "Grok is an AI coding tool that provides intelligent assistance in coding projects, helping developers build and improve their code seamlessly.",
+            "uk": "Grok - це інструмент кодування ШІ, який надає інтелектуальну допомогу в проєктах програмування, допомагаючи розробникам безперешкодно створювати та вдосконалювати свій код.",
+            "ja": "Grokは、コーディングプロジェクトにおいてインテリジェントな支援を提供するAIコーディングツールであり、開発者がシームレスにコードを構築および改善できるようにします。",
+            "es": "Grok es una herramienta de codificación de IA que proporciona asistencia inteligente en proyectos de codificación, ayudando a los desarrolladores a construir y mejorar su código sin problemas.",
+            "pt": "Grok é uma ferramenta de codificação de IA que fornece assistência inteligente em projetos de codificação, ajudando os desenvolvedores a construir e melhorar seu código de forma integrada.",
+            "fr": "Grok est un outil de codage AI qui fournit une assistance intelligente dans les projets de codage, aidant les développeurs à construire et améliorer leur code de manière fluide.",
+            "de": "Grok ist ein KI-Coding-Tool, das intelligente Unterstützung bei Programmierprojekten bietet und Entwicklern hilft, ihren Code nahtlos zu erstellen und zu verbessern.",
+            "zh": "Grok是一种人工智能编码工具，提供智能帮助用于编码项目，帮助开发者无缝构建和改进他们的代码。",
+            "it": "Grok è uno strumento di codifica AI che fornisce assistenza intelligente nei progetti di codifica, aiutando gli sviluppatori a costruire e migliorare il proprio codice in modo fluido."
+        },
+        "features": {
+            "en": "AI coding assistance, project building",
+            "uk": "Допомога в кодуванні ШІ, створення проєктів",
+            "ja": "AIコーディングアシスタンス、プロジェクトビルディング",
+            "es": "Asistencia en codificación de IA, creación de proyectos",
+            "pt": "Assistência de codificação de IA, construção de projetos",
+            "fr": "Assistance au codage AI, création de projets",
+            "de": "KI-Coding-Hilfe, Projektaufbau",
+            "zh": "人工智能编码辅助，项目构建",
+            "it": "Assistenza alla codifica AI, costruzione di progetti"
+        },
+        "discount": {
+            "en": "7-day free trial",
+            "uk": "7 днів безкоштовної пробної версії",
+            "ja": "7日間の無料トライアル",
+            "es": "Prueba gratuita de 7 días",
+            "pt": "Teste gratuito de 7 dias",
+            "fr": "Essai gratuit de 7 jours",
+            "de": "7-tägige kostenlose Testversion",
+            "zh": "7天免费试用",
+            "it": "Prova gratuita di 7 giorni"
+        },
+        "pricing": {
+            "en": "Starts at paid limits after 7 days free trial",
+            "uk": "Платні ліміти починаються після 7 днів безкоштовної пробної версії",
+            "ja": "7日間の無料トライアルの後、料金制限が始まります",
+            "es": "Comienza con límites de pago después de 7 días de prueba gratuita",
+            "pt": "Começa com limites pagos após 7 dias de teste gratuito",
+            "fr": "Commencez avec des limites payantes après 7 jours d'essai gratuit",
+            "de": "Nach 7 Tagen kostenlose Testphase beginnen die bezahlten Limits",
+            "zh": "在7天免费试用后开始付费限制",
+            "it": "Inizia con limiti a pagamento dopo 7 giorni di prova gratuita"
+        }
+    },
+    "ElevenLabs Creator Membership": {
+        "description": {
+            "en": "The ElevenLabs Creator membership offers an affordable monthly plan allowing users to access advanced AI voice generation tools for various projects, ensuring top-notch quality.",
+            "uk": "Членство ElevenLabs Creator пропонує доступний місячний план, що дозволяє користувачам отримати доступ до просунутих інструментів генерації голосу ШІ для різних проектів, гарантуючи високу якість.",
+            "ja": "ElevenLabs Creator のメンバーシップは、さまざまなプロジェクトのために高度な AI 音声生成ツールにアクセスできる手頃な月額プランを提供し、最高品質を保証します。",
+            "es": "La membresía de ElevenLabs Creator ofrece un plan mensual asequible que permite a los usuarios acceder a herramientas avanzadas de generación de voz por IA para varios proyectos, asegurando una calidad de primer nivel.",
+            "pt": "A associação ElevenLabs Creator oferece um plano mensal acessível, permitindo que os usuários acessem ferramentas avançadas de geração de voz com IA para vários projetos, garantindo qualidade de primeira linha.",
+            "fr": "L'abonnement ElevenLabs Creator propose un plan mensuel abordable permettant aux utilisateurs d'accéder à des outils avancés de génération de voix par IA pour divers projets, garantissant une qualité de premier ordre.",
+            "de": "Die Mitgliedschaft bei ElevenLabs Creator bietet einen erschwinglichen monatlichen Plan, der es Benutzern ermöglicht, auf fortschrittliche Stimmgenerierungstools mit ŠІ für verschiedene Projekte zuzugreifen und erstklassige Qualität zu gewährleisten.",
+            "zh": "ElevenLabs Creator 会员提供经济实惠的月度计划，让用户能够访问高级的 AI 语音生成工具，适用于各种项目，确保一流的质量。",
+            "it": "L'abbonamento ElevenLabs Creator offre un piano mensile conveniente che consente agli utenti di accedere a strumenti avanzati di generazione vocale con ŠІ per vari progetti, garantendo una qualità di alto livello."
+        },
+        "features": {
+            "en": "High-quality AI voice generation for every project.",
+            "uk": "Генерація голосу ШІ високої якості для кожного проекту.",
+            "ja": "すべてのプロジェクト向けの高品質な AI 音声生成。",
+            "es": "Generación de voz por IA de alta calidad para cada proyecto.",
+            "pt": "Geração de voz com IA de alta qualidade para cada projeto.",
+            "fr": "Génération de voix par IA de haute qualité pour chaque projet.",
+            "de": "Hochwertige ŠІ-Stimmen für jedes Projekt.",
+            "zh": "每个项目的高质量 AI 语音生成。",
+            "it": "Generazione vocale di alta qualità con ŠІ per ogni progetto."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$11 monthly",
+            "uk": "$11 на місяць",
+            "ja": "月額 11 ドル",
+            "es": "$11 al mes",
+            "pt": "$11 por mês",
+            "fr": "11 $ par mois",
+            "de": "11 $ pro Monat",
+            "zh": "每月 11 美元",
+            "it": "11 $ al mese"
+        }
+    },
+    "ElevenLabs Starter Plan": {
+        "description": {
+            "en": "The ElevenLabs Starter Plan provides users with essential text-to-speech capabilities at a low monthly cost, enabling the creation of professional-quality audio content quickly.",
+            "uk": "План ElevenLabs Starter надає користувачам основні можливості перетворення тексту в мову за низькою щомісячною ціною, що дозволяє швидко створювати аудіо контент професійної якості.",
+            "ja": "ElevenLabsスタータープランは、低コストで基本的なテキスト読み上げ機能をユーザーに提供し、迅速にプロフェッショナル品質のオーディオコンテンツを作成できるようにします。",
+            "es": "El Plan Starter de ElevenLabs proporciona a los usuarios capacidades esenciales de conversión de texto a voz a un bajo costo mensual, lo que permite la creación rápida de contenido de audio de calidad profesional.",
+            "pt": "O Plano Starter da ElevenLabs oferece aos usuários capacidades essenciais de conversão de texto em fala a um baixo custo mensal, permitindo a criação rápida de conteúdo de áudio de qualidade profissional.",
+            "fr": "Le plan Starter d'ElevenLabs offre aux utilisateurs des fonctionnalités essentielles de synthèse vocale à un faible coût mensuel, permettant la création rapide de contenus audio de qualité professionnelle.",
+            "de": "Der ElevenLabs Starter-Plan bietet Benutzern grundlegende Text-zu-Sprache-Funktionen zu niedrigen monatlichen Kosten und ermöglicht die schnelle Erstellung von Audioinhalten in professioneller Qualität.",
+            "zh": "ElevenLabs入门计划以低廉的月费为用户提供基本的文本转语音功能，使他们能够快速创建专业质量的音频内容。",
+            "it": "Il Piano Starter di ElevenLabs fornisce agli utenti le essenziali capacità di sintesi vocale a un basso costo mensile, consentendo di creare rapidamente contenuti audio di qualità professionale."
+        },
+        "features": {
+            "en": "Access to powerful text-to-speech tools.",
+            "uk": "Доступ до потужних інструментів перетворення тексту в мову.",
+            "ja": "強力なテキスト読み上げツールへのアクセス。",
+            "es": "Acceso a potentes herramientas de conversión de texto a voz.",
+            "pt": "Acesso a poderosas ferramentas de conversão de texto em fala.",
+            "fr": "Accès à de puissants outils de synthèse vocale.",
+            "de": "Zugang zu leistungsstarken Text-zu-Sprache-Tools.",
+            "zh": "访问强大的文本转语音工具。",
+            "it": "Accesso a potenti strumenti di sintesi vocale."
+        },
+        "discount": {
+            "en": "30%",
+            "uk": "30%",
+            "ja": "30%",
+            "es": "30%",
+            "pt": "30%",
+            "fr": "30%",
+            "de": "30%",
+            "zh": "30%",
+            "it": "30%"
+        },
+        "pricing": {
+            "en": "$6 per month",
+            "uk": "$6 на місяць",
+            "ja": "$6 per month",
+            "es": "$6 al mes",
+            "pt": "$6 por mês",
+            "fr": "$6 par mois",
+            "de": "$6 pro Monat",
+            "zh": "$6每月",
+            "it": "$6 al mese"
+        }
+    },
+    "ElevenLabs Pro Plans": {
+        "description": {
+            "en": "ElevenLabs offers pro plans that include extensive free access to its text-to-speech services, allowing users to generate a vast number of characters for audio production.",
+            "uk": "ElevenLabs пропонує професійні плани, які включають безкоштовний доступ до його послуг перетворення тексту в мову, що дозволяє користувачам генерувати величезну кількість символів для аудіо виробництва.",
+            "ja": "ElevenLabsは、音声生産のために膨大な数のキャラクターを生成できるテキストから音声へのサービスに広範な無料アクセスが含まれるプロプランを提供しています。",
+            "es": "ElevenLabs ofrece planes profesionales que incluyen acceso gratuito extenso a sus servicios de texto a voz, permitiendo a los usuarios generar una gran cantidad de caracteres para la producción de audio.",
+            "pt": "A ElevenLabs oferece planos profissionais que incluem amplo acesso gratuito a seus serviços de conversão de texto em fala, permitindo que os usuários gerem um grande número de caracteres para produção de áudio.",
+            "fr": "ElevenLabs propose des plans professionnels qui incluent un accès gratuit étendu à ses services de conversion de texte en parole, permettant aux utilisateurs de générer un grand nombre de caractères pour la production audio.",
+            "de": "ElevenLabs bietet Pro-Pläne an, die einen umfassenden freien Zugang zu seinen Text-zu-Sprache-Diensten beinhalten, sodass Benutzer eine große Anzahl von Zeichen zur Audio-Produktion generieren können.",
+            "zh": "ElevenLabs提供专业计划，包括广泛的免费访问其文本到语音服务，使用户能够生成大量字符用于音频制作。",
+            "it": "ElevenLabs offre piani professionali che includono un ampio accesso gratuito ai propri servizi di sintesi vocale, consentendo agli utenti di generare un vasto numero di caratteri per la produzione audio."
+        },
+        "features": {
+            "en": "Significant savings on annual plans.",
+            "uk": "Значні заощадження на річних планах.",
+            "ja": "年次プランでの大幅な節約。",
+            "es": "Ahorros significativos en planes anuales.",
+            "pt": "Economias significativas em planos anuais.",
+            "fr": "Économies significatives sur les plans annuels.",
+            "de": "Bedeutende Einsparungen bei Jahresplänen.",
+            "zh": "年度计划的重大节省。",
+            "it": "Risparmi significativi sui piani annuali."
+        },
+        "discount": {
+            "en": "35%",
+            "uk": "35%",
+            "ja": "35%",
+            "es": "35%",
+            "pt": "35%",
+            "fr": "35%",
+            "de": "35%",
+            "zh": "35%",
+            "it": "35%"
+        },
+        "pricing": {
+            "en": "12 months free (33 million characters of free access)",
+            "uk": "12 місяців безкоштовно (33 мільйони символів безкоштовного доступу)",
+            "ja": "12か月間無料（無料アクセスの3300万文字）",
+            "es": "12 meses gratis (33 millones de caracteres de acceso gratuito)",
+            "pt": "12 meses grátis (33 milhões de caracteres de acesso gratuito)",
+            "fr": "12 mois gratuits (33 millions de caractères d'accès gratuit)",
+            "de": "12 Monate kostenlos (33 Millionen Zeichen freien Zugangs)",
+            "zh": "12个月免费（3300万个字符的免费访问）",
+            "it": "12 mesi gratuiti (33 milioni di caratteri di accesso gratuito)"
+        }
+    },
+    "QuillBot": {
+        "description": {
+            "en": "QuillBot is an AI writing tool designed to assist users in improving their text by providing grammar corrections, paraphrasing suggestions, and overall writing enhancement.",
+            "uk": "QuillBot – це інструмент для написання на основі ШІ, розроблений для допомоги користувачам у покращенні свого тексту, надаючи виправлення граматики, пропозиції з перефразування та загальне покращення письма.",
+            "ja": "QuillBotは、ユーザーが文法修正、言い換えの提案、全体的な文章の向上を提供することで、テキストを改善するのを支援するために設計されたAIライティングツールです。",
+            "es": "QuillBot es una herramienta de escritura impulsada por IA diseñada para ayudar a los usuarios a mejorar su texto proporcionando correcciones gramaticales, sugerencias de parafraseo y una mejora general de la escritura.",
+            "pt": "QuillBot é uma ferramenta de escrita movida por IA projetada para ajudar os usuários a melhorar seu texto, fornecendo correções gramaticais, sugestões de paráfrase e aprimoramento geral da escrita.",
+            "fr": "QuillBot est un outil d'écriture alimenté par l'IA conçu pour aider les utilisateurs à améliorer leur texte en fournissant des corrections grammaticales, des suggestions de reformulation et un perfectionnement global de l'écriture.",
+            "de": "QuillBot ist ein KI-gestütztes Schreibwerkzeug, das darauf ausgelegt ist, Benutzern zu helfen, ihren Text zu verbessern, indem es grammatikalische Korrekturen, Umschreibungsvorschläge und eine allgemeine Schreibverbesserung bietet.",
+            "zh": "QuillBot 是一款基于人工智能的写作工具，旨在通过提供语法修正、改写建议和整体写作增强，帮助用户改善他们的文本。",
+            "it": "QuillBot è uno strumento di scrittura basato su IA progettato per aiutare gli utenti a migliorare il proprio testo fornendo correzioni grammaticali, suggerimenti di parafrasi e un miglioramento complessivo della scrittura."
+        },
+        "features": {
+            "en": "AI-powered writing assistant that helps in enhancing writing quality through paraphrasing, grammar checking, and more.",
+            "uk": "Помічник для написання на основі ШІ, який допомагає покращувати якість написання через перефразування, перевірку граматики та багато іншого.",
+            "ja": "言い換え、文法チェックなどを通じて文章の質を向上させるAI搭載のライティングアシスタント。",
+            "es": "Asistente de escritura impulsado por IA que ayuda a mejorar la calidad de la escritura a través del parafraseo, la verificación gramatical y más.",
+            "pt": "Assistente de escrita impulsionado por IA que ajuda a aprimorar a qualidade da escrita por meio de paráfrase, verificação gramatical e mais.",
+            "fr": "Assistant d'écriture alimenté par l'IA qui aide à améliorer la qualité de l'écriture grâce à la reformulation, à la vérification grammaticale et plus encore.",
+            "de": "KI-gestützter Schreibassistent, der hilft, die Schreibqualität durch Umschreibung, Grammatikprüfung und mehr zu verbessern.",
+            "zh": "基于人工智能的写作助手，通过改写、语法检查等方式帮助提高写作质量。",
+            "it": "Assistente di scrittura basato su IA che aiuta a migliorare la qualità della scrittura tramite parafrasi, controllo grammaticale e altro."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        }
+    },
+    "Murf AI": {
+        "description": {
+            "en": "Murf AI is a voice generation platform that enables users to create high-quality voiceovers using advanced text-to-speech technology, making it suitable for various applications such as presentations and educational content.",
+            "uk": "Murf ШІ - це платформа генерації голосу, яка дозволяє користувачам створювати високоякісні озвучення за допомогою сучасної технології перетворення тексту в мову, що робить її підходящою для різних застосувань, таких як презентації та навчальний контент.",
+            "ja": "Murf AIは、先進的なテキスト読み上げ技術を使用して高品質のボイスオーバーを作成できる音声生成プラットフォームであり、プレゼンテーションや教育コンテンツなど、さまざまなアプリケーションに適しています。",
+            "es": "Murf AI es una plataforma de generación de voz que permite a los usuarios crear narraciones de alta calidad utilizando tecnología avanzada de conversión de texto a voz, lo que la hace adecuada para diversas aplicaciones como presentaciones y contenido educativo.",
+            "pt": "Murf AI é uma plataforma de geração de voz que permite aos usuários criar narrações de alta qualidade usando tecnologia avançada de conversão de texto em fala, tornando-a adequada para várias aplicações, como apresentações e conteúdos educacionais.",
+            "fr": "Murf AI est une plateforme de génération de voix qui permet aux utilisateurs de créer des voix off de haute qualité grâce à une technologie avancée de synthèse vocale, ce qui la rend adaptée à diverses applications telles que des présentations et du contenu éducatif.",
+            "de": "Murf AI ist eine Sprachgenerierungsplattform, die es Benutzern ermöglicht, hochwertige Sprachübertragungen mit fortschrittlicher Text-zu-Sprache-Technologie zu erstellen, was sie für verschiedene Anwendungen wie Präsentationen und Bildungsinhalte geeignet macht.",
+            "zh": "Murf AI 是一个语音生成平台，使用户能够使用先进的文本转语音技术创建高质量的旁白，适合各种应用，如演示和教育内容。",
+            "it": "Murf AI è una piattaforma di generazione vocale che consente agli utenti di creare voiceover di alta qualità utilizzando una tecnologia avanzata di sintesi vocale, rendendola adatta per varie applicazioni come presentazioni e contenuti educativi."
+        },
+        "features": {
+            "en": "Voice generation software that allows users to create realistic voiceovers for presentations, videos, and more.",
+            "uk": "Програмне забезпечення генерування голосу, яке дозволяє користувачам створювати реалістичні озвучення для презентацій, відео та інших форматів.",
+            "ja": "プレゼンテーション、ビデオなどのためのリアルなボイスオーバーを作成できる音声生成ソフトウェア。",
+            "es": "Software de generación de voz que permite a los usuarios crear narraciones realistas para presentaciones, videos y más.",
+            "pt": "Software de geração de voz que permite aos usuários criar narrações realistas para apresentações, vídeos e mais.",
+            "fr": "Logiciel de génération de voix qui permet aux utilisateurs de créer des voix off réalistes pour des présentations, des vidéos, et plus encore.",
+            "de": "Sprachgenerierungssoftware, die es Benutzern ermöglicht, realistische Sprachübertragungen für Präsentationen, Videos und mehr zu erstellen.",
+            "zh": "语音生成软件，允许用户为演示、视频等创建真实的旁白。",
+            "it": "Software di generazione vocale che consente agli utenti di creare voiceover realistici per presentazioni, video e altro ancora."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "无",
+            "it": "N/D"
+        }
+    },
+    "Fliki AI": {
+        "description": {
+            "en": "Fliki AI is an innovative platform that enables users to create engaging videos from text using artificial intelligence technologies.",
+            "uk": "Fliki ШІ - це інноваційна платформа, яка дозволяє користувачам створювати захоплюючі відео з тексту, використовуючи технології штучного інтелекту.",
+            "ja": "Fliki AIは、ユーザーがテキストから魅力的な動画を人工知能技術を使用して作成できる革新的なプラットフォームです。",
+            "es": "Fliki AI es una plataforma innovadora que permite a los usuarios crear videos atractivos a partir de texto utilizando tecnologías de inteligencia artificial.",
+            "pt": "Fliki AI é uma plataforma inovadora que permite aos usuários criar vídeos envolventes a partir de texto usando tecnologias de inteligência artificial.",
+            "fr": "Fliki AI est une plateforme innovante qui permet aux utilisateurs de créer des vidéos engageantes à partir de texte en utilisant des technologies d'intelligence artificielle.",
+            "de": "Fliki AI ist eine innovative Plattform, die es Nutzern ermöglicht, ansprechende Videos aus Text unter Verwendung von Künstlicher Intelligenz-Technologien zu erstellen.",
+            "zh": "Fliki AI是一个创新的平台，使用户能够利用人工智能技术从文本创建引人入胜的视频。",
+            "it": "Fliki AI è una piattaforma innovativa che consente agli utenti di creare video coinvolgenti da testo utilizzando tecnologie di intelligenza artificiale."
+        },
+        "features": {
+            "en": "AI-powered video creation, text-to-video capabilities.",
+            "uk": "Відеостворення на основі ШІ, можливості перетворення тексту в відео.",
+            "ja": "AI駆動の動画作成、テキストから動画への変換機能。",
+            "es": "Creación de videos impulsada por IA, capacidades de texto a video.",
+            "pt": "Criação de vídeos impulsionada por IA, capacidades de texto para vídeo.",
+            "fr": "Création de vidéos alimentée par l'IA, capacités de texte à vidéo.",
+            "de": "KI-gestützte Videoerstellung, Text-zu-Video-Funktionen.",
+            "zh": "基于人工智能的视频创作，文本到视频的功能。",
+            "it": "Creazione di video alimentata da IA, capacità di conversione da testo a video."
+        },
+        "discount": {
+            "en": "50%",
+            "uk": "50%",
+            "ja": "50%",
+            "es": "50%",
+            "pt": "50%",
+            "fr": "50%",
+            "de": "50%",
+            "zh": "50%",
+            "it": "50%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "Pictory AI": {
+        "description": {
+            "en": "Pictory AI allows users to create video stories with AI assistance, transforming text scripts into visually appealing videos effortlessly.",
+            "uk": "Pictory ШІ дозволяє користувачам створювати відеоісторії з допомогою ШІ, перетворюючи текстові сценарії на візуально привабливі відео без зусиль.",
+            "ja": "Pictory AI は、ユーザーが AI の支援を受けてビデオストーリーを作成し、テキストスクリプトを視覚的に魅力的なビデオに変換することを可能にします。",
+            "es": "Pictory AI permite a los usuarios crear historias en video con la ayuda de IA, transformando guiones de texto en videos visualmente atractivos sin esfuerzo.",
+            "pt": "Pictory AI permite que os usuários criem histórias em vídeo com a assistência da IA, transformando roteiros em textos em vídeos visualmente atraentes sem esforço.",
+            "fr": "Pictory AI permet aux utilisateurs de créer des histoires vidéo avec l'aide de l'IA, transformant des scénarios écrits en vidéos visuellement attrayantes sans effort.",
+            "de": "Pictory AI ermöglicht es Nutzern, mit Hilfe von KI Video-Geschichten zu erstellen und Textscripts mühelos in visuell ansprechende Videos zu verwandeln.",
+            "zh": "Pictory AI 允许用户在 AI 的帮助下创建视频故事，轻松地将文本脚本转化为视觉上吸引人的视频。",
+            "it": "Pictory AI consente agli utenti di creare racconti video con l'assistenza dell'IA, trasformando facilmente i copioni testuali in video visivamente attraenti."
+        },
+        "features": {
+            "en": "Automated video storytelling from scripts, ease of editing.",
+            "uk": "Автоматизоване відеооповідання зі сценаріїв, легкість редагування.",
+            "ja": "スクリプトからの自動ビデオストーリーテリング、編集の容易さ。",
+            "es": "Narración de videos automatizada a partir de guiones, facilidad de edición.",
+            "pt": "Narrativa de vídeo automatizada a partir de roteiros, facilidade de edição.",
+            "fr": "Raconter des vidéos de manière automatisée à partir de scripts, facilité d'édition.",
+            "de": "Automatisierte Videoerzählung aus Skripten, einfache Bearbeitung.",
+            "zh": "从脚本中自动生成视频故事，编辑轻而易举。",
+            "it": "Racconti video automatici da copioni, facilità di editing."
+        },
+        "discount": {
+            "en": "50%",
+            "uk": "50%",
+            "ja": "50%",
+            "es": "50%",
+            "pt": "50%",
+            "fr": "50%",
+            "de": "50%",
+            "zh": "50%",
+            "it": "50%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає даних",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "N/A",
+            "it": "N/D"
+        }
+    },
+    "Veed IO": {
+        "description": {
+            "en": "Veed IO is an online platform that simplifies video editing with integrated features like subtitles, canvas resizing, and collaboration tools, enhancing the video creation experience.",
+            "uk": "Veed IO - це онлайн-платформа, яка спрощує редагування відео з інтегрованими функціями, такими як субтитри, зміна розміру полотна та інструменти для співпраці, що покращує досвід створення відео.",
+            "ja": "Veed IOは、字幕やキャンバスのサイズ変更、コラボレーションツールなどの統合機能を備えたオンラインプラットフォームで、動画編集を簡素化し、動画制作体験を向上させます。",
+            "es": "Veed IO es una plataforma en línea que simplifica la edición de video con características integradas como subtítulos, redimensionamiento de lienzos y herramientas de colaboración, mejorando la experiencia de creación de videos.",
+            "pt": "Veed IO é uma plataforma online que simplifica a edição de vídeo com recursos integrados, como legendas, redimensionamento de canvas e ferramentas de colaboração, aprimorando a experiência de criação de vídeos.",
+            "fr": "Veed IO est une plateforme en ligne qui simplifie le montage vidéo grâce à des fonctionnalités intégrées telles que les sous-titres, le redimensionnement de toile et des outils de collaboration, améliorant l'expérience de création vidéo.",
+            "de": "Veed IO ist eine Online-Plattform, die das Video-Editing vereinfacht und mit integrierten Funktionen wie Untertiteln, Leinwandgrößenänderung und Zusammenarbeitstools die Videoerstellungserfahrung verbessert.",
+            "zh": "Veed IO 是一个在线平台，通过集成的功能，如字幕、画布调整大小和协作工具，简化了视频编辑，增强了视频创作体验。",
+            "it": "Veed IO è una piattaforma online che semplifica il montaggio video con funzionalità integrate come sottotitoli, ridimensionamento della tela e strumenti di collaborazione, migliorando l'esperienza di creazione video."
+        },
+        "features": {
+            "en": "Online video editing tools, subtitle generation.",
+            "uk": "Інструменти редагування відео онлайн, генерація субтитрів.",
+            "ja": "オンライン動画編集ツール、字幕生成。",
+            "es": "Herramientas de edición de video en línea, generación de subtítulos.",
+            "pt": "Ferramentas de edição de vídeo online, geração de legendas.",
+            "fr": "Outils d'édition vidéo en ligne, génération de sous-titres.",
+            "de": "Online-Video-Editing-Tools, Untertitel-Generierung.",
+            "zh": "在线视频编辑工具，字幕生成。",
+            "it": "Strumenti di editing video online, generazione di sottotitoli."
+        },
+        "discount": {
+            "en": "40%",
+            "uk": "40%",
+            "ja": "40%",
+            "es": "40%",
+            "pt": "40%",
+            "fr": "40%",
+            "de": "40%",
+            "zh": "40%",
+            "it": "40%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        }
+    },
+    "Kling AI": {
+        "description": {
+            "en": "Kling AI offers a platform for generating original music tracks using AI, allowing creators to personalize the music to fit their projects.",
+            "uk": "Kling ШІ пропонує платформу для створення оригінальних музичних треків за допомогою ШІ, що дозволяє творцям персоналізувати музику під свої проекти.",
+            "ja": "Kling AIは、AIを使用してオリジナルの音楽トラックを生成するためのプラットフォームを提供し、クリエイターが自分のプロジェクトに合わせて音楽をパーソナライズできるようにします。",
+            "es": "Kling AI ofrece una plataforma para generar pistas de música originales utilizando IA, lo que permite a los creadores personalizar la música para que se ajuste a sus proyectos.",
+            "pt": "Kling AI oferece uma plataforma para gerar faixas de música originais usando IA, permitindo que os criadores personalizem a música para se adequar a seus projetos.",
+            "fr": "Kling AI propose une plateforme pour générer des pistes de musique originales en utilisant l'IA, permettant aux créateurs de personnaliser la musique pour s'adapter à leurs projets.",
+            "de": "Kling AI bietet eine Plattform zur Erstellung von originalen Musiktracks mit KI, die es den Erstellern ermöglicht, die Musik an ihre Projekte anzupassen.",
+            "zh": "Kling AI提供一个使用AI生成原创音乐曲目的平台，允许创作者个性化音乐以适应他们的项目。",
+            "it": "Kling AI offre una piattaforma per generare tracce musicali originali utilizzando l'IA, consentendo ai creatori di personalizzare la musica in base ai loro progetti."
+        },
+        "features": {
+            "en": "AI-generated music tracks, customizable options.",
+            "uk": "Музичні треки, створені ШІ, варіанти налаштування.",
+            "ja": "AI生成の音楽トラック、カスタマイズ可能なオプション。",
+            "es": "Pistas de música generadas por IA, opciones personalizables.",
+            "pt": "Faixas de música geradas por IA, opções personalizáveis.",
+            "fr": "Pistes musicales générées par IA, options personnalisables.",
+            "de": "KI-generierte Musiktracks, anpassbare Optionen.",
+            "zh": "AI生成的音乐曲目，可定制选项。",
+            "it": "Tracce musicali generate da IA, opzioni personalizzabili."
+        },
+        "discount": {
+            "en": "50%",
+            "uk": "50%",
+            "ja": "50%",
+            "es": "50%",
+            "pt": "50%",
+            "fr": "50%",
+            "de": "50%",
+            "zh": "50%",
+            "it": "50%"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає даних",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "AI Automation Solutions": {
+        "description": {
+            "en": "AI Automation Solutions are designed to optimize business processes by incorporating advanced AI technologies that improve operational efficiency.",
+            "uk": "Рішення з автоматизації ШІ розроблені для оптимізації бізнес-процесів шляхом впровадження передових технологій ШІ, що підвищують операційну ефективність.",
+            "ja": "AI自動化ソリューションは、業務効率を向上させる高度なAI技術を取り入れることで、ビジネスプロセスを最適化するように設計されています。",
+            "es": "Las Soluciones de Automatización de IA están diseñadas para optimizar los procesos comerciales al incorporar tecnologías avanzadas de IA que mejoran la eficiencia operativa.",
+            "pt": "As Soluções de Automação de IA são projetadas para otimizar os processos empresariais incorporando tecnologias avançadas de IA que melhoram a eficiência operacional.",
+            "fr": "Les Solutions d'Automatisation IA sont conçues pour optimiser les processus commerciaux en intégrant des technologies IA avancées qui améliorent l'efficacité opérationnelle.",
+            "de": "AI-Automatisierungslösungen sind darauf ausgelegt, Geschäftsprozesse zu optimieren, indem fortschrittliche KI-Technologien integriert werden, die die betriebliche Effizienz verbessern.",
+            "zh": "人工智能自动化解决方案旨在通过整合先进的人工智能技术来优化业务流程，提高运营效率。",
+            "it": "Le Soluzioni di Automazione AI sono progettate per ottimizzare i processi aziendali integrando tecnologie avanzate di AI che migliorano l'efficienza operativa."
+        },
+        "features": {
+            "en": "Streamline operations, enhance efficiency across enterprises.",
+            "uk": "Оптимізація операцій, підвищення ефективності в усіх підприємствах.",
+            "ja": "業務の効率化、企業全体の効率向上。",
+            "es": "Optimización de operaciones, mejora de la eficiencia en toda la empresa.",
+            "pt": "Racionalizar operações, aumentar a eficiência em toda a empresa.",
+            "fr": "Rationaliser les opérations, améliorer l'efficacité dans l'ensemble des entreprises.",
+            "de": "Betriebsabläufe optimieren, Effizienz in Unternehmen steigern.",
+            "zh": "简化操作，提高整体企业效率。",
+            "it": "Ottimizzare le operazioni, migliorare l'efficienza in tutte le imprese."
+        },
+        "discount": {
+            "en": "20%",
+            "uk": "20%",
+            "ja": "20%",
+            "es": "20%",
+            "pt": "20%",
+            "fr": "20%",
+            "de": "20%",
+            "zh": "20%",
+            "it": "20%"
+        },
+        "pricing": {
+            "en": "Prized Lower by 20% This Month",
+            "uk": "Ціна знижена на 20% цього місяця",
+            "ja": "今月20%割引価格",
+            "es": "Precio rebajado en un 20% este mes",
+            "pt": "Preço reduzido em 20% este mês",
+            "fr": "Prix réduit de 20% ce mois-ci",
+            "de": "Preis diesen Monat um 20% gesenkt",
+            "zh": "本月价格降低20%",
+            "it": "Prezzo ridotto del 20% questo mese"
+        }
+    },
+    "Softr": {
+        "description": {
+            "en": "Softr allows users to build client portals, internal tools, and web applications from their data without any coding experience, streamlining the development process.",
+            "uk": "Softr дозволяє користувачам створювати клієнтські портали, внутрішні інструменти та веб-додатки з їхніх даних без будь-якого кодування, спростивши процес розробки.",
+            "ja": "Softrは、ユーザーがコーディングの経験なしにデータからクライアントポータル、内部ツール、Webアプリケーションを構築できるようにし、開発プロセスをスムーズにします。",
+            "es": "Softr permite a los usuarios construir portales para clientes, herramientas internas y aplicaciones web a partir de sus datos sin necesidad de experiencia en codificación, optimizando el proceso de desarrollo.",
+            "pt": "O Softr permite que os usuários construam portais de clientes, ferramentas internas e aplicativos da web a partir de seus dados sem experiência em codificação, agilizando o processo de desenvolvimento.",
+            "fr": "Softr permet aux utilisateurs de créer des portails clients, des outils internes et des applications web à partir de leurs données sans aucune expérience en codage, simplifiant le processus de développement.",
+            "de": "Softr ermöglicht es Benutzern, Kundenportale, interne Tools und Webanwendungen aus ihren Daten ohne Programmiererfahrung zu erstellen und optimiert den Entwicklungsprozess.",
+            "zh": "Softr 允许用户从数据中构建客户门户、内部工具和Web应用程序，无需任何编码经验，从而简化开发过程。",
+            "it": "Softr consente agli utenti di creare portali per clienti, strumenti interni e applicazioni web dai propri dati senza alcuna esperienza di codifica, semplificando il processo di sviluppo."
+        },
+        "features": {
+            "en": "Client portals, internal tools, web apps from data without code.",
+            "uk": "Клієнтські портали, внутрішні інструменти, веб-додатки з даних без коду.",
+            "ja": "クライアントポータル、内部ツール、データからのコード不要のWebアプリ。",
+            "es": "Portales de clientes, herramientas internas, aplicaciones web a partir de datos sin código.",
+            "pt": "Portais de clientes, ferramentas internas, aplicativos da web a partir de dados sem código.",
+            "fr": "Portails clients, outils internes, applications web à partir de données sans code.",
+            "de": "Kundenportale, interne Tools, Webanwendungen aus Daten ohne Code.",
+            "zh": "客户门户、内部工具、无需代码的数据Web应用。",
+            "it": "Portali per clienti, strumenti interni, applicazioni web dai dati senza codice."
+        },
+        "discount": {
+            "en": "10%",
+            "uk": "10%",
+            "ja": "10%",
+            "es": "10%",
+            "pt": "10%",
+            "fr": "10%",
+            "de": "10%",
+            "zh": "10%",
+            "it": "10%"
+        },
+        "pricing": {
+            "en": "Get 2 months free with extended trials.",
+            "uk": "Отримайте 2 місяці безкоштовно з продовженими випробуваннями.",
+            "ja": "延長トライアルで2か月無料。",
+            "es": "Obtén 2 meses gratis con pruebas ampliadas.",
+            "pt": "Obtenha 2 meses grátis com testes prolongados.",
+            "fr": "Bénéficiez de 2 mois gratuits avec des essais prolongés.",
+            "de": "Erhalten Sie 2 Monate kostenlos mit verlängerten Testversionen.",
+            "zh": "通过延长试用期获得2个月的免费使用。",
+            "it": "Ottieni 2 mesi gratuiti con prove estese."
+        }
+    },
+    "Claude for Nonprofits": {
+        "description": {
+            "en": "Claude for Nonprofits provides a tailored version of Claude aimed at supporting nonprofit organizations with affordable pricing.",
+            "uk": "Claude для неприбуткових організацій пропонує адаптовану версію Claude, спрямовану на підтримку неприбуткових організацій з доступними цінами.",
+            "ja": "Claude for Nonprofitsは、手頃な価格で非営利団体を支援することを目的としたClaudeの特化版を提供します。",
+            "es": "Claude para Organizaciones sin Fines de Lucro ofrece una versión personalizada de Claude destinada a apoyar a las organizaciones sin fines de lucro con precios asequibles.",
+            "pt": "Claude para Organizações sem Fins Lucrativos oferece uma versão adaptada do Claude voltada para apoiar organizações sem fins lucrativos com preços acessíveis.",
+            "fr": "Claude pour les organismes à but non lucratif fournit une version adaptée de Claude visant à soutenir les organisations à but non lucratif avec des prix abordables.",
+            "de": "Claude für gemeinnützige Organisationen bietet eine angepasste Version von Claude, die darauf abzielt, gemeinnützige Organisationen mit erschwinglichen Preisen zu unterstützen.",
+            "zh": "Claude for Nonprofits 提供一个专门为非营利组织支持而设计的 Claude 版本，价格合理。",
+            "it": "Claude per Organizzazioni Non Profit offre una versione personalizzata di Claude destinata a supportare le organizzazioni non profit con prezzi accessibili."
+        },
+        "features": {
+            "en": "Special pricing for registered 501(c)(3) organizations.",
+            "uk": "Спеціальні ціни для зареєстрованих організацій 501(c)(3).",
+            "ja": "登録された501(c)(3)団体向けの特別価格。",
+            "es": "Precios especiales para organizaciones registradas 501(c)(3).",
+            "pt": "Preços especiais para organizações registradas 501(c)(3).",
+            "fr": "Tarifs spéciaux pour les organisations enregistrées 501(c)(3).",
+            "de": "Sonderpreise für registrierte 501(c)(3) Organisationen.",
+            "zh": "为注册的501(c)(3)组织提供特惠价格。",
+            "it": "Prezzi speciali per le organizzazioni registrate 501(c)(3)."
+        },
+        "discount": {
+            "en": "$5k Credits",
+            "uk": "$5k Кредити",
+            "ja": "$5k クレジット",
+            "es": "$5k Créditos",
+            "pt": "$5k Créditos",
+            "fr": "$5k Crédits",
+            "de": "$5k Kredite",
+            "zh": "$5k 信用",
+            "it": "$5k Crediti"
+        },
+        "pricing": {
+            "en": "$8 per user, per month for organizations buying fewer than 20 seats.",
+            "uk": "$8 за користувача на місяць для організацій, що купують менше 20 місць.",
+            "ja": "20席未満を購入する組織に対し、1ユーザーあたり月額8ドル。",
+            "es": "$8 por usuario, por mes para organizaciones que compran menos de 20 asientos.",
+            "pt": "$8 por usuário, por mês para organizações que compram menos de 20 assentos.",
+            "fr": "$8 par utilisateur et par mois pour les organisations achetant moins de 20 places.",
+            "de": "$8 pro Nutzer und Monat für Organisationen, die weniger als 20 Plätze kaufen.",
+            "zh": "每个用户每月8美元，适用于购买少于20个名额的组织。",
+            "it": "$8 per utente al mese per le organizzazioni che acquistano meno di 20 posti."
+        }
+    },
+    "Midjourney Standard Plan": {
+        "description": {
+            "en": "Midjourney provides a platform for users to generate artistic images using AI, often with various subscription plans to suit different needs.",
+            "uk": "Midjourney надає платформу для користувачів для створення художніх зображень за допомогою ШІ, часто з різними планами підписки, щоб відповідати різним потребам.",
+            "ja": "Midjourneyは、ユーザーがさまざまなニーズに合わせたサブスクリプションプランを使用して、AIを使用して芸術的な画像を生成するためのプラットフォームを提供します。",
+            "es": "Midjourney proporciona una plataforma para que los usuarios generen imágenes artísticas utilizando IA, a menudo con varios planes de suscripción para adaptarse a diferentes necesidades.",
+            "pt": "Midjourney fornece uma plataforma para os usuários gerarem imagens artísticas usando a IA, frequentemente com vários planos de assinatura para atender a diferentes necessidades.",
+            "fr": "Midjourney fournit une plateforme permettant aux utilisateurs de générer des images artistiques à l'aide de l'IA, souvent avec divers plans d'abonnement adaptés à différents besoins.",
+            "de": "Midjourney bietet eine Plattform, auf der Benutzer künstlerische Bilder mit Hilfe von ШІ generieren können, häufig mit verschiedenen Abonnementplänen, die unterschiedlichen Bedürfnissen gerecht werden.",
+            "zh": "Midjourney提供一个平台，供用户使用ШІ生成艺术图像，通常有多种订阅计划以满足不同的需求。",
+            "it": "Midjourney offre una piattaforma per gli utenti per generare immagini artistiche utilizzando la ШІ, spesso con vari piani di abbonamento per soddisfare diverse esigenze."
+        },
+        "features": {
+            "en": "Standard plan available with annual billing.",
+            "uk": "Доступний стандартний план з щорічним Billing.",
+            "ja": "年間請求が可能なスタンダードプランがあります。",
+            "es": "Plan estándar disponible con facturación anual.",
+            "pt": "Plano padrão disponível com faturamento anual.",
+            "fr": "Plan standard disponible avec facturation annuelle.",
+            "de": "Standardplan verfügbar mit jährlicher Abrechnung.",
+            "zh": "提供年度计费的标准计划。",
+            "it": "Piano standard disponibile con fatturazione annuale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$24",
+            "uk": "$24",
+            "ja": "$24",
+            "es": "$24",
+            "pt": "$24",
+            "fr": "$24",
+            "de": "$24",
+            "zh": "$24",
+            "it": "$24"
+        }
     }
 }
