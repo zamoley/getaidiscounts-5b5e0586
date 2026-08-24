@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "JAMM20",
-        "discount_amount": "20% OFF",
-        "pricing_info": "$119",
+        "discount_amount": "$700+",
+        "pricing_info": "1-year access",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -48,7 +48,7 @@
         "tool_url": "https://www.cursor.com",
         "code": "CURSOR20",
         "discount_amount": "Hobby",
-        "pricing_info": "$20/mo",
+        "pricing_info": "Free tier available with student promotions.",
         "key_features": "AI Code Editor, Autocomplete",
         "description": "The most powerful AI-integrated coding environment.",
         "last_verified": "2026-05-05",
@@ -255,8 +255,8 @@
         "tool_name": "Speechify",
         "tool_url": "https://speechify.com",
         "code": "SPEECH10",
-        "discount_amount": "10%",
-        "pricing_info": "$32.08 monthly",
+        "discount_amount": "$700+",
+        "pricing_info": "1-year access",
         "key_features": "Text-to-speech, Multiple language support, Adjustable reading speed",
         "description": "Speechify is a powerful text-to-speech tool that converts written content into audio format, allowing users to listen to articles, PDFs, and documents. The technology uses advanced algorithms to create natural-sounding speech, catering to various languages and accents. Useful for students, professionals, and anyone who prefers auditory learning.",
         "category": "Voice AI"
@@ -660,8 +660,8 @@
         "tool_name": "Claude Pro",
         "tool_url": "https://www.claudepro.com",
         "code": "CLAUDEPRO50",
-        "discount_amount": "17% Off",
-        "pricing_info": "Saving offered for a full year upfront compared to monthly payments.",
+        "discount_amount": "17%",
+        "pricing_info": "Save up to 17% by paying for a full year upfront",
         "key_features": "Enhanced language models, custom tuning, API access",
         "description": "Claude Pro offers enhanced capabilities over its predecessor, allowing for customized interaction and integration into various software systems via API. It is intended for businesses seeking to leverage advanced AI for improved efficiency and customer engagement.",
         "category": "Coding AI"
@@ -820,8 +820,8 @@
         "tool_name": "Perplexity AI",
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
-        "discount_amount": "20% discount",
-        "pricing_info": "Enterprise Pro at $40/month or $400/year.",
+        "discount_amount": "50% OFF",
+        "pricing_info": "$240 Value for Pro Plan",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1535,7 +1535,7 @@
         "tool_name": "ChatGPT Plus",
         "tool_url": "https://felloai.com/ai-deals/",
         "code": "N/A",
-        "discount_amount": "$0.00",
+        "discount_amount": "$23.24",
         "pricing_info": "$23.24/Month",
         "key_features": "Advanced conversational AI capabilities including enhanced understanding.",
         "description": "ChatGPT Plus offers users access to improved response quality and faster performance compared to the free version of ChatGPT.",
@@ -1706,7 +1706,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals/pictory-ai-coupon-code",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "N/A",
+        "pricing_info": "Various pricing models available",
         "key_features": "Coupon codes for savings on AI video tools.",
         "description": "Pictory.ai offers innovative AI-powered video editing solutions designed to help content creators simplify their workflow and enhance video quality.",
         "category": "Video AI"
@@ -1765,8 +1765,8 @@
         "tool_name": "AI Scribe",
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
         "code": "TWOFOLD30",
-        "discount_amount": "$30 off",
-        "pricing_info": "$69/month",
+        "discount_amount": "Verified Discount",
+        "pricing_info": "Free for a week, then $19 for your first month",
         "key_features": "Annual plans, medical scribing capabilities",
         "description": "AI Scribe is an AI-based tool designed to assist medical professionals with documentation and patient interaction. It streamlines the scribing process, allowing for more efficient healthcare delivery.",
         "category": "Medical AI"
@@ -2186,7 +2186,7 @@
         "tool_url": "https://humanizethat.com/blog/best-ways-to-use-a-quillbot-promo-code-and-save-more-on-writing-tools",
         "code": "Valid promo codes available",
         "discount_amount": "Varies",
-        "pricing_info": "Various subscription plans available",
+        "pricing_info": "Various subscription plans available with potential savings.",
         "key_features": "AI-powered writing assistance, Grammar checking, Paraphrasing",
         "description": "Quillbot is an AI-powered writing tool that helps users enhance their writing with features like grammar checking, paraphrasing, and providing synonyms. It's popular among students and professionals for its versatility.",
         "category": "Writing AI"
@@ -2205,8 +2205,8 @@
         "tool_name": "Channel AI Plus",
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
-        "discount_amount": "$6.49 for the first month",
-        "pricing_info": "$6.49 for the first month",
+        "discount_amount": "$6.49",
+        "pricing_info": "Get full access for just $6.49 for your first month.",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2305,8 +2305,8 @@
         "tool_name": "Writer AI Detector",
         "tool_url": "https://novelistai.startupworld.com",
         "code": "N/A",
-        "discount_amount": "15%",
-        "pricing_info": "N/A",
+        "discount_amount": "15% OFF",
+        "pricing_info": "Limited-time offer on service plans.",
         "key_features": "Enhances content authenticity, ensures writing is original and human-crafted.",
         "description": "Writer AI Detector is a service that evaluates written content for originality and authenticity, aimed at ensuring your work meets high qualitative standards.",
         "category": "Writing AI"
@@ -2366,7 +2366,7 @@
         "tool_url": "https://devopscube.com/elevenlabs-discount",
         "code": "2026",
         "discount_amount": "50%",
-        "pricing_info": "$1500 Free Credits",
+        "pricing_info": "$1,500 Free Credits",
         "key_features": "Includes 16 AI tools, large discounts for students and educators.",
         "description": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
         "category": "All-in-One AI"
@@ -2545,8 +2545,8 @@
         "tool_name": "Claude for Nonprofits",
         "tool_url": "https://blog.nachonacho.com/best/claude-promo-codes",
         "code": "N/A",
-        "discount_amount": "$5k Credits",
-        "pricing_info": "$8 per user, per month for organizations buying fewer than 20 seats.",
+        "discount_amount": "$12 to $17 per user per month",
+        "pricing_info": "$8 per user, per month for organizations buying fewer than 20 seats",
         "key_features": "Special pricing for registered 501(c)(3) organizations.",
         "description": "Claude for Nonprofits provides a tailored version of Claude aimed at supporting nonprofit organizations with affordable pricing.",
         "category": "Group-Buy & Sharing"
@@ -2560,5 +2560,75 @@
         "key_features": "Standard plan available with annual billing.",
         "description": "Midjourney provides a platform for users to generate artistic images using AI, often with various subscription plans to suit different needs.",
         "category": "Image AI"
+    },
+    {
+        "tool_name": "Fireflies AI",
+        "tool_url": "https://www.bitdegree.org/ai/deals",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Various pricing models available",
+        "key_features": "AI meeting assistant that captures and transcribes conversations.",
+        "description": "Fireflies AI is an AI-powered meeting assistant that records, transcribes, and organizes voice conversations into searchable notes.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "ElevenLabs Pro",
+        "tool_url": "https://wpism.com/deals",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Subscription-based pricing.",
+        "key_features": "Advanced text-to-speech synthesis, voice cloning, custom voice creation.",
+        "description": "ElevenLabs Pro offers high-quality voice synthesis technology focused on delivering realistic audio by using advanced AI models.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "Gusto",
+        "tool_url": "https://wpism.com/deals",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Subscription-based pricing.",
+        "key_features": "Payroll processing, benefits administration, HR tools.",
+        "description": "Gusto is a comprehensive platform that provides payroll solutions, HR support, and employee benefits management for small businesses.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "Nightwatch",
+        "tool_url": "https://wpism.com/deals",
+        "code": "N/A",
+        "discount_amount": "30% OFF",
+        "pricing_info": "Subscription with various tiers.",
+        "key_features": "SEO tracking, keyword monitoring, site audits.",
+        "description": "Nightwatch is an advanced SEO tool designed to track keyword rankings, site performance, and provide competitive analysis to optimize online visibility.",
+        "category": "SEO AI"
+    },
+    {
+        "tool_name": "Midjourney via Krater",
+        "tool_url": "https://krater.ai/coupon/midjourney",
+        "code": "N/A",
+        "discount_amount": "25%",
+        "pricing_info": "$20/mo",
+        "key_features": "Access to 350+ AI models including Midjourney features.",
+        "description": "Krater offers AI tools that include Midjourney capabilities, providing an alternative for users seeking more comprehensive AI solutions.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Fathom",
+        "tool_url": "https://lifetimedeals.bloggingjoy.com",
+        "code": "N/A",
+        "discount_amount": "$700+",
+        "pricing_info": "1-year access",
+        "key_features": "Create, record, transcribe, and automate content faster than ever.",
+        "description": "Fathom is a premium AI tool designed to enhance productivity by automating content creation and transcription processes.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Viso Suite",
+        "tool_url": "https://www.grabon.in/ai-software-coupons",
+        "code": "N/A",
+        "discount_amount": "Up to 60% OFF",
+        "pricing_info": "Pricing details not specified.",
+        "key_features": "End-to-end computer vision platform for real-time image recognition and industrial automation.",
+        "description": "Viso Suite is an advanced platform designed to facilitate the implementation of computer vision solutions, focusing on real-time image recognition specifically in the industrial sector.",
+        "category": "Industrial AI"
     }
 ]

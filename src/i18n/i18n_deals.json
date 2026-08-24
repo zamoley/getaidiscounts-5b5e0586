@@ -11820,5 +11820,327 @@
             "zh": "$24",
             "it": "$24"
         }
+    },
+    "Fireflies AI": {
+        "description": {
+            "en": "Fireflies AI is an AI-powered meeting assistant that records, transcribes, and organizes voice conversations into searchable notes.",
+            "uk": "Fireflies ШІ - це помічник для зустрічей на базі ШІ, який записує, транскрибує та організовує голосові розмови в шукані нотатки.",
+            "ja": "Fireflies AIは、音声会話を録音、転記、および整理して検索可能なノートにするAI駆動のミーティングアシスタントです。",
+            "es": "Fireflies AI es un asistente de reuniones impulsado por IA que graba, transcribe y organiza conversaciones de voz en notas buscables.",
+            "pt": "Fireflies AI é um assistente de reuniões impulsionado por IA que grava, transcreve e organiza conversas de voz em notas pesquisáveis.",
+            "fr": "Fireflies AI est un assistant de réunion alimenté par l'IA qui enregistre, transcrit et organise des conversations vocales en notes recherchables.",
+            "de": "Fireflies AI ist ein KI-gestützter Besprechungsassistent, der Sprachgespräche aufzeichnet, transkribiert und in durchsuchbare Notizen organisiert.",
+            "zh": "Fireflies AI 是一个基于人工智能的会议助手，可以录音、转录并将语音对话组织成可搜索的笔记。",
+            "it": "Fireflies AI è un assistente alle riunioni alimentato da intelligenza artificiale che registra, trascrive e organizza conversazioni vocali in note ricercabili."
+        },
+        "features": {
+            "en": "AI meeting assistant that captures and transcribes conversations.",
+            "uk": "Помічник для зустрічей на базі ШІ, який захоплює та транскрибує бесіди.",
+            "ja": "会話をキャッチし、転記するAIミーティングアシスタント。",
+            "es": "Asistente de reuniones de IA que captura y transcribe conversaciones.",
+            "pt": "Assistente de reunião de IA que captura e transcreve conversas.",
+            "fr": "Assistant de réunion IA qui capture et transcrit des conversations.",
+            "de": "KI-Meeting-Assistent, der Gespräche erfasst und transkribiert.",
+            "zh": "捕捉并转录对话的人工智能会议助手。",
+            "it": "Assistente alle riunioni di intelligenza artificiale che cattura e trascrive conversazioni."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Various pricing models available.",
+            "uk": "Доступні різні моделі ціноутворення.",
+            "ja": "さまざまな価格モデルが利用可能です。",
+            "es": "Se encuentran disponibles varios modelos de precios.",
+            "pt": "Vários modelos de preços disponíveis.",
+            "fr": "Différents modèles de tarification disponibles.",
+            "de": "Verschiedene Preismodelle verfügbar.",
+            "zh": "提供多种定价模型。",
+            "it": "Vari modelli di prezzo disponibili."
+        }
+    },
+    "ElevenLabs Pro": {
+        "description": {
+            "en": "ElevenLabs Pro offers high-quality voice synthesis technology focused on delivering realistic audio by using advanced AI models.",
+            "uk": "ElevenLabs Pro пропонує технологію синтезу голосу високої якості, націлену на забезпечення реалістичного аудіо за допомогою передових моделей ШІ.",
+            "ja": "ElevenLabs Proは、高度なAIモデルを使用して現実的なオーディオを提供することに焦点を当てた高品質の音声合成技術を提供します。",
+            "es": "ElevenLabs Pro ofrece tecnología de síntesis de voz de alta calidad centrada en proporcionar audio realista mediante el uso de modelos avanzados de IA.",
+            "pt": "ElevenLabs Pro oferece tecnologia de síntese de voz de alta qualidade, focada em fornecer áudio realista usando modelos avançados de IA.",
+            "fr": "ElevenLabs Pro propose une technologie de synthèse vocale de haute qualité axée sur la fourniture d'un audio réaliste grâce à l'utilisation de modèles avancés d'IA.",
+            "de": "ElevenLabs Pro bietet hochqualitative Sprachsynthesetechnologie, die sich darauf konzentriert, realistisches Audio mithilfe fortschrittlicher KI-Modelle bereitzustellen.",
+            "zh": "ElevenLabs Pro 提供高质量的语音合成技术，专注于通过使用先进的人工智能模型提供现实的音频。",
+            "it": "ElevenLabs Pro offre una tecnologia di sintesi vocale di alta qualità, focalizzata sulla fornitura di audio realistico tramite l'uso di modelli avanzati di IA."
+        },
+        "features": {
+            "en": "Advanced text-to-speech synthesis, voice cloning, custom voice creation.",
+            "uk": "Системи синтезу тексту в мову, клонування голосу, створення кастомного голосу.",
+            "ja": "高度なテキスト読み上げ合成、音声クローン、カスタム音声作成。",
+            "es": "Síntesis de texto a voz avanzada, clonación de voz, creación de voz personalizada.",
+            "pt": "Síntese avançada de texto para fala, clonagem de voz, criação de voz personalizada.",
+            "fr": "Synthèse vocale avancée, clonage de voix, création de voix personnalisées.",
+            "de": "Fortgeschrittene Text-zu-Sprache-Synthese, Sprachklonung, benutzerdefinierte Sprachgestaltung.",
+            "zh": "高级文本转语音合成、语音克隆、定制语音创建。",
+            "it": "Sintesi avanzata da testo a voce, clonazione vocale, creazione di voci personalizzate."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Subscription-based pricing.",
+            "uk": "Ціноутворення на основі підписки.",
+            "ja": "サブスクリプションベースの価格設定。",
+            "es": "Precios basados en suscripción.",
+            "pt": "Preços baseados em assinatura.",
+            "fr": "Tarification par abonnement.",
+            "de": "Abonnementbasierte Preisgestaltung.",
+            "zh": "基于订阅的定价。",
+            "it": "Prezzi basati su abbonamento."
+        }
+    },
+    "Gusto": {
+        "description": {
+            "en": "Gusto is a comprehensive platform that provides payroll solutions, HR support, and employee benefits management for small businesses.",
+            "uk": "Gusto – це всебічна платформа, яка пропонує рішення для обробки зарплати, підтримку HR та управління пільгами для співробітників для малого бізнесу.",
+            "ja": "Gustoは、小規模企業向けに給与ソリューション、人事サポート、従業員の福利厚生管理を提供する包括的なプラットフォームです。",
+            "es": "Gusto es una plataforma integral que proporciona soluciones de nómina, soporte de recursos humanos y gestión de beneficios para empleados para pequeñas empresas.",
+            "pt": "Gusto é uma plataforma abrangente que oferece soluções de folha de pagamento, suporte de RH e gerenciamento de benefícios para funcionários para pequenas empresas.",
+            "fr": "Gusto est une plateforme complète qui fournit des solutions de paie, un soutien RH et une gestion des avantages sociaux pour les petites entreprises.",
+            "de": "Gusto ist eine umfassende Plattform, die Lohnabrechnungslösungen, HR-Unterstützung und das Management von Mitarbeiterleistungen für kleine Unternehmen bietet.",
+            "zh": "Gusto 是一个综合平台，为小型企业提供薪资解决方案、人力资源支持和员工福利管理。",
+            "it": "Gusto è una piattaforma completa che fornisce soluzioni per la gestione delle retribuzioni, supporto HR e gestione dei benefici per i dipendenti per le piccole imprese."
+        },
+        "features": {
+            "en": "Payroll processing, benefits administration, HR tools.",
+            "uk": "Обробка заробітної плати, управління пільгами, HR-інструменти.",
+            "ja": "給与処理、福利厚生の管理、人事ツール。",
+            "es": "Procesamiento de nómina, administración de beneficios, herramientas de recursos humanos.",
+            "pt": "Processamento de folha de pagamento, administração de benefícios, ferramentas de RH.",
+            "fr": "Traitement de la paie, administration des avantages, outils RH.",
+            "de": "Lohnabrechnung, Leistungsverwaltung, HR-Tools.",
+            "zh": "薪资处理、福利管理、人力资源工具。",
+            "it": "Elaborazione stipendio, gestione dei vantaggi, strumenti HR."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Subscription-based pricing.",
+            "uk": "Ціноутворення на основі підписки.",
+            "ja": "サブスクリプションベースの価格設定です。",
+            "es": "Precios basados en suscripción.",
+            "pt": "Preços baseados em assinatura.",
+            "fr": "Tarification basée sur un abonnement.",
+            "de": "Abonnementbasierte Preisgestaltung.",
+            "zh": "基于订阅的定价。",
+            "it": "Prezzi basati su abbonamento."
+        }
+    },
+    "Nightwatch": {
+        "description": {
+            "en": "Nightwatch is an advanced SEO tool designed to track keyword rankings, site performance, and provide competitive analysis to optimize online visibility.",
+            "uk": "Nightwatch - це просунутій інструмент SEO, призначений для відстеження позицій ключових слів, продуктивності сайту та надання конкурентного аналізу для оптимізації онлайн-видимості.",
+            "ja": "Nightwatchは、キーワードランキング、サイトパフォーマンスを追跡し、オンラインの可視性を最適化するための競争分析を提供するために設計された高度なSEOツールです。",
+            "es": "Nightwatch es una herramienta SEO avanzada diseñada para rastrear el ranking de palabras clave, el rendimiento del sitio y proporcionar un análisis competitivo para optimizar la visibilidad en línea.",
+            "pt": "Nightwatch é uma ferramenta avançada de SEO projetada para acompanhar as classificações de palavras-chave, o desempenho do site e fornecer uma análise competitiva para otimizar a visibilidade online.",
+            "fr": "Nightwatch est un outil SEO avancé conçu pour suivre les classements de mots-clés, la performance du site et fournir une analyse concurrentielle pour optimiser la visibilité en ligne.",
+            "de": "Nightwatch ist ein fortschrittliches SEO-Tool, das entwickelt wurde, um Keyword-Rankings, die Leistung der Website zu verfolgen und Wettbewerbsanalysen bereitzustellen, um die Online-Sichtbarkeit zu optimieren.",
+            "zh": "Nightwatch是一个先进的SEO工具，旨在跟踪关键词排名、网站性能，并提供竞争分析以优化在线可见性。",
+            "it": "Nightwatch è uno strumento SEO avanzato progettato per tracciare i rankings delle parole chiave, le prestazioni del sito e fornire un'analisi competitiva per ottimizzare la visibilità online."
+        },
+        "features": {
+            "en": "SEO tracking, keyword monitoring, site audits.",
+            "uk": "Відстеження SEO, моніторинг ключових слів, аудит сайтів.",
+            "ja": "SEO追跡、キーワードモニタリング、サイト監査。",
+            "es": "Seguimiento SEO, monitoreo de palabras clave, auditorías de sites.",
+            "pt": "Rastreamento de SEO, monitoramento de palavras-chave, auditorias de sites.",
+            "fr": "Suivi SEO, surveillance des mots-clés, audits de sites.",
+            "de": "SEO-Tracking, Keyword-Überwachung, Website-Audits.",
+            "zh": "SEO跟踪、关键词监测、网站审核。",
+            "it": "Monitoraggio SEO, monitoraggio delle parole chiave, audit dei siti."
+        },
+        "discount": {
+            "en": "30% OFF",
+            "uk": "Знижка 30%",
+            "ja": "30%割引",
+            "es": "30% de descuento",
+            "pt": "30% de desconto",
+            "fr": "30% de réduction",
+            "de": "30% Rabatt",
+            "zh": "优惠30%",
+            "it": "30% di sconto"
+        },
+        "pricing": {
+            "en": "Subscription with various tiers.",
+            "uk": "Підписка з різними рівнями.",
+            "ja": "さまざまなレベルのサブスクリプション。",
+            "es": "Suscripción con varios niveles.",
+            "pt": "Assinatura com vários níveis.",
+            "fr": "Abonnement avec différents niveaux.",
+            "de": "Abonnement mit verschiedenen Stufen.",
+            "zh": "具有不同层级的订阅。",
+            "it": "Abbonamento con vari livelli."
+        }
+    },
+    "Midjourney via Krater": {
+        "description": {
+            "en": "Krater offers AI tools that include Midjourney capabilities, providing an alternative for users seeking more comprehensive AI solutions.",
+            "uk": "Krater пропонує інструменти ШІ, які включають можливості Midjourney, надаючи альтернативу для користувачів, які шукають більш широкі рішення ШІ.",
+            "ja": "Kraterは、Midjourneyの機能を含むAIツールを提供しており、より包括的なAIソリューションを求めるユーザーに代替手段を提供します。",
+            "es": "Krater ofrece herramientas de IA que incluyen capacidades de Midjourney, proporcionando una alternativa para los usuarios que buscan soluciones de IA más completas.",
+            "pt": "Krater oferece ferramentas de IA que incluem capacidades do Midjourney, fornecendo uma alternativa para usuários que buscam soluções de IA mais abrangentes.",
+            "fr": "Krater propose des outils d'IA qui incluent des capacités Midjourney, offrant une alternative aux utilisateurs à la recherche de solutions IA plus complètes.",
+            "de": "Krater bietet KI-Tools an, die Midjourney-Funktionen umfassen und eine Alternative für Benutzer bieten, die umfassendere KI-Lösungen suchen.",
+            "zh": "Krater提供包含Midjourney功能的人工智能工具，为寻求更全面人工智能解决方案的用户提供替代方案。",
+            "it": "Krater offre strumenti di IA che includono le capacità di Midjourney, fornendo un'alternativa per gli utenti che cercano soluzioni di IA più complete."
+        },
+        "features": {
+            "en": "Access to 350+ AI models including Midjourney features.",
+            "uk": "Доступ до понад 350 моделей ШІ, включаючи можливості Midjourney.",
+            "ja": "Midjourneyの機能を含む350以上のAIモデルへのアクセス。",
+            "es": "Acceso a más de 350 modelos de IA, incluyendo características de Midjourney.",
+            "pt": "Acesso a mais de 350 modelos de IA, incluindo recursos do Midjourney.",
+            "fr": "Accès à plus de 350 modèles d'IA, y compris des fonctionnalités de Midjourney.",
+            "de": "Zugriff auf über 350 KI-Modelle, einschließlich Midjourney-Funktionen.",
+            "zh": "访问350多个人工智能模型，包括Midjourney功能。",
+            "it": "Accesso a oltre 350 modelli di IA, comprese le funzionalità di Midjourney."
+        },
+        "discount": {
+            "en": "25%",
+            "uk": "25%",
+            "ja": "25%",
+            "es": "25%",
+            "pt": "25%",
+            "fr": "25%",
+            "de": "25%",
+            "zh": "25%",
+            "it": "25%"
+        },
+        "pricing": {
+            "en": "$20/mo",
+            "uk": "$20/місяць",
+            "ja": "$20/月",
+            "es": "$20/mes",
+            "pt": "$20/mês",
+            "fr": "$20/mois",
+            "de": "$20/Monat",
+            "zh": "$20/月",
+            "it": "$20/mese"
+        }
+    },
+    "Fathom": {
+        "description": {
+            "en": "Fathom is a premium AI tool designed to enhance productivity by automating content creation and transcription processes.",
+            "uk": "Fathom - це преміум-інструмент ШІ, призначений для підвищення продуктивності шляхом автоматизації процесів створення контенту та транскрипції.",
+            "ja": "Fathomは、コンテンツの作成およびトランスクリプションプロセスを自動化することによって生産性を向上させるために設計されたプレミアムなAIツールです。",
+            "es": "Fathom es una herramienta de IA premium diseñada para mejorar la productividad mediante la automatización de la creación de contenido y los procesos de transcripción.",
+            "pt": "Fathom é uma ferramenta de IA premium projetada para aumentar a produtividade automatizando a criação de conteúdo e os processos de transcrição.",
+            "fr": "Fathom est un outil d'IA premium conçu pour améliorer la productivité en automatisant la création de contenu et les processus de transcription.",
+            "de": "Fathom ist ein Premium-Tool für KI, das entwickelt wurde, um die Produktivität zu steigern, indem es die Erstellung von Inhalten und den Transkriptionsprozess automatisiert.",
+            "zh": "Fathom是一个高级人工智能工具，旨在通过自动化内容创建和转录过程来提高生产力。",
+            "it": "Fathom è uno strumento di intelligenza artificiale premium progettato per migliorare la produttività automatizzando il processo di creazione di contenuti e trascrizione."
+        },
+        "features": {
+            "en": "Create, record, transcribe, and automate content faster than ever.",
+            "uk": "Створюйте, записуйте, транскрибуйте та автоматизуйте контент швидше, ніж коли-небудь.",
+            "ja": "コンテンツをこれまで以上に迅速に作成、記録、トランスクリプション、そして自動化します。",
+            "es": "Crea, graba, transcribe y automatiza contenido más rápido que nunca.",
+            "pt": "Crie, grave, transcreva e automatize conteúdo mais rápido do que nunca.",
+            "fr": "Créez, enregistrez, transcrivez et automatisez du contenu plus vite que jamais.",
+            "de": "Erstellen, Aufzeichnen, Transkribieren und Automatisieren von Inhalten schneller als je zuvor.",
+            "zh": "比以往更快地创建、录制、转录和自动化内容。",
+            "it": "Crea, registra, trascrivi e automatizza contenuti più velocemente che mai."
+        },
+        "discount": {
+            "en": "$700+",
+            "uk": "$700+",
+            "ja": "$700以上",
+            "es": "$700+",
+            "pt": "$700+",
+            "fr": "$700+",
+            "de": "$700+",
+            "zh": "$700+",
+            "it": "$700+"
+        },
+        "pricing": {
+            "en": "1-year access",
+            "uk": "Доступ на 1 рік",
+            "ja": "1年アクセス",
+            "es": "Acceso de 1 año",
+            "pt": "Acesso de 1 ano",
+            "fr": "Accès d'un an",
+            "de": "1 Jahr Zugriff",
+            "zh": "1年访问",
+            "it": "Accesso di 1 anno"
+        }
+    },
+    "Viso Suite": {
+        "description": {
+            "en": "Viso Suite is an advanced platform designed to facilitate the implementation of computer vision solutions, focusing on real-time image recognition specifically in the industrial sector.",
+            "uk": "Viso Suite - це сучасна платформа, призначена для сприяння впровадженню рішень комп'ютерного зору, зосереджена на розпізнанні зображень у реальному часі, спеціально в промисловому секторі.",
+            "ja": "Viso Suiteは、特に産業セクターにおけるリアルタイムの画像認識に焦点を当てたコンピュータビジョンソリューションの実装を促進するために設計された高度なプラットフォームです。",
+            "es": "Viso Suite es una plataforma avanzada diseñada para facilitar la implementación de soluciones de visión por computadora, enfocándose en el reconocimiento de imágenes en tiempo real específicamente en el sector industrial.",
+            "pt": "Viso Suite é uma plataforma avançada projetada para facilitar a implementação de soluções de visão computacional, com foco no reconhecimento de imagem em tempo real especificamente no setor industrial.",
+            "fr": "Viso Suite est une plateforme avancée conçue pour faciliter la mise en œuvre de solutions de vision par ordinateur, axée sur la reconnaissance d'images en temps réel spécifiquement dans le secteur industriel.",
+            "de": "Viso Suite ist eine fortschrittliche Plattform, die darauf ausgelegt ist, die Implementierung von Computer Vision-Lösungen zu erleichtern, mit einem Fokus auf die Echtzeit-Bilderkennung speziell im Industriesektor.",
+            "zh": "Viso Suite是一个先进的平台，旨在促进计算机视觉解决方案的实施，特别关注工业部门的实时图像识别。",
+            "it": "Viso Suite è una piattaforma avanzata progettata per facilitare l'implementazione di soluzioni di visione artificiale, con un focus sul riconoscimento delle immagini in tempo reale specificamente nel settore industriale."
+        },
+        "features": {
+            "en": "End-to-end computer vision platform for real-time image recognition and industrial automation.",
+            "uk": "Платформа комп'ютерного зору з кінця в кінець для розпізнавання зображень у реальному часі та автоматизації промисловості.",
+            "ja": "リアルタイムの画像認識と産業自動化のためのエンドツーエンドのコンピュータビジョンプラットフォーム。",
+            "es": "Plataforma de visión por computadora de extremo a extremo para el reconocimiento de imágenes en tiempo real y la automatización industrial.",
+            "pt": "Plataforma de visão computacional de ponta a ponta para reconhecimento de imagem em tempo real e automação industrial.",
+            "fr": "Plateforme de vision par ordinateur de bout en bout pour la reconnaissance d'images en temps réel et l'automatisation industrielle.",
+            "de": "End-to-End-Computer-Vision-Plattform für die Echtzeit-Bilderkennung und industrielle Automatisierung.",
+            "zh": "端到端计算机视觉平台，用于实时图像识别和工业自动化。",
+            "it": "Piattaforma di visione artificiale end-to-end per il riconoscimento delle immagini in tempo reale e l'automazione industriale."
+        },
+        "discount": {
+            "en": "Up to 60% OFF",
+            "uk": "Знижка до 60%",
+            "ja": "最大60％オフ",
+            "es": "Hasta un 60% de descuento",
+            "pt": "Até 60% de desconto",
+            "fr": "Jusqu'à 60% de réduction",
+            "de": "Bis zu 60% Rabatt",
+            "zh": "最高60％的折扣",
+            "it": "Fino al 60% di sconto"
+        },
+        "pricing": {
+            "en": "Pricing details not specified.",
+            "uk": "Деталі ціноутворення не вказані.",
+            "ja": "価格の詳細は指定されていません。",
+            "es": "Detalles de precios no especificados.",
+            "pt": "Detalhes de preços não especificados.",
+            "fr": "Détails des prix non spécifiés.",
+            "de": "Preisinformationen nicht angegeben.",
+            "zh": "未指定价格详情。",
+            "it": "Dettagli sui prezzi non specificati."
+        }
     }
 }

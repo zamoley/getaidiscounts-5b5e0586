@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "$119": {
+  "1-year access": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "20% OFF": {
+  "$700+": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -87,7 +87,7 @@
     "zh": "10 美元额度",
     "it": "$10 di credito"
   },
-  "$20/mo": {
+  "Free tier available with student promotions.": {
     "en": "Starts at $20/mo",
     "uk": "Від $20/міс",
     "ja": "月額20ドルから",
@@ -119,6 +119,17 @@
     "de": "Kosten variieren",
     "zh": "付费方案各异",
     "it": "I piani variano"
+  },
+  "20% OFF": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
   },
   "Pricing details not specified in the source.": {
     "en": "Usage-based",
@@ -405,28 +416,6 @@
     "de": "33% RABATT",
     "zh": "33% 折扣",
     "it": "33% DI SCONTO"
-  },
-  "$32.08 monthly": {
-    "en": "From $11.58 /mo",
-    "uk": "Від $11.58 /міс",
-    "ja": "月額11.58ドルから",
-    "es": "Desde $11.58 /mes",
-    "pt": "A partir de $11.58 /mês",
-    "fr": "À partir de 11,58 $/mois",
-    "de": "Ab 11,58 $/Monat",
-    "zh": "11.58 美元/月起",
-    "it": "Da $11.58 /mese"
-  },
-  "10%": {
-    "en": "Best Value",
-    "uk": "Найкраща ціна",
-    "ja": "ベストバリュー",
-    "es": "Mejor valor",
-    "pt": "Melhor Valor",
-    "fr": "Meilleur rapport qualité-prix",
-    "de": "Bestes Preis-Leistungs-Verhältnis",
-    "zh": "最佳性价比",
-    "it": "Miglior valore"
   },
   "Usage Credit": {
     "en": "AI Compute",
@@ -956,6 +945,17 @@
     "zh": "免费加入",
     "it": "Iscrizione gratuita"
   },
+  "10%": {
+    "en": "Top Deals",
+    "uk": "Найкращі пропозиції",
+    "ja": "トップセール",
+    "es": "Mejores ofertas",
+    "pt": "Melhores Ofertas",
+    "fr": "Meilleures offres",
+    "de": "Top-Deals",
+    "zh": "顶级优惠",
+    "it": "Top offerte"
+  },
   "Annual license for $99.99": {
     "en": "Free Access",
     "uk": "Безкоштовно",
@@ -989,7 +989,7 @@
     "zh": "AI 助手",
     "it": "Assistente IA"
   },
-  "Saving offered for a full year upfront compared to monthly payments.": {
+  "Save up to 17% by paying for a full year upfront": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "月額20ドル",
@@ -1000,7 +1000,7 @@
     "zh": "20 美元/月",
     "it": "20 $/mese"
   },
-  "17% Off": {
+  "17%": {
     "en": "Pro Deal",
     "uk": "Pro пропозиція",
     "ja": "Proセール",
@@ -1209,7 +1209,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Enterprise Pro at $40/month or $400/year.": {
+  "$240 Value for Pro Plan": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1219,17 +1219,6 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
-  },
-  "20% discount": {
-    "en": "Search Deal",
-    "uk": "Пошукова угода",
-    "ja": "サーチセール",
-    "es": "Oferta de búsqueda",
-    "pt": "Oferta de Busca",
-    "fr": "Offre de recherche",
-    "de": "Such-Deal",
-    "zh": "搜索优惠",
-    "it": "Offerta ricerca"
   },
   "Free basic plan, premium plans starting at $11.66/month.": {
     "en": "Free or $12/mo Premium",
@@ -2067,7 +2056,7 @@
     "zh": "$20/月",
     "it": "$20/mese"
   },
-  "$0.00": {
+  "$23.24": {
     "en": "N/A",
     "uk": "Немає",
     "ja": "該当なし",
@@ -2331,6 +2320,17 @@
     "zh": "起价3美元",
     "it": "A partire da 3$"
   },
+  "Various pricing models available": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/D",
+    "pt": "N/D",
+    "fr": "N/D",
+    "de": "k.A.",
+    "zh": "不适用",
+    "it": "N/D"
+  },
   "Combined access to multiple AI tools at a discounted rate.": {
     "en": "Combined access to multiple AI tools at a discounted rate.",
     "uk": "Комбінований доступ до кількох інструментів ШІ за зниженою ціною.",
@@ -2375,7 +2375,7 @@
     "zh": "2025年12月的最佳交易。",
     "it": "Migliori offerte per dicembre 2025."
   },
-  "$69/month": {
+  "Free for a week, then $19 for your first month": {
     "en": "$69/month",
     "uk": "$69/місяць",
     "ja": "月額69ドル",
@@ -2386,7 +2386,7 @@
     "zh": "每月69美元",
     "it": "69 dollari/mese"
   },
-  "$30 off": {
+  "Verified Discount": {
     "en": "$30",
     "uk": "$30",
     "ja": "30ドル",
@@ -2440,17 +2440,6 @@
     "de": "Zeitlich begrenztes Angebot für 2026.",
     "zh": "2026年限时优惠。",
     "it": "Offerta a tempo limitato per il 2026."
-  },
-  "17%": {
-    "en": "17%",
-    "uk": "17%",
-    "ja": "17%",
-    "es": "17%",
-    "pt": "17%",
-    "fr": "17%",
-    "de": "17%",
-    "zh": "17%",
-    "it": "17%"
   },
   "Coupons that actually work, powered by 40M+ real shoppers and AI.": {
     "en": "Free coupon extension with 40M+ shoppers.",
@@ -2892,7 +2881,7 @@
     "zh": "节省700美元以上",
     "it": "Risparmi superiori a $700"
   },
-  "Various subscription plans available": {
+  "Various subscription plans available with potential savings.": {
     "en": "Various subscription plans available",
     "uk": "Доступні різні плани підписки",
     "ja": "さまざまなサブスクリプションプランがあります",
@@ -2903,7 +2892,7 @@
     "zh": "提供多种订阅计划",
     "it": "Vari piani di abbonamento disponibili"
   },
-  "$6.49 for the first month": {
+  "Get full access for just $6.49 for your first month.": {
     "en": "$6.49 for the first month",
     "uk": "$6.49 за перший місяць",
     "ja": "最初の月は6.49ドル",
@@ -2913,6 +2902,17 @@
     "de": "6,49 $ für den ersten Monat",
     "zh": "首月6.49美元",
     "it": "6,49 $ per il primo mese"
+  },
+  "$6.49": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/D",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "不适用",
+    "it": "N/D"
   },
   "Contact for pricing.": {
     "en": "Contact for pricing.",
@@ -2924,6 +2924,17 @@
     "de": "Kontaktieren Sie uns für Preise.",
     "zh": "联系方式以获取定价信息。",
     "it": "Contattaci per i prezzi."
+  },
+  "Limited-time offer on service plans.": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/D",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "k.A.",
+    "zh": "不适用",
+    "it": "N/D"
   },
   "$24/month": {
     "en": "$24/month",
@@ -2969,7 +2980,18 @@
     "zh": "$21.12",
     "it": "$21.12"
   },
-  "$1500 Free Credits": {
+  "$119": {
+    "en": "$119",
+    "uk": "$119",
+    "ja": "$119",
+    "es": "$119",
+    "pt": "$119",
+    "fr": "$119",
+    "de": "$119",
+    "zh": "$119",
+    "it": "$119"
+  },
+  "$1,500 Free Credits": {
     "en": "$1,500 Free Credits",
     "uk": "$1,500 безкоштовних кредитів",
     "ja": "$1,500の無料クレジット",
@@ -3101,7 +3123,7 @@
     "zh": "通过延长试用期获得2个月的免费使用。",
     "it": "Ottieni 2 mesi gratuiti con prove estese."
   },
-  "$8 per user, per month for organizations buying fewer than 20 seats.": {
+  "$8 per user, per month for organizations buying fewer than 20 seats": {
     "en": "$8 per user, per month for organizations buying fewer than 20 seats.",
     "uk": "$8 за користувача на місяць для організацій, що купують менше 20 місць.",
     "ja": "20席未満を購入する組織に対し、1ユーザーあたり月額8ドル。",
@@ -3112,7 +3134,7 @@
     "zh": "每个用户每月8美元，适用于购买少于20个名额的组织。",
     "it": "$8 per utente al mese per le organizzazioni che acquistano meno di 20 posti."
   },
-  "$5k Credits": {
+  "$12 to $17 per user per month": {
     "en": "$5k Credits",
     "uk": "$5k Кредити",
     "ja": "$5k クレジット",
@@ -3133,6 +3155,72 @@
     "de": "$24",
     "zh": "$24",
     "it": "$24"
+  },
+  "Subscription-based pricing.": {
+    "en": "Subscription-based pricing.",
+    "uk": "Ціноутворення на основі підписки.",
+    "ja": "サブスクリプションベースの価格設定。",
+    "es": "Precios basados en suscripción.",
+    "pt": "Preços baseados em assinatura.",
+    "fr": "Tarification par abonnement.",
+    "de": "Abonnementbasierte Preisgestaltung.",
+    "zh": "基于订阅的定价。",
+    "it": "Prezzi basati su abbonamento."
+  },
+  "Subscription with various tiers.": {
+    "en": "Subscription with various tiers.",
+    "uk": "Підписка з різними рівнями.",
+    "ja": "さまざまなレベルのサブスクリプション。",
+    "es": "Suscripción con varios niveles.",
+    "pt": "Assinatura com vários níveis.",
+    "fr": "Abonnement avec différents niveaux.",
+    "de": "Abonnement mit verschiedenen Stufen.",
+    "zh": "具有不同层级的订阅。",
+    "it": "Abbonamento con vari livelli."
+  },
+  "30% OFF": {
+    "en": "30% OFF",
+    "uk": "Знижка 30%",
+    "ja": "30%割引",
+    "es": "30% de descuento",
+    "pt": "30% de desconto",
+    "fr": "30% de réduction",
+    "de": "30% Rabatt",
+    "zh": "优惠30%",
+    "it": "30% di sconto"
+  },
+  "$20/mo": {
+    "en": "$20/mo",
+    "uk": "$20/місяць",
+    "ja": "$20/月",
+    "es": "$20/mes",
+    "pt": "$20/mês",
+    "fr": "$20/mois",
+    "de": "$20/Monat",
+    "zh": "$20/月",
+    "it": "$20/mese"
+  },
+  "Pricing details not specified.": {
+    "en": "Pricing details not specified.",
+    "uk": "Деталі ціноутворення не вказані.",
+    "ja": "価格の詳細は指定されていません。",
+    "es": "Detalles de precios no especificados.",
+    "pt": "Detalhes de preços não especificados.",
+    "fr": "Détails des prix non spécifiés.",
+    "de": "Preisinformationen nicht angegeben.",
+    "zh": "未指定价格详情。",
+    "it": "Dettagli sui prezzi non specificati."
+  },
+  "Up to 60% OFF": {
+    "en": "Up to 60% OFF",
+    "uk": "Знижка до 60%",
+    "ja": "最大60％オフ",
+    "es": "Hasta un 60% de descuento",
+    "pt": "Até 60% de desconto",
+    "fr": "Jusqu'à 60% de réduction",
+    "de": "Bis zu 60% Rabatt",
+    "zh": "最高60％的折扣",
+    "it": "Fino al 60% di sconto"
   },
   "Midjourney": {
     "en": {
@@ -17524,6 +17612,398 @@
       "features": "Piano standard disponibile con fatturazione annuale.",
       "badge": "N/D",
       "pricing": "$24"
+    }
+  },
+  "Fireflies AI": {
+    "en": {
+      "description": "Fireflies AI is an AI-powered meeting assistant that records, transcribes, and organizes voice conversations into searchable notes.",
+      "features": "AI meeting assistant that captures and transcribes conversations.",
+      "badge": "N/A",
+      "pricing": "Various pricing models available."
+    },
+    "uk": {
+      "description": "Fireflies ШІ - це помічник для зустрічей на базі ШІ, який записує, транскрибує та організовує голосові розмови в шукані нотатки.",
+      "features": "Помічник для зустрічей на базі ШІ, який захоплює та транскрибує бесіди.",
+      "badge": "Немає",
+      "pricing": "Доступні різні моделі ціноутворення."
+    },
+    "ja": {
+      "description": "Fireflies AIは、音声会話を録音、転記、および整理して検索可能なノートにするAI駆動のミーティングアシスタントです。",
+      "features": "会話をキャッチし、転記するAIミーティングアシスタント。",
+      "badge": "該当なし",
+      "pricing": "さまざまな価格モデルが利用可能です。"
+    },
+    "es": {
+      "description": "Fireflies AI es un asistente de reuniones impulsado por IA que graba, transcribe y organiza conversaciones de voz en notas buscables.",
+      "features": "Asistente de reuniones de IA que captura y transcribe conversaciones.",
+      "badge": "N/A",
+      "pricing": "Se encuentran disponibles varios modelos de precios."
+    },
+    "pt": {
+      "description": "Fireflies AI é um assistente de reuniões impulsionado por IA que grava, transcreve e organiza conversas de voz em notas pesquisáveis.",
+      "features": "Assistente de reunião de IA que captura e transcreve conversas.",
+      "badge": "N/A",
+      "pricing": "Vários modelos de preços disponíveis."
+    },
+    "fr": {
+      "description": "Fireflies AI est un assistant de réunion alimenté par l'IA qui enregistre, transcrit et organise des conversations vocales en notes recherchables.",
+      "features": "Assistant de réunion IA qui capture et transcrit des conversations.",
+      "badge": "N/A",
+      "pricing": "Différents modèles de tarification disponibles."
+    },
+    "de": {
+      "description": "Fireflies AI ist ein KI-gestützter Besprechungsassistent, der Sprachgespräche aufzeichnet, transkribiert und in durchsuchbare Notizen organisiert.",
+      "features": "KI-Meeting-Assistent, der Gespräche erfasst und transkribiert.",
+      "badge": "N/A",
+      "pricing": "Verschiedene Preismodelle verfügbar."
+    },
+    "zh": {
+      "description": "Fireflies AI 是一个基于人工智能的会议助手，可以录音、转录并将语音对话组织成可搜索的笔记。",
+      "features": "捕捉并转录对话的人工智能会议助手。",
+      "badge": "无",
+      "pricing": "提供多种定价模型。"
+    },
+    "it": {
+      "description": "Fireflies AI è un assistente alle riunioni alimentato da intelligenza artificiale che registra, trascrive e organizza conversazioni vocali in note ricercabili.",
+      "features": "Assistente alle riunioni di intelligenza artificiale che cattura e trascrive conversazioni.",
+      "badge": "N/A",
+      "pricing": "Vari modelli di prezzo disponibili."
+    }
+  },
+  "ElevenLabs Pro": {
+    "en": {
+      "description": "ElevenLabs Pro offers high-quality voice synthesis technology focused on delivering realistic audio by using advanced AI models.",
+      "features": "Advanced text-to-speech synthesis, voice cloning, custom voice creation.",
+      "badge": "N/A",
+      "pricing": "Subscription-based pricing."
+    },
+    "uk": {
+      "description": "ElevenLabs Pro пропонує технологію синтезу голосу високої якості, націлену на забезпечення реалістичного аудіо за допомогою передових моделей ШІ.",
+      "features": "Системи синтезу тексту в мову, клонування голосу, створення кастомного голосу.",
+      "badge": "Немає",
+      "pricing": "Ціноутворення на основі підписки."
+    },
+    "ja": {
+      "description": "ElevenLabs Proは、高度なAIモデルを使用して現実的なオーディオを提供することに焦点を当てた高品質の音声合成技術を提供します。",
+      "features": "高度なテキスト読み上げ合成、音声クローン、カスタム音声作成。",
+      "badge": "該当なし",
+      "pricing": "サブスクリプションベースの価格設定。"
+    },
+    "es": {
+      "description": "ElevenLabs Pro ofrece tecnología de síntesis de voz de alta calidad centrada en proporcionar audio realista mediante el uso de modelos avanzados de IA.",
+      "features": "Síntesis de texto a voz avanzada, clonación de voz, creación de voz personalizada.",
+      "badge": "N/A",
+      "pricing": "Precios basados en suscripción."
+    },
+    "pt": {
+      "description": "ElevenLabs Pro oferece tecnologia de síntese de voz de alta qualidade, focada em fornecer áudio realista usando modelos avançados de IA.",
+      "features": "Síntese avançada de texto para fala, clonagem de voz, criação de voz personalizada.",
+      "badge": "N/A",
+      "pricing": "Preços baseados em assinatura."
+    },
+    "fr": {
+      "description": "ElevenLabs Pro propose une technologie de synthèse vocale de haute qualité axée sur la fourniture d'un audio réaliste grâce à l'utilisation de modèles avancés d'IA.",
+      "features": "Synthèse vocale avancée, clonage de voix, création de voix personnalisées.",
+      "badge": "N/A",
+      "pricing": "Tarification par abonnement."
+    },
+    "de": {
+      "description": "ElevenLabs Pro bietet hochqualitative Sprachsynthesetechnologie, die sich darauf konzentriert, realistisches Audio mithilfe fortschrittlicher KI-Modelle bereitzustellen.",
+      "features": "Fortgeschrittene Text-zu-Sprache-Synthese, Sprachklonung, benutzerdefinierte Sprachgestaltung.",
+      "badge": "N/A",
+      "pricing": "Abonnementbasierte Preisgestaltung."
+    },
+    "zh": {
+      "description": "ElevenLabs Pro 提供高质量的语音合成技术，专注于通过使用先进的人工智能模型提供现实的音频。",
+      "features": "高级文本转语音合成、语音克隆、定制语音创建。",
+      "badge": "无",
+      "pricing": "基于订阅的定价。"
+    },
+    "it": {
+      "description": "ElevenLabs Pro offre una tecnologia di sintesi vocale di alta qualità, focalizzata sulla fornitura di audio realistico tramite l'uso di modelli avanzati di IA.",
+      "features": "Sintesi avanzata da testo a voce, clonazione vocale, creazione di voci personalizzate.",
+      "badge": "N/D",
+      "pricing": "Prezzi basati su abbonamento."
+    }
+  },
+  "Gusto": {
+    "en": {
+      "description": "Gusto is a comprehensive platform that provides payroll solutions, HR support, and employee benefits management for small businesses.",
+      "features": "Payroll processing, benefits administration, HR tools.",
+      "badge": "N/A",
+      "pricing": "Subscription-based pricing."
+    },
+    "uk": {
+      "description": "Gusto – це всебічна платформа, яка пропонує рішення для обробки зарплати, підтримку HR та управління пільгами для співробітників для малого бізнесу.",
+      "features": "Обробка заробітної плати, управління пільгами, HR-інструменти.",
+      "badge": "Немає",
+      "pricing": "Ціноутворення на основі підписки."
+    },
+    "ja": {
+      "description": "Gustoは、小規模企業向けに給与ソリューション、人事サポート、従業員の福利厚生管理を提供する包括的なプラットフォームです。",
+      "features": "給与処理、福利厚生の管理、人事ツール。",
+      "badge": "該当なし",
+      "pricing": "サブスクリプションベースの価格設定です。"
+    },
+    "es": {
+      "description": "Gusto es una plataforma integral que proporciona soluciones de nómina, soporte de recursos humanos y gestión de beneficios para empleados para pequeñas empresas.",
+      "features": "Procesamiento de nómina, administración de beneficios, herramientas de recursos humanos.",
+      "badge": "N/A",
+      "pricing": "Precios basados en suscripción."
+    },
+    "pt": {
+      "description": "Gusto é uma plataforma abrangente que oferece soluções de folha de pagamento, suporte de RH e gerenciamento de benefícios para funcionários para pequenas empresas.",
+      "features": "Processamento de folha de pagamento, administração de benefícios, ferramentas de RH.",
+      "badge": "N/A",
+      "pricing": "Preços baseados em assinatura."
+    },
+    "fr": {
+      "description": "Gusto est une plateforme complète qui fournit des solutions de paie, un soutien RH et une gestion des avantages sociaux pour les petites entreprises.",
+      "features": "Traitement de la paie, administration des avantages, outils RH.",
+      "badge": "N/A",
+      "pricing": "Tarification basée sur un abonnement."
+    },
+    "de": {
+      "description": "Gusto ist eine umfassende Plattform, die Lohnabrechnungslösungen, HR-Unterstützung und das Management von Mitarbeiterleistungen für kleine Unternehmen bietet.",
+      "features": "Lohnabrechnung, Leistungsverwaltung, HR-Tools.",
+      "badge": "N/A",
+      "pricing": "Abonnementbasierte Preisgestaltung."
+    },
+    "zh": {
+      "description": "Gusto 是一个综合平台，为小型企业提供薪资解决方案、人力资源支持和员工福利管理。",
+      "features": "薪资处理、福利管理、人力资源工具。",
+      "badge": "不适用",
+      "pricing": "基于订阅的定价。"
+    },
+    "it": {
+      "description": "Gusto è una piattaforma completa che fornisce soluzioni per la gestione delle retribuzioni, supporto HR e gestione dei benefici per i dipendenti per le piccole imprese.",
+      "features": "Elaborazione stipendio, gestione dei vantaggi, strumenti HR.",
+      "badge": "N/D",
+      "pricing": "Prezzi basati su abbonamento."
+    }
+  },
+  "Nightwatch": {
+    "en": {
+      "description": "Nightwatch is an advanced SEO tool designed to track keyword rankings, site performance, and provide competitive analysis to optimize online visibility.",
+      "features": "SEO tracking, keyword monitoring, site audits.",
+      "badge": "30% OFF",
+      "pricing": "Subscription with various tiers."
+    },
+    "uk": {
+      "description": "Nightwatch - це просунутій інструмент SEO, призначений для відстеження позицій ключових слів, продуктивності сайту та надання конкурентного аналізу для оптимізації онлайн-видимості.",
+      "features": "Відстеження SEO, моніторинг ключових слів, аудит сайтів.",
+      "badge": "Знижка 30%",
+      "pricing": "Підписка з різними рівнями."
+    },
+    "ja": {
+      "description": "Nightwatchは、キーワードランキング、サイトパフォーマンスを追跡し、オンラインの可視性を最適化するための競争分析を提供するために設計された高度なSEOツールです。",
+      "features": "SEO追跡、キーワードモニタリング、サイト監査。",
+      "badge": "30%割引",
+      "pricing": "さまざまなレベルのサブスクリプション。"
+    },
+    "es": {
+      "description": "Nightwatch es una herramienta SEO avanzada diseñada para rastrear el ranking de palabras clave, el rendimiento del sitio y proporcionar un análisis competitivo para optimizar la visibilidad en línea.",
+      "features": "Seguimiento SEO, monitoreo de palabras clave, auditorías de sites.",
+      "badge": "30% de descuento",
+      "pricing": "Suscripción con varios niveles."
+    },
+    "pt": {
+      "description": "Nightwatch é uma ferramenta avançada de SEO projetada para acompanhar as classificações de palavras-chave, o desempenho do site e fornecer uma análise competitiva para otimizar a visibilidade online.",
+      "features": "Rastreamento de SEO, monitoramento de palavras-chave, auditorias de sites.",
+      "badge": "30% de desconto",
+      "pricing": "Assinatura com vários níveis."
+    },
+    "fr": {
+      "description": "Nightwatch est un outil SEO avancé conçu pour suivre les classements de mots-clés, la performance du site et fournir une analyse concurrentielle pour optimiser la visibilité en ligne.",
+      "features": "Suivi SEO, surveillance des mots-clés, audits de sites.",
+      "badge": "30% de réduction",
+      "pricing": "Abonnement avec différents niveaux."
+    },
+    "de": {
+      "description": "Nightwatch ist ein fortschrittliches SEO-Tool, das entwickelt wurde, um Keyword-Rankings, die Leistung der Website zu verfolgen und Wettbewerbsanalysen bereitzustellen, um die Online-Sichtbarkeit zu optimieren.",
+      "features": "SEO-Tracking, Keyword-Überwachung, Website-Audits.",
+      "badge": "30% Rabatt",
+      "pricing": "Abonnement mit verschiedenen Stufen."
+    },
+    "zh": {
+      "description": "Nightwatch是一个先进的SEO工具，旨在跟踪关键词排名、网站性能，并提供竞争分析以优化在线可见性。",
+      "features": "SEO跟踪、关键词监测、网站审核。",
+      "badge": "优惠30%",
+      "pricing": "具有不同层级的订阅。"
+    },
+    "it": {
+      "description": "Nightwatch è uno strumento SEO avanzato progettato per tracciare i rankings delle parole chiave, le prestazioni del sito e fornire un'analisi competitiva per ottimizzare la visibilità online.",
+      "features": "Monitoraggio SEO, monitoraggio delle parole chiave, audit dei siti.",
+      "badge": "30% di sconto",
+      "pricing": "Abbonamento con vari livelli."
+    }
+  },
+  "Midjourney via Krater": {
+    "en": {
+      "description": "Krater offers AI tools that include Midjourney capabilities, providing an alternative for users seeking more comprehensive AI solutions.",
+      "features": "Access to 350+ AI models including Midjourney features.",
+      "badge": "25%",
+      "pricing": "$20/mo"
+    },
+    "uk": {
+      "description": "Krater пропонує інструменти ШІ, які включають можливості Midjourney, надаючи альтернативу для користувачів, які шукають більш широкі рішення ШІ.",
+      "features": "Доступ до понад 350 моделей ШІ, включаючи можливості Midjourney.",
+      "badge": "25%",
+      "pricing": "$20/місяць"
+    },
+    "ja": {
+      "description": "Kraterは、Midjourneyの機能を含むAIツールを提供しており、より包括的なAIソリューションを求めるユーザーに代替手段を提供します。",
+      "features": "Midjourneyの機能を含む350以上のAIモデルへのアクセス。",
+      "badge": "25%",
+      "pricing": "$20/月"
+    },
+    "es": {
+      "description": "Krater ofrece herramientas de IA que incluyen capacidades de Midjourney, proporcionando una alternativa para los usuarios que buscan soluciones de IA más completas.",
+      "features": "Acceso a más de 350 modelos de IA, incluyendo características de Midjourney.",
+      "badge": "25%",
+      "pricing": "$20/mes"
+    },
+    "pt": {
+      "description": "Krater oferece ferramentas de IA que incluem capacidades do Midjourney, fornecendo uma alternativa para usuários que buscam soluções de IA mais abrangentes.",
+      "features": "Acesso a mais de 350 modelos de IA, incluindo recursos do Midjourney.",
+      "badge": "25%",
+      "pricing": "$20/mês"
+    },
+    "fr": {
+      "description": "Krater propose des outils d'IA qui incluent des capacités Midjourney, offrant une alternative aux utilisateurs à la recherche de solutions IA plus complètes.",
+      "features": "Accès à plus de 350 modèles d'IA, y compris des fonctionnalités de Midjourney.",
+      "badge": "25%",
+      "pricing": "$20/mois"
+    },
+    "de": {
+      "description": "Krater bietet KI-Tools an, die Midjourney-Funktionen umfassen und eine Alternative für Benutzer bieten, die umfassendere KI-Lösungen suchen.",
+      "features": "Zugriff auf über 350 KI-Modelle, einschließlich Midjourney-Funktionen.",
+      "badge": "25%",
+      "pricing": "$20/Monat"
+    },
+    "zh": {
+      "description": "Krater提供包含Midjourney功能的人工智能工具，为寻求更全面人工智能解决方案的用户提供替代方案。",
+      "features": "访问350多个人工智能模型，包括Midjourney功能。",
+      "badge": "25%",
+      "pricing": "$20/月"
+    },
+    "it": {
+      "description": "Krater offre strumenti di IA che includono le capacità di Midjourney, fornendo un'alternativa per gli utenti che cercano soluzioni di IA più complete.",
+      "features": "Accesso a oltre 350 modelli di IA, comprese le funzionalità di Midjourney.",
+      "badge": "25%",
+      "pricing": "$20/mese"
+    }
+  },
+  "Fathom": {
+    "en": {
+      "description": "Fathom is a premium AI tool designed to enhance productivity by automating content creation and transcription processes.",
+      "features": "Create, record, transcribe, and automate content faster than ever.",
+      "badge": "$700+",
+      "pricing": "1-year access"
+    },
+    "uk": {
+      "description": "Fathom - це преміум-інструмент ШІ, призначений для підвищення продуктивності шляхом автоматизації процесів створення контенту та транскрипції.",
+      "features": "Створюйте, записуйте, транскрибуйте та автоматизуйте контент швидше, ніж коли-небудь.",
+      "badge": "$700+",
+      "pricing": "Доступ на 1 рік"
+    },
+    "ja": {
+      "description": "Fathomは、コンテンツの作成およびトランスクリプションプロセスを自動化することによって生産性を向上させるために設計されたプレミアムなAIツールです。",
+      "features": "コンテンツをこれまで以上に迅速に作成、記録、トランスクリプション、そして自動化します。",
+      "badge": "$700以上",
+      "pricing": "1年アクセス"
+    },
+    "es": {
+      "description": "Fathom es una herramienta de IA premium diseñada para mejorar la productividad mediante la automatización de la creación de contenido y los procesos de transcripción.",
+      "features": "Crea, graba, transcribe y automatiza contenido más rápido que nunca.",
+      "badge": "$700+",
+      "pricing": "Acceso de 1 año"
+    },
+    "pt": {
+      "description": "Fathom é uma ferramenta de IA premium projetada para aumentar a produtividade automatizando a criação de conteúdo e os processos de transcrição.",
+      "features": "Crie, grave, transcreva e automatize conteúdo mais rápido do que nunca.",
+      "badge": "$700+",
+      "pricing": "Acesso de 1 ano"
+    },
+    "fr": {
+      "description": "Fathom est un outil d'IA premium conçu pour améliorer la productivité en automatisant la création de contenu et les processus de transcription.",
+      "features": "Créez, enregistrez, transcrivez et automatisez du contenu plus vite que jamais.",
+      "badge": "$700+",
+      "pricing": "Accès d'un an"
+    },
+    "de": {
+      "description": "Fathom ist ein Premium-Tool für KI, das entwickelt wurde, um die Produktivität zu steigern, indem es die Erstellung von Inhalten und den Transkriptionsprozess automatisiert.",
+      "features": "Erstellen, Aufzeichnen, Transkribieren und Automatisieren von Inhalten schneller als je zuvor.",
+      "badge": "$700+",
+      "pricing": "1 Jahr Zugriff"
+    },
+    "zh": {
+      "description": "Fathom是一个高级人工智能工具，旨在通过自动化内容创建和转录过程来提高生产力。",
+      "features": "比以往更快地创建、录制、转录和自动化内容。",
+      "badge": "$700+",
+      "pricing": "1年访问"
+    },
+    "it": {
+      "description": "Fathom è uno strumento di intelligenza artificiale premium progettato per migliorare la produttività automatizzando il processo di creazione di contenuti e trascrizione.",
+      "features": "Crea, registra, trascrivi e automatizza contenuti più velocemente che mai.",
+      "badge": "$700+",
+      "pricing": "Accesso di 1 anno"
+    }
+  },
+  "Viso Suite": {
+    "en": {
+      "description": "Viso Suite is an advanced platform designed to facilitate the implementation of computer vision solutions, focusing on real-time image recognition specifically in the industrial sector.",
+      "features": "End-to-end computer vision platform for real-time image recognition and industrial automation.",
+      "badge": "Up to 60% OFF",
+      "pricing": "Pricing details not specified."
+    },
+    "uk": {
+      "description": "Viso Suite - це сучасна платформа, призначена для сприяння впровадженню рішень комп'ютерного зору, зосереджена на розпізнанні зображень у реальному часі, спеціально в промисловому секторі.",
+      "features": "Платформа комп'ютерного зору з кінця в кінець для розпізнавання зображень у реальному часі та автоматизації промисловості.",
+      "badge": "Знижка до 60%",
+      "pricing": "Деталі ціноутворення не вказані."
+    },
+    "ja": {
+      "description": "Viso Suiteは、特に産業セクターにおけるリアルタイムの画像認識に焦点を当てたコンピュータビジョンソリューションの実装を促進するために設計された高度なプラットフォームです。",
+      "features": "リアルタイムの画像認識と産業自動化のためのエンドツーエンドのコンピュータビジョンプラットフォーム。",
+      "badge": "最大60％オフ",
+      "pricing": "価格の詳細は指定されていません。"
+    },
+    "es": {
+      "description": "Viso Suite es una plataforma avanzada diseñada para facilitar la implementación de soluciones de visión por computadora, enfocándose en el reconocimiento de imágenes en tiempo real específicamente en el sector industrial.",
+      "features": "Plataforma de visión por computadora de extremo a extremo para el reconocimiento de imágenes en tiempo real y la automatización industrial.",
+      "badge": "Hasta un 60% de descuento",
+      "pricing": "Detalles de precios no especificados."
+    },
+    "pt": {
+      "description": "Viso Suite é uma plataforma avançada projetada para facilitar a implementação de soluções de visão computacional, com foco no reconhecimento de imagem em tempo real especificamente no setor industrial.",
+      "features": "Plataforma de visão computacional de ponta a ponta para reconhecimento de imagem em tempo real e automação industrial.",
+      "badge": "Até 60% de desconto",
+      "pricing": "Detalhes de preços não especificados."
+    },
+    "fr": {
+      "description": "Viso Suite est une plateforme avancée conçue pour faciliter la mise en œuvre de solutions de vision par ordinateur, axée sur la reconnaissance d'images en temps réel spécifiquement dans le secteur industriel.",
+      "features": "Plateforme de vision par ordinateur de bout en bout pour la reconnaissance d'images en temps réel et l'automatisation industrielle.",
+      "badge": "Jusqu'à 60% de réduction",
+      "pricing": "Détails des prix non spécifiés."
+    },
+    "de": {
+      "description": "Viso Suite ist eine fortschrittliche Plattform, die darauf ausgelegt ist, die Implementierung von Computer Vision-Lösungen zu erleichtern, mit einem Fokus auf die Echtzeit-Bilderkennung speziell im Industriesektor.",
+      "features": "End-to-End-Computer-Vision-Plattform für die Echtzeit-Bilderkennung und industrielle Automatisierung.",
+      "badge": "Bis zu 60% Rabatt",
+      "pricing": "Preisinformationen nicht angegeben."
+    },
+    "zh": {
+      "description": "Viso Suite是一个先进的平台，旨在促进计算机视觉解决方案的实施，特别关注工业部门的实时图像识别。",
+      "features": "端到端计算机视觉平台，用于实时图像识别和工业自动化。",
+      "badge": "最高60％的折扣",
+      "pricing": "未指定价格详情。"
+    },
+    "it": {
+      "description": "Viso Suite è una piattaforma avanzata progettata per facilitare l'implementazione di soluzioni di visione artificiale, con un focus sul riconoscimento delle immagini in tempo reale specificamente nel settore industriale.",
+      "features": "Piattaforma di visione artificiale end-to-end per il riconoscimento delle immagini in tempo reale e l'automazione industriale.",
+      "badge": "Fino al 60% di sconto",
+      "pricing": "Dettagli sui prezzi non specificati."
     }
   }
 }
