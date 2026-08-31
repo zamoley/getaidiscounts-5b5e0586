@@ -2,9 +2,9 @@
     {
         "tool_name": "Midjourney",
         "tool_url": "https://www.midjourney.com",
-        "code": "Active Right Now",
-        "discount_amount": "20%",
-        "pricing_info": "Annual Midjourney Plans",
+        "code": "HOLIDAY30",
+        "discount_amount": "30%",
+        "pricing_info": "This code is currently active and can be applied to your subscription.",
         "key_features": "Pro Image Generation, High Res",
         "description": "The world's leading AI image generation tool.",
         "last_verified": "2026-05-05",
@@ -36,8 +36,8 @@
         "tool_name": "Perplexity",
         "tool_url": "https://www.perplexity.ai",
         "code": "Student discounts available",
-        "discount_amount": "discount for verified students and educators",
-        "pricing_info": "Offered to verified students and educators at a discount.",
+        "discount_amount": "Discount for verified students and educators",
+        "pricing_info": "Promo codes through official partners",
         "key_features": "AI Search Engine, Real-time Citations",
         "description": "The AI-powered answer engine for research.",
         "last_verified": "2026-05-05",
@@ -80,8 +80,8 @@
         "tool_name": "Synthesia",
         "tool_url": "https://www.synthesia.io",
         "code": "SYNTH123",
-        "discount_amount": "20%",
-        "pricing_info": "Starting at $30/month",
+        "discount_amount": "30% OFF",
+        "pricing_info": "Discount on subscription",
         "key_features": "AI-generated videos, multilingual support, user-friendly interface, customizable avatars",
         "description": "Synthesia is a leading platform for creating AI-generated videos. It allows users to produce high-quality video content with synthetic actors speaking in various languages without needing a camera crew. The platform is widely used for corporate training, marketing, and educational purposes.",
         "category": "Video AI"
@@ -364,8 +364,8 @@
         "tool_name": "Copy.ai",
         "tool_url": "https://www.copy.ai",
         "code": "COPYFREE",
-        "discount_amount": "Free trial available",
-        "pricing_info": "Starts at $35/month after the trial.",
+        "discount_amount": "$240/yr",
+        "pricing_info": "Annual billing saves ~17% on the Chat plan",
         "key_features": "AI-generated copy, blog outline generator, multiple languages, collaboration tools.",
         "description": "Copy.ai harnesses the power of artificial intelligence to generate marketing copy, blog articles, and product descriptions within seconds. Its intuitive interface and versatile features make it an essential tool for marketers and writers who want to elevate their copywriting efficiency.",
         "category": "Writing AI"
@@ -1260,8 +1260,8 @@
         "tool_name": "Descript",
         "tool_url": "https://www.descript.com",
         "code": "DESCRIPT50",
-        "discount_amount": "50%",
-        "pricing_info": "Free trial with paid plans starting at $15 per month",
+        "discount_amount": "25% OFF",
+        "pricing_info": "Discount codes available, check for active promotions.",
         "key_features": "Audio editing, Overdub, Screen recording",
         "description": "Descript is an all-in-one audio and video editing software that makes content creation more accessible. It combines transcription and editing functionalities, allowing users to edit audio by editing text. Descript stands out with features like Overdub, which uses voice cloning technology to let users create new audio segments in their own voice.",
         "category": "Voice AI"
@@ -1476,7 +1476,7 @@
         "tool_url": "https://novelistai.startupworld.com/",
         "code": "N/A",
         "discount_amount": "15% OFF",
-        "pricing_info": "Not specified",
+        "pricing_info": "Discount applies to Writer AI Detector service plans.",
         "key_features": "Offers AI tools for writing novels and detecting AI-generated text.",
         "description": "Novelist AI is a tailored solution that assists authors in creating, editing, and refining their novels through advanced AI techniques.",
         "category": "Writing AI"
@@ -1535,8 +1535,8 @@
         "tool_name": "ChatGPT Plus",
         "tool_url": "https://felloai.com/ai-deals/",
         "code": "N/A",
-        "discount_amount": "$23.24",
-        "pricing_info": "$23.24/Month",
+        "discount_amount": "Active promotion",
+        "pricing_info": "$20 flagship subscription tier",
         "key_features": "Advanced conversational AI capabilities including enhanced understanding.",
         "description": "ChatGPT Plus offers users access to improved response quality and faster performance compared to the free version of ChatGPT.",
         "category": "No-Code AI"
@@ -1606,7 +1606,7 @@
         "tool_url": "https://krater.ai/coupon/midjourney",
         "code": "N/A",
         "discount_amount": "25%",
-        "pricing_info": "$20/month for 350+ AI models including Midjourney features",
+        "pricing_info": "Get 350+ AI models including Midjourney features for $20/mo with Krater.",
         "key_features": "Comprehensive access to AI models including Midjourney\u2019s features, affordable pricing.",
         "description": "Krater is a platform that provides a variety of AI models for creative applications, making advanced AI tools accessible for a low monthly fee.",
         "category": "Group-Buy & Sharing"
@@ -2186,7 +2186,7 @@
         "tool_url": "https://humanizethat.com/blog/best-ways-to-use-a-quillbot-promo-code-and-save-more-on-writing-tools",
         "code": "Valid promo codes available",
         "discount_amount": "Varies",
-        "pricing_info": "Various subscription plans available with potential savings.",
+        "pricing_info": "Valid Quillbot discount codes for various subscription plans.",
         "key_features": "AI-powered writing assistance, Grammar checking, Paraphrasing",
         "description": "Quillbot is an AI-powered writing tool that helps users enhance their writing with features like grammar checking, paraphrasing, and providing synonyms. It's popular among students and professionals for its versatility.",
         "category": "Writing AI"
@@ -2206,7 +2206,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "$6.49",
-        "pricing_info": "Get full access for just $6.49 for your first month.",
+        "pricing_info": "$6.49 for the first month",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2356,7 +2356,7 @@
         "tool_url": "https://appheygen.startupworld.com",
         "code": "N/A",
         "discount_amount": "$119",
-        "pricing_info": "Start for free",
+        "pricing_info": "$119",
         "key_features": "Powerful AI features, effortless video creation.",
         "description": "HeyGen AI Video Tool is designed to assist users in creating videos effortlessly by leveraging advanced AI capabilities, making it easy to bring their ideas to life.",
         "category": "Video AI"
@@ -2365,8 +2365,8 @@
         "tool_name": "ElevenLabs AI Student Pack",
         "tool_url": "https://devopscube.com/elevenlabs-discount",
         "code": "2026",
-        "discount_amount": "50%",
-        "pricing_info": "$1,500 Free Credits",
+        "discount_amount": "$1500 in free credits",
+        "pricing_info": "$1500 Free Credits",
         "key_features": "Includes 16 AI tools, large discounts for students and educators.",
         "description": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
         "category": "All-in-One AI"
@@ -2395,8 +2395,8 @@
         "tool_name": "Try It On AI",
         "tool_url": "https://tryitonai.startupworld.com",
         "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "$61",
+        "discount_amount": "50%",
+        "pricing_info": "Half price for professional images",
         "key_features": "Create high-quality portraits, customize styles.",
         "description": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
         "category": "Image AI"
@@ -2435,8 +2435,8 @@
         "tool_name": "ElevenLabs Creator Membership",
         "tool_url": "https://elevenlabs.startupworld.com",
         "code": "N/A",
-        "discount_amount": "N/A",
-        "pricing_info": "$11 monthly",
+        "discount_amount": "$11 monthly",
+        "pricing_info": "$11 per month",
         "key_features": "High-quality AI voice generation for every project.",
         "description": "The ElevenLabs Creator membership offers an affordable monthly plan allowing users to access advanced AI voice generation tools for various projects, ensuring top-notch quality.",
         "category": "Voice AI"
@@ -2466,7 +2466,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "N/A",
+        "pricing_info": "Discount codes available, check for active promotions.",
         "key_features": "AI-powered writing assistant that helps in enhancing writing quality through paraphrasing, grammar checking, and more.",
         "description": "QuillBot is an AI writing tool designed to assist users in improving their text by providing grammar corrections, paraphrasing suggestions, and overall writing enhancement.",
         "category": "Writing AI"
@@ -2476,7 +2476,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "N/A",
+        "pricing_info": "Discount codes available, check for active promotions.",
         "key_features": "Voice generation software that allows users to create realistic voiceovers for presentations, videos, and more.",
         "description": "Murf AI is a voice generation platform that enables users to create high-quality voiceovers using advanced text-to-speech technology, making it suitable for various applications such as presentations and educational content.",
         "category": "Voice AI"
@@ -2546,7 +2546,7 @@
         "tool_url": "https://blog.nachonacho.com/best/claude-promo-codes",
         "code": "N/A",
         "discount_amount": "$12 to $17 per user per month",
-        "pricing_info": "$8 per user, per month for organizations buying fewer than 20 seats",
+        "pricing_info": "$8 per user, per month for organizations buying fewer than 20 seats.",
         "key_features": "Special pricing for registered 501(c)(3) organizations.",
         "description": "Claude for Nonprofits provides a tailored version of Claude aimed at supporting nonprofit organizations with affordable pricing.",
         "category": "Group-Buy & Sharing"
@@ -2630,5 +2630,65 @@
         "key_features": "End-to-end computer vision platform for real-time image recognition and industrial automation.",
         "description": "Viso Suite is an advanced platform designed to facilitate the implementation of computer vision solutions, focusing on real-time image recognition specifically in the industrial sector.",
         "category": "Industrial AI"
+    },
+    {
+        "tool_name": "SuperGrok",
+        "tool_url": "https://grok.com/plans",
+        "code": "N/A",
+        "discount_amount": "7-day free trial",
+        "pricing_info": "Paid limits after the free trial",
+        "key_features": "Free trial available, Grok 4.5 features included.",
+        "description": "SuperGrok is an advanced coding assistant that leverages AI to simplify and enhance the coding process.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "ElevenLabs Promo Code",
+        "tool_url": "https://www.demandsage.com/elevenlabs-promo-code",
+        "code": "N/A",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Discount on first month of Creator plan",
+        "key_features": "Receive up to 50% off your first month and additional ongoing discounts.",
+        "description": "This ElevenLabs promo code allows new subscribers to enjoy significant discounts when signing up for the Creator plan.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "Alhena AI",
+        "tool_url": "https://alhena.ai/blog/ai-discount-lookup-active-promotions",
+        "code": "N/A",
+        "discount_amount": "Active promotions available",
+        "pricing_info": "N/A",
+        "key_features": "Provides a lookup service for AI-related discounts and promotions.",
+        "description": "Alhena AI is a resource that allows users to find and utilize active discounts and promotional codes specifically tailored for AI tools and services.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "Tabnine",
+        "tool_url": "https://aihotdeal.com/en",
+        "code": "N/A",
+        "discount_amount": "25% OFF",
+        "pricing_info": "Discount applied at checkout.",
+        "key_features": "AI code completion with enterprise-grade security.",
+        "description": "Tabnine is an AI-powered tool designed for developers, offering code completion features that enhance programming efficiency and security.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "Pieces for Developers",
+        "tool_url": "https://aihotdeal.com/en",
+        "code": "N/A",
+        "discount_amount": "20% OFF",
+        "pricing_info": "Discount available for a limited time.",
+        "key_features": "AI snippet management for developers.",
+        "description": "Pieces for Developers is an AI tool that helps software engineers manage and organize code snippets, improving workflow productivity.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "ChatGPT Plus for Veterans",
+        "tool_url": "https://www.layer3labs.io/ai-discounts",
+        "code": "N/A",
+        "discount_amount": "One full year free",
+        "pricing_info": "Free for eligible veterans and transitioning servicemembers",
+        "key_features": "Full year of service for verified individuals.",
+        "description": "This special offering of ChatGPT Plus for veterans provides complimentary access for a year as an incentive to support service members transitioning into civilian life.",
+        "category": "All-in-One AI"
     }
 ]

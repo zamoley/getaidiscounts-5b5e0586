@@ -1,5 +1,5 @@
 {
-  "Annual Midjourney Plans": {
+  "This code is currently active and can be applied to your subscription.": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
     "ja": "月額10ドルから",
@@ -10,7 +10,7 @@
     "zh": "起价$10/月",
     "it": "Da $10/mese"
   },
-  "20%": {
+  "30%": {
     "en": "20% OFF",
     "uk": "ЗНИЖКА 20%",
     "ja": "20%オフ",
@@ -65,7 +65,7 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "Offered to verified students and educators at a discount.": {
+  "Promo codes through official partners": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -76,7 +76,7 @@
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
   },
-  "discount for verified students and educators": {
+  "Discount for verified students and educators": {
     "en": "$10 Credit",
     "uk": "Кредит $10",
     "ja": "10ドルのクレジット",
@@ -153,7 +153,7 @@
     "zh": "免费额度",
     "it": "Crediti gratuiti"
   },
-  "Starting at $30/month": {
+  "Discount on subscription": {
     "en": "$22/mo (Annual)",
     "uk": "$22/міс (Річна)",
     "ja": "月額22ドル（年払い）",
@@ -163,6 +163,17 @@
     "de": "22 $/Monat (Jährlich)",
     "zh": "$22/月（年付）",
     "it": "$22/mese (Annuale)"
+  },
+  "30% OFF": {
+    "en": "35% OFF",
+    "uk": "ЗНИЖКА 35%",
+    "ja": "35% オフ",
+    "es": "35% DTO",
+    "pt": "35% DTO",
+    "fr": "35% DE RABAIS",
+    "de": "35% RABATT",
+    "zh": "35% 折扣",
+    "it": "35% DI SCONTO"
   },
   "From $0.14/SEC": {
     "en": "Contact for pricing",
@@ -505,7 +516,7 @@
     "zh": "免费或 19.99 美元/月",
     "it": "Gratis o $19.99/mese"
   },
-  "Starts at $35/month after the trial.": {
+  "Annual billing saves ~17% on the Chat plan": {
     "en": "Free or $36/mo Pro",
     "uk": "Безкоштовно або $36/міс Pro",
     "ja": "無料または月額36ドルのPro",
@@ -516,7 +527,7 @@
     "zh": "免费或 $36/月 专业版",
     "it": "Gratis o $36/mese Pro"
   },
-  "Free trial available": {
+  "$240/yr": {
     "en": "Writing Deal",
     "uk": "Угода на письмо",
     "ja": "ライティングセール",
@@ -604,6 +615,17 @@
     "zh": "89 美元/月起",
     "it": "A partire da $89/mese"
   },
+  "20%": {
+    "en": "33% OFF",
+    "uk": "ЗНИЖКА 33%",
+    "ja": "33% オフ",
+    "es": "33% DTO",
+    "pt": "33% DTO",
+    "fr": "33% DE RABAIS",
+    "de": "33% RABATT",
+    "zh": "33% 折扣",
+    "it": "33% DI SCONTO"
+  },
   "$14.99/mo": {
     "en": "$14.99/mo",
     "uk": "$14.99/міс",
@@ -636,17 +658,6 @@
     "de": "149 $/Monat",
     "zh": "149 美元/月",
     "it": "149 $/mese"
-  },
-  "30%": {
-    "en": "20% OFF",
-    "uk": "ЗНИЖКА 20%",
-    "ja": "20% オフ",
-    "es": "20% DTO",
-    "pt": "20% DTO",
-    "fr": "20% DE RABAIS",
-    "de": "20% RABATT",
-    "zh": "20% 折扣",
-    "it": "20% DI SCONTO"
   },
   "From $119.99/yr": {
     "en": "Starts at $119/year",
@@ -1704,6 +1715,17 @@
     "zh": "自定义价格方案",
     "it": "Piani tariffari personalizzati"
   },
+  "Free trial available": {
+    "en": "Free Trial Available",
+    "uk": "Доступна безкоштовна пробна версія",
+    "ja": "無料トライアルあり",
+    "es": "Prueba gratuita disponible",
+    "pt": "Teste Gratuito Disponível",
+    "fr": "Essai gratuit disponible",
+    "de": "Kostenlose Testversion verfügbar",
+    "zh": "提供免费试用",
+    "it": "Prova gratuita disponibile"
+  },
   "Try Select for just $14 for your first month — then $19/mo": {
     "en": "Starts at $5/prompt",
     "uk": "Від $5/промпт",
@@ -1726,7 +1748,7 @@
     "zh": "10 美元/小时起",
     "it": "A partire da $10/ora"
   },
-  "Free trial with paid plans starting at $15 per month": {
+  "Discount codes available, check for active promotions.": {
     "en": "Free Trial; Plans from $15/mo",
     "uk": "Пробна версія; Плани від $15/міс",
     "ja": "無料トライアルあり。プランは月額15ドルから",
@@ -1736,6 +1758,17 @@
     "de": "Kostenlose Testversion; Abos ab 15 $/Monat",
     "zh": "提供免费试用；套餐 15 美元/月起",
     "it": "Prova gratuita; piani a partire da $15/mese"
+  },
+  "25% OFF": {
+    "en": "50% OFF",
+    "uk": "50% знижки",
+    "ja": "50% OFF",
+    "es": "50% de descuento",
+    "pt": "50% de desconto",
+    "fr": "50 % de réduction",
+    "de": "50 % Rabatt",
+    "zh": "50% 折扣",
+    "it": "50% di sconto"
   },
   "Plans starting from $36 per month": {
     "en": "Starts at $36/month",
@@ -1990,7 +2023,7 @@
     "zh": "获得12个月的免费试用，然后在年度计划上享受折扣。",
     "it": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
   },
-  "Not specified": {
+  "Discount applies to Writer AI Detector service plans.": {
     "en": "14 active coupons and deals listed for May 2026.",
     "uk": "14 активних купонів та акцій, зазначених на травень 2026 року.",
     "ja": "2026年5月に掲載された14件のアクティブクーポンと特典。",
@@ -2045,7 +2078,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "$23.24/Month": {
+  "$20 flagship subscription tier": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "$20/月",
@@ -2056,7 +2089,7 @@
     "zh": "$20/月",
     "it": "$20/mese"
   },
-  "$23.24": {
+  "Active promotion": {
     "en": "N/A",
     "uk": "Немає",
     "ja": "該当なし",
@@ -2144,7 +2177,7 @@
     "zh": "适用于所有计划。",
     "it": "Applicabile a tutti i piani."
   },
-  "$20/month for 350+ AI models including Midjourney features": {
+  "Get 350+ AI models including Midjourney features for $20/mo with Krater.": {
     "en": "$7.50/month for access to over 350 AI models.",
     "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
     "ja": "350以上のAIモデルへのアクセスには月額7.50ドル。",
@@ -2881,7 +2914,7 @@
     "zh": "节省700美元以上",
     "it": "Risparmi superiori a $700"
   },
-  "Various subscription plans available with potential savings.": {
+  "Valid Quillbot discount codes for various subscription plans.": {
     "en": "Various subscription plans available",
     "uk": "Доступні різні плани підписки",
     "ja": "さまざまなサブスクリプションプランがあります",
@@ -2892,7 +2925,18 @@
     "zh": "提供多种订阅计划",
     "it": "Vari piani di abbonamento disponibili"
   },
-  "Get full access for just $6.49 for your first month.": {
+  "Not specified": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "N/A",
+    "es": "N/A",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "不适用",
+    "it": "N/D"
+  },
+  "$6.49 for the first month": {
     "en": "$6.49 for the first month",
     "uk": "$6.49 за перший місяць",
     "ja": "最初の月は6.49ドル",
@@ -2981,17 +3025,17 @@
     "it": "$21.12"
   },
   "$119": {
-    "en": "$119",
-    "uk": "$119",
-    "ja": "$119",
-    "es": "$119",
-    "pt": "$119",
-    "fr": "$119",
-    "de": "$119",
-    "zh": "$119",
-    "it": "$119"
+    "en": "Start for free",
+    "uk": "Почніть безкоштовно",
+    "ja": "無料で始める",
+    "es": "Comienza gratis",
+    "pt": "Comece gratuitamente",
+    "fr": "Commencez gratuitement",
+    "de": "Kostenlos starten",
+    "zh": "免费开始",
+    "it": "Inizia gratuitamente"
   },
-  "$1,500 Free Credits": {
+  "$1500 Free Credits": {
     "en": "$1,500 Free Credits",
     "uk": "$1,500 безкоштовних кредитів",
     "ja": "$1,500の無料クレジット",
@@ -3001,6 +3045,17 @@
     "de": "$1.500 kostenlose Kredite",
     "zh": "$1,500免费信用",
     "it": "$1.500 di crediti gratuiti"
+  },
+  "$1500 in free credits": {
+    "en": "50%",
+    "uk": "50%",
+    "ja": "50%",
+    "es": "50%",
+    "pt": "50%",
+    "fr": "50%",
+    "de": "50%",
+    "zh": "50%",
+    "it": "50%"
   },
   "First year of annual subscription.": {
     "en": "First year of annual subscription.",
@@ -3023,6 +3078,17 @@
     "de": "3 Monate kostenlos",
     "zh": "免费3个月",
     "it": "3 mesi gratuiti"
+  },
+  "Half price for professional images": {
+    "en": "$61",
+    "uk": "$61",
+    "ja": "$61",
+    "es": "$61",
+    "pt": "$61",
+    "fr": "$61",
+    "de": "$61",
+    "zh": "$61",
+    "it": "$61"
   },
   "Get a significant 50% discount": {
     "en": "Get a significant 50% discount.",
@@ -3079,7 +3145,7 @@
     "zh": "7天免费试用",
     "it": "Prova gratuita di 7 giorni"
   },
-  "$11 monthly": {
+  "$11 per month": {
     "en": "$11 monthly",
     "uk": "$11 на місяць",
     "ja": "月額 11 ドル",
@@ -3089,6 +3155,17 @@
     "de": "11 $ pro Monat",
     "zh": "每月 11 美元",
     "it": "11 $ al mese"
+  },
+  "$11 monthly": {
+    "en": "N/A",
+    "uk": "Немає",
+    "ja": "該当なし",
+    "es": "N/A",
+    "pt": "N/D",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "不适用",
+    "it": "N/D"
   },
   "12 months free (33 million characters of free access)": {
     "en": "12 months free (33 million characters of free access)",
@@ -3123,7 +3200,7 @@
     "zh": "通过延长试用期获得2个月的免费使用。",
     "it": "Ottieni 2 mesi gratuiti con prove estese."
   },
-  "$8 per user, per month for organizations buying fewer than 20 seats": {
+  "$8 per user, per month for organizations buying fewer than 20 seats.": {
     "en": "$8 per user, per month for organizations buying fewer than 20 seats.",
     "uk": "$8 за користувача на місяць для організацій, що купують менше 20 місць.",
     "ja": "20席未満を購入する組織に対し、1ユーザーあたり月額8ドル。",
@@ -3178,17 +3255,6 @@
     "zh": "具有不同层级的订阅。",
     "it": "Abbonamento con vari livelli."
   },
-  "30% OFF": {
-    "en": "30% OFF",
-    "uk": "Знижка 30%",
-    "ja": "30%割引",
-    "es": "30% de descuento",
-    "pt": "30% de desconto",
-    "fr": "30% de réduction",
-    "de": "30% Rabatt",
-    "zh": "优惠30%",
-    "it": "30% di sconto"
-  },
   "$20/mo": {
     "en": "$20/mo",
     "uk": "$20/місяць",
@@ -3221,6 +3287,83 @@
     "de": "Bis zu 60% Rabatt",
     "zh": "最高60％的折扣",
     "it": "Fino al 60% di sconto"
+  },
+  "Paid limits after the free trial": {
+    "en": "Paid limits after the free trial",
+    "uk": "Оплачувані ліміти після безкоштовної пробної версії",
+    "ja": "無料トライアル後は有料制限があります",
+    "es": "Límites de pago después de la prueba gratuita",
+    "pt": "Limites pagos após o teste gratuito",
+    "fr": "Limites payants après l'essai gratuit",
+    "de": "Bezahlte Grenzen nach der kostenlosen Testversion",
+    "zh": "免费试用后收取费用",
+    "it": "Limiti a pagamento dopo la prova gratuita"
+  },
+  "Discount on first month of Creator plan": {
+    "en": "Discount on first month of Creator plan",
+    "uk": "Знижка на перший місяць плану Creator",
+    "ja": "クリエイタープランの初回月に割引",
+    "es": "Descuento en el primer mes del plan Creador",
+    "pt": "Desconto no primeiro mês do plano Criador",
+    "fr": "Réduction sur le premier mois du plan Créateur",
+    "de": "Rabatt auf den ersten Monat des Creator-Plans",
+    "zh": "创作者计划首月优惠",
+    "it": "Sconto sul primo mese del piano Creatore"
+  },
+  "Active promotions available": {
+    "en": "Active promotions available.",
+    "uk": "Доступні активні акції.",
+    "ja": "利用可能なアクティブなプロモーション。",
+    "es": "Promociones activas disponibles.",
+    "pt": "Promoções ativas disponíveis.",
+    "fr": "Promotions actives disponibles.",
+    "de": "Aktive Aktionen verfügbar.",
+    "zh": "可用的活跃促销。",
+    "it": "Promozioni attive disponibili."
+  },
+  "Discount applied at checkout.": {
+    "en": "Discount applied at checkout.",
+    "uk": "Знижка застосовується при оформленні замовлення.",
+    "ja": "チェックアウト時に割引が適用されます。",
+    "es": "Descuento aplicado en la caja.",
+    "pt": "Desconto aplicado no checkout.",
+    "fr": "Remise appliquée à la caisse.",
+    "de": "Rabatt beim Checkout angewendet.",
+    "zh": "折扣在结账时应用。",
+    "it": "Sconto applicato al checkout."
+  },
+  "Discount available for a limited time.": {
+    "en": "Discount available for a limited time.",
+    "uk": "Знижка доступна протягом обмеженого часу.",
+    "ja": "割引は期間限定で提供されています。",
+    "es": "Descuento disponible por tiempo limitado.",
+    "pt": "Desconto disponível por tempo limitado.",
+    "fr": "Réduction disponible pour une durée limitée.",
+    "de": "Rabatt nur für eine begrenzte Zeit verfügbar.",
+    "zh": "折扣仅在有限时间内有效。",
+    "it": "Sconto disponibile per un tempo limitato."
+  },
+  "Free for eligible veterans and transitioning servicemembers": {
+    "en": "Free for eligible veterans and transitioning servicemembers",
+    "uk": "Безкоштовно для відповідних ветеранів та військовослужбовців у процесі переходу",
+    "ja": "対象となる退役軍人および移行中の軍人向けは無料です。",
+    "es": "Gratis para veteranos elegibles y miembros del servicio en transición.",
+    "pt": "Gratuito para veteranos elegíveis e membros das forças armadas em transição.",
+    "fr": "Gratuit pour les anciens combattants éligibles et les membres des services en transition.",
+    "de": "Kostenlos für berechtigte Veteranen und wechselnde Dienstmitglieder.",
+    "zh": "符合条件的退伍军人和过渡中的服务人员免费。",
+    "it": "Gratuito per i veterani idonei e i membri del servizio in transizione."
+  },
+  "One full year free": {
+    "en": "One full year free",
+    "uk": "Один рік безкоштовно",
+    "ja": "1年間無料",
+    "es": "Un año completo gratis",
+    "pt": "Um ano inteiro grátis",
+    "fr": "Une année complète gratuite",
+    "de": "Ein ganzes Jahr kostenlos",
+    "zh": "免费一年",
+    "it": "Un anno intero gratuito"
   },
   "Midjourney": {
     "en": {
@@ -18004,6 +18147,342 @@
       "features": "Piattaforma di visione artificiale end-to-end per il riconoscimento delle immagini in tempo reale e l'automazione industriale.",
       "badge": "Fino al 60% di sconto",
       "pricing": "Dettagli sui prezzi non specificati."
+    }
+  },
+  "SuperGrok": {
+    "en": {
+      "description": "SuperGrok is an advanced coding assistant that leverages AI to simplify and enhance the coding process.",
+      "features": "Free trial available, Grok 4.5 features included.",
+      "badge": "7-day free trial",
+      "pricing": "Paid limits after the free trial"
+    },
+    "uk": {
+      "description": "SuperGrok — це розширений асистент кодування, який використовує ШІ для спрощення та покращення процесу кодування.",
+      "features": "Доступна безкоштовна пробна версія, включено можливості Grok 4.5.",
+      "badge": "7-дневна безкоштовна пробна версія",
+      "pricing": "Оплачувані ліміти після безкоштовної пробної версії"
+    },
+    "ja": {
+      "description": "SuperGrokは、コーディングプロセスを簡素化し、強化するためにAIを活用した高度なコーディングアシスタントです。",
+      "features": "無料トライアルが利用可能で、Grok 4.5の機能が含まれています。",
+      "badge": "7日間の無料トライアル",
+      "pricing": "無料トライアル後は有料制限があります"
+    },
+    "es": {
+      "description": "SuperGrok es un asistente de programación avanzado que aprovecha la IA para simplificar y mejorar el proceso de codificación.",
+      "features": "Prueba gratuita disponible, características de Grok 4.5 incluidas.",
+      "badge": "Prueba gratuita de 7 días",
+      "pricing": "Límites de pago después de la prueba gratuita"
+    },
+    "pt": {
+      "description": "SuperGrok é um assistente de codificação avançado que utiliza a IA para simplificar e aprimorar o processo de codificação.",
+      "features": "Teste gratuito disponível, recursos do Grok 4.5 incluídos.",
+      "badge": "Teste gratuito de 7 dias",
+      "pricing": "Limites pagos após o teste gratuito"
+    },
+    "fr": {
+      "description": "SuperGrok est un assistant de codage avancé qui utilise l'IA pour simplifier et améliorer le processus de codage.",
+      "features": "Essai gratuit disponible, fonctionnalités de Grok 4.5 incluses.",
+      "badge": "Essai gratuit de 7 jours",
+      "pricing": "Limites payants après l'essai gratuit"
+    },
+    "de": {
+      "description": "SuperGrok ist ein fortschrittlicher Codierassistent, der KI nutzt, um den Codierungsprozess zu vereinfachen und zu verbessern.",
+      "features": "Kostenlose Testversion verfügbar, Grok 4.5-Funktionen enthalten.",
+      "badge": "7-tägige kostenlose Testversion",
+      "pricing": "Bezahlte Grenzen nach der kostenlosen Testversion"
+    },
+    "zh": {
+      "description": "SuperGrok是一个高级编码助手，利用人工智能简化和增强编码过程。",
+      "features": "提供免费试用，包含Grok 4.5的功能。",
+      "badge": "7天免费试用",
+      "pricing": "免费试用后收取费用"
+    },
+    "it": {
+      "description": "SuperGrok è un assistente di programmazione avanzato che sfrutta l'IA per semplificare e migliorare il processo di codifica.",
+      "features": "Prova gratuita disponibile, funzionalità di Grok 4.5 incluse.",
+      "badge": "Prova gratuita di 7 giorni",
+      "pricing": "Limiti a pagamento dopo la prova gratuita"
+    }
+  },
+  "ElevenLabs Promo Code": {
+    "en": {
+      "description": "This ElevenLabs promo code allows new subscribers to enjoy significant discounts when signing up for the Creator plan.",
+      "features": "Receive up to 50% off your first month and additional ongoing discounts.",
+      "badge": "50% OFF",
+      "pricing": "Discount on first month of Creator plan"
+    },
+    "uk": {
+      "description": "Цей промокод ElevenLabs дозволяє новим підписникам отримати значні знижки при підписці на план Creator.",
+      "features": "Отримуйте до 50% знижки на перший місяць та додаткові постійні знижки.",
+      "badge": "50% ЗНИЖКИ",
+      "pricing": "Знижка на перший місяць плану Creator"
+    },
+    "ja": {
+      "description": "このElevenLabsプロモコードを使用すると、新規加入者はクリエイタープランにサインアップする際に大きな割引を享受できます。",
+      "features": "最初の月は最大50％オフで、さらに継続的な割引を受け取ります。",
+      "badge": "50%オフ",
+      "pricing": "クリエイタープランの初回月に割引"
+    },
+    "es": {
+      "description": "Este código promocional de ElevenLabs permite a los nuevos suscriptores disfrutar de descuentos significativos al registrarse en el plan Creador.",
+      "features": "Recibe hasta un 50% de descuento en tu primer mes y descuentos adicionales continuos.",
+      "badge": "50% DE DESCUENTO",
+      "pricing": "Descuento en el primer mes del plan Creador"
+    },
+    "pt": {
+      "description": "Este código promocional da ElevenLabs permite que novos assinantes desfrutem de descontos significativos ao se inscrever no plano Criador.",
+      "features": "Receba até 50% de desconto no seu primeiro mês e descontos adicionais contínuos.",
+      "badge": "50% DE DESCONTO",
+      "pricing": "Desconto no primeiro mês do plano Criador"
+    },
+    "fr": {
+      "description": "Ce code promo ElevenLabs permet aux nouveaux abonnés de bénéficier de réductions significatives lors de l'inscription au plan Créateur.",
+      "features": "Recevez jusqu'à 50 % de réduction sur votre premier mois et des réductions supplémentaires en cours.",
+      "badge": "50% DE RÉDUCTION",
+      "pricing": "Réduction sur le premier mois du plan Créateur"
+    },
+    "de": {
+      "description": "Dieser ElevenLabs-Promocode ermöglicht es neuen Abonnenten, beim Sign-up für den Creator-Plan erhebliche Rabatte zu genießen.",
+      "features": "Erhalten Sie bis zu 50 % Rabatt auf Ihren ersten Monat und zusätzliche laufende Rabatte.",
+      "badge": "50% RABATT",
+      "pricing": "Rabatt auf den ersten Monat des Creator-Plans"
+    },
+    "zh": {
+      "description": "此ElevenLabs优惠码允许新订阅者在注册创作者计划时享受显著折扣。",
+      "features": "首次订阅可享受高达50%的折扣，并可获得额外的持续折扣。",
+      "badge": "50%折扣",
+      "pricing": "创作者计划首月优惠"
+    },
+    "it": {
+      "description": "Questo codice promozionale di ElevenLabs consente ai nuovi abbonati di godere di sconti significativi quando si iscrivono al piano Creatore.",
+      "features": "Ricevi fino al 50% di sconto sul tuo primo mese e ulteriori sconti continuativi.",
+      "badge": "50% DI SCONTO",
+      "pricing": "Sconto sul primo mese del piano Creatore"
+    }
+  },
+  "Alhena AI": {
+    "en": {
+      "description": "Alhena AI is a resource that allows users to find and utilize active discounts and promotional codes specifically tailored for AI tools and services.",
+      "features": "Provides a lookup service for AI-related discounts and promotions.",
+      "badge": "Active promotions available.",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Alhena ШІ – це ресурс, що дозволяє користувачам знаходити та використовувати активні знижки і промо-коди, спеціально розроблені для ШІ-інструментів та послуг.",
+      "features": "Надає сервіс пошуку знижок та акцій, пов'язаних з ШІ.",
+      "badge": "Доступні активні акції.",
+      "pricing": "Ні"
+    },
+    "ja": {
+      "description": "Alhena AIは、ユーザーがAIツールやサービス専用のアクティブな割引やプロモコードを見つけて活用できるリソースです。",
+      "features": "AI関連の割引やプロモーションの検索サービスを提供します。",
+      "badge": "利用可能なアクティブなプロモーション。",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Alhena AI es un recurso que permite a los usuarios encontrar y utilizar descuentos activos y códigos promocionales específicamente diseñados para herramientas y servicios de IA.",
+      "features": "Proporciona un servicio de búsqueda de descuentos y promociones relacionadas con la IA.",
+      "badge": "Promociones activas disponibles.",
+      "pricing": "N/D"
+    },
+    "pt": {
+      "description": "Alhena AI é um recurso que permite aos usuários encontrar e utilizar descontos e códigos promocionais ativos especificamente voltados para ferramentas e serviços de IA.",
+      "features": "Fornece um serviço de pesquisa de descontos e promoções relacionados à IA.",
+      "badge": "Promoções ativas disponíveis.",
+      "pricing": "N/D"
+    },
+    "fr": {
+      "description": "Alhena AI est une ressource qui permet aux utilisateurs de trouver et d'utiliser des remises et des codes promotionnels actifs spécifiquement conçus pour les outils et services d'IA.",
+      "features": "Fournit un service de recherche de remises et de promotions liées à l'IA.",
+      "badge": "Promotions actives disponibles.",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Alhena AI ist eine Ressource, die es Benutzern ermöglicht, aktive Rabatte und Aktionscodes zu finden und zu nutzen, die speziell für KI-Tools und -Dienste erstellt wurden.",
+      "features": "Bietet einen Suchdienst für KI-bezogene Rabatte und Aktionen an.",
+      "badge": "Aktive Aktionen verfügbar.",
+      "pricing": "Nicht verfügbar"
+    },
+    "zh": {
+      "description": "Alhena AI 是一个资源，让用户能够找到并利用专门为人工智能工具和服务量身定制的活跃折扣和促销代码。",
+      "features": "提供与人工智能相关的折扣和促销的查询服务。",
+      "badge": "可用的活跃促销。",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "Alhena AI è una risorsa che consente agli utenti di trovare e utilizzare sconti attivi e codici promozionali specificamente progettati per strumenti e servizi di intelligenza artificiale.",
+      "features": "Fornisce un servizio di ricerca di sconti e promozioni legate all'IA.",
+      "badge": "Promozioni attive disponibili.",
+      "pricing": "N/D"
+    }
+  },
+  "Tabnine": {
+    "en": {
+      "description": "Tabnine is an AI-powered tool designed for developers, offering code completion features that enhance programming efficiency and security.",
+      "features": "AI code completion with enterprise-grade security.",
+      "badge": "25% OFF",
+      "pricing": "Discount applied at checkout."
+    },
+    "uk": {
+      "description": "Tabnine — це інструмент на основі ШІ, розроблений для розробників, який пропонує функції завершення коду, що підвищують ефективність програмування та безпеку.",
+      "features": "Завершення коду на основі ШІ з безпекою корпоративного рівня.",
+      "badge": "25% ЗНИЖКА",
+      "pricing": "Знижка застосовується при оформленні замовлення."
+    },
+    "ja": {
+      "description": "Tabnineは開発者向けに設計されたAI搭載ツールであり、プログラミングの効率とセキュリティを向上させるコード補完機能を提供します。",
+      "features": "エンタープライズグレードのセキュリティを備えたAIコード補完。",
+      "badge": "25% オフ",
+      "pricing": "チェックアウト時に割引が適用されます。"
+    },
+    "es": {
+      "description": "Tabnine es una herramienta impulsada por IA diseñada para desarrolladores, que ofrece funciones de finalización de código que mejoran la eficiencia y seguridad en programación.",
+      "features": "Finalización de código con IA con seguridad de nivel empresarial.",
+      "badge": "25% de descuento",
+      "pricing": "Descuento aplicado en la caja."
+    },
+    "pt": {
+      "description": "Tabnine é uma ferramenta impulsionada por IA projetada para desenvolvedores, oferecendo recursos de conclusão de código que aumentam a eficiência e segurança da programação.",
+      "features": "Conclusão de código com IA com segurança de nível empresarial.",
+      "badge": "25% de desconto",
+      "pricing": "Desconto aplicado no checkout."
+    },
+    "fr": {
+      "description": "Tabnine est un outil alimenté par l'IA conçu pour les développeurs, offrant des fonctionnalités de complétion de code qui améliorent l'efficacité et la sécurité de la programmation.",
+      "features": "Complétion de code par IA avec sécurité de niveau entreprise.",
+      "badge": "25% de réduction",
+      "pricing": "Remise appliquée à la caisse."
+    },
+    "de": {
+      "description": "Tabnine ist ein KI-gestütztes Tool, das für Entwickler entwickelt wurde und Funktionen zur Codevervollständigung bietet, die die Programmierungseffizienz und -sicherheit verbessern.",
+      "features": "KI-Codevervollständigung mit Unternehmenssicherheit.",
+      "badge": "25% Rabatt",
+      "pricing": "Rabatt beim Checkout angewendet."
+    },
+    "zh": {
+      "description": "Tabnine是一个旨在为开发者服务的人工智能驱动工具，提供代码补全功能，提高编程效率和安全性。",
+      "features": "具有企业级安全性的人工智能代码补全。",
+      "badge": "打折25%",
+      "pricing": "折扣在结账时应用。"
+    },
+    "it": {
+      "description": "Tabnine è uno strumento alimentato da IA progettato per sviluppatori, che offre funzionalità di completamento del codice che migliorano l'efficienza e la sicurezza della programmazione.",
+      "features": "Completamento del codice AI con sicurezza di livello aziendale.",
+      "badge": "25% di sconto",
+      "pricing": "Sconto applicato al checkout."
+    }
+  },
+  "Pieces for Developers": {
+    "en": {
+      "description": "Pieces for Developers is an AI tool that helps software engineers manage and organize code snippets, improving workflow productivity.",
+      "features": "AI snippet management for developers.",
+      "badge": "20% OFF",
+      "pricing": "Discount available for a limited time."
+    },
+    "uk": {
+      "description": "Pieces for Developers – це ШІ-інструмент, який допомагає програмістам керувати та організовувати фрагменти коду, покращуючи продуктивність робочого процесу.",
+      "features": "Управління фрагментами коду з використанням ШІ для розробників.",
+      "badge": "Знижка 20%",
+      "pricing": "Знижка доступна протягом обмеженого часу."
+    },
+    "ja": {
+      "description": "Pieces for Developersは、ソフトウェアエンジニアがコードスニペットを管理および整理するのを支援し、ワークフローの生産性を向上させるAIツールです。",
+      "features": "開発者のためのAIスニペット管理。",
+      "badge": "20%オフ",
+      "pricing": "割引は期間限定で提供されています。"
+    },
+    "es": {
+      "description": "Pieces for Developers es una herramienta de IA que ayuda a los ingenieros de software a gestionar y organizar fragmentos de código, mejorando la productividad del flujo de trabajo.",
+      "features": "Gestión de fragmentos de código con IA para desarrolladores.",
+      "badge": "20% de descuento",
+      "pricing": "Descuento disponible por tiempo limitado."
+    },
+    "pt": {
+      "description": "Pieces for Developers é uma ferramenta de IA que ajuda engenheiros de software a gerenciar e organizar trechos de código, melhorando a produtividade do fluxo de trabalho.",
+      "features": "Gerenciamento de trechos de código com IA para desenvolvedores.",
+      "badge": "20% de desconto",
+      "pricing": "Desconto disponível por tempo limitado."
+    },
+    "fr": {
+      "description": "Pieces for Developers est un outil d'IA qui aide les ingénieurs logiciels à gérer et organiser des extraits de code, améliorant ainsi la productivité du flux de travail.",
+      "features": "Gestion des extraits de code avec IA pour les développeurs.",
+      "badge": "20% de réduction",
+      "pricing": "Réduction disponible pour une durée limitée."
+    },
+    "de": {
+      "description": "Pieces for Developers ist ein KI-Tool, das Software-Ingenieuren hilft, Codeschnipsel zu verwalten und zu organisieren und so die Produktivität des Arbeitsablaufs zu verbessern.",
+      "features": "KI-Snippet-Verwaltung für Entwickler.",
+      "badge": "20% Rabatt",
+      "pricing": "Rabatt nur für eine begrenzte Zeit verfügbar."
+    },
+    "zh": {
+      "description": "Pieces for Developers是一款帮助软件工程师管理和组织代码片段的人工智能工具，提高工作流程的生产力。",
+      "features": "为开发人员提供的人工智能代码片段管理。",
+      "badge": "八折优惠",
+      "pricing": "折扣仅在有限时间内有效。"
+    },
+    "it": {
+      "description": "Pieces for Developers è uno strumento di IA che aiuta gli ingegneri del software a gestire e organizzare frammenti di codice, migliorando la produttività del flusso di lavoro.",
+      "features": "Gestione dei frammenti di codice con IA per sviluppatori.",
+      "badge": "20% di sconto",
+      "pricing": "Sconto disponibile per un tempo limitato."
+    }
+  },
+  "ChatGPT Plus for Veterans": {
+    "en": {
+      "description": "This special offering of ChatGPT Plus for veterans provides complimentary access for a year as an incentive to support service members transitioning into civilian life.",
+      "features": "Full year of service for verified individuals.",
+      "badge": "One full year free",
+      "pricing": "Free for eligible veterans and transitioning servicemembers"
+    },
+    "uk": {
+      "description": "Ця спеціальна пропозиція ChatGPT Plus для ветеранів надає безкоштовний доступ на рік як стимул для підтримки військовослужбовців, які переходять до цивільного життя.",
+      "features": "Повний рік обслуговування для перевірених осіб.",
+      "badge": "Один рік безкоштовно",
+      "pricing": "Безкоштовно для відповідних ветеранів та військовослужбовців у процесі переходу"
+    },
+    "ja": {
+      "description": "退役軍人向けのChatGPT Plusの特別提供は、民間生活に移行するサービスメンバーを支援するインセンティブとして、1年間の無料アクセスを提供します。",
+      "features": "認証された個人に対して1年間のサービスを提供します。",
+      "badge": "1年間無料",
+      "pricing": "対象となる退役軍人および移行中の軍人向けは無料です。"
+    },
+    "es": {
+      "description": "Esta oferta especial de ChatGPT Plus para veteranos proporciona acceso gratuito durante un año como incentivo para apoyar a los miembros de servicio que se están trasladando a la vida civil.",
+      "features": "Un año completo de servicio para individuos verificados.",
+      "badge": "Un año completo gratis",
+      "pricing": "Gratis para veteranos elegibles y miembros del servicio en transición."
+    },
+    "pt": {
+      "description": "Esta oferta especial do ChatGPT Plus para veteranos fornece acesso gratuito por um ano como um incentivo para apoiar membros das forças armadas em transição para a vida civil.",
+      "features": "Um ano completo de serviço para indivíduos verificados.",
+      "badge": "Um ano inteiro grátis",
+      "pricing": "Gratuito para veteranos elegíveis e membros das forças armadas em transição."
+    },
+    "fr": {
+      "description": "Cette offre spéciale de ChatGPT Plus pour les anciens combattants offre un accès gratuit pendant un an en tant qu'incitation à soutenir les membres des services qui passent à la vie civile.",
+      "features": "Une année complète de service pour les individus vérifiés.",
+      "badge": "Une année complète gratuite",
+      "pricing": "Gratuit pour les anciens combattants éligibles et les membres des services en transition."
+    },
+    "de": {
+      "description": "Dieses spezielle Angebot von ChatGPT Plus für Veteranen bietet ein Jahr kostenlosen Zugang als Anreiz, um Dienstmitglieder bei der Übergangsphase ins Zivilleben zu unterstützen.",
+      "features": "Ein volles Jahr Service für verifizierte Personen.",
+      "badge": "Ein ganzes Jahr kostenlos",
+      "pricing": "Kostenlos für berechtigte Veteranen und wechselnde Dienstmitglieder."
+    },
+    "zh": {
+      "description": "为退伍军人提供的ChatGPT Plus特别优惠为过渡到平民生活的服务人员提供为期一年的免费访问，以作为一种激励。",
+      "features": "为经过验证的个人提供一整年的服务。",
+      "badge": "免费一年",
+      "pricing": "符合条件的退伍军人和过渡中的服务人员免费。"
+    },
+    "it": {
+      "description": "Questa offerta speciale di ChatGPT Plus per i veterani fornisce accesso gratuito per un anno come incentivo per supportare i membri del servizio che si stanno trasferendo nella vita civile.",
+      "features": "Un anno intero di servizio per individui verificati.",
+      "badge": "Un anno intero gratuito",
+      "pricing": "Gratuito per i veterani idonei e i membri del servizio in transizione."
     }
   }
 }
