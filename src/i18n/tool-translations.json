@@ -1,5 +1,5 @@
 {
-  "This code is currently active and can be applied to your subscription.": {
+  "$20/mo for 350+ AI models including Midjourney features.": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
     "ja": "月額10ドルから",
@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "1-year access": {
+  "Available for any plan for 3 months": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "$700+": {
+  "50% OFF": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -65,7 +65,7 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "Promo codes through official partners": {
+  "Discounts available for verified students and educators.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -76,7 +76,7 @@
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
   },
-  "Discount for verified students and educators": {
+  "Varies": {
     "en": "$10 Credit",
     "uk": "Кредит $10",
     "ja": "10ドルのクレジット",
@@ -428,6 +428,28 @@
     "zh": "33% 折扣",
     "it": "33% DI SCONTO"
   },
+  "1-year access": {
+    "en": "From $11.58 /mo",
+    "uk": "Від $11.58 /міс",
+    "ja": "月額11.58ドルから",
+    "es": "Desde $11.58 /mes",
+    "pt": "A partir de $11.58 /mês",
+    "fr": "À partir de 11,58 $/mois",
+    "de": "Ab 11,58 $/Monat",
+    "zh": "11.58 美元/月起",
+    "it": "Da $11.58 /mese"
+  },
+  "$700+": {
+    "en": "Best Value",
+    "uk": "Найкраща ціна",
+    "ja": "ベストバリュー",
+    "es": "Mejor valor",
+    "pt": "Melhor Valor",
+    "fr": "Meilleur rapport qualité-prix",
+    "de": "Bestes Preis-Leistungs-Verhältnis",
+    "zh": "最佳性价比",
+    "it": "Miglior valore"
+  },
   "Usage Credit": {
     "en": "AI Compute",
     "uk": "Обчислення ШІ",
@@ -725,7 +747,7 @@
     "zh": "艺术优惠",
     "it": "Offerta arte"
   },
-  "First 3 months subscription": {
+  "3 Months Deal": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -989,17 +1011,6 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
-  "50% OFF": {
-    "en": "AI Assistant",
-    "uk": "ШІ-асистент",
-    "ja": "AIアシスタント",
-    "es": "Asistente de IA",
-    "pt": "Assistente de IA",
-    "fr": "Assistant IA",
-    "de": "KI-Assistent",
-    "zh": "AI 助手",
-    "it": "Assistente IA"
-  },
   "Save up to 17% by paying for a full year upfront": {
     "en": "$20/month",
     "uk": "$20/місяць",
@@ -1220,7 +1231,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "$240 Value for Pro Plan": {
+  "Up to 50% off on annual plans": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -2023,7 +2034,7 @@
     "zh": "获得12个月的免费试用，然后在年度计划上享受折扣。",
     "it": "Ottieni una prova gratuita di 12 mesi seguita da uno sconto sui piani annuali."
   },
-  "Discount applies to Writer AI Detector service plans.": {
+  "Lower costs on all Writer AI subscription plans.": {
     "en": "14 active coupons and deals listed for May 2026.",
     "uk": "14 активних купонів та акцій, зазначених на травень 2026 року.",
     "ja": "2026年5月に掲載された14件のアクティブクーポンと特典。",
@@ -2033,6 +2044,17 @@
     "de": "14 aktive Coupons und Angebote, die für Mai 2026 aufgeführt sind.",
     "zh": "列出14个有效的优惠券和交易，适用于2026年5月。",
     "it": "14 coupon e offerte attive elencate per maggio 2026."
+  },
+  "18%": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/D",
+    "pt": "N/D",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "不适用",
+    "it": "N/D"
   },
   "7 active promo codes available for March 2026.": {
     "en": "7 active AI Lawyer promo codes for March 2026.",
@@ -2353,7 +2375,7 @@
     "zh": "起价3美元",
     "it": "A partire da 3$"
   },
-  "Various pricing models available": {
+  "8.3 out of 10 based on user ratings.": {
     "en": "N/A",
     "uk": "Н/Д",
     "ja": "該当なし",
@@ -2517,17 +2539,6 @@
     "de": "Angebote für Abonnementpläne.",
     "zh": "订阅计划的交易。",
     "it": "Offerte sui piani di abbonamento."
-  },
-  "Varies": {
-    "en": "Varies",
-    "uk": "Змінюється",
-    "ja": "さまざま",
-    "es": "Varía",
-    "pt": "Varia",
-    "fr": "Varie",
-    "de": "Variiert",
-    "zh": "多种多样",
-    "it": "Varia"
   },
   "$7.50/mo for access to 350+ AI models.": {
     "en": "$7.50/mo for access to 350+ AI models.",
@@ -2936,7 +2947,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "$6.49 for the first month": {
+  "$6.49 for your first month.": {
     "en": "$6.49 for the first month",
     "uk": "$6.49 за перший місяць",
     "ja": "最初の月は6.49ドル",
@@ -3200,7 +3211,7 @@
     "zh": "通过延长试用期获得2个月的免费使用。",
     "it": "Ottieni 2 mesi gratuiti con prove estese."
   },
-  "$8 per user, per month for organizations buying fewer than 20 seats.": {
+  "$8 per user, per month for organizations buying fewer than 20 seats": {
     "en": "$8 per user, per month for organizations buying fewer than 20 seats.",
     "uk": "$8 за користувача на місяць для організацій, що купують менше 20 місць.",
     "ja": "20席未満を購入する組織に対し、1ユーザーあたり月額8ドル。",
@@ -3211,7 +3222,7 @@
     "zh": "每个用户每月8美元，适用于购买少于20个名额的组织。",
     "it": "$8 per utente al mese per le organizzazioni che acquistano meno di 20 posti."
   },
-  "$12 to $17 per user per month": {
+  "$12 - $17 per user": {
     "en": "$5k Credits",
     "uk": "$5k Кредити",
     "ja": "$5k クレジット",
@@ -3232,6 +3243,17 @@
     "de": "$24",
     "zh": "$24",
     "it": "$24"
+  },
+  "8.0 out of 10 based on user ratings.": {
+    "en": "Various pricing models available.",
+    "uk": "Доступні різні моделі ціноутворення.",
+    "ja": "さまざまな価格モデルが利用可能です。",
+    "es": "Se encuentran disponibles varios modelos de precios.",
+    "pt": "Vários modelos de preços disponíveis.",
+    "fr": "Différents modèles de tarification disponibles.",
+    "de": "Verschiedene Preismodelle verfügbar.",
+    "zh": "提供多种定价模型。",
+    "it": "Vari modelli di prezzo disponibili."
   },
   "Subscription-based pricing.": {
     "en": "Subscription-based pricing.",
@@ -3299,7 +3321,7 @@
     "zh": "免费试用后收取费用",
     "it": "Limiti a pagamento dopo la prova gratuita"
   },
-  "Discount on first month of Creator plan": {
+  "12 months free with 33 million characters included.": {
     "en": "Discount on first month of Creator plan",
     "uk": "Знижка на перший місяць плану Creator",
     "ja": "クリエイタープランの初回月に割引",
@@ -3364,6 +3386,94 @@
     "de": "Ein ganzes Jahr kostenlos",
     "zh": "免费一年",
     "it": "Un anno intero gratuito"
+  },
+  "Free tier includes 10 minutes of access per month": {
+    "en": "Free tier includes 10 minutes of access per month",
+    "uk": "Безкоштовний рівень включає 10 хвилин доступу на місяць",
+    "ja": "無料プランには月あたり10分のアクセスが含まれます",
+    "es": "El nivel gratuito incluye 10 minutos de acceso por mes",
+    "pt": "O plano gratuito inclui 10 minutos de acesso por mês",
+    "fr": "Le niveau gratuit comprend 10 minutes d'accès par mois",
+    "de": "Das kostenlose Kontingent umfasst 10 Minuten Zugang pro Monat",
+    "zh": "免费套餐每月包括10分钟的访问",
+    "it": "Il piano gratuito include 10 minuti di accesso al mese"
+  },
+  "Save up to $1,497/year.": {
+    "en": "Save up to $1,497/year.",
+    "uk": "Заощаджуйте до $1,497 на рік.",
+    "ja": "年間最大$1,497の節約。",
+    "es": "Ahorra hasta $1,497/año.",
+    "pt": "Economize até $1,497/ano.",
+    "fr": "Économisez jusqu'à 1 497 $/an.",
+    "de": "Sparen Sie bis zu 1.497 $/Jahr.",
+    "zh": "每年节省高达1,497美元。",
+    "it": "Risparmia fino a $1,497/anno."
+  },
+  "25% CASHBACK": {
+    "en": "25% CASHBACK",
+    "uk": "25% КЕШБЕК",
+    "ja": "25% キャッシュバック",
+    "es": "25% DEVOLUCIÓN EN EFECTIVO",
+    "pt": "25% DE RETORNO EM DINHEIRO",
+    "fr": "25% REMBOURSÉ",
+    "de": "25% RÜCKZAHLUNG",
+    "zh": "25% 现金返还",
+    "it": "25% RIMBORSO"
+  },
+  "$1,500 in free credits.": {
+    "en": "$1,500 in free credits.",
+    "uk": "$1,500 у безкоштовних кредитах.",
+    "ja": "$1,500 の無料クレジット。",
+    "es": "$1,500 en créditos gratuitos.",
+    "pt": "$1.500 em créditos gratuitos.",
+    "fr": "1 500 $ en crédits gratuits.",
+    "de": "1.500 $ in kostenlosen Guthaben.",
+    "zh": "1,500美元的免费积分。",
+    "it": "1.500 $ in crediti gratuiti."
+  },
+  "$1,500": {
+    "en": "$1,500",
+    "uk": "$1,500",
+    "ja": "$1,500",
+    "es": "$1,500",
+    "pt": "$1.500",
+    "fr": "1 500 $",
+    "de": "1.500 $",
+    "zh": "1,500美元",
+    "it": "1.500 $"
+  },
+  "$11 monthly.": {
+    "en": "$11 monthly.",
+    "uk": "$11 на місяць.",
+    "ja": "月額11ドル。",
+    "es": "$11 mensuales.",
+    "pt": "R$11 por mês.",
+    "fr": "11 $ par mois.",
+    "de": "11 $ pro Monat.",
+    "zh": "每月11美元。",
+    "it": "11 $ al mese."
+  },
+  "3 months free on Creator subscription.": {
+    "en": "3 months free on Creator subscription.",
+    "uk": "3 місяці безкоштовно за підпискою на Creator.",
+    "ja": "Creatorサブスクリプションで3ヶ月間無料。",
+    "es": "3 meses gratis en la suscripción Creator.",
+    "pt": "3 meses grátis na assinatura Creator.",
+    "fr": "3 mois gratuits sur l'abonnement Creator.",
+    "de": "3 Monate kostenlos bei einem Creator-Abonnement.",
+    "zh": "Creator订阅免费3个月。",
+    "it": "3 mesi gratuiti con l'abbonamento Creator."
+  },
+  "Limited Time Offer": {
+    "en": "Limited Time Offer",
+    "uk": "Обмежена пропозиція",
+    "ja": "期間限定オファー",
+    "es": "Oferta por tiempo limitado",
+    "pt": "Oferta por tempo limitado",
+    "fr": "Offre limitée dans le temps",
+    "de": "Zeitlich begrenztes Angebot",
+    "zh": "限时优惠",
+    "it": "Offerta a tempo limitato"
   },
   "Midjourney": {
     "en": {
@@ -18483,6 +18593,566 @@
       "features": "Un anno intero di servizio per individui verificati.",
       "badge": "Un anno intero gratuito",
       "pricing": "Gratuito per i veterani idonei e i membri del servizio in transizione."
+    }
+  },
+  "VoiceType": {
+    "en": {
+      "description": "VoiceType is an AI-driven tool that converts text into high-quality speech, making it ideal for content creators who need realistic voiceovers for videos, presentations, or automated voice agents.",
+      "features": "Turns text into realistic speech, suitable for video dubbing and voice-overs.",
+      "badge": "N/A",
+      "pricing": "Free tier includes 10 minutes of access per month"
+    },
+    "uk": {
+      "description": "VoiceType — це інструмент на основі ШІ, який перетворює текст на мову високої якості, що робить його ідеальним для творців контенту, які потребують реалістичних озвучок для відео, презентацій або автоматизованих голосових агентів.",
+      "features": "Перетворює текст на реалістичну мову, підходить для дублювання відео та озвучення.",
+      "badge": "Н/Д",
+      "pricing": "Безкоштовний рівень включає 10 хвилин доступу на місяць"
+    },
+    "ja": {
+      "description": "VoiceTypeは、テキストを高品質の音声に変換するAI駆動のツールで、動画、プレゼンテーション、または自動音声エージェントのためのリアルなボイスオーバーが必要なコンテンツクリエイターに最適です。",
+      "features": "テキストをリアルな音声に変換し、動画の吹き替えやボイスオーバーに適しています。",
+      "badge": "該当なし",
+      "pricing": "無料プランには月あたり10分のアクセスが含まれます"
+    },
+    "es": {
+      "description": "VoiceType es una herramienta impulsada por IA que convierte texto en discurso de alta calidad, lo que la hace ideal para creadores de contenido que necesitan locuciones realistas para videos, presentaciones o agentes de voz automatizados.",
+      "features": "Convierte texto en habla realista, adecuada para la postproducción de video y locuciones.",
+      "badge": "N/A",
+      "pricing": "El nivel gratuito incluye 10 minutos de acceso por mes"
+    },
+    "pt": {
+      "description": "VoiceType é uma ferramenta impulsionada por IA que converte texto em fala de alta qualidade, tornando-a ideal para criadores de conteúdo que precisam de narrações realistas para vídeos, apresentações ou agentes de voz automatizados.",
+      "features": "Converte texto em fala realista, adequada para dublagem de vídeos e narrações.",
+      "badge": "N/A",
+      "pricing": "O plano gratuito inclui 10 minutos de acesso por mês"
+    },
+    "fr": {
+      "description": "VoiceType est un outil alimenté par l'IA qui convertit du texte en parole de haute qualité, ce qui le rend idéal pour les créateurs de contenu qui ont besoin de voix off réalistes pour des vidéos, des présentations ou des agents vocaux automatisés.",
+      "features": "Transforme le texte en parole réaliste, adaptée au doublage de vidéos et aux voix off.",
+      "badge": "N/A",
+      "pricing": "Le niveau gratuit comprend 10 minutes d'accès par mois"
+    },
+    "de": {
+      "description": "VoiceType ist ein KI-gesteuertes Tool, das Text in hochwertige Sprache umwandelt, wodurch es ideal für Inhalteersteller ist, die realistische Sprachaufnahmen für Videos, Präsentationen oder automatisierte Sprachagenten benötigen.",
+      "features": "Verwandelt Text in realistische Sprache, geeignet für Video-Dub und Sprachübertragungen.",
+      "badge": "N/A",
+      "pricing": "Das kostenlose Kontingent umfasst 10 Minuten Zugang pro Monat"
+    },
+    "zh": {
+      "description": "VoiceType是一个基于人工智能的工具，可以将文本转换为高质量的语音，非常适合需要为视频、演示或自动语音代理提供现实语音的内容创作者。",
+      "features": "将文本转换为逼真的语音，适合视频配音和旁白。",
+      "badge": "不适用",
+      "pricing": "免费套餐每月包括10分钟的访问"
+    },
+    "it": {
+      "description": "VoiceType è uno strumento basato su IA che converte il testo in discorso di alta qualità, rendendolo ideale per i creatori di contenuti che hanno bisogno di doppiaggi realistici per video, presentazioni o agenti vocali automatizzati.",
+      "features": "Trasforma il testo in discorsi realistici, adatti per il doppiaggio di video e le narrazioni.",
+      "badge": "N/A",
+      "pricing": "Il piano gratuito include 10 minuti di accesso al mese"
+    }
+  },
+  "Demand.Cloud": {
+    "en": {
+      "description": "Demand.Cloud is an AI-powered outreach platform that integrates various communication channels for effective marketing. It offers tools for personalized video interactions and extensive contact databases.",
+      "features": "AI-powered omnichannel outreach platform with a vast database.",
+      "badge": "25% CASHBACK",
+      "pricing": "Save up to $1,497/year."
+    },
+    "uk": {
+      "description": "Demand.Cloud - це платформа контактів на базі ШІ, яка інтегрує різні канали зв'язку для ефективного маркетингу. Вона пропонує інструменти для персоналізованих відеоінтеракцій та обширні бази контактів.",
+      "features": "Платформа багатоканального контакту на базі ШІ з величезною базою даних.",
+      "badge": "25% КЕШБЕК",
+      "pricing": "Заощаджуйте до $1,497 на рік."
+    },
+    "ja": {
+      "description": "Demand.Cloudは、効果的なマーケティングのためにさまざまなコミュニケーションチャネルを統合したAI駆動のアウトリーチプラットフォームです。個別化されたビデオインタラクションや広範な連絡先データベース用のツールを提供しています。",
+      "features": "広範なデータベースを備えたAI駆動のオムニチャネルアウトリーチプラットフォーム。",
+      "badge": "25% キャッシュバック",
+      "pricing": "年間最大$1,497の節約。"
+    },
+    "es": {
+      "description": "Demand.Cloud es una plataforma de divulgación impulsada por IA que integra varios canales de comunicación para un marketing efectivo. Ofrece herramientas para interacciones en video personalizadas y bases de datos de contactos extensas.",
+      "features": "Plataforma de divulgación omnicanal potenciada por inteligencia artificial con una amplia base de datos.",
+      "badge": "25% DEVOLUCIÓN EN EFECTIVO",
+      "pricing": "Ahorra hasta $1,497/año."
+    },
+    "pt": {
+      "description": "Demand.Cloud é uma plataforma de alcance impulsionada por IA que integra vários canais de comunicação para um marketing eficaz. Oferece ferramentas para interações em vídeo personalizadas e bancos de dados de contatos extensos.",
+      "features": "Plataforma de alcance omnicanal alimentada por IA com um vasto banco de dados.",
+      "badge": "25% DE RETORNO EM DINHEIRO",
+      "pricing": "Economize até $1,497/ano."
+    },
+    "fr": {
+      "description": "Demand.Cloud est une plateforme d'approche propulsée par l'IA qui intègre divers canaux de communication pour un marketing efficace. Elle propose des outils pour des interactions vidéo personnalisées et des bases de données contacts étendues.",
+      "features": "Plateforme d'approche omnicanal propulsée par l'IA avec une vaste base de données.",
+      "badge": "25% REMBOURSÉ",
+      "pricing": "Économisez jusqu'à 1 497 $/an."
+    },
+    "de": {
+      "description": "Demand.Cloud ist eine KI-gestützte Outreach-Plattform, die verschiedene Kommunikationskanäle für effektives Marketing integriert. Sie bietet Tools für personalisierte Video-Interaktionen und umfangreiche Kontaktdatenbanken.",
+      "features": "KI-gestützte Omnichannel-Outreach-Plattform mit einer umfangreichen Datenbank.",
+      "badge": "25% RÜCKZAHLUNG",
+      "pricing": "Sparen Sie bis zu 1.497 $/Jahr."
+    },
+    "zh": {
+      "description": "Demand.Cloud是一个基于人工智能的外展平台，集成了多种沟通渠道以实现有效的营销。它提供个性化视频互动和广泛的联系人数据库工具。",
+      "features": "拥有庞大数据库的AI驱动的全渠道外展平台。",
+      "badge": "25% 现金返还",
+      "pricing": "每年节省高达1,497美元。"
+    },
+    "it": {
+      "description": "Demand.Cloud è una piattaforma di outreach alimentata da IA che integra vari canali di comunicazione per un marketing efficace. Offre strumenti per interazioni video personalizzate e ampie basi di dati di contatti.",
+      "features": "Piattaforma di outreach omnicanale alimentata da IA con un vasto database.",
+      "badge": "25% RIMBORSO",
+      "pricing": "Risparmia fino a $1,497/anno."
+    }
+  },
+  "VEED": {
+    "en": {
+      "description": "VEED is an online video editing platform that integrates various AI tools for enhancing video content with features like subtitles and translations.",
+      "features": "Subtitles, transcription, translation, realistic avatars",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "VEED - це онлайн-платформа для редагування відео, яка інтегрує різноманітні ШІ-інструменти для вдосконалення відео-контенту з такими функціями, як субтитри та переклади.",
+      "features": "Субтитри, транскрипція, переклад, реалістичні аватари",
+      "badge": "Н/Д",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "VEEDは、字幕や翻訳などの機能を備えた動画コンテンツを強化するために、さまざまなAIツールを統合したオンライン動画編集プラットフォームです。",
+      "features": "字幕、トランスクリプト、翻訳、リアルなアバター",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "VEED es una plataforma de edición de videos en línea que integra diversas herramientas de IA para mejorar el contenido de video con características como subtítulos y traducciones.",
+      "features": "Subtítulos, transcripción, traducción, avatares realistas",
+      "badge": "N/D",
+      "pricing": "N/D"
+    },
+    "pt": {
+      "description": "VEED é uma plataforma de edição de vídeo online que integra várias ferramentas de IA para melhorar o conteúdo de vídeo com recursos como legendas e traduções.",
+      "features": "Legendas, transcrição, tradução, avatares realistas",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "VEED est une plateforme de montage vidéo en ligne qui intègre divers outils d'IA pour améliorer le contenu vidéo avec des fonctionnalités telles que des sous-titres et des traductions.",
+      "features": "Sous-titres, transcription, traduction, avatars réalistes",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "VEED ist eine Online-Videobearbeitungsplattform, die verschiedene KI-Tools integriert, um Videoinhalte mit Funktionen wie Untertiteln und Übersetzungen zu verbessern.",
+      "features": "Untertitel, Transkription, Übersetzung, realistische Avatare",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "VEED是一个在线视频编辑平台，集成了各种AI工具，以增强视频内容，具有字幕和翻译等功能。",
+      "features": "字幕、转录、翻译、真实头像",
+      "badge": "不适用",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "VEED è una piattaforma di editing video online che integra vari strumenti di IA per migliorare il contenuto video con funzionalità come sottotitoli e traduzioni.",
+      "features": "Sottotitoli, trascrizione, traduzione, avatar realistici",
+      "badge": "N/D",
+      "pricing": "N/D"
+    }
+  },
+  "CapCut": {
+    "en": {
+      "description": "CapCut is a free video editor that leverages AI technology to offer smart editing features, making it accessible for both mobile and PC users.",
+      "features": "AI effects, scripts, subtitles",
+      "badge": "N/A",
+      "pricing": "Free"
+    },
+    "uk": {
+      "description": "CapCut – це безкоштовний відеоредактор, який використовує технології ШІ для надання розумних функцій редагування, що робить його доступним як для мобільних, так і для ПК користувачів.",
+      "features": "Ефекти ШІ, сценарії, субтитри",
+      "badge": "Н/Д",
+      "pricing": "Безкоштовно"
+    },
+    "ja": {
+      "description": "CapCutは、スマート編集機能を提供するためにAI技術を活用した無料のビデオエディターで、モバイルおよびPCユーザーの両方がアクセス可能です。",
+      "features": "AIエフェクト、スクリプト、字幕",
+      "badge": "該当なし",
+      "pricing": "無料"
+    },
+    "es": {
+      "description": "CapCut es un editor de video gratuito que utiliza tecnología de IA para ofrecer funciones de edición inteligentes, lo que lo hace accesible tanto para usuarios de móviles como de PC.",
+      "features": "Efectos de IA, guiones, subtítulos",
+      "badge": "N/D",
+      "pricing": "Gratis"
+    },
+    "pt": {
+      "description": "CapCut é um editor de vídeo gratuito que utiliza tecnologia de IA para oferecer recursos de edição inteligentes, tornando-o acessível para usuários móveis e de PC.",
+      "features": "Efeitos de IA, scripts, legendas",
+      "badge": "N/A",
+      "pricing": "Gratuito"
+    },
+    "fr": {
+      "description": "CapCut est un éditeur vidéo gratuit qui exploite la technologie de l'IA pour offrir des fonctionnalités d'édition intelligentes, le rendant accessible aux utilisateurs mobiles et PC.",
+      "features": "Effets d'IA, scripts, sous-titres",
+      "badge": "N/A",
+      "pricing": "Gratuit"
+    },
+    "de": {
+      "description": "CapCut ist ein kostenloser Video-Editor, der KI-Technologie nutzt, um intelligente Bearbeitungsfunktionen anzubieten, die sowohl für mobile als auch für PC-Nutzer zugänglich sind.",
+      "features": "KI-Effekte, Skripte, Untertitel",
+      "badge": "k.A.",
+      "pricing": "Kostenlos"
+    },
+    "zh": {
+      "description": "CapCut是一个免费的在线视频编辑器，利用人工智能技术提供智能编辑功能，使其在移动设备和PC用户中均方便使用。",
+      "features": "人工智能特效、脚本、字幕",
+      "badge": "无",
+      "pricing": "免费"
+    },
+    "it": {
+      "description": "CapCut è un editor video gratuito che sfrutta la tecnologia dell'IA per offrire funzioni di editing intelligenti, rendendolo accessibile sia per gli utenti mobili che per quelli PC.",
+      "features": "Effetti di IA, script, sottotitoli",
+      "badge": "N/D",
+      "pricing": "Gratuito"
+    }
+  },
+  "Karma": {
+    "en": {
+      "description": "Karma is an innovative coupon site that utilizes artificial intelligence to automate savings, provide cashback options, and alert users about price drops on products they are tracking.",
+      "features": "AI-powered automation, cashback, price alerts",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Karma — це інноваційний сайт купонів, що використовує штучний інтелект для автоматизації заощаджень, надання можливостей кешбеку та сповіщення користувачів про зниження цін на продукти, які вони відслідковують.",
+      "features": "Автоматизація на базі ШІ, кешбек, сповіщення про ціни",
+      "badge": "Н/Д",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "カーマは、貯蓄を自動化し、キャッシュバックオプションを提供し、ユーザーが追跡している商品の価格下落を通知するために人工知能を利用する革新的なクーポンサイトです。",
+      "features": "AIによる自動化、キャッシュバック、価格アラート",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Karma es un sitio de cupones innovador que utiliza inteligencia artificial para automatizar ahorros, ofrecer opciones de reembolso y alertar a los usuarios sobre caídas de precios en los productos que están siguiendo.",
+      "features": "Automatización impulsada por IA, reembolso, alertas de precios",
+      "badge": "N/D",
+      "pricing": "N/D"
+    },
+    "pt": {
+      "description": "Karma é um site de cupons inovador que utiliza inteligência artificial para automatizar economias, fornecer opções de cashback e alertar os usuários sobre quedas de preços em produtos que eles estão acompanhando.",
+      "features": "Automação impulsionada por IA, cashback, alertas de preços",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Karma est un site de coupons innovant qui utilise l'intelligence artificielle pour automatiser les économies, fournir des options de cashback et alerter les utilisateurs des baisses de prix sur les produits qu'ils suivent.",
+      "features": "Automatisation alimentée par l'IA, cashback, alertes de prix",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Karma ist eine innovative Coupon-Website, die künstliche Intelligenz nutzt, um Ersparnisse zu automatisieren, Cashback-Optionen anzubieten und Benutzer über Preisnachlässe bei Produkten zu informieren, die sie verfolgen.",
+      "features": "KI-gestützte Automatisierung, Cashback, Preisbenachrichtigungen",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "Karma是一个创新的优惠券网站，利用人工智能自动化省钱，提供现金返还选项，并提醒用户跟踪的产品价格下跌。",
+      "features": "基于AI的自动化、现金返还、价格提醒",
+      "badge": "不适用",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "Karma è un sito di coupon innovativo che utilizza l'intelligenza artificiale per automatizzare i risparmi, fornire opzioni di cashback e avvisare gli utenti sui cali di prezzo dei prodotti che stanno seguendo.",
+      "features": "Automazione basata su AI, cashback, avvisi sui prezzi",
+      "badge": "N/D",
+      "pricing": "N/D"
+    }
+  },
+  "Groupon": {
+    "en": {
+      "description": "Groupon is a popular e-commerce marketplace that connects subscribers with local merchants by offering activities, travel, goods, and services at discounted prices.",
+      "features": "Local deals, various categories including restaurants and services",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Groupon - це популярна електронна комерційна платформа, яка з'єднує підписників з місцевими торговцями, пропонуючи діяльність, подорожі, товари та послуги за зниженими цінами.",
+      "features": "Місцеві пропозиції, різні категорії, включаючи ресторани та послуги",
+      "badge": "Немає даних",
+      "pricing": "Немає даних"
+    },
+    "ja": {
+      "description": "Grouponは、活動、旅行、商品、サービスを割引価格で提供することによって、サブスクライバーと地元の商人をつなぐ人気のある電子商取引市場です。",
+      "features": "地元の取引、レストランやサービスを含むさまざまなカテゴリ",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Groupon es un popular mercado de comercio electrónico que conecta a los suscriptores con comerciantes locales ofreciendo actividades, viajes, bienes y servicios a precios descontados.",
+      "features": "Ofertas locales, varias categorías incluyendo restaurantes y servicios",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "Groupon é um popular mercado de comércio eletrônico que conecta assinantes a comerciantes locais, oferecendo atividades, viagens, produtos e serviços a preços com desconto.",
+      "features": "Ofertas locais, várias categorias, incluindo restaurantes e serviços",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Groupon est une marketplace de commerce électronique populaire qui connecte les abonnés avec des commerçants locaux en offrant des activités, des voyages, des biens et des services à prix réduits.",
+      "features": "Offres locales, diverses catégories, y compris des restaurants et des services",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Groupon ist ein beliebter E-Commerce-Marktplatz, der Abonnenten mit lokalen Händlern verbindet, indem er Aktivitäten, Reisen, Waren und Dienstleistungen zu ermäßigten Preisen anbietet.",
+      "features": "Lokale Angebote, verschiedene Kategorien einschließlich Restaurants und Dienstleistungen",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "Groupon是一个流行的电子商务市场，通过提供折扣价格的活动、旅行、商品和服务，将订阅者与当地商家连接起来。",
+      "features": "本地优惠，各种类别，包括餐厅和服务",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "it": {
+      "description": "Groupon è un popolare marketplace di e-commerce che collega gli abbonati con i commercianti locali offrendo attività, viaggi, beni e servizi a prezzi scontati.",
+      "features": "Offerte locali, varie categorie tra cui ristoranti e servizi",
+      "badge": "N/A",
+      "pricing": "N/A"
+    }
+  },
+  "ElevenLabs Student Pack": {
+    "en": {
+      "description": "The ElevenLabs Student Pack provides students with access to a suite of AI tools, along with substantial free credits to support their projects and studies.",
+      "features": "Includes 16 AI tools, large discounts for students.",
+      "badge": "$1,500",
+      "pricing": "$1,500 in free credits."
+    },
+    "uk": {
+      "description": "Пакет ElevenLabs Student надає студентам доступ до набору ШІ інструментів, а також значні безкоштовні кредити для підтримки їхніх проектів та навчання.",
+      "features": "Включає 16 ШІ інструментів, великі знижки для студентів.",
+      "badge": "$1,500",
+      "pricing": "$1,500 у безкоштовних кредитах."
+    },
+    "ja": {
+      "description": "ElevenLabs Student Packは、学生にAIツールのスイートへのアクセスと、彼らのプロジェクトや学業を支援するための substantial な無料クレジットを提供します。",
+      "features": "16のAIツールを含み、学生向けの大きな割引があります。",
+      "badge": "$1,500",
+      "pricing": "$1,500 の無料クレジット。"
+    },
+    "es": {
+      "description": "El Paquete Estudiantil de ElevenLabs proporciona a los estudiantes acceso a un conjunto de herramientas de IA, junto con créditos gratuitos sustanciales para apoyar sus proyectos y estudios.",
+      "features": "Incluye 16 herramientas de IA, grandes descuentos para estudiantes.",
+      "badge": "$1,500",
+      "pricing": "$1,500 en créditos gratuitos."
+    },
+    "pt": {
+      "description": "O Pacote Estudantil da ElevenLabs fornece aos estudantes acesso a um conjunto de ferramentas de IA, juntamente com créditos gratuitos substanciais para apoiar seus projetos e estudos.",
+      "features": "Inclui 16 ferramentas de IA, grandes descontos para estudantes.",
+      "badge": "$1.500",
+      "pricing": "$1.500 em créditos gratuitos."
+    },
+    "fr": {
+      "description": "Le Pack Étudiant d'ElevenLabs offre aux étudiants un accès à une suite d'outils d'IA, ainsi que des crédits gratuits substantiels pour soutenir leurs projets et études.",
+      "features": "Comprend 16 outils d'IA, grandes remises pour les étudiants.",
+      "badge": "1 500 $",
+      "pricing": "1 500 $ en crédits gratuits."
+    },
+    "de": {
+      "description": "Das ElevenLabs Student Pack bietet Studierenden Zugang zu einer Suite von KI-Tools sowie umfangreiche kostenlose Guthaben zur Unterstützung ihrer Projekte und Studien.",
+      "features": "Beinhaltet 16 KI-Tools, große Rabatte für Studenten.",
+      "badge": "1.500 $",
+      "pricing": "1.500 $ in kostenlosen Guthaben."
+    },
+    "zh": {
+      "description": "ElevenLabs学生包为学生提供了一套人工智能工具的访问权限以及大量的免费积分，以支持他们的项目和学习。",
+      "features": "包括16个人工智能工具，为学生提供大幅折扣。",
+      "badge": "1,500美元",
+      "pricing": "1,500美元的免费积分。"
+    },
+    "it": {
+      "description": "Il Pacchetto Studente di ElevenLabs offre agli studenti l'accesso a un insieme di strumenti di intelligenza artificiale, insieme a crediti gratuiti sostanziali per supportare i loro progetti e studi.",
+      "features": "Include 16 strumenti di intelligenza artificiale e grandi sconti per gli studenti.",
+      "badge": "1.500 $",
+      "pricing": "1.500 $ in crediti gratuiti."
+    }
+  },
+  "ElevenLabs Creator membership": {
+    "en": {
+      "description": "The ElevenLabs Creator membership allows users to access premium features for voice AI generation, enhancing their productivity and creativity.",
+      "features": "High-quality AI voice generation for projects.",
+      "badge": "N/A",
+      "pricing": "$11 monthly."
+    },
+    "uk": {
+      "description": "Членство ElevenLabs Creator надає користувачам доступ до преміум-функцій генерації голосових ШІ, покращуючи їх продуктивність та креативність.",
+      "features": "Генерація голосу високої якості для проектів за допомогою ШІ.",
+      "badge": "Немає",
+      "pricing": "$11 на місяць."
+    },
+    "ja": {
+      "description": "ElevenLabs Creatorメンバーシップは、ユーザーが音声AI生成のプレミアム機能にアクセスできるようにし、生産性と創造性を高めます。",
+      "features": "プロジェクトのための高品質な音声生成のためのШІ。",
+      "badge": "該当なし",
+      "pricing": "月額11ドル。"
+    },
+    "es": {
+      "description": "La membresía ElevenLabs Creator permite a los usuarios acceder a funciones premium para la generación de voz con IA, mejorando su productividad y creatividad.",
+      "features": "Generación de voz de alta calidad para proyectos.",
+      "badge": "N/A",
+      "pricing": "$11 mensuales."
+    },
+    "pt": {
+      "description": "A associação ElevenLabs Creator permite que os usuários acessem recursos premium para geração de voz com ШІ, aprimorando sua produtividade e criatividade.",
+      "features": "Geração de voz de alta qualidade para projetos.",
+      "badge": "N/A",
+      "pricing": "R$11 por mês."
+    },
+    "fr": {
+      "description": "L'abonnement ElevenLabs Creator permet aux utilisateurs d'accéder à des fonctionnalités premium pour la génération vocale par ШІ, renforçant ainsi leur productivité et leur créativité.",
+      "features": "Génération de voix de haute qualité pour des projets.",
+      "badge": "N/A",
+      "pricing": "11 $ par mois."
+    },
+    "de": {
+      "description": "Die ElevenLabs Creator-Mitgliedschaft ermöglicht es Benutzern, auf Premiumfunktionen zur Sprachgenerierung mit ШІ zuzugreifen, was ihre Produktivität und Kreativität verbessert.",
+      "features": "Hochwertige Sprachgenerierung für Projekte.",
+      "badge": "Nicht zutreffend",
+      "pricing": "11 $ pro Monat."
+    },
+    "zh": {
+      "description": "ElevenLabs Creator会员允许用户访问语音生成的高级功能，从而提升他们的生产力和创造力。",
+      "features": "项目的高质量语音生成。",
+      "badge": "无",
+      "pricing": "每月11美元。"
+    },
+    "it": {
+      "description": "L'abbonamento ElevenLabs Creator consente agli utenti di accedere a funzionalità premium per la generazione di voce con ШІ, migliorando la loro produttività e creatività.",
+      "features": "Generazione di voce di alta qualità per progetti.",
+      "badge": "N/D",
+      "pricing": "11 $ al mese."
+    }
+  },
+  "ElevenLabs AI Student Pack Promo": {
+    "en": {
+      "description": "A special promotion for students and educators, offering significant benefits including extensive free credits and premium tools.",
+      "features": "Includes 16 AI tools with a combined value of approximately $1,500.",
+      "badge": "$1,500",
+      "pricing": "3 months free on Creator subscription."
+    },
+    "uk": {
+      "description": "Спеціальна акція для студентів та педагогів, що пропонує значні переваги, включаючи великі безкоштовні кредити та преміум-інструменти.",
+      "features": "Включає 16 інструментів ШІ з загальною вартістю приблизно 1 500 доларів.",
+      "badge": "1 500 доларів",
+      "pricing": "3 місяці безкоштовно за підпискою на Creator."
+    },
+    "ja": {
+      "description": "学生と教育者のための特別プロモーションで、大量の無料クレジットとプレミアムツールを含む重要な特典を提供します。",
+      "features": "約1,500ドルの合計価値を持つ16のAIツールが含まれています。",
+      "badge": "$1,500",
+      "pricing": "Creatorサブスクリプションで3ヶ月間無料。"
+    },
+    "es": {
+      "description": "Una promoción especial para estudiantes y educadores, que ofrece beneficios significativos, incluidos créditos gratuitos extensos y herramientas premium.",
+      "features": "Incluye 16 herramientas de IA con un valor combinado de aproximadamente $1,500.",
+      "badge": "$1,500",
+      "pricing": "3 meses gratis en la suscripción Creator."
+    },
+    "pt": {
+      "description": "Uma promoção especial para estudantes e educadores, oferecendo benefícios significativos, incluindo créditos gratuitos extensivos e ferramentas premium.",
+      "features": "Inclui 16 ferramentas de IA com um valor combinado de aproximadamente $1.500.",
+      "badge": "$1.500",
+      "pricing": "3 meses grátis na assinatura Creator."
+    },
+    "fr": {
+      "description": "Une promotion spéciale pour les étudiants et les éducateurs, offrant des avantages significatifs, y compris des crédits gratuits importants et des outils premium.",
+      "features": "Comprend 16 outils d'IA d'une valeur combinée d'environ 1 500 $.",
+      "badge": "$1 500",
+      "pricing": "3 mois gratuits sur l'abonnement Creator."
+    },
+    "de": {
+      "description": "Eine spezielle Promotion für Studenten und Pädagogen, die bedeutende Vorteile bietet, darunter umfangreiche kostenlose Credits und Premium-Tools.",
+      "features": "Enthält 16 KI-Tools mit einem Gesamtwert von etwa 1.500 $.",
+      "badge": "1.500 $",
+      "pricing": "3 Monate kostenlos bei einem Creator-Abonnement."
+    },
+    "zh": {
+      "description": "针对学生和教育工作者的特别促销，提供显著的好处，包括大量的免费积分和高级工具。",
+      "features": "包含16个价值约为1,500美元的AI工具。",
+      "badge": "1,500美元",
+      "pricing": "Creator订阅免费3个月。"
+    },
+    "it": {
+      "description": "Una promozione speciale per studenti ed educatori, che offre vantaggi significativi, tra cui ampi crediti gratuiti e strumenti premium.",
+      "features": "Include 16 strumenti di intelligenza artificiale con un valore complessivo di circa 1.500 dollari.",
+      "badge": "1.500 $",
+      "pricing": "3 mesi gratuiti con l'abbonamento Creator."
+    }
+  },
+  "Doctronic": {
+    "en": {
+      "description": "Doctronic is an AI doctor that offers personalized care plans based on detailed analysis of the patient's health history, evolving as per individual needs.",
+      "features": "Personalized care plans, remembers health history.",
+      "badge": "25%",
+      "pricing": "Limited Time Offer"
+    },
+    "uk": {
+      "description": "Doctronic - це ШІ-лікар, який пропонує персоналізовані плани догляду на основі детального аналізу історії здоров'я пацієнта, що змінюється відповідно до індивідуальних потреб.",
+      "features": "Персоналізовані плани догляду, запам'ятовує історію здоров'я.",
+      "badge": "25%",
+      "pricing": "Обмежена пропозиція"
+    },
+    "ja": {
+      "description": "Doctronicは、患者の健康履歴の詳細な分析に基づいて個別化されたケアプランを提供するAI医師であり、個々のニーズに応じて進化します。",
+      "features": "パーソナライズされたケアプラン、健康履歴を記憶。",
+      "badge": "25%",
+      "pricing": "期間限定オファー"
+    },
+    "es": {
+      "description": "Doctronic es un médico de IA que ofrece planes de atención personalizados basados en un análisis detallado de la historia clínica del paciente, evolucionando según las necesidades individuales.",
+      "features": "Planes de atención personalizados, recuerda la historia de salud.",
+      "badge": "25%",
+      "pricing": "Oferta por tiempo limitado"
+    },
+    "pt": {
+      "description": "Doctronic é um médico de IA que oferece planos de cuidado personalizados, com base em uma análise detalhada do histórico de saúde do paciente, evoluindo conforme as necessidades individuais.",
+      "features": "Planos de cuidado personalizados, lembra o histórico de saúde.",
+      "badge": "25%",
+      "pricing": "Oferta por tempo limitado"
+    },
+    "fr": {
+      "description": "Doctronic est un médecin virtuel qui propose des plans de soins personnalisés basés sur une analyse détaillée de l'historique de santé du patient, évoluant selon les besoins individuels.",
+      "features": "Plans de soins personnalisés, se souvient des antécédents médicaux.",
+      "badge": "25%",
+      "pricing": "Offre limitée dans le temps"
+    },
+    "de": {
+      "description": "Doctronic ist ein KI-Arzt, der personalisierte Pflegepläne auf der Grundlage einer detaillierten Analyse der Gesundheitsgeschichte des Patienten anbietet, die sich entsprechend den individuellen Bedürfnissen entwickelt.",
+      "features": "Personalisierte Pflegepläne, erinnert sich an die Gesundheitsgeschichte.",
+      "badge": "25%",
+      "pricing": "Zeitlich begrenztes Angebot"
+    },
+    "zh": {
+      "description": "Doctronic是一个人工智能医生，根据对患者健康历史的详细分析提供个性化护理计划，并根据个人需求不断发展。",
+      "features": "个性化护理计划，记住健康历史。",
+      "badge": "25%",
+      "pricing": "限时优惠"
+    },
+    "it": {
+      "description": "Doctronic è un medico AI che offre piani di cura personalizzati basati su un'analisi dettagliata della storia sanitaria del paziente, evolvendo in base alle esigenze individuali.",
+      "features": "Piani di cura personalizzati, ricorda la storia sanitaria.",
+      "badge": "25%",
+      "pricing": "Offerta a tempo limitato"
     }
   }
 }
