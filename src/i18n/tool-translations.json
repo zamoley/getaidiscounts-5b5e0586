@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "Available for any plan for 3 months": {
+  "On any plan during 3 months": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -65,7 +65,7 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "Discounts available for verified students and educators.": {
+  "Education Pro is offered to verified students and educators at a discount.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -153,7 +153,7 @@
     "zh": "免费额度",
     "it": "Crediti gratuiti"
   },
-  "Discount on subscription": {
+  "Subscription-based pricing models available.": {
     "en": "$22/mo (Annual)",
     "uk": "$22/міс (Річна)",
     "ja": "月額22ドル（年払い）",
@@ -1000,7 +1000,7 @@
     "zh": "免费访问",
     "it": "Accesso gratuito"
   },
-  "Official per-million-token pricing runs from Claude Haiku 4.5 at $1/$5.": {
+  "Per-million-token pricing starts from $1.": {
     "en": "Free Tier Available",
     "uk": "Доступний безкоштовний рівень",
     "ja": "無料枠あり",
@@ -1011,7 +1011,18 @@
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
   },
-  "Save up to 17% by paying for a full year upfront": {
+  "$5000 Credits": {
+    "en": "AI Assistant",
+    "uk": "ШІ-асистент",
+    "ja": "AIアシスタント",
+    "es": "Asistente de IA",
+    "pt": "Assistente de IA",
+    "fr": "Assistant IA",
+    "de": "KI-Assistent",
+    "zh": "AI 助手",
+    "it": "Assistente IA"
+  },
+  "Upfront full-year payment option available.": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "月額20ドル",
@@ -1759,7 +1770,7 @@
     "zh": "10 美元/小时起",
     "it": "A partire da $10/ora"
   },
-  "Discount codes available, check for active promotions.": {
+  "Offers various subscription tiers to cater to different user needs.": {
     "en": "Free Trial; Plans from $15/mo",
     "uk": "Пробна версія; Плани від $15/міс",
     "ja": "無料トライアルあり。プランは月額15ドルから",
@@ -2001,7 +2012,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "At the $20 flagship subscription tier.": {
+  "$20 flagship subscription tier": {
     "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
     "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
     "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
@@ -2100,7 +2111,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "$20 flagship subscription tier": {
+  "Free for eligible veterans and transitioning servicemembers.": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "$20/月",
@@ -2375,7 +2386,7 @@
     "zh": "起价3美元",
     "it": "A partire da 3$"
   },
-  "8.3 out of 10 based on user ratings.": {
+  "8.3/10 User Rating": {
     "en": "N/A",
     "uk": "Н/Д",
     "ja": "該当なし",
@@ -2925,7 +2936,7 @@
     "zh": "节省700美元以上",
     "it": "Risparmi superiori a $700"
   },
-  "Valid Quillbot discount codes for various subscription plans.": {
+  "May 2026 valid discount codes": {
     "en": "Various subscription plans available",
     "uk": "Доступні різні плани підписки",
     "ja": "さまざまなサブスクリプションプランがあります",
@@ -2947,7 +2958,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "$6.49 for your first month.": {
+  "$6.49 for the first month": {
     "en": "$6.49 for the first month",
     "uk": "$6.49 за перший місяць",
     "ja": "最初の月は6.49ドル",
@@ -3189,6 +3200,17 @@
     "zh": "12个月免费（3300万个字符的免费访问）",
     "it": "12 mesi gratuiti (33 milioni di caratteri di accesso gratuito)"
   },
+  "Discount codes available, check for active promotions.": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/A",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "N/A",
+    "it": "N/A"
+  },
   "Prized Lower by 20% This Month": {
     "en": "Prized Lower by 20% This Month",
     "uk": "Ціна знижена на 20% цього місяця",
@@ -3244,7 +3266,7 @@
     "zh": "$24",
     "it": "$24"
   },
-  "8.0 out of 10 based on user ratings.": {
+  "8.0/10 User Rating": {
     "en": "Various pricing models available.",
     "uk": "Доступні різні моделі ціноутворення.",
     "ja": "さまざまな価格モデルが利用可能です。",
@@ -3474,6 +3496,50 @@
     "de": "Zeitlich begrenztes Angebot",
     "zh": "限时优惠",
     "it": "Offerta a tempo limitato"
+  },
+  "Lifetime Access": {
+    "en": "Lifetime Access",
+    "uk": "Доступ на все життя",
+    "ja": "生涯アクセス",
+    "es": "Acceso de por vida",
+    "pt": "Acesso vitalício",
+    "fr": "Accès à vie",
+    "de": "Lebenslanger Zugang",
+    "zh": "终身访问",
+    "it": "Accesso a vita"
+  },
+  "No public promo codes available.": {
+    "en": "No public promo codes available.",
+    "uk": "Немає доступних публічних промо-кодів.",
+    "ja": "公開されているプロモコードはありません。",
+    "es": "No hay códigos de promoción públicos disponibles.",
+    "pt": "Não há códigos promocionais públicos disponíveis.",
+    "fr": "Aucun code promo public disponible.",
+    "de": "Keine öffentlichen Promo-Codes verfügbar.",
+    "zh": "没有可用的公共促销代码。",
+    "it": "Nessun codice promozionale pubblico disponibile."
+  },
+  "25% Cashback": {
+    "en": "25% Cashback",
+    "uk": "25% кешбек",
+    "ja": "25% キャッシュバック",
+    "es": "25% de reembolso",
+    "pt": "25% de cashback",
+    "fr": "25% de remboursement",
+    "de": "25% Cashback",
+    "zh": "25% 返现",
+    "it": "25% di rimborso"
+  },
+  "Starting at a low monthly price": {
+    "en": "Starting at a low monthly price",
+    "uk": "Починаючи з низької місячної ціни",
+    "ja": "低価格の月額料金からスタート",
+    "es": "A partir de un bajo precio mensual",
+    "pt": "A partir de um baixo preço mensal",
+    "fr": "À partir d'un faible prix mensuel",
+    "de": "Ab einem niedrigen monatlichen Preis",
+    "zh": "起价为低月费用",
+    "it": "A partire da un basso prezzo mensile"
   },
   "Midjourney": {
     "en": {
@@ -19153,6 +19219,286 @@
       "features": "Piani di cura personalizzati, ricorda la storia sanitaria.",
       "badge": "25%",
       "pricing": "Offerta a tempo limitato"
+    }
+  },
+  "Clone Voice AI": {
+    "en": {
+      "description": "Clone Voice AI is a revolutionary tool that enables users to create realistic voiceovers using artificial intelligence. It allows for the cloning of voices which can be customized for various applications, including content creation, gaming, and more.",
+      "features": "Voice cloning, Multilingual support, Customizable voice parameters.",
+      "badge": "30%",
+      "pricing": "Lifetime Access"
+    },
+    "uk": {
+      "description": "Clone Voice ШІ — це революційний інструмент, який дозволяє користувачам створювати реалістичні озвучення за допомогою штучного інтелекту. Він дозволяє клонувати голоси, які можна налаштовувати для різних застосувань, включаючи створення контенту, ігри та інше.",
+      "features": "Клонування голосів, Підтримка кількох мов, Налаштовувані параметри голосу.",
+      "badge": "30%",
+      "pricing": "Доступ на все життя"
+    },
+    "ja": {
+      "description": "Clone Voice AIは、ユーザーが人工知能を使用してリアルなボイスオーバーを作成できる革新的なツールです。コンテンツ作成、ゲームなど、さまざまなアプリケーション向けにカスタマイズ可能な音声のクローンを作成することができます。",
+      "features": "声のクローン、多言語サポート、カスタマイズ可能な音声パラメータ。",
+      "badge": "30%",
+      "pricing": "生涯アクセス"
+    },
+    "es": {
+      "description": "Clone Voice AI es una herramienta revolucionaria que permite a los usuarios crear voces en off realistas utilizando inteligencia artificial. Permite la clonación de voces que se pueden personalizar para diversas aplicaciones, incluidas la creación de contenido, los juegos y más.",
+      "features": "Clonación de voces, Soporte multilingüe, Parámetros de voz personalizables.",
+      "badge": "30%",
+      "pricing": "Acceso de por vida"
+    },
+    "pt": {
+      "description": "Clone Voice AI é uma ferramenta revolucionária que permite aos usuários criar narrações realistas usando inteligência artificial. Permite a clonagem de vozes que podem ser personalizadas para várias aplicações, incluindo criação de conteúdo, jogos e mais.",
+      "features": "Clonagem de voz, Suporte multilíngue, Parâmetros de voz personalizáveis.",
+      "badge": "30%",
+      "pricing": "Acesso vitalício"
+    },
+    "fr": {
+      "description": "Clone Voice AI est un outil révolutionnaire qui permet aux utilisateurs de créer des voix off réalistes en utilisant l'intelligence artificielle. Il permet de cloner des voix qui peuvent être personnalisées pour diverses applications, y compris la création de contenu, le jeu, et plus encore.",
+      "features": "Clonage de voix, Support multilingue, Paramètres de voix personnalisables.",
+      "badge": "30%",
+      "pricing": "Accès à vie"
+    },
+    "de": {
+      "description": "Clone Voice AI ist ein revolutionäres Tool, das es Benutzern ermöglicht, realistische Sprachaufnahmen mit künstlicher Intelligenz zu erstellen. Es ermöglicht das Klonen von Stimmen, die für verschiedene Anwendungen, einschließlich der Inhaltscreation, Spiele und mehr, angepasst werden können.",
+      "features": "Stimmklonierung, Mehrsprachige Unterstützung, Anpassbare Stimmparameter.",
+      "badge": "30%",
+      "pricing": "Lebenslanger Zugang"
+    },
+    "zh": {
+      "description": "Clone Voice AI是一款革命性的工具，使用户能够使用人工智能创建逼真的配音。它允许克隆可定制的声音，以应用于内容创作、游戏等多种场景。",
+      "features": "声音克隆、多语言支持、可定制的声音参数。",
+      "badge": "30%",
+      "pricing": "终身访问"
+    },
+    "it": {
+      "description": "Clone Voice AI è uno strumento rivoluzionario che consente agli utenti di creare voice-over realistici utilizzando l'intelligenza artificiale. Permette la clonazione delle voci, che possono essere personalizzate per varie applicazioni, tra cui creazione di contenuti, giochi e altro ancora.",
+      "features": "Clonazione della voce, Supporto multilingue, Parametri vocali personalizzabili.",
+      "badge": "30%",
+      "pricing": "Accesso a vita"
+    }
+  },
+  "Claude Promo Code": {
+    "en": {
+      "description": "Claude's promo options are often misleading, with many sites listing invalid codes, highlighting the absence of official discounts or coupon codes.",
+      "features": "Claims of 50% off promo codes are reported as fake.",
+      "badge": "N/A",
+      "pricing": "No public promo codes available."
+    },
+    "uk": {
+      "description": "Промо-акції Claude часто вводять в оману, багато сайтів наводять недійсні коди, підкреслюючи відсутність офіційних знижок або купонів.",
+      "features": "Заяви про промо-коди зі знижкою 50% виявилися фейковими.",
+      "badge": "Н/Д",
+      "pricing": "Немає доступних публічних промо-кодів."
+    },
+    "ja": {
+      "description": "クロードのプロモオプションはしばしば誤解を招くもので、多くのサイトが無効なコードをリストしており、公式の割引やクーポンコードが存在しないことを強調しています。",
+      "features": "50%オフのプロモーションコードの主張は偽であると報告されています。",
+      "badge": "該当なし",
+      "pricing": "公開されているプロモコードはありません。"
+    },
+    "es": {
+      "description": "Las opciones de promoción de Claude a menudo son engañosas, y muchos sitios enumeran códigos inválidos, destacando la ausencia de descuentos o códigos de cupón oficiales.",
+      "features": "Se informa que las afirmaciones de códigos de promoción con un 50% de descuento son falsas.",
+      "badge": "N/A",
+      "pricing": "No hay códigos de promoción públicos disponibles."
+    },
+    "pt": {
+      "description": "As opções de promoção do Claude costumam ser enganosas, com muitos sites listando códigos inválidos, destacando a ausência de descontos ou cupons oficiais.",
+      "features": "As alegações de códigos promocionais com 50% de desconto são relatadas como falsas.",
+      "badge": "N/A",
+      "pricing": "Não há códigos promocionais públicos disponíveis."
+    },
+    "fr": {
+      "description": "Les options de promo de Claude sont souvent trompeuses, de nombreux sites répertoriant des codes invalides, mettant en évidence l'absence de réductions ou de codes promo officiels.",
+      "features": "Les prétentions concernant des codes promo à 50% de réduction sont rapportées comme fausses.",
+      "badge": "N/A",
+      "pricing": "Aucun code promo public disponible."
+    },
+    "de": {
+      "description": "Claudes Promo-Optionen sind oft irreführend, da viele Seiten ungültige Codes auflisten und das Fehlen offizieller Rabatte oder Gutscheincodes hervorheben.",
+      "features": "Behauptungen über Promo-Codes mit 50% Rabatt werden als falsch gemeldet.",
+      "badge": "N/A",
+      "pricing": "Keine öffentlichen Promo-Codes verfügbar."
+    },
+    "zh": {
+      "description": "Claude 的促销选项往往具有误导性，许多网站列出无效代码，突显出缺乏官方折扣或优惠券代码。",
+      "features": "声称有50%折扣的促销代码被报告为虚假。",
+      "badge": "无",
+      "pricing": "没有可用的公共促销代码。"
+    },
+    "it": {
+      "description": "Le opzioni promozionali di Claude sono spesso fuorvianti, con molti siti che elencano codici non validi, evidenziando l'assenza di sconti ufficiali o codici coupon.",
+      "features": "Le affermazioni sui codici promozionali con il 50% di sconto sono segnalate come false.",
+      "badge": "N/D",
+      "pricing": "Nessun codice promozionale pubblico disponibile."
+    }
+  },
+  "Instantly": {
+    "en": {
+      "description": "Instantly is a marketing tool that leverages AI to facilitate outreach via LinkedIn, email, SMS, and calls, ensuring effective engagement.",
+      "features": "AI-powered omnichannel outreach across various platforms.",
+      "badge": "25% Cashback",
+      "pricing": "Save up to $1,497/year."
+    },
+    "uk": {
+      "description": "Instantly - це маркетинговий інструмент, який використовує ШІ для полегшення зв'язку через LinkedIn, електронну пошту, SMS і дзвінки, забезпечуючи ефективну взаємодію.",
+      "features": "Омніканальне охоплення, засноване на ШІ, на різних платформах.",
+      "badge": "25% кешбек",
+      "pricing": "Заощаджуйте до $1,497 на рік."
+    },
+    "ja": {
+      "description": "Instantlyは、LinkedIn、メール、SMS、電話を通じてアウトリーチを促進するためにAIを活用するマーケティングツールであり、効果的なエンゲージメントを確保します。",
+      "features": "さまざまなプラットフォームでのAI駆動のオムニチャネルアプローチ。",
+      "badge": "25% キャッシュバック",
+      "pricing": "年間最大$1,497の節約。"
+    },
+    "es": {
+      "description": "Instantly es una herramienta de marketing que utiliza la ШІ para facilitar el contacto a través de LinkedIn, correo electrónico, SMS y llamadas, asegurando un compromiso efectivo.",
+      "features": "Alcance omnicanal impulsado por ШІ en varias plataformas.",
+      "badge": "25% de reembolso",
+      "pricing": "Ahorra hasta $1,497/año."
+    },
+    "pt": {
+      "description": "Instantly é uma ferramenta de marketing que utiliza a ШІ para facilitar o contato via LinkedIn, e-mail, SMS e chamadas, garantindo um engajamento eficaz.",
+      "features": "Alcance omnicanal impulsionado por ШІ em várias plataformas.",
+      "badge": "25% de cashback",
+      "pricing": "Economize até $1,497/ano."
+    },
+    "fr": {
+      "description": "Instantly est un outil de marketing qui utilise l'ШІ pour faciliter la prise de contact via LinkedIn, email, SMS et appels, garantissant un engagement efficace.",
+      "features": "Prise de contact omnicanale alimentée par l'ШІ sur diverses plateformes.",
+      "badge": "25% de remboursement",
+      "pricing": "Économisez jusqu'à 1 497 $/an."
+    },
+    "de": {
+      "description": "Instantly ist ein Marketing-Tool, das ШІ nutzt, um die Kontaktaufnahme über LinkedIn, E-Mail, SMS und Anrufe zu erleichtern und so eine effektive Interaktion sicherzustellen.",
+      "features": "ШІ-gesteuertes Omnichannel-Engagement auf verschiedenen Plattformen.",
+      "badge": "25% Cashback",
+      "pricing": "Sparen Sie bis zu 1.497 $/Jahr."
+    },
+    "zh": {
+      "description": "Instantly是一个利用ШІ通过LinkedIn、电子邮件、短信和电话进行外展的营销工具，确保有效参与。",
+      "features": "基于ШІ的跨平台全渠道外展。",
+      "badge": "25% 返现",
+      "pricing": "每年最多节省 $1,497。"
+    },
+    "it": {
+      "description": "Instantly è uno strumento di marketing che sfrutta la ШІ per facilitare il contatto tramite LinkedIn, email, SMS e chiamate, garantendo un coinvolgimento efficace.",
+      "features": "Contatto omnicanale alimentato da ШІ su varie piattaforme.",
+      "badge": "25% di rimborso",
+      "pricing": "Risparmia fino a $1.497 all'anno."
+    }
+  },
+  "Pixelicious": {
+    "en": {
+      "description": "Pixelicious offers a platform where users can create unique images using artificial intelligence, providing a user-friendly interface for all levels of expertise.",
+      "features": "AI image creation tools for generating unique images",
+      "badge": "25%",
+      "pricing": "Starting at a low monthly price"
+    },
+    "uk": {
+      "description": "Pixelicious пропонує платформу, де користувачі можуть створювати унікальні зображення за допомогою штучного інтелекту, надаючи зручний інтерфейс для всіх рівнів експертизи.",
+      "features": "Інструменти для створення зображень за допомогою ШІ для генерації унікальних зображень",
+      "badge": "25%",
+      "pricing": "Починаючи з низької місячної ціни"
+    },
+    "ja": {
+      "description": "Pixeliciousは、ユーザーが人工知能を使用してユニークな画像を作成できるプラットフォームを提供し、すべての専門レベルに対応したユーザーフレンドリーなインターフェースを提供します。",
+      "features": "ユニークな画像を生成するためのAI画像作成ツール",
+      "badge": "25%",
+      "pricing": "低価格の月額料金からスタート"
+    },
+    "es": {
+      "description": "Pixelicious ofrece una plataforma donde los usuarios pueden crear imágenes únicas utilizando inteligencia artificial, proporcionando una interfaz fácil de usar para todos los niveles de experiencia.",
+      "features": "Herramientas de creación de imágenes con IA para generar imágenes únicas",
+      "badge": "25%",
+      "pricing": "A partir de un bajo precio mensual"
+    },
+    "pt": {
+      "description": "Pixelicious oferece uma plataforma onde os usuários podem criar imagens únicas usando inteligência artificial, fornecendo uma interface amigável para todos os níveis de experiência.",
+      "features": "Ferramentas de criação de imagens com IA para gerar imagens únicas",
+      "badge": "25%",
+      "pricing": "A partir de um baixo preço mensal"
+    },
+    "fr": {
+      "description": "Pixelicious propose une plateforme où les utilisateurs peuvent créer des images uniques en utilisant l'intelligence artificielle, offrant une interface conviviale pour tous les niveaux d'expertise.",
+      "features": "Outils de création d'images AI pour générer des images uniques",
+      "badge": "25%",
+      "pricing": "À partir d'un faible prix mensuel"
+    },
+    "de": {
+      "description": "Pixelicious bietet eine Plattform, auf der Benutzer einzigartige Bilder mit künstlicher Intelligenz erstellen können, und bietet eine benutzerfreundliche Oberfläche für alle Erfahrungsstufen.",
+      "features": "KI-Bildgenerierungstools zur Erstellung einzigartiger Bilder",
+      "badge": "25%",
+      "pricing": "Ab einem niedrigen monatlichen Preis"
+    },
+    "zh": {
+      "description": "Pixelicious 提供一个平台，用户可以使用人工智能创建独特的图像，为所有专业水平提供用户友好的界面。",
+      "features": "用于生成独特图像的人工智能图像创建工具",
+      "badge": "25%",
+      "pricing": "起价为低月费用"
+    },
+    "it": {
+      "description": "Pixelicious offre una piattaforma in cui gli utenti possono creare immagini uniche utilizzando intelligenza artificiale, fornendo un'interfaccia intuitiva per tutti i livelli di esperienza.",
+      "features": "Strumenti di creazione di immagini AI per generare immagini uniche",
+      "badge": "25%",
+      "pricing": "A partire da un basso prezzo mensile"
+    }
+  },
+  "AdSpyder": {
+    "en": {
+      "description": "AdSpyder is an AI-driven tool designed to enhance marketing strategies by optimizing ad campaigns and providing insights into competitors' performance.",
+      "features": "Optimizes campaigns, analyses competitors.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "AdSpyder – це інструмент на основі ШІ, розроблений для покращення маркетингових стратегій через оптимізацію рекламних кампаній та надання інформації про ефективність конкурентів.",
+      "features": "Оптимізує кампанії, аналізує конкурентів.",
+      "badge": "Н/Д",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "AdSpyderは、広告キャンペーンの最適化と競合のパフォーマンスに関する洞察を提供することによって、マーケティング戦略を強化するために設計されたAI駆動のツールです。",
+      "features": "キャンペーンを最適化し、競合を分析します。",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "AdSpyder es una herramienta impulsada por IA diseñada para mejorar las estrategias de marketing optimizando campañas publicitarias y proporcionando información sobre el rendimiento de los competidores.",
+      "features": "Optimiza campañas, analiza competidores.",
+      "badge": "N/D",
+      "pricing": "N/D"
+    },
+    "pt": {
+      "description": "AdSpyder é uma ferramenta impulsionada por IA projetada para aprimorar estratégias de marketing, otimizando campanhas publicitárias e fornecendo insights sobre o desempenho dos concorrentes.",
+      "features": "Otima campanhas, analisa concorrentes.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "AdSpyder est un outil alimenté par l'IA conçu pour améliorer les stratégies marketing en optimisant les campagnes publicitaires et en fournissant des informations sur la performance des concurrents.",
+      "features": "Optimise les campagnes, analyse les concurrents.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "AdSpyder ist ein KI-gesteuertes Tool, das entwickelt wurde, um Marketingstrategien zu verbessern, indem es Werbekampagnen optimiert und Einblicke in die Leistung von Wettbewerbern bietet.",
+      "features": "Optimiert Kampagnen, analysiert Wettbewerber.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "AdSpyder是一款基于人工智能的工具，旨在通过优化广告活动和提供有关竞争对手表现的见解来增强营销策略。",
+      "features": "优化广告活动，分析竞争对手。",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "it": {
+      "description": "AdSpyder è uno strumento guidato da intelligenza artificiale progettato per migliorare le strategie di marketing ottimizzando le campagne pubblicitarie e fornendo approfondimenti sulle performance dei concorrenti.",
+      "features": "Ottimizza campagne, analizza concorrenti.",
+      "badge": "N/D",
+      "pricing": "N/D"
     }
   }
 }

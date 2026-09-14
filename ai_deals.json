@@ -26,7 +26,7 @@
         "tool_url": "https://www.heygen.com",
         "code": "JAMM20",
         "discount_amount": "50% OFF",
-        "pricing_info": "Available for any plan for 3 months",
+        "pricing_info": "On any plan during 3 months",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -37,7 +37,7 @@
         "tool_url": "https://www.perplexity.ai",
         "code": "Student discounts available",
         "discount_amount": "Varies",
-        "pricing_info": "Discounts available for verified students and educators.",
+        "pricing_info": "Education Pro is offered to verified students and educators at a discount.",
         "key_features": "AI Search Engine, Real-time Citations",
         "description": "The AI-powered answer engine for research.",
         "last_verified": "2026-05-05",
@@ -81,7 +81,7 @@
         "tool_url": "https://www.synthesia.io",
         "code": "SYNTH123",
         "discount_amount": "30% OFF",
-        "pricing_info": "Discount on subscription",
+        "pricing_info": "Subscription-based pricing models available.",
         "key_features": "AI-generated videos, multilingual support, user-friendly interface, customizable avatars",
         "description": "Synthesia is a leading platform for creating AI-generated videos. It allows users to produce high-quality video content with synthetic actors speaking in various languages without needing a camera crew. The platform is widely used for corporate training, marketing, and educational purposes.",
         "category": "Video AI"
@@ -650,8 +650,8 @@
         "tool_name": "Claude AI",
         "tool_url": "https://www.anthropic.com/claude",
         "code": "CLAUDE123",
-        "discount_amount": "50% OFF",
-        "pricing_info": "Official per-million-token pricing runs from Claude Haiku 4.5 at $1/$5.",
+        "discount_amount": "$5000 Credits",
+        "pricing_info": "Per-million-token pricing starts from $1.",
         "key_features": "Advanced natural language understanding, Conversational AI capabilities, Flexible API integration",
         "description": "Claude is a state-of-the-art conversational AI developed by Anthropic. It is designed to assist users with a wide array of tasks, from answering questions to generating content in a human-like manner. With its advanced algorithms and training on diverse datasets, Claude aims to understand context and provide relevant, coherent responses. The AI can be utilized in various industries including customer support, content creation, and education.",
         "category": "No-Code AI"
@@ -661,7 +661,7 @@
         "tool_url": "https://www.claudepro.com",
         "code": "CLAUDEPRO50",
         "discount_amount": "17%",
-        "pricing_info": "Save up to 17% by paying for a full year upfront",
+        "pricing_info": "Upfront full-year payment option available.",
         "key_features": "Enhanced language models, custom tuning, API access",
         "description": "Claude Pro offers enhanced capabilities over its predecessor, allowing for customized interaction and integration into various software systems via API. It is intended for businesses seeking to leverage advanced AI for improved efficiency and customer engagement.",
         "category": "Coding AI"
@@ -1261,7 +1261,7 @@
         "tool_url": "https://www.descript.com",
         "code": "DESCRIPT50",
         "discount_amount": "25% OFF",
-        "pricing_info": "Discount codes available, check for active promotions.",
+        "pricing_info": "Offers various subscription tiers to cater to different user needs.",
         "key_features": "Audio editing, Overdub, Screen recording",
         "description": "Descript is an all-in-one audio and video editing software that makes content creation more accessible. It combines transcription and editing functionalities, allowing users to edit audio by editing text. Descript stands out with features like Overdub, which uses voice cloning technology to let users create new audio segments in their own voice.",
         "category": "Voice AI"
@@ -1454,9 +1454,9 @@
     {
         "tool_name": "ChatGPT",
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
-        "code": "N/A",
+        "code": "$25k Credits",
         "discount_amount": "$25k Credits",
-        "pricing_info": "At the $20 flagship subscription tier.",
+        "pricing_info": "$20 flagship subscription tier",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -1536,7 +1536,7 @@
         "tool_url": "https://felloai.com/ai-deals/",
         "code": "N/A",
         "discount_amount": "Active promotion",
-        "pricing_info": "$20 flagship subscription tier",
+        "pricing_info": "Free for eligible veterans and transitioning servicemembers.",
         "key_features": "Advanced conversational AI capabilities including enhanced understanding.",
         "description": "ChatGPT Plus offers users access to improved response quality and faster performance compared to the free version of ChatGPT.",
         "category": "No-Code AI"
@@ -1706,7 +1706,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals/pictory-ai-coupon-code",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "8.3 out of 10 based on user ratings.",
+        "pricing_info": "8.3/10 User Rating",
         "key_features": "Coupon codes for savings on AI video tools.",
         "description": "Pictory.ai offers innovative AI-powered video editing solutions designed to help content creators simplify their workflow and enhance video quality.",
         "category": "Video AI"
@@ -2186,7 +2186,7 @@
         "tool_url": "https://humanizethat.com/blog/best-ways-to-use-a-quillbot-promo-code-and-save-more-on-writing-tools",
         "code": "Valid promo codes available",
         "discount_amount": "Varies",
-        "pricing_info": "Valid Quillbot discount codes for various subscription plans.",
+        "pricing_info": "May 2026 valid discount codes",
         "key_features": "AI-powered writing assistance, Grammar checking, Paraphrasing",
         "description": "Quillbot is an AI-powered writing tool that helps users enhance their writing with features like grammar checking, paraphrasing, and providing synonyms. It's popular among students and professionals for its versatility.",
         "category": "Writing AI"
@@ -2206,7 +2206,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "$6.49",
-        "pricing_info": "$6.49 for your first month.",
+        "pricing_info": "$6.49 for the first month",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2566,7 +2566,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "8.0 out of 10 based on user ratings.",
+        "pricing_info": "8.0/10 User Rating",
         "key_features": "AI meeting assistant that captures and transcribes conversations.",
         "description": "Fireflies AI is an AI-powered meeting assistant that records, transcribes, and organizes voice conversations into searchable notes.",
         "category": "Coding AI"
@@ -2790,5 +2790,55 @@
         "key_features": "Personalized care plans, remembers health history.",
         "description": "Doctronic is an AI doctor that offers personalized care plans based on detailed analysis of the patient's health history, evolving as per individual needs.",
         "category": "Medical AI"
+    },
+    {
+        "tool_name": "Clone Voice AI",
+        "tool_url": "https://www.youtube.com/watch?v=IyG2pVjeri8",
+        "code": "N/A",
+        "discount_amount": "30%",
+        "pricing_info": "Lifetime Access",
+        "key_features": "Voice cloning, Multilingual support, Customizable voice parameters.",
+        "description": "Clone Voice AI is a revolutionary tool that enables users to create realistic voiceovers using artificial intelligence. It allows for the cloning of voices which can be customized for various applications, including content creation, gaming, and more.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "Claude Promo Code",
+        "tool_url": "https://costgoat.com/deals/claude.ai",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "No public promo codes available.",
+        "key_features": "Claims of 50% off promo codes are reported as fake.",
+        "description": "Claude's promo options are often misleading, with many sites listing invalid codes, highlighting the absence of official discounts or coupon codes.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Instantly",
+        "tool_url": "https://nachonacho.com/product/Instantly",
+        "code": "N/A",
+        "discount_amount": "25% Cashback",
+        "pricing_info": "Save up to $1,497/year.",
+        "key_features": "AI-powered omnichannel outreach across various platforms.",
+        "description": "Instantly is a marketing tool that leverages AI to facilitate outreach via LinkedIn, email, SMS, and calls, ensuring effective engagement.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "Pixelicious",
+        "tool_url": "https://curateddeals.com/categories/ai-image-generators",
+        "code": "N/A",
+        "discount_amount": "25%",
+        "pricing_info": "Starting at a low monthly price",
+        "key_features": "AI image creation tools for generating unique images",
+        "description": "Pixelicious offers a platform where users can create unique images using artificial intelligence, providing a user-friendly interface for all levels of expertise.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "AdSpyder",
+        "tool_url": "https://www.toolpilot.ai/blogs/news/the-best-exclusive-coupons-for-ai-tools-in-2026-for-toolpilot-users",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Optimizes campaigns, analyses competitors.",
+        "description": "AdSpyder is an AI-driven tool designed to enhance marketing strategies by optimizing ad campaigns and providing insights into competitors' performance.",
+        "category": "Marketing AI"
     }
 ]

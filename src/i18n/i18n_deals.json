@@ -12878,5 +12878,235 @@
             "zh": "限时优惠",
             "it": "Offerta a tempo limitato"
         }
+    },
+    "Clone Voice AI": {
+        "description": {
+            "en": "Clone Voice AI is a revolutionary tool that enables users to create realistic voiceovers using artificial intelligence. It allows for the cloning of voices which can be customized for various applications, including content creation, gaming, and more.",
+            "uk": "Clone Voice ШІ — це революційний інструмент, який дозволяє користувачам створювати реалістичні озвучення за допомогою штучного інтелекту. Він дозволяє клонувати голоси, які можна налаштовувати для різних застосувань, включаючи створення контенту, ігри та інше.",
+            "ja": "Clone Voice AIは、ユーザーが人工知能を使用してリアルなボイスオーバーを作成できる革新的なツールです。コンテンツ作成、ゲームなど、さまざまなアプリケーション向けにカスタマイズ可能な音声のクローンを作成することができます。",
+            "es": "Clone Voice AI es una herramienta revolucionaria que permite a los usuarios crear voces en off realistas utilizando inteligencia artificial. Permite la clonación de voces que se pueden personalizar para diversas aplicaciones, incluidas la creación de contenido, los juegos y más.",
+            "pt": "Clone Voice AI é uma ferramenta revolucionária que permite aos usuários criar narrações realistas usando inteligência artificial. Permite a clonagem de vozes que podem ser personalizadas para várias aplicações, incluindo criação de conteúdo, jogos e mais.",
+            "fr": "Clone Voice AI est un outil révolutionnaire qui permet aux utilisateurs de créer des voix off réalistes en utilisant l'intelligence artificielle. Il permet de cloner des voix qui peuvent être personnalisées pour diverses applications, y compris la création de contenu, le jeu, et plus encore.",
+            "de": "Clone Voice AI ist ein revolutionäres Tool, das es Benutzern ermöglicht, realistische Sprachaufnahmen mit künstlicher Intelligenz zu erstellen. Es ermöglicht das Klonen von Stimmen, die für verschiedene Anwendungen, einschließlich der Inhaltscreation, Spiele und mehr, angepasst werden können.",
+            "zh": "Clone Voice AI是一款革命性的工具，使用户能够使用人工智能创建逼真的配音。它允许克隆可定制的声音，以应用于内容创作、游戏等多种场景。",
+            "it": "Clone Voice AI è uno strumento rivoluzionario che consente agli utenti di creare voice-over realistici utilizzando l'intelligenza artificiale. Permette la clonazione delle voci, che possono essere personalizzate per varie applicazioni, tra cui creazione di contenuti, giochi e altro ancora."
+        },
+        "features": {
+            "en": "Voice cloning, Multilingual support, Customizable voice parameters.",
+            "uk": "Клонування голосів, Підтримка кількох мов, Налаштовувані параметри голосу.",
+            "ja": "声のクローン、多言語サポート、カスタマイズ可能な音声パラメータ。",
+            "es": "Clonación de voces, Soporte multilingüe, Parámetros de voz personalizables.",
+            "pt": "Clonagem de voz, Suporte multilíngue, Parâmetros de voz personalizáveis.",
+            "fr": "Clonage de voix, Support multilingue, Paramètres de voix personnalisables.",
+            "de": "Stimmklonierung, Mehrsprachige Unterstützung, Anpassbare Stimmparameter.",
+            "zh": "声音克隆、多语言支持、可定制的声音参数。",
+            "it": "Clonazione della voce, Supporto multilingue, Parametri vocali personalizzabili."
+        },
+        "discount": {
+            "en": "30%",
+            "uk": "30%",
+            "ja": "30%",
+            "es": "30%",
+            "pt": "30%",
+            "fr": "30%",
+            "de": "30%",
+            "zh": "30%",
+            "it": "30%"
+        },
+        "pricing": {
+            "en": "Lifetime Access",
+            "uk": "Доступ на все життя",
+            "ja": "生涯アクセス",
+            "es": "Acceso de por vida",
+            "pt": "Acesso vitalício",
+            "fr": "Accès à vie",
+            "de": "Lebenslanger Zugang",
+            "zh": "终身访问",
+            "it": "Accesso a vita"
+        }
+    },
+    "Claude Promo Code": {
+        "description": {
+            "en": "Claude's promo options are often misleading, with many sites listing invalid codes, highlighting the absence of official discounts or coupon codes.",
+            "uk": "Промо-акції Claude часто вводять в оману, багато сайтів наводять недійсні коди, підкреслюючи відсутність офіційних знижок або купонів.",
+            "ja": "クロードのプロモオプションはしばしば誤解を招くもので、多くのサイトが無効なコードをリストしており、公式の割引やクーポンコードが存在しないことを強調しています。",
+            "es": "Las opciones de promoción de Claude a menudo son engañosas, y muchos sitios enumeran códigos inválidos, destacando la ausencia de descuentos o códigos de cupón oficiales.",
+            "pt": "As opções de promoção do Claude costumam ser enganosas, com muitos sites listando códigos inválidos, destacando a ausência de descontos ou cupons oficiais.",
+            "fr": "Les options de promo de Claude sont souvent trompeuses, de nombreux sites répertoriant des codes invalides, mettant en évidence l'absence de réductions ou de codes promo officiels.",
+            "de": "Claudes Promo-Optionen sind oft irreführend, da viele Seiten ungültige Codes auflisten und das Fehlen offizieller Rabatte oder Gutscheincodes hervorheben.",
+            "zh": "Claude 的促销选项往往具有误导性，许多网站列出无效代码，突显出缺乏官方折扣或优惠券代码。",
+            "it": "Le opzioni promozionali di Claude sono spesso fuorvianti, con molti siti che elencano codici non validi, evidenziando l'assenza di sconti ufficiali o codici coupon."
+        },
+        "features": {
+            "en": "Claims of 50% off promo codes are reported as fake.",
+            "uk": "Заяви про промо-коди зі знижкою 50% виявилися фейковими.",
+            "ja": "50%オフのプロモーションコードの主張は偽であると報告されています。",
+            "es": "Se informa que las afirmaciones de códigos de promoción con un 50% de descuento son falsas.",
+            "pt": "As alegações de códigos promocionais com 50% de desconto são relatadas como falsas.",
+            "fr": "Les prétentions concernant des codes promo à 50% de réduction sont rapportées comme fausses.",
+            "de": "Behauptungen über Promo-Codes mit 50% Rabatt werden als falsch gemeldet.",
+            "zh": "声称有50%折扣的促销代码被报告为虚假。",
+            "it": "Le affermazioni sui codici promozionali con il 50% di sconto sono segnalate come false."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "No public promo codes available.",
+            "uk": "Немає доступних публічних промо-кодів.",
+            "ja": "公開されているプロモコードはありません。",
+            "es": "No hay códigos de promoción públicos disponibles.",
+            "pt": "Não há códigos promocionais públicos disponíveis.",
+            "fr": "Aucun code promo public disponible.",
+            "de": "Keine öffentlichen Promo-Codes verfügbar.",
+            "zh": "没有可用的公共促销代码。",
+            "it": "Nessun codice promozionale pubblico disponibile."
+        }
+    },
+    "Instantly": {
+        "description": {
+            "en": "Instantly is a marketing tool that leverages AI to facilitate outreach via LinkedIn, email, SMS, and calls, ensuring effective engagement.",
+            "uk": "Instantly - це маркетинговий інструмент, який використовує ШІ для полегшення зв'язку через LinkedIn, електронну пошту, SMS і дзвінки, забезпечуючи ефективну взаємодію.",
+            "ja": "Instantlyは、LinkedIn、メール、SMS、電話を通じてアウトリーチを促進するためにAIを活用するマーケティングツールであり、効果的なエンゲージメントを確保します。",
+            "es": "Instantly es una herramienta de marketing que utiliza la ШІ para facilitar el contacto a través de LinkedIn, correo electrónico, SMS y llamadas, asegurando un compromiso efectivo.",
+            "pt": "Instantly é uma ferramenta de marketing que utiliza a ШІ para facilitar o contato via LinkedIn, e-mail, SMS e chamadas, garantindo um engajamento eficaz.",
+            "fr": "Instantly est un outil de marketing qui utilise l'ШІ pour faciliter la prise de contact via LinkedIn, email, SMS et appels, garantissant un engagement efficace.",
+            "de": "Instantly ist ein Marketing-Tool, das ШІ nutzt, um die Kontaktaufnahme über LinkedIn, E-Mail, SMS und Anrufe zu erleichtern und so eine effektive Interaktion sicherzustellen.",
+            "zh": "Instantly是一个利用ШІ通过LinkedIn、电子邮件、短信和电话进行外展的营销工具，确保有效参与。",
+            "it": "Instantly è uno strumento di marketing che sfrutta la ШІ per facilitare il contatto tramite LinkedIn, email, SMS e chiamate, garantendo un coinvolgimento efficace."
+        },
+        "features": {
+            "en": "AI-powered omnichannel outreach across various platforms.",
+            "uk": "Омніканальне охоплення, засноване на ШІ, на різних платформах.",
+            "ja": "さまざまなプラットフォームでのAI駆動のオムニチャネルアプローチ。",
+            "es": "Alcance omnicanal impulsado por ШІ en varias plataformas.",
+            "pt": "Alcance omnicanal impulsionado por ШІ em várias plataformas.",
+            "fr": "Prise de contact omnicanale alimentée par l'ШІ sur diverses plateformes.",
+            "de": "ШІ-gesteuertes Omnichannel-Engagement auf verschiedenen Plattformen.",
+            "zh": "基于ШІ的跨平台全渠道外展。",
+            "it": "Contatto omnicanale alimentato da ШІ su varie piattaforme."
+        },
+        "discount": {
+            "en": "25% Cashback",
+            "uk": "25% кешбек",
+            "ja": "25% キャッシュバック",
+            "es": "25% de reembolso",
+            "pt": "25% de cashback",
+            "fr": "25% de remboursement",
+            "de": "25% Cashback",
+            "zh": "25% 返现",
+            "it": "25% di rimborso"
+        },
+        "pricing": {
+            "en": "Save up to $1,497/year.",
+            "uk": "Заощаджуйте до $1,497 на рік.",
+            "ja": "年間最大$1,497の節約。",
+            "es": "Ahorra hasta $1,497/año.",
+            "pt": "Economize até $1,497/ano.",
+            "fr": "Économisez jusqu'à 1 497 $/an.",
+            "de": "Sparen Sie bis zu 1.497 $/Jahr.",
+            "zh": "每年最多节省 $1,497。",
+            "it": "Risparmia fino a $1.497 all'anno."
+        }
+    },
+    "Pixelicious": {
+        "description": {
+            "en": "Pixelicious offers a platform where users can create unique images using artificial intelligence, providing a user-friendly interface for all levels of expertise.",
+            "uk": "Pixelicious пропонує платформу, де користувачі можуть створювати унікальні зображення за допомогою штучного інтелекту, надаючи зручний інтерфейс для всіх рівнів експертизи.",
+            "ja": "Pixeliciousは、ユーザーが人工知能を使用してユニークな画像を作成できるプラットフォームを提供し、すべての専門レベルに対応したユーザーフレンドリーなインターフェースを提供します。",
+            "es": "Pixelicious ofrece una plataforma donde los usuarios pueden crear imágenes únicas utilizando inteligencia artificial, proporcionando una interfaz fácil de usar para todos los niveles de experiencia.",
+            "pt": "Pixelicious oferece uma plataforma onde os usuários podem criar imagens únicas usando inteligência artificial, fornecendo uma interface amigável para todos os níveis de experiência.",
+            "fr": "Pixelicious propose une plateforme où les utilisateurs peuvent créer des images uniques en utilisant l'intelligence artificielle, offrant une interface conviviale pour tous les niveaux d'expertise.",
+            "de": "Pixelicious bietet eine Plattform, auf der Benutzer einzigartige Bilder mit künstlicher Intelligenz erstellen können, und bietet eine benutzerfreundliche Oberfläche für alle Erfahrungsstufen.",
+            "zh": "Pixelicious 提供一个平台，用户可以使用人工智能创建独特的图像，为所有专业水平提供用户友好的界面。",
+            "it": "Pixelicious offre una piattaforma in cui gli utenti possono creare immagini uniche utilizzando intelligenza artificiale, fornendo un'interfaccia intuitiva per tutti i livelli di esperienza."
+        },
+        "features": {
+            "en": "AI image creation tools for generating unique images",
+            "uk": "Інструменти для створення зображень за допомогою ШІ для генерації унікальних зображень",
+            "ja": "ユニークな画像を生成するためのAI画像作成ツール",
+            "es": "Herramientas de creación de imágenes con IA para generar imágenes únicas",
+            "pt": "Ferramentas de criação de imagens com IA para gerar imagens únicas",
+            "fr": "Outils de création d'images AI pour générer des images uniques",
+            "de": "KI-Bildgenerierungstools zur Erstellung einzigartiger Bilder",
+            "zh": "用于生成独特图像的人工智能图像创建工具",
+            "it": "Strumenti di creazione di immagini AI per generare immagini uniche"
+        },
+        "discount": {
+            "en": "25%",
+            "uk": "25%",
+            "ja": "25%",
+            "es": "25%",
+            "pt": "25%",
+            "fr": "25%",
+            "de": "25%",
+            "zh": "25%",
+            "it": "25%"
+        },
+        "pricing": {
+            "en": "Starting at a low monthly price",
+            "uk": "Починаючи з низької місячної ціни",
+            "ja": "低価格の月額料金からスタート",
+            "es": "A partir de un bajo precio mensual",
+            "pt": "A partir de um baixo preço mensal",
+            "fr": "À partir d'un faible prix mensuel",
+            "de": "Ab einem niedrigen monatlichen Preis",
+            "zh": "起价为低月费用",
+            "it": "A partire da un basso prezzo mensile"
+        }
+    },
+    "AdSpyder": {
+        "description": {
+            "en": "AdSpyder is an AI-driven tool designed to enhance marketing strategies by optimizing ad campaigns and providing insights into competitors' performance.",
+            "uk": "AdSpyder – це інструмент на основі ШІ, розроблений для покращення маркетингових стратегій через оптимізацію рекламних кампаній та надання інформації про ефективність конкурентів.",
+            "ja": "AdSpyderは、広告キャンペーンの最適化と競合のパフォーマンスに関する洞察を提供することによって、マーケティング戦略を強化するために設計されたAI駆動のツールです。",
+            "es": "AdSpyder es una herramienta impulsada por IA diseñada para mejorar las estrategias de marketing optimizando campañas publicitarias y proporcionando información sobre el rendimiento de los competidores.",
+            "pt": "AdSpyder é uma ferramenta impulsionada por IA projetada para aprimorar estratégias de marketing, otimizando campanhas publicitárias e fornecendo insights sobre o desempenho dos concorrentes.",
+            "fr": "AdSpyder est un outil alimenté par l'IA conçu pour améliorer les stratégies marketing en optimisant les campagnes publicitaires et en fournissant des informations sur la performance des concurrents.",
+            "de": "AdSpyder ist ein KI-gesteuertes Tool, das entwickelt wurde, um Marketingstrategien zu verbessern, indem es Werbekampagnen optimiert und Einblicke in die Leistung von Wettbewerbern bietet.",
+            "zh": "AdSpyder是一款基于人工智能的工具，旨在通过优化广告活动和提供有关竞争对手表现的见解来增强营销策略。",
+            "it": "AdSpyder è uno strumento guidato da intelligenza artificiale progettato per migliorare le strategie di marketing ottimizzando le campagne pubblicitarie e fornendo approfondimenti sulle performance dei concorrenti."
+        },
+        "features": {
+            "en": "Optimizes campaigns, analyses competitors.",
+            "uk": "Оптимізує кампанії, аналізує конкурентів.",
+            "ja": "キャンペーンを最適化し、競合を分析します。",
+            "es": "Optimiza campañas, analiza competidores.",
+            "pt": "Otima campanhas, analisa concorrentes.",
+            "fr": "Optimise les campagnes, analyse les concurrents.",
+            "de": "Optimiert Kampagnen, analysiert Wettbewerber.",
+            "zh": "优化广告活动，分析竞争对手。",
+            "it": "Ottimizza campagne, analizza concorrenti."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/D"
+        }
     }
 }
