@@ -1,5 +1,5 @@
 {
-  "$20/mo for 350+ AI models including Midjourney features.": {
+  "Annual Midjourney Plans": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
     "ja": "月額10ドルから",
@@ -10,7 +10,7 @@
     "zh": "起价$10/月",
     "it": "Da $10/mese"
   },
-  "30%": {
+  "20%": {
     "en": "20% OFF",
     "uk": "ЗНИЖКА 20%",
     "ja": "20%オフ",
@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "On any plan during 3 months": {
+  "Exclusive deal for all plans.": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "50% OFF": {
+  "60%": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -65,7 +65,7 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "Education Pro is offered to verified students and educators at a discount.": {
+  "Discount for verified students and educators": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -153,7 +153,7 @@
     "zh": "免费额度",
     "it": "Crediti gratuiti"
   },
-  "Subscription-based pricing models available.": {
+  "Subscription Discount": {
     "en": "$22/mo (Annual)",
     "uk": "$22/міс (Річна)",
     "ja": "月額22ドル（年払い）",
@@ -637,17 +637,6 @@
     "zh": "89 美元/月起",
     "it": "A partire da $89/mese"
   },
-  "20%": {
-    "en": "33% OFF",
-    "uk": "ЗНИЖКА 33%",
-    "ja": "33% オフ",
-    "es": "33% DTO",
-    "pt": "33% DTO",
-    "fr": "33% DE RABAIS",
-    "de": "33% RABATT",
-    "zh": "33% 折扣",
-    "it": "33% DI SCONTO"
-  },
   "$14.99/mo": {
     "en": "$14.99/mo",
     "uk": "$14.99/міс",
@@ -680,6 +669,17 @@
     "de": "149 $/Monat",
     "zh": "149 美元/月",
     "it": "149 $/mese"
+  },
+  "30%": {
+    "en": "20% OFF",
+    "uk": "ЗНИЖКА 20%",
+    "ja": "20% オフ",
+    "es": "20% DTO",
+    "pt": "20% DTO",
+    "fr": "20% DE RABAIS",
+    "de": "20% RABATT",
+    "zh": "20% 折扣",
+    "it": "20% DI SCONTO"
   },
   "From $119.99/yr": {
     "en": "Starts at $119/year",
@@ -1022,7 +1022,7 @@
     "zh": "AI 助手",
     "it": "Assistente IA"
   },
-  "Upfront full-year payment option available.": {
+  "Save up to 17% for a full year upfront compared to monthly payments.": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "月額20ドル",
@@ -1120,17 +1120,6 @@
     "de": "Nur für Unternehmen",
     "zh": "仅限企业版",
     "it": "Solo per aziende"
-  },
-  "60%": {
-    "en": "Health Tech",
-    "uk": "Медтех",
-    "ja": "ヘルステック",
-    "es": "Tecnología de salud",
-    "pt": "Tecnologia em Saúde",
-    "fr": "Health Tech",
-    "de": "Health-Tech",
-    "zh": "医疗科技",
-    "it": "Health Tech"
   },
   "Free tier available, paid plans for premium usage": {
     "en": "Usage-based Pricing",
@@ -1242,7 +1231,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Up to 50% off on annual plans": {
+  "Free 1-Year Pro Plan ($240 Value)": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1252,6 +1241,17 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
+  },
+  "50% OFF": {
+    "en": "Search Deal",
+    "uk": "Пошукова угода",
+    "ja": "サーチセール",
+    "es": "Oferta de búsqueda",
+    "pt": "Oferta de Busca",
+    "fr": "Offre de recherche",
+    "de": "Such-Deal",
+    "zh": "搜索优惠",
+    "it": "Offerta ricerca"
   },
   "Free basic plan, premium plans starting at $11.66/month.": {
     "en": "Free or $12/mo Premium",
@@ -1770,17 +1770,6 @@
     "zh": "10 美元/小时起",
     "it": "A partire da $10/ora"
   },
-  "Offers various subscription tiers to cater to different user needs.": {
-    "en": "Free Trial; Plans from $15/mo",
-    "uk": "Пробна версія; Плани від $15/міс",
-    "ja": "無料トライアルあり。プランは月額15ドルから",
-    "es": "Prueba gratuita; planes desde $15/mes",
-    "pt": "Teste Gratuito; Planos a partir de $15/mês",
-    "fr": "Essai gratuit ; Plans à partir de 15 $/mois",
-    "de": "Kostenlose Testversion; Abos ab 15 $/Monat",
-    "zh": "提供免费试用；套餐 15 美元/月起",
-    "it": "Prova gratuita; piani a partire da $15/mese"
-  },
   "25% OFF": {
     "en": "50% OFF",
     "uk": "50% знижки",
@@ -2012,7 +2001,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "$20 flagship subscription tier": {
+  "Globally available in all ChatGPT-supported countries.": {
     "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
     "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
     "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
@@ -2452,7 +2441,7 @@
     "zh": "每月69美元",
     "it": "69 dollari/mese"
   },
-  "Verified Discount": {
+  "$19": {
     "en": "$30",
     "uk": "$30",
     "ja": "30ドル",
@@ -2463,7 +2452,7 @@
     "zh": "30美元",
     "it": "30 dollari"
   },
-  "$23.99 → $29": {
+  "Offer valid for any plan during 3 months.": {
     "en": "Additional 20% off during 12 months",
     "uk": "Додаткові 20% знижки протягом 12 місяців",
     "ja": "12か月間はさらに20％オフ",
@@ -2473,17 +2462,6 @@
     "de": "Zusätzliche 20% Rabatt für 12 Monate",
     "zh": "在12个月内额外优惠20%",
     "it": "20% di sconto aggiuntivo per 12 mesi"
-  },
-  "23%": {
-    "en": "20%",
-    "uk": "20%",
-    "ja": "20%",
-    "es": "20%",
-    "pt": "20%",
-    "fr": "20%",
-    "de": "20%",
-    "zh": "20%",
-    "it": "20%"
   },
   "Up to 25% with 13 active promo codes": {
     "en": "Up to 25% with 13 active promo codes",
@@ -2507,7 +2485,7 @@
     "zh": "2026年限时优惠。",
     "it": "Offerta a tempo limitato per il 2026."
   },
-  "Coupons that actually work, powered by 40M+ real shoppers and AI.": {
+  "Free to use": {
     "en": "Free coupon extension with 40M+ shoppers.",
     "uk": "Безкоштовне розширення купонів з понад 40 мільйонами покупців.",
     "ja": "4000万人以上の買い物客とともに提供される無料のクーポン拡張機能です。",
@@ -2958,7 +2936,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "$6.49 for the first month": {
+  "First month for $6.49": {
     "en": "$6.49 for the first month",
     "uk": "$6.49 за перший місяць",
     "ja": "最初の月は6.49ドル",
@@ -3057,7 +3035,7 @@
     "zh": "免费开始",
     "it": "Inizia gratuitamente"
   },
-  "$1500 Free Credits": {
+  "$1500 in free credits": {
     "en": "$1,500 Free Credits",
     "uk": "$1,500 безкоштовних кредитів",
     "ja": "$1,500の無料クレジット",
@@ -3068,7 +3046,7 @@
     "zh": "$1,500免费信用",
     "it": "$1.500 di crediti gratuiti"
   },
-  "$1500 in free credits": {
+  "$1500 Free Credits": {
     "en": "50%",
     "uk": "50%",
     "ja": "50%",
@@ -3101,7 +3079,7 @@
     "zh": "免费3个月",
     "it": "3 mesi gratuiti"
   },
-  "Half price for professional images": {
+  "Half price for high quality AI headshots.": {
     "en": "$61",
     "uk": "$61",
     "ja": "$61",
@@ -3145,7 +3123,7 @@
     "zh": "14天免费试用。",
     "it": "Prova gratuita di 14 giorni."
   },
-  "Starts at paid limits after 7 days free trial": {
+  "7-day free trial available.": {
     "en": "Starts at paid limits after 7 days free trial",
     "uk": "Платні ліміти починаються після 7 днів безкоштовної пробної версії",
     "ja": "7日間の無料トライアルの後、料金制限が始まります",
@@ -3332,7 +3310,7 @@
     "zh": "最高60％的折扣",
     "it": "Fino al 60% di sconto"
   },
-  "Paid limits after the free trial": {
+  "Starts at grok.com/plans": {
     "en": "Paid limits after the free trial",
     "uk": "Оплачувані ліміти після безкоштовної пробної версії",
     "ja": "無料トライアル後は有料制限があります",
@@ -3540,6 +3518,116 @@
     "de": "Ab einem niedrigen monatlichen Preis",
     "zh": "起价为低月费用",
     "it": "A partire da un basso prezzo mensile"
+  },
+  "200 search credits free": {
+    "en": "200 search credits free",
+    "uk": "200 безкоштовних кредитів на пошук",
+    "ja": "200の検索クレジット無料",
+    "es": "200 créditos de búsqueda gratis",
+    "pt": "200 créditos de pesquisa grátis",
+    "fr": "200 crédits de recherche offerts",
+    "de": "200 kostenlose Suchguthaben",
+    "zh": "200个免费搜索积分",
+    "it": "200 crediti di ricerca gratuiti"
+  },
+  "First month discount on the Creator plan": {
+    "en": "First month discount on the Creator plan",
+    "uk": "Знижка на перший місяць підписки на план Creator",
+    "ja": "Creatorプランの初月割引",
+    "es": "Descuento del primer mes en el plan Creator",
+    "pt": "Desconto no primeiro mês do plano Creator",
+    "fr": "Remise du premier mois sur le plan Creator",
+    "de": "Rabatt auf den ersten Monat des Creator-Plans",
+    "zh": "Creator计划首月折扣",
+    "it": "Sconto sul primo mese del piano Creator"
+  },
+  "$7.99/Month": {
+    "en": "$7.99/Month",
+    "uk": "$7,99/Місяць",
+    "ja": "月額7.99ドル",
+    "es": "$7.99/mes",
+    "pt": "$7,99/mês",
+    "fr": "7,99 $/mois",
+    "de": "7,99 $/Monat",
+    "zh": "$7.99/月",
+    "it": "$7,99/al mese"
+  },
+  "$7.99": {
+    "en": "$7.99",
+    "uk": "$7.99",
+    "ja": "7.99ドル",
+    "es": "$7.99",
+    "pt": "$7,99",
+    "fr": "7,99 $",
+    "de": "7,99 $",
+    "zh": "$7.99",
+    "it": "$7,99"
+  },
+  "Annual plans offering significant discounts.": {
+    "en": "Annual plans offering significant discounts.",
+    "uk": "Річні плани з суттєвими знижками.",
+    "ja": "大幅な割引がある年間プラン。",
+    "es": "Planes anuales que ofrecen descuentos significativos.",
+    "pt": "Planos anuais que oferecem descontos significativos.",
+    "fr": "Plans annuels offrant des réductions significatives.",
+    "de": "Jahrespläne mit erheblichen Rabatten.",
+    "zh": "提供重大折扣的年度计划。",
+    "it": "Piani annuali con sconti significativi."
+  },
+  "Varies by selection": {
+    "en": "Varies by selection",
+    "uk": "Варіюється в залежності від вибору",
+    "ja": "選択によって異なります",
+    "es": "Varía según la selección",
+    "pt": "Varia de acordo com a seleção",
+    "fr": "Varie selon la sélection",
+    "de": "Variiert je nach Auswahl",
+    "zh": "根据选择而异",
+    "it": "Varia in base alla selezione"
+  },
+  "Free Glasses": {
+    "en": "Free Glasses",
+    "uk": "Безкоштовні окуляри",
+    "ja": "無料の眼鏡",
+    "es": "Gafas gratis",
+    "pt": "Óculos grátis",
+    "fr": "Lunettes gratuites",
+    "de": "Kostenlose Brillen",
+    "zh": "免费眼镜",
+    "it": "Occhiali gratuiti"
+  },
+  "Pricing varies based on items available.": {
+    "en": "Pricing varies based on items available.",
+    "uk": "Ціни залежать від доступних товарів.",
+    "ja": "価格は利用可能なアイテムに基づいて異なります。",
+    "es": "Los precios varían según los artículos disponibles.",
+    "pt": "Os preços variam com base nos itens disponíveis.",
+    "fr": "Les prix varient en fonction des articles disponibles.",
+    "de": "Die Preise variieren je nach verfügbaren Artikeln.",
+    "zh": "定价因可用商品而异。",
+    "it": "I prezzi variano in base agli articoli disponibili."
+  },
+  "Student and educator discounts": {
+    "en": "Student and educator discounts",
+    "uk": "Знижки для студентів та викладачів",
+    "ja": "学生と教育者向けの割引",
+    "es": "Descuentos para estudiantes y educadores",
+    "pt": "Descontos para estudantes e educadores",
+    "fr": "Remises pour les étudiants et les éducateurs",
+    "de": "Rabatte für Studenten und Lehrer",
+    "zh": "学生和教育工作者折扣",
+    "it": "Sconti per studenti ed educatori"
+  },
+  "Save up to $1,497/year": {
+    "en": "Save up to $1,497/year",
+    "uk": "Зекономте до $1,497 на рік",
+    "ja": "年間$1,497の節約が可能",
+    "es": "Ahorra hasta $1,497/año",
+    "pt": "Economize até $1,497/ano",
+    "fr": "Économisez jusqu'à 1 497 $/an",
+    "de": "Sparen Sie bis zu 1.497 $/Jahr",
+    "zh": "每年可节省高达$1,497",
+    "it": "Risparmia fino a $1.497/anno"
   },
   "Midjourney": {
     "en": {
@@ -19499,6 +19587,510 @@
       "features": "Ottimizza campagne, analizza concorrenti.",
       "badge": "N/D",
       "pricing": "N/D"
+    }
+  },
+  "Grok / SuperGrok": {
+    "en": {
+      "description": "Grok and SuperGrok are AI coding tools that help users with coding assistance and provide options for free trials.",
+      "features": "AI coding assistance with a paid model that includes a trial version.",
+      "badge": "7-day free trial",
+      "pricing": "Starts at grok.com/plans"
+    },
+    "uk": {
+      "description": "Grok та SuperGrok - це інструменти кодування ШІ, які допомагають користувачам з кодингом та пропонують варіанти безкоштовних пробних версій.",
+      "features": "Допомога у кодуванні за допомогою ШІ з платною моделлю, яка включає пробну версію.",
+      "badge": "Безкоштовна пробна версія на 7 днів",
+      "pricing": "Починається з grok.com/plans"
+    },
+    "ja": {
+      "description": "Grok と SuperGrok は、コーディング支援を提供し、無料トライアルのオプションを提供するAIコーディングツールです。",
+      "features": "トライアル版を含む有料モデルのAIコーディング支援。",
+      "badge": "7日間の無料トライアル",
+      "pricing": "grok.com/plansから始まります"
+    },
+    "es": {
+      "description": "Grok y SuperGrok son herramientas de codificación de IA que ayudan a los usuarios con asistencia en codificación y ofrecen opciones de pruebas gratuitas.",
+      "features": "Asistencia de codificación de IA con un modelo de pago que incluye una versión de prueba.",
+      "badge": "Prueba gratuita de 7 días",
+      "pricing": "Comienza en grok.com/plans"
+    },
+    "pt": {
+      "description": "Grok e SuperGrok são ferramentas de codificação com IA que ajudam os usuários com assistência de codificação e oferecem opções de testes gratuitos.",
+      "features": "Assistência de codificação com IA com um modelo pago que inclui uma versão de teste.",
+      "badge": "Teste gratuito de 7 dias",
+      "pricing": "Começa em grok.com/plans"
+    },
+    "fr": {
+      "description": "Grok et SuperGrok sont des outils de codage IA qui aident les utilisateurs avec l'assistance au codage et offrent des options d'essai gratuit.",
+      "features": "Assistance au codage par IA avec un modèle payant comprenant une version d'essai.",
+      "badge": "Essai gratuit de 7 jours",
+      "pricing": "À partir de grok.com/plans"
+    },
+    "de": {
+      "description": "Grok und SuperGrok sind KI-Coding-Tools, die Benutzern bei der Programmierung helfen und Optionen für kostenlose Testversionen bieten.",
+      "features": "KI-Coding-Unterstützung mit einem kostenpflichtigen Modell, das eine Testversion umfasst.",
+      "badge": "7-tägige kostenlose Testversion",
+      "pricing": "Beginnt bei grok.com/plans"
+    },
+    "zh": {
+      "description": "Grok 和 SuperGrok 是帮助用户进行编码的人工智能工具，提供免费试用选项。",
+      "features": "带有试用版的付费模型的人工智能编码辅助。",
+      "badge": "7天免费试用",
+      "pricing": "价格从grok.com/plans开始"
+    },
+    "it": {
+      "description": "Grok e SuperGrok sono strumenti di codifica AI che aiutano gli utenti con assistenza alla codifica e offrono opzioni di prova gratuita.",
+      "features": "Assistenza alla codifica con IA con un modello a pagamento che include una versione di prova.",
+      "badge": "Prova gratuita di 7 giorni",
+      "pricing": "Parte da grok.com/plans"
+    }
+  },
+  "Seamless AI": {
+    "en": {
+      "description": "Seamless AI provides businesses with tools to access advanced sales solutions while keeping costs manageable, frequently offering enticing deals.",
+      "features": "Offers promotions to help users maximize sales efforts.",
+      "badge": "200 search credits free",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Seamless AI надає бізнесам інструменти для доступу до розвинутих рішень у продажу, зберігаючи витрати під контролем та часто пропонуючи привабливі угоди.",
+      "features": "Пропонує акції, щоб допомогти користувачам максимізувати зусилля у продажах.",
+      "badge": "200 безкоштовних кредитів на пошук",
+      "pricing": "Немає даних"
+    },
+    "ja": {
+      "description": "Seamless AIは、費用を抑えつつ高度な営業ソリューションにアクセスするためのツールを企業に提供し、頻繁に魅力的なディールを提供します。",
+      "features": "ユーザーが営業活動を最大化するのを助けるためにプロモーションを提供しています。",
+      "badge": "200の検索クレジット無料",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Seamless AI proporciona a las empresas herramientas para acceder a soluciones avanzadas de ventas manteniendo los costos manejables, ofreciendo frecuentemente ofertas atractivas.",
+      "features": "Ofrece promociones para ayudar a los usuarios a maximizar sus esfuerzos de ventas.",
+      "badge": "200 créditos de búsqueda gratis",
+      "pricing": "N/D"
+    },
+    "pt": {
+      "description": "Seamless AI fornece às empresas ferramentas para acessar soluções avançadas de vendas, mantendo os custos gerenciáveis e frequentemente oferecendo ofertas atraentes.",
+      "features": "Oferece promoções para ajudar os usuários a maximizar seus esforços de vendas.",
+      "badge": "200 créditos de pesquisa grátis",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Seamless AI fournit aux entreprises des outils pour accéder à des solutions de vente avancées tout en maintenant des coûts gérables, offrant fréquemment des offres alléchantes.",
+      "features": "Propose des promotions pour aider les utilisateurs à maximiser leurs efforts de vente.",
+      "badge": "200 crédits de recherche offerts",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Seamless AI bietet Unternehmen Werkzeuge, um auf fortschrittliche Vertriebslösungen zuzugreifen, während die Kosten überschaubar bleiben, und bietet häufig attraktive Angebote an.",
+      "features": "Bietet Aktionen an, um Benutzern zu helfen, ihre Verkaufsanstrengungen zu maximieren.",
+      "badge": "200 kostenlose Suchguthaben",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "Seamless AI为企业提供访问高级销售解决方案的工具，同时保持成本可控，常常提供诱人的优惠。",
+      "features": "提供促销活动以帮助用户最大化销售努力。",
+      "badge": "200个免费搜索积分",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "Seamless AI fornisce alle aziende strumenti per accedere a soluzioni di vendita avanzate mantenendo i costi gestibili, offrendo frequentemente offerte allettanti.",
+      "features": "Offre promozioni per aiutare gli utenti a massimizzare i loro sforzi di vendita.",
+      "badge": "200 crediti di ricerca gratuiti",
+      "pricing": "N/D"
+    }
+  },
+  "ElevenLabs Creator Plan": {
+    "en": {
+      "description": "The ElevenLabs Creator Plan is a subscription service that provides access to advanced AI voice tools for content creation. It is ideal for creators looking to enhance their projects with high-quality text-to-speech capabilities.",
+      "features": "Access powerful AI voice tools for content creation.",
+      "badge": "50% OFF",
+      "pricing": "First month discount on the Creator plan"
+    },
+    "uk": {
+      "description": "План Creator від ElevenLabs — це підписний сервіс, який надає доступ до просунутих інструментів голосового ШІ для створення контенту. Він ідеально підходить для творців, які прагнуть покращити свої проекти завдяки високоякісному перетворенню тексту в мову.",
+      "features": "Отримайте доступ до потужних інструментів голосового ШІ для створення контенту.",
+      "badge": "50% ЗНИЖКА",
+      "pricing": "Знижка на перший місяць підписки на план Creator"
+    },
+    "ja": {
+      "description": "ElevenLabs Creatorプランは、コンテンツ作成のための高度なAI音声ツールへのアクセスを提供するサブスクリプションサービスです。これは、高品質なテキスト読み上げ機能を用いてプロジェクトを向上させたいクリエイターに最適です。",
+      "features": "コンテンツ作成のための強力なAI音声ツールにアクセスできます。",
+      "badge": "50%オフ",
+      "pricing": "Creatorプランの初月割引"
+    },
+    "es": {
+      "description": "El Plan Creator de ElevenLabs es un servicio de suscripción que proporciona acceso a herramientas de voz avanzadas de IA para la creación de contenido. Es ideal para creadores que buscan mejorar sus proyectos con capacidades de texto a voz de alta calidad.",
+      "features": "Accede a potentes herramientas de voz de IA para la creación de contenido.",
+      "badge": "50% de DESCUENTO",
+      "pricing": "Descuento del primer mes en el plan Creator"
+    },
+    "pt": {
+      "description": "O Plano Creator da ElevenLabs é um serviço de assinatura que fornece acesso a ferramentas avançadas de voz de IA para criação de conteúdo. É ideal para criadores que desejam aprimorar seus projetos com capacidades de conversão de texto em fala de alta qualidade.",
+      "features": "Acesse poderosas ferramentas de voz de IA para criação de conteúdo.",
+      "badge": "50% DE DESCONTO",
+      "pricing": "Desconto no primeiro mês do plano Creator"
+    },
+    "fr": {
+      "description": "Le plan Creator d'ElevenLabs est un service d'abonnement qui donne accès à des outils vocaux avancés en IA pour la création de contenu. Il est idéal pour les créateurs cherchant à améliorer leurs projets avec des capacités de synthèse vocale de haute qualité.",
+      "features": "Accédez à des outils vocaux IA puissants pour la création de contenu.",
+      "badge": "50% DE REMISE",
+      "pricing": "Remise du premier mois sur le plan Creator"
+    },
+    "de": {
+      "description": "Der ElevenLabs Creator-Plan ist ein Abonnementsdienst, der Zugriff auf fortschrittliche KI-Sprachwerkzeuge für die Inhaltserstellung bietet. Er ist ideal für Kreative, die ihre Projekte mit qualitativ hochwertigen Text-zu-Sprache-Funktionen verbessern möchten.",
+      "features": "Zugang zu leistungsstarken KI-Sprachwerkzeugen zur Inhaltserstellung.",
+      "badge": "50% RABATT",
+      "pricing": "Rabatt auf den ersten Monat des Creator-Plans"
+    },
+    "zh": {
+      "description": "ElevenLabs Creator计划是一项订阅服务，可访问用于内容创作的高级人工智能语音工具。非常适合希望通过高质量文本转语音能力来增强其项目的创作者。",
+      "features": "访问强大的AI语音工具，进行内容创作。",
+      "badge": "50%折扣",
+      "pricing": "Creator计划首月折扣"
+    },
+    "it": {
+      "description": "Il Piano Creator di ElevenLabs è un servizio di abbonamento che fornisce accesso a strumenti vocali avanzati di IA per la creazione di contenuti. È ideale per i creatori che desiderano migliorare i propri progetti con capacità di sintesi vocale di alta qualità.",
+      "features": "Accedi a potenti strumenti vocali di IA per la creazione di contenuti.",
+      "badge": "50% DI SCONTO",
+      "pricing": "Sconto sul primo mese del piano Creator"
+    }
+  },
+  "Toolsaday": {
+    "en": {
+      "description": "Toolsaday offers a suite of writing tools powered by AI to help users enhance productivity and improve the quality of their content.",
+      "features": "Enhances writing productivity using powerful AI capabilities with premium support.",
+      "badge": "$7.99",
+      "pricing": "$7.99/Month"
+    },
+    "uk": {
+      "description": "Toolsaday пропонує набір інструментів для письма, які працюють на базі ШІ, щоб допомогти користувачам підвищити продуктивність і покращити якість їх контенту.",
+      "features": "Підвищує продуктивність письма, використовуючи потужні можливості ШІ з преміум-підтримкою.",
+      "badge": "$7.99",
+      "pricing": "$7,99/Місяць"
+    },
+    "ja": {
+      "description": "Toolsadayは、ユーザーが生産性を向上させ、コンテンツの質を改善するのを助けるために、AIによって強化されたライティングツールのスイートを提供しています。",
+      "features": "プレミアムサポートを備えた強力なAI機能を使用して、ライティングの生産性を向上させます。",
+      "badge": "7.99ドル",
+      "pricing": "月額7.99ドル"
+    },
+    "es": {
+      "description": "Toolsaday ofrece un conjunto de herramientas de escritura impulsadas por IA para ayudar a los usuarios a aumentar la productividad y mejorar la calidad de su contenido.",
+      "features": "Mejora la productividad de la escritura utilizando potentes capacidades de IA con soporte premium.",
+      "badge": "$7.99",
+      "pricing": "$7.99/mes"
+    },
+    "pt": {
+      "description": "O Toolsaday oferece um conjunto de ferramentas de escrita impulsionadas por IA para ajudar os usuários a aumentar a produtividade e melhorar a qualidade de seu conteúdo.",
+      "features": "Aumenta a produtividade da escrita usando poderosas capacidades de IA com suporte premium.",
+      "badge": "$7,99",
+      "pricing": "$7,99/mês"
+    },
+    "fr": {
+      "description": "Toolsaday propose une suite d'outils d'écriture alimentés par l'IA pour aider les utilisateurs à améliorer leur productivité et la qualité de leur contenu.",
+      "features": "Renforce la productivité de l'écriture en utilisant des capacités puissantes d'IA avec un support premium.",
+      "badge": "7,99 $",
+      "pricing": "7,99 $/mois"
+    },
+    "de": {
+      "description": "Toolsaday bietet eine Suite von Schreibwerkzeugen, die von ШІ betrieben werden, um den Nutzern zu helfen, ihre Produktivität zu steigern und die Qualität ihrer Inhalte zu verbessern.",
+      "features": "Steigert die Schreibleistung mithilfe leistungsstarker ШІ-Funktionen mit Premium-Support.",
+      "badge": "7,99 $",
+      "pricing": "7,99 $/Monat"
+    },
+    "zh": {
+      "description": "Toolsaday提供一套由ШІ驱动的写作工具，帮助用户提高生产力并改善其内容的质量。",
+      "features": "利用强大的ШІ能力增强写作生产力，并提供优质支持。",
+      "badge": "$7.99",
+      "pricing": "$7.99/月"
+    },
+    "it": {
+      "description": "Toolsaday offre una suite di strumenti di scrittura alimentati da ШІ per aiutare gli utenti a migliorare la produttività e migliorare la qualità dei loro contenuti.",
+      "features": "Aumenta la produttività della scrittura utilizzando potenti capacità di ШІ con supporto premium.",
+      "badge": "$7,99",
+      "pricing": "$7,99/al mese"
+    }
+  },
+  "GlobalGPT": {
+    "en": {
+      "description": "GlobalGPT is a comprehensive platform that combines various AI models, including Perplexity, into a single workspace, enabling users to access multiple capabilities for diverse applications.",
+      "features": "All-in-one AI workspace with access to 100+ models including Perplexity.",
+      "badge": "50% OFF",
+      "pricing": "Annual plans offering significant discounts."
+    },
+    "uk": {
+      "description": "GlobalGPT — це всеосяжна платформа, яка об'єднує різні ШІ моделі, включаючи Perplexity, в одне робоче середовище, що дозволяє користувачам отримувати доступ до різноманітних можливостей для різних застосувань.",
+      "features": "Універсальне робоче середовище ШІ з доступом до понад 100 моделей, включаючи Perplexity.",
+      "badge": "50% ЗНИЖКИ",
+      "pricing": "Річні плани з суттєвими знижками."
+    },
+    "ja": {
+      "description": "GlobalGPTは、Perplexityを含むさまざまなAIモデルを1つのワークスペースに統合し、ユーザーがさまざまなアプリケーションのための多様な機能にアクセスできる包括的なプラットフォームです。",
+      "features": "Perplexityを含む100以上のモデルにアクセスできるオールインワンのAIワークスペース。",
+      "badge": "50％OFF",
+      "pricing": "大幅な割引がある年間プラン。"
+    },
+    "es": {
+      "description": "GlobalGPT es una plataforma integral que combina varios modelos de IA, incluido Perplexity, en un solo espacio de trabajo, lo que permite a los usuarios acceder a múltiples capacidades para diversas aplicaciones.",
+      "features": "Espacio de trabajo de IA todo en uno con acceso a más de 100 modelos, incluido Perplexity.",
+      "badge": "50% DE DESCUENTO",
+      "pricing": "Planes anuales que ofrecen descuentos significativos."
+    },
+    "pt": {
+      "description": "GlobalGPT é uma plataforma abrangente que combina vários modelos de IA, incluindo Perplexity, em um único espaço de trabalho, permitindo que os usuários acessem várias capacidades para diversas aplicações.",
+      "features": "Espaço de trabalho de IA all-in-one com acesso a mais de 100 modelos, incluindo Perplexity.",
+      "badge": "50% DE DESCONTO",
+      "pricing": "Planos anuais que oferecem descontos significativos."
+    },
+    "fr": {
+      "description": "GlobalGPT est une plateforme complète qui regroupe divers modèles d'IA, y compris Perplexity, dans un seul espace de travail, permettant aux utilisateurs d'accéder à de multiples fonctionnalités pour diverses applications.",
+      "features": "Espace de travail IA tout-en-un avec accès à plus de 100 modèles, y compris Perplexity.",
+      "badge": "50% DE RÉDUCTION",
+      "pricing": "Plans annuels offrant des réductions significatives."
+    },
+    "de": {
+      "description": "GlobalGPT ist eine umfassende Plattform, die verschiedene KI-Modelle, einschließlich Perplexity, in einem einzigen Arbeitsbereich kombiniert, sodass Benutzer auf mehrere Funktionen für unterschiedliche Anwendungen zugreifen können.",
+      "features": "All-in-One KI-Arbeitsbereich mit Zugriff auf über 100 Modelle, einschließlich Perplexity.",
+      "badge": "50% RABATT",
+      "pricing": "Jahrespläne mit erheblichen Rabatten."
+    },
+    "zh": {
+      "description": "GlobalGPT是一个综合平台，将各种人工智能模型（包括Perplexity）整合到一个工作区，使用户能够访问多种功能以满足不同的应用需求。",
+      "features": "一体化的人工智能工作空间，访问超过100个模型，包括Perplexity。",
+      "badge": "五折",
+      "pricing": "提供重大折扣的年度计划。"
+    },
+    "it": {
+      "description": "GlobalGPT è una piattaforma completa che combina vari modelli di IA, incluso Perplexity, in un unico spazio di lavoro, consentendo agli utenti di accedere a più capacità per diverse applicazioni.",
+      "features": "Spazio di lavoro AI tutto in uno con accesso a oltre 100 modelli, incluso Perplexity.",
+      "badge": "50% DI SCONTO",
+      "pricing": "Piani annuali con sconti significativi."
+    }
+  },
+  "GlassesUSA": {
+    "en": {
+      "description": "GlassesUSA is an online retailer specializing in affordable eyewear, offering various styles and brands. Users can apply various discount codes to receive promotional offers, including free glasses options.",
+      "features": "Offers a range of eyewear with the ability to use coupons for discounts.",
+      "badge": "Free Glasses",
+      "pricing": "Varies by selection"
+    },
+    "uk": {
+      "description": "GlassesUSA - це онлайн-мережа, що спеціалізується на доступних окулярах, пропонуючи різні стилі та бренди. Користувачі можуть використовувати різноманітні кодів знижок для отримання рекламних пропозицій, включаючи безкоштовні окуляри.",
+      "features": "Пропонує широкий вибір окулярів з можливістю використання купонів для отримання знижок.",
+      "badge": "Безкоштовні окуляри",
+      "pricing": "Варіюється в залежності від вибору"
+    },
+    "ja": {
+      "description": "GlassesUSAは、手頃な価格の眼鏡を専門とするオンライン小売業者で、さまざまなスタイルとブランドを提供しています。ユーザーはさまざまな割引コードを適用して、無料の眼鏡オプションを含むプロモーションオファーを受けることができます。",
+      "features": "クーポンを使って割引を受けられる眼鏡の幅広い選択肢を提供しています。",
+      "badge": "無料の眼鏡",
+      "pricing": "選択によって異なります"
+    },
+    "es": {
+      "description": "GlassesUSA es un minorista en línea que se especializa en gafas asequibles, ofreciendo varios estilos y marcas. Los usuarios pueden aplicar varios códigos de descuento para recibir ofertas promocionales, incluidas opciones de gafas gratuitas.",
+      "features": "Ofrece una variedad de gafas con la posibilidad de utilizar cupones para descuentos.",
+      "badge": "Gafas gratis",
+      "pricing": "Varía según la selección"
+    },
+    "pt": {
+      "description": "GlassesUSA é um varejista online especializado em óculos acessíveis, oferecendo vários estilos e marcas. Os usuários podem aplicar vários códigos de desconto para receber ofertas promocionais, incluindo opções de óculos gratis.",
+      "features": "Oferece uma variedade de óculos com a possibilidade de usar cupons para descontos.",
+      "badge": "Óculos grátis",
+      "pricing": "Varia de acordo com a seleção"
+    },
+    "fr": {
+      "description": "GlassesUSA est un détaillant en ligne spécialisé dans les lunettes abordables, offrant divers styles et marques. Les utilisateurs peuvent appliquer divers codes de réduction pour recevoir des offres promotionnelles, y compris des options de lunettes gratuites.",
+      "features": "Propose une gamme de lunettes avec la possibilité d'utiliser des coupons pour des réductions.",
+      "badge": "Lunettes gratuites",
+      "pricing": "Varie selon la sélection"
+    },
+    "de": {
+      "description": "GlassesUSA ist ein Online-Händler, der sich auf erschwingliche Brillen spezialisiert hat und verschiedene Stile und Marken anbietet. Benutzer können verschiedene Rabattcodes anwenden, um Werbeangebote zu erhalten, darunter auch kostenlose Brillen.",
+      "features": "Bietet eine Auswahl an Brillen mit der Möglichkeit, Coupons für Rabatte zu verwenden.",
+      "badge": "Kostenlose Brillen",
+      "pricing": "Variiert je nach Auswahl"
+    },
+    "zh": {
+      "description": "GlassesUSA是一家专门销售实惠眼镜的在线零售商，提供多种风格和品牌。用户可以应用各种折扣代码，以获得促销优惠，包括免费眼镜选项。",
+      "features": "提供各种眼镜，并能够使用优惠券获取折扣。",
+      "badge": "免费眼镜",
+      "pricing": "根据选择而异"
+    },
+    "it": {
+      "description": "GlassesUSA è un rivenditore online specializzato in occhiali accessibili, che offre vari stili e marchi. Gli utenti possono applicare vari codici sconto per ricevere offerte promozionali, comprese opzioni di occhiali gratuiti.",
+      "features": "Offre una gamma di occhiali con la possibilità di utilizzare coupon per sconti.",
+      "badge": "Occhiali gratuiti",
+      "pricing": "Varia in base alla selezione"
+    }
+  },
+  "Abercrombie": {
+    "en": {
+      "description": "Abercrombie is a popular clothing retailer known for its casual wear focused on young adults. The company frequently provides various discount codes and promotes seasonal sales to attract customers.",
+      "features": "Seasonal sales and promotional discounts available frequently.",
+      "badge": "N/A",
+      "pricing": "Pricing varies based on items available."
+    },
+    "uk": {
+      "description": "Abercrombie - популярний ритейлер одягу, відомий своєю повсякденною модою, орієнтованою на молодь. Компанія часто пропонує різноманітні кодів знижок і рекламує сезонні розпродажі для залучення клієнтів.",
+      "features": "Сезонні розпродажі та рекламні знижки доступні часто.",
+      "badge": "Немає",
+      "pricing": "Ціни залежать від доступних товарів."
+    },
+    "ja": {
+      "description": "アバクロンビーは、若者向けのカジュアルウェアに特化した人気の衣料品小売業者です。同社は、顧客を惹きつけるためにさまざまな割引コードを提供し、季節ごとのセールを頻繁に宣伝しています。",
+      "features": "季節ごとのセールとプロモーション割引が頻繁に利用可能です。",
+      "badge": "該当なし",
+      "pricing": "価格は利用可能なアイテムに基づいて異なります。"
+    },
+    "es": {
+      "description": "Abercrombie es un minorista de ropa popular conocido por su ropa casual enfocada en jóvenes adultos. La empresa proporciona frecuentemente varios códigos de descuento y promueve ventas estacionales para atraer a los clientes.",
+      "features": "Ventas estacionales y descuentos promocionales disponibles con frecuencia.",
+      "badge": "N/A",
+      "pricing": "Los precios varían según los artículos disponibles."
+    },
+    "pt": {
+      "description": "Abercrombie é um varejista de roupas popular conhecido por suas roupas casuais voltadas para jovens adultos. A empresa frequentemente fornece vários códigos de desconto e promove vendas sazonais para atrair clientes.",
+      "features": "Vendas sazonais e descontos promocionais disponíveis com frequência.",
+      "badge": "N/A",
+      "pricing": "Os preços variam com base nos itens disponíveis."
+    },
+    "fr": {
+      "description": "Abercrombie est un détaillant de vêtements populaire connu pour ses vêtements décontractés destinés aux jeunes adultes. L'entreprise propose fréquemment divers codes de réduction et promeut des soldes saisonnières pour attirer les clients.",
+      "features": "Ventes saisonnières et réductions promotionnelles disponibles fréquemment.",
+      "badge": "N/A",
+      "pricing": "Les prix varient en fonction des articles disponibles."
+    },
+    "de": {
+      "description": "Abercrombie ist ein beliebter Bekleidungseinzelhändler, der für seine Freizeitkleidung für junge Erwachsene bekannt ist. Das Unternehmen bietet häufig verschiedene Rabattcodes an und bewirbt saisonale Verkäufe, um Kunden anzulocken.",
+      "features": "Saisonale Verkäufe und häufig verfügbare Aktionsrabatte.",
+      "badge": "N/A",
+      "pricing": "Die Preise variieren je nach verfügbaren Artikeln."
+    },
+    "zh": {
+      "description": "Abercrombie 是一家知名的服装零售商，以面向年轻人的休闲服装而闻名。该公司经常提供各种折扣代码，并推广季节性促销以吸引客户。",
+      "features": "季节性促销和优惠折扣频繁提供。",
+      "badge": "N/A",
+      "pricing": "定价因可用商品而异。"
+    },
+    "it": {
+      "description": "Abercrombie è un rivenditore di abbigliamento popolare noto per i suoi abiti casual rivolti ai giovani adulti. L'azienda fornisce frequentemente vari codici sconto e promuove vendite stagionali per attrarre clienti.",
+      "features": "Vendite stagionali e sconti promozionali disponibili frequentemente.",
+      "badge": "N/A",
+      "pricing": "I prezzi variano in base agli articoli disponibili."
+    }
+  },
+  "Perplexity Education Pro": {
+    "en": {
+      "description": "Perplexity Education Pro offers advanced AI capabilities catered specifically to verified students and educators, allowing them to benefit from powerful tools at a lower cost.",
+      "features": "Enhanced AI functionalities available at discounted rates for eligible users.",
+      "badge": "Student and educator discounts",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Perplexity Education Pro пропонує розширені можливості ШІ, спеціально призначені для підтверджених студентів та викладачів, що дозволяє їм скористатися потужними інструментами за нижчою ціною.",
+      "features": "Покращені функціональні можливості ШІ доступні за зниженими тарифами для кваліфікованих користувачів.",
+      "badge": "Знижки для студентів та викладачів",
+      "pricing": "Немає даних"
+    },
+    "ja": {
+      "description": "Perplexity Education Proは、確認された学生と教育者向けに特化した高度なAI機能を提供し、低コストで強力なツールを利用できるようにします。",
+      "features": "対象ユーザー向けに割引料金で利用できる高度なAI機能。",
+      "badge": "学生と教育者向けの割引",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Perplexity Education Pro ofrece capacidades avanzadas de IA dirigidas específicamente a estudiantes y educadores verificados, lo que les permite beneficiarse de herramientas poderosas a un costo más bajo.",
+      "features": "Funcionalidades de IA mejoradas disponibles a tarifas con descuento para usuarios elegibles.",
+      "badge": "Descuentos para estudiantes y educadores",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "Perplexity Education Pro oferece capacidades avançadas de IA direcionadas especificamente a estudantes e educadores verificados, permitindo-lhes beneficiar de ferramentas poderosas a um custo mais baixo.",
+      "features": "Funcionalidades avançadas de IA disponíveis a preços com desconto para usuários elegíveis.",
+      "badge": "Descontos para estudantes e educadores",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Perplexity Education Pro offre des capacités avancées d'IA spécifiquement adaptées aux étudiants et éducateurs vérifiés, leur permettant de bénéficier d'outils puissants à un coût inférieur.",
+      "features": "Fonctionnalités améliorées d'IA disponibles à des tarifs réduits pour les utilisateurs éligibles.",
+      "badge": "Remises pour les étudiants et les éducateurs",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Perplexity Education Pro bietet fortschrittliche KI-Funktionen, die speziell auf verifizierte Studenten und Lehrer zugeschnitten sind, sodass sie von leistungsstarken Tools zu geringeren Kosten profitieren können.",
+      "features": "Erweiterte KI-Funktionen zu ermäßigten Preisen für berechtigte Benutzer erhältlich.",
+      "badge": "Rabatte für Studenten und Lehrer",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "Perplexity Education Pro为经过验证的学生和教育工作者提供高级智能功能，使他们能够以更低的成本受益于强大的工具。",
+      "features": "为符合条件的用户提供折扣率的增强AI功能。",
+      "badge": "学生和教育工作者折扣",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "Perplexity Education Pro offre capacità avanzate di IA specificamente dedicate a studenti e educatori verificati, consentendo loro di beneficiare di strumenti potenti a un costo inferiore.",
+      "features": "Funzionalità avanzate di IA disponibili a tariffe scontate per utenti idonei.",
+      "badge": "Sconti per studenti ed educatori",
+      "pricing": "N/A"
+    }
+  },
+  "Instantly.ai": {
+    "en": {
+      "description": "Instantly.ai is an AI-driven outreach platform that integrates various channels like LinkedIn, Email, SMS, and Calls to enhance marketing efforts with a large database and personalized content.",
+      "features": "AI-Powered Omnichannel Outreach, 695M+ Database, Personalized Video",
+      "badge": "25% CASHBACK",
+      "pricing": "Save up to $1,497/year"
+    },
+    "uk": {
+      "description": "Instantly.ai - це платформа залучення, що працює на базі ШІ, яка інтегрує різні канали, такі як LinkedIn, електронна пошта, SMS та дзвінки, для покращення маркетингових зусиль із великою базою даних та персоналізованим контентом.",
+      "features": "Омніканальне залучення на основі ШІ, база даних 695 млн+, персоналізоване відео",
+      "badge": "25% КЕШБЕК",
+      "pricing": "Зекономте до $1,497 на рік"
+    },
+    "ja": {
+      "description": "Instantly.aiは、LinkedIn、メール、SMS、通話などのさまざまなチャネルを統合して、豊富なデータベースとパーソナライズされたコンテンツを用いたマーケティング活動を強化するAI駆動のアウトリーチプラットフォームです。",
+      "features": "AI駆動のオムニチャネルアウトリーチ、6億9500万以上のデータベース、パーソナライズされたビデオ",
+      "badge": "25% キャッシュバック",
+      "pricing": "年間$1,497の節約が可能"
+    },
+    "es": {
+      "description": "Instantly.ai es una plataforma de alcance impulsada por IA que integra varios canales como LinkedIn, correo electrónico, SMS y llamadas para mejorar los esfuerzos de marketing con una gran base de datos y contenido personalizado.",
+      "features": "Alcance omnicanal impulsado por IA, base de datos de más de 695 millones, video personalizado",
+      "badge": "25% DEVOLUCIÓN DE DINERO",
+      "pricing": "Ahorra hasta $1,497/año"
+    },
+    "pt": {
+      "description": "Instantly.ai é uma plataforma de outreach impulsionada por IA que integra vários canais como LinkedIn, e-mail, SMS e chamadas para aprimorar os esforços de marketing com um grande banco de dados e conteúdo personalizado.",
+      "features": "Alcance omnicanal impulsionado por IA, banco de dados com mais de 695 milhões, vídeo personalizado",
+      "badge": "25% DE VOLTA",
+      "pricing": "Economize até $1,497/ano"
+    },
+    "fr": {
+      "description": "Instantly.ai est une plateforme de sensibilisation alimentée par l'IA qui intègre divers canaux tels que LinkedIn, e-mail, SMS et appels pour améliorer les efforts marketing avec une grande base de données et un contenu personnalisé.",
+      "features": "Sensibilisation omnicanale alimentée par l'IA, base de données de plus de 695 millions, vidéo personnalisée",
+      "badge": "25% REMBOURSEMENT",
+      "pricing": "Économisez jusqu'à 1 497 $/an"
+    },
+    "de": {
+      "description": "Instantly.ai ist eine KI-gesteuerte Outreach-Plattform, die verschiedene Kanäle wie LinkedIn, E-Mail, SMS und Anrufe integriert, um Marketingbemühungen mit einer großen Datenbank und personalisierten Inhalten zu verbessern.",
+      "features": "KI-gestütztes Omnichannel-Outreach, über 695 Millionen Datenbank, personalisiertes Video",
+      "badge": "25% RÜCKGABE",
+      "pricing": "Sparen Sie bis zu 1.497 $/Jahr"
+    },
+    "zh": {
+      "description": "Instantly.ai是一个基于人工智能的外展平台，它整合了LinkedIn、电子邮件、短信和电话等多个渠道，以通过庞大的数据库和个性化内容增强营销效果。",
+      "features": "基于人工智能的全渠道外展，数据库超过6.95亿，个性化视频",
+      "badge": "25% 现金返还",
+      "pricing": "每年可节省高达$1,497"
+    },
+    "it": {
+      "description": "Instantly.ai è una piattaforma di outreach guidata da IA che integra vari canali come LinkedIn, email, SMS e chiamate per migliorare gli sforzi di marketing con un ampio database e contenuti personalizzati.",
+      "features": "Raggiungimento omnicanale alimentato da IA, database di oltre 695 milioni, video personalizzato",
+      "badge": "25% RIMBORSO",
+      "pricing": "Risparmia fino a $1.497/anno"
     }
   }
 }

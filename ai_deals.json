@@ -3,8 +3,8 @@
         "tool_name": "Midjourney",
         "tool_url": "https://www.midjourney.com",
         "code": "HOLIDAY30",
-        "discount_amount": "30%",
-        "pricing_info": "$20/mo for 350+ AI models including Midjourney features.",
+        "discount_amount": "20%",
+        "pricing_info": "Annual Midjourney Plans",
         "key_features": "Pro Image Generation, High Res",
         "description": "The world's leading AI image generation tool.",
         "last_verified": "2026-05-05",
@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "JAMM20",
-        "discount_amount": "50% OFF",
-        "pricing_info": "On any plan during 3 months",
+        "discount_amount": "60%",
+        "pricing_info": "Exclusive deal for all plans.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -37,7 +37,7 @@
         "tool_url": "https://www.perplexity.ai",
         "code": "Student discounts available",
         "discount_amount": "Varies",
-        "pricing_info": "Education Pro is offered to verified students and educators at a discount.",
+        "pricing_info": "Discount for verified students and educators",
         "key_features": "AI Search Engine, Real-time Citations",
         "description": "The AI-powered answer engine for research.",
         "last_verified": "2026-05-05",
@@ -81,7 +81,7 @@
         "tool_url": "https://www.synthesia.io",
         "code": "SYNTH123",
         "discount_amount": "30% OFF",
-        "pricing_info": "Subscription-based pricing models available.",
+        "pricing_info": "Subscription Discount",
         "key_features": "AI-generated videos, multilingual support, user-friendly interface, customizable avatars",
         "description": "Synthesia is a leading platform for creating AI-generated videos. It allows users to produce high-quality video content with synthetic actors speaking in various languages without needing a camera crew. The platform is widely used for corporate training, marketing, and educational purposes.",
         "category": "Video AI"
@@ -661,7 +661,7 @@
         "tool_url": "https://www.claudepro.com",
         "code": "CLAUDEPRO50",
         "discount_amount": "17%",
-        "pricing_info": "Upfront full-year payment option available.",
+        "pricing_info": "Save up to 17% for a full year upfront compared to monthly payments.",
         "key_features": "Enhanced language models, custom tuning, API access",
         "description": "Claude Pro offers enhanced capabilities over its predecessor, allowing for customized interaction and integration into various software systems via API. It is intended for businesses seeking to leverage advanced AI for improved efficiency and customer engagement.",
         "category": "Coding AI"
@@ -820,8 +820,8 @@
         "tool_name": "Perplexity AI",
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
-        "discount_amount": "50%",
-        "pricing_info": "Up to 50% off on annual plans",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Free 1-Year Pro Plan ($240 Value)",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1261,7 +1261,7 @@
         "tool_url": "https://www.descript.com",
         "code": "DESCRIPT50",
         "discount_amount": "25% OFF",
-        "pricing_info": "Offers various subscription tiers to cater to different user needs.",
+        "pricing_info": "Subscription Discount",
         "key_features": "Audio editing, Overdub, Screen recording",
         "description": "Descript is an all-in-one audio and video editing software that makes content creation more accessible. It combines transcription and editing functionalities, allowing users to edit audio by editing text. Descript stands out with features like Overdub, which uses voice cloning technology to let users create new audio segments in their own voice.",
         "category": "Voice AI"
@@ -1456,7 +1456,7 @@
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
         "code": "$25k Credits",
         "discount_amount": "$25k Credits",
-        "pricing_info": "$20 flagship subscription tier",
+        "pricing_info": "Globally available in all ChatGPT-supported countries.",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -1764,8 +1764,8 @@
     {
         "tool_name": "AI Scribe",
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
-        "code": "TWOFOLD30",
-        "discount_amount": "Verified Discount",
+        "code": "Verified Discount",
+        "discount_amount": "$19",
         "pricing_info": "Free for a week, then $19 for your first month",
         "key_features": "Annual plans, medical scribing capabilities",
         "description": "AI Scribe is an AI-based tool designed to assist medical professionals with documentation and patient interaction. It streamlines the scribing process, allowing for more efficient healthcare delivery.",
@@ -1775,8 +1775,8 @@
         "tool_name": "HeyGen AI",
         "tool_url": "https://www.freelance-stack.io/en/deals/heygen-ia-discount-promo-code",
         "code": "20% off",
-        "discount_amount": "23%",
-        "pricing_info": "$23.99 \u2192 $29",
+        "discount_amount": "50%",
+        "pricing_info": "Offer valid for any plan during 3 months.",
         "key_features": "Significant savings on subscription services.",
         "description": "HeyGen AI is an innovative platform that utilizes artificial intelligence to assist users in video content creation, enhancing the efficiency and effectiveness of the production process.",
         "category": "Video AI"
@@ -1836,7 +1836,7 @@
         "tool_url": "https://play.google.com/store/apps/details?id=com.simplycodes.mobile&hl=en_US",
         "code": "N/A",
         "discount_amount": "Verified codes available",
-        "pricing_info": "Coupons that actually work, powered by 40M+ real shoppers and AI.",
+        "pricing_info": "Free to use",
         "key_features": "AI-powered verification system with real shopper involvement to ensure coupon accuracy.",
         "description": "SimplyCodes is a coupon verification extension integrated with AI and community feedback for ensuring valid discount codes.",
         "category": "Group-Buy & Sharing"
@@ -2206,7 +2206,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "$6.49",
-        "pricing_info": "$6.49 for the first month",
+        "pricing_info": "First month for $6.49",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2365,8 +2365,8 @@
         "tool_name": "ElevenLabs AI Student Pack",
         "tool_url": "https://devopscube.com/elevenlabs-discount",
         "code": "2026",
-        "discount_amount": "$1500 in free credits",
-        "pricing_info": "$1500 Free Credits",
+        "discount_amount": "$1500 Free Credits",
+        "pricing_info": "$1500 in free credits",
         "key_features": "Includes 16 AI tools, large discounts for students and educators.",
         "description": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
         "category": "All-in-One AI"
@@ -2396,7 +2396,7 @@
         "tool_url": "https://tryitonai.startupworld.com",
         "code": "N/A",
         "discount_amount": "50%",
-        "pricing_info": "Half price for professional images",
+        "pricing_info": "Half price for high quality AI headshots.",
         "key_features": "Create high-quality portraits, customize styles.",
         "description": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
         "category": "Image AI"
@@ -2426,7 +2426,7 @@
         "tool_url": "https://grok.com/plans",
         "code": "N/A",
         "discount_amount": "7-day free trial",
-        "pricing_info": "Starts at paid limits after 7 days free trial",
+        "pricing_info": "7-day free trial available.",
         "key_features": "AI coding assistance, project building",
         "description": "Grok is an AI coding tool that provides intelligent assistance in coding projects, helping developers build and improve their code seamlessly.",
         "category": "Coding AI"
@@ -2636,7 +2636,7 @@
         "tool_url": "https://grok.com/plans",
         "code": "N/A",
         "discount_amount": "7-day free trial",
-        "pricing_info": "Paid limits after the free trial",
+        "pricing_info": "Starts at grok.com/plans",
         "key_features": "Free trial available, Grok 4.5 features included.",
         "description": "SuperGrok is an advanced coding assistant that leverages AI to simplify and enhance the coding process.",
         "category": "Coding AI"
@@ -2794,8 +2794,8 @@
     {
         "tool_name": "Clone Voice AI",
         "tool_url": "https://www.youtube.com/watch?v=IyG2pVjeri8",
-        "code": "N/A",
-        "discount_amount": "30%",
+        "code": "VERIFIED",
+        "discount_amount": "10%",
         "pricing_info": "Lifetime Access",
         "key_features": "Voice cloning, Multilingual support, Customizable voice parameters.",
         "description": "Clone Voice AI is a revolutionary tool that enables users to create realistic voiceovers using artificial intelligence. It allows for the cloning of voices which can be customized for various applications, including content creation, gaming, and more.",
@@ -2839,6 +2839,96 @@
         "pricing_info": "N/A",
         "key_features": "Optimizes campaigns, analyses competitors.",
         "description": "AdSpyder is an AI-driven tool designed to enhance marketing strategies by optimizing ad campaigns and providing insights into competitors' performance.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "Grok / SuperGrok",
+        "tool_url": "https://github.com/codertesla/ai-coding-deals",
+        "code": "N/A",
+        "discount_amount": "7-day free trial",
+        "pricing_info": "Starts at grok.com/plans",
+        "key_features": "AI coding assistance with a paid model that includes a trial version.",
+        "description": "Grok and SuperGrok are AI coding tools that help users with coding assistance and provide options for free trials.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "Seamless AI",
+        "tool_url": "https://wpism.com/seamless-ai-coupon",
+        "code": "N/A",
+        "discount_amount": "200 search credits free",
+        "pricing_info": "N/A",
+        "key_features": "Offers promotions to help users maximize sales efforts.",
+        "description": "Seamless AI provides businesses with tools to access advanced sales solutions while keeping costs manageable, frequently offering enticing deals.",
+        "category": "Marketing AI"
+    },
+    {
+        "tool_name": "ElevenLabs Creator Plan",
+        "tool_url": "https://elevenlabs.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "50% OFF",
+        "pricing_info": "First month discount on the Creator plan",
+        "key_features": "Access powerful AI voice tools for content creation.",
+        "description": "The ElevenLabs Creator Plan is a subscription service that provides access to advanced AI voice tools for content creation. It is ideal for creators looking to enhance their projects with high-quality text-to-speech capabilities.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "Toolsaday",
+        "tool_url": "https://toolsaday.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "$7.99",
+        "pricing_info": "$7.99/Month",
+        "key_features": "Enhances writing productivity using powerful AI capabilities with premium support.",
+        "description": "Toolsaday offers a suite of writing tools powered by AI to help users enhance productivity and improve the quality of their content.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "GlobalGPT",
+        "tool_url": "https://www.glbgpt.com/hub/does-perplexity-ai-offer-cyber-monday-deals-or-pro-discounts",
+        "code": "N/A",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Annual plans offering significant discounts.",
+        "key_features": "All-in-one AI workspace with access to 100+ models including Perplexity.",
+        "description": "GlobalGPT is a comprehensive platform that combines various AI models, including Perplexity, into a single workspace, enabling users to access multiple capabilities for diverse applications.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "GlassesUSA",
+        "tool_url": "http://businessinsider.com/guides/deals/best-glassesusa-coupons-promo-discount-codes",
+        "code": "N/A",
+        "discount_amount": "Free Glasses",
+        "pricing_info": "Varies by selection",
+        "key_features": "Offers a range of eyewear with the ability to use coupons for discounts.",
+        "description": "GlassesUSA is an online retailer specializing in affordable eyewear, offering various styles and brands. Users can apply various discount codes to receive promotional offers, including free glasses options.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Abercrombie",
+        "tool_url": "http://www.businessinsider.com/guides/deals/best-abercrombie-coupon-promo-discount-codes",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Pricing varies based on items available.",
+        "key_features": "Seasonal sales and promotional discounts available frequently.",
+        "description": "Abercrombie is a popular clothing retailer known for its casual wear focused on young adults. The company frequently provides various discount codes and promotes seasonal sales to attract customers.",
+        "category": "Group-Buy & Sharing"
+    },
+    {
+        "tool_name": "Perplexity Education Pro",
+        "tool_url": "https://www.layer3labs.io/ai-discounts",
+        "code": "N/A",
+        "discount_amount": "Student and educator discounts",
+        "pricing_info": "N/A",
+        "key_features": "Enhanced AI functionalities available at discounted rates for eligible users.",
+        "description": "Perplexity Education Pro offers advanced AI capabilities catered specifically to verified students and educators, allowing them to benefit from powerful tools at a lower cost.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "Instantly.ai",
+        "tool_url": "https://nachonacho.com/product/Instantly",
+        "code": "N/A",
+        "discount_amount": "25% CASHBACK",
+        "pricing_info": "Save up to $1,497/year",
+        "key_features": "AI-Powered Omnichannel Outreach, 695M+ Database, Personalized Video",
+        "description": "Instantly.ai is an AI-driven outreach platform that integrates various channels like LinkedIn, Email, SMS, and Calls to enhance marketing efforts with a large database and personalized content.",
         "category": "Marketing AI"
     }
 ]

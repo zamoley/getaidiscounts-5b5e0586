@@ -13108,5 +13108,419 @@
             "zh": "N/A",
             "it": "N/D"
         }
+    },
+    "Grok / SuperGrok": {
+        "description": {
+            "en": "Grok and SuperGrok are AI coding tools that help users with coding assistance and provide options for free trials.",
+            "uk": "Grok та SuperGrok - це інструменти кодування ШІ, які допомагають користувачам з кодингом та пропонують варіанти безкоштовних пробних версій.",
+            "ja": "Grok と SuperGrok は、コーディング支援を提供し、無料トライアルのオプションを提供するAIコーディングツールです。",
+            "es": "Grok y SuperGrok son herramientas de codificación de IA que ayudan a los usuarios con asistencia en codificación y ofrecen opciones de pruebas gratuitas.",
+            "pt": "Grok e SuperGrok são ferramentas de codificação com IA que ajudam os usuários com assistência de codificação e oferecem opções de testes gratuitos.",
+            "fr": "Grok et SuperGrok sont des outils de codage IA qui aident les utilisateurs avec l'assistance au codage et offrent des options d'essai gratuit.",
+            "de": "Grok und SuperGrok sind KI-Coding-Tools, die Benutzern bei der Programmierung helfen und Optionen für kostenlose Testversionen bieten.",
+            "zh": "Grok 和 SuperGrok 是帮助用户进行编码的人工智能工具，提供免费试用选项。",
+            "it": "Grok e SuperGrok sono strumenti di codifica AI che aiutano gli utenti con assistenza alla codifica e offrono opzioni di prova gratuita."
+        },
+        "features": {
+            "en": "AI coding assistance with a paid model that includes a trial version.",
+            "uk": "Допомога у кодуванні за допомогою ШІ з платною моделлю, яка включає пробну версію.",
+            "ja": "トライアル版を含む有料モデルのAIコーディング支援。",
+            "es": "Asistencia de codificación de IA con un modelo de pago que incluye una versión de prueba.",
+            "pt": "Assistência de codificação com IA com um modelo pago que inclui uma versão de teste.",
+            "fr": "Assistance au codage par IA avec un modèle payant comprenant une version d'essai.",
+            "de": "KI-Coding-Unterstützung mit einem kostenpflichtigen Modell, das eine Testversion umfasst.",
+            "zh": "带有试用版的付费模型的人工智能编码辅助。",
+            "it": "Assistenza alla codifica con IA con un modello a pagamento che include una versione di prova."
+        },
+        "discount": {
+            "en": "7-day free trial",
+            "uk": "Безкоштовна пробна версія на 7 днів",
+            "ja": "7日間の無料トライアル",
+            "es": "Prueba gratuita de 7 días",
+            "pt": "Teste gratuito de 7 dias",
+            "fr": "Essai gratuit de 7 jours",
+            "de": "7-tägige kostenlose Testversion",
+            "zh": "7天免费试用",
+            "it": "Prova gratuita di 7 giorni"
+        },
+        "pricing": {
+            "en": "Starts at grok.com/plans",
+            "uk": "Починається з grok.com/plans",
+            "ja": "grok.com/plansから始まります",
+            "es": "Comienza en grok.com/plans",
+            "pt": "Começa em grok.com/plans",
+            "fr": "À partir de grok.com/plans",
+            "de": "Beginnt bei grok.com/plans",
+            "zh": "价格从grok.com/plans开始",
+            "it": "Parte da grok.com/plans"
+        }
+    },
+    "Seamless AI": {
+        "description": {
+            "en": "Seamless AI provides businesses with tools to access advanced sales solutions while keeping costs manageable, frequently offering enticing deals.",
+            "uk": "Seamless AI надає бізнесам інструменти для доступу до розвинутих рішень у продажу, зберігаючи витрати під контролем та часто пропонуючи привабливі угоди.",
+            "ja": "Seamless AIは、費用を抑えつつ高度な営業ソリューションにアクセスするためのツールを企業に提供し、頻繁に魅力的なディールを提供します。",
+            "es": "Seamless AI proporciona a las empresas herramientas para acceder a soluciones avanzadas de ventas manteniendo los costos manejables, ofreciendo frecuentemente ofertas atractivas.",
+            "pt": "Seamless AI fornece às empresas ferramentas para acessar soluções avançadas de vendas, mantendo os custos gerenciáveis e frequentemente oferecendo ofertas atraentes.",
+            "fr": "Seamless AI fournit aux entreprises des outils pour accéder à des solutions de vente avancées tout en maintenant des coûts gérables, offrant fréquemment des offres alléchantes.",
+            "de": "Seamless AI bietet Unternehmen Werkzeuge, um auf fortschrittliche Vertriebslösungen zuzugreifen, während die Kosten überschaubar bleiben, und bietet häufig attraktive Angebote an.",
+            "zh": "Seamless AI为企业提供访问高级销售解决方案的工具，同时保持成本可控，常常提供诱人的优惠。",
+            "it": "Seamless AI fornisce alle aziende strumenti per accedere a soluzioni di vendita avanzate mantenendo i costi gestibili, offrendo frequentemente offerte allettanti."
+        },
+        "features": {
+            "en": "Offers promotions to help users maximize sales efforts.",
+            "uk": "Пропонує акції, щоб допомогти користувачам максимізувати зусилля у продажах.",
+            "ja": "ユーザーが営業活動を最大化するのを助けるためにプロモーションを提供しています。",
+            "es": "Ofrece promociones para ayudar a los usuarios a maximizar sus esfuerzos de ventas.",
+            "pt": "Oferece promoções para ajudar os usuários a maximizar seus esforços de vendas.",
+            "fr": "Propose des promotions pour aider les utilisateurs à maximiser leurs efforts de vente.",
+            "de": "Bietet Aktionen an, um Benutzern zu helfen, ihre Verkaufsanstrengungen zu maximieren.",
+            "zh": "提供促销活动以帮助用户最大化销售努力。",
+            "it": "Offre promozioni per aiutare gli utenti a massimizzare i loro sforzi di vendita."
+        },
+        "discount": {
+            "en": "200 search credits free",
+            "uk": "200 безкоштовних кредитів на пошук",
+            "ja": "200の検索クレジット無料",
+            "es": "200 créditos de búsqueda gratis",
+            "pt": "200 créditos de pesquisa grátis",
+            "fr": "200 crédits de recherche offerts",
+            "de": "200 kostenlose Suchguthaben",
+            "zh": "200个免费搜索积分",
+            "it": "200 crediti di ricerca gratuiti"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає даних",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "ElevenLabs Creator Plan": {
+        "description": {
+            "en": "The ElevenLabs Creator Plan is a subscription service that provides access to advanced AI voice tools for content creation. It is ideal for creators looking to enhance their projects with high-quality text-to-speech capabilities.",
+            "uk": "План Creator від ElevenLabs — це підписний сервіс, який надає доступ до просунутих інструментів голосового ШІ для створення контенту. Він ідеально підходить для творців, які прагнуть покращити свої проекти завдяки високоякісному перетворенню тексту в мову.",
+            "ja": "ElevenLabs Creatorプランは、コンテンツ作成のための高度なAI音声ツールへのアクセスを提供するサブスクリプションサービスです。これは、高品質なテキスト読み上げ機能を用いてプロジェクトを向上させたいクリエイターに最適です。",
+            "es": "El Plan Creator de ElevenLabs es un servicio de suscripción que proporciona acceso a herramientas de voz avanzadas de IA para la creación de contenido. Es ideal para creadores que buscan mejorar sus proyectos con capacidades de texto a voz de alta calidad.",
+            "pt": "O Plano Creator da ElevenLabs é um serviço de assinatura que fornece acesso a ferramentas avançadas de voz de IA para criação de conteúdo. É ideal para criadores que desejam aprimorar seus projetos com capacidades de conversão de texto em fala de alta qualidade.",
+            "fr": "Le plan Creator d'ElevenLabs est un service d'abonnement qui donne accès à des outils vocaux avancés en IA pour la création de contenu. Il est idéal pour les créateurs cherchant à améliorer leurs projets avec des capacités de synthèse vocale de haute qualité.",
+            "de": "Der ElevenLabs Creator-Plan ist ein Abonnementsdienst, der Zugriff auf fortschrittliche KI-Sprachwerkzeuge für die Inhaltserstellung bietet. Er ist ideal für Kreative, die ihre Projekte mit qualitativ hochwertigen Text-zu-Sprache-Funktionen verbessern möchten.",
+            "zh": "ElevenLabs Creator计划是一项订阅服务，可访问用于内容创作的高级人工智能语音工具。非常适合希望通过高质量文本转语音能力来增强其项目的创作者。",
+            "it": "Il Piano Creator di ElevenLabs è un servizio di abbonamento che fornisce accesso a strumenti vocali avanzati di IA per la creazione di contenuti. È ideale per i creatori che desiderano migliorare i propri progetti con capacità di sintesi vocale di alta qualità."
+        },
+        "features": {
+            "en": "Access powerful AI voice tools for content creation.",
+            "uk": "Отримайте доступ до потужних інструментів голосового ШІ для створення контенту.",
+            "ja": "コンテンツ作成のための強力なAI音声ツールにアクセスできます。",
+            "es": "Accede a potentes herramientas de voz de IA para la creación de contenido.",
+            "pt": "Acesse poderosas ferramentas de voz de IA para criação de conteúdo.",
+            "fr": "Accédez à des outils vocaux IA puissants pour la création de contenu.",
+            "de": "Zugang zu leistungsstarken KI-Sprachwerkzeugen zur Inhaltserstellung.",
+            "zh": "访问强大的AI语音工具，进行内容创作。",
+            "it": "Accedi a potenti strumenti vocali di IA per la creazione di contenuti."
+        },
+        "discount": {
+            "en": "50% OFF",
+            "uk": "50% ЗНИЖКА",
+            "ja": "50%オフ",
+            "es": "50% de DESCUENTO",
+            "pt": "50% DE DESCONTO",
+            "fr": "50% DE REMISE",
+            "de": "50% RABATT",
+            "zh": "50%折扣",
+            "it": "50% DI SCONTO"
+        },
+        "pricing": {
+            "en": "First month discount on the Creator plan",
+            "uk": "Знижка на перший місяць підписки на план Creator",
+            "ja": "Creatorプランの初月割引",
+            "es": "Descuento del primer mes en el plan Creator",
+            "pt": "Desconto no primeiro mês do plano Creator",
+            "fr": "Remise du premier mois sur le plan Creator",
+            "de": "Rabatt auf den ersten Monat des Creator-Plans",
+            "zh": "Creator计划首月折扣",
+            "it": "Sconto sul primo mese del piano Creator"
+        }
+    },
+    "Toolsaday": {
+        "description": {
+            "en": "Toolsaday offers a suite of writing tools powered by AI to help users enhance productivity and improve the quality of their content.",
+            "uk": "Toolsaday пропонує набір інструментів для письма, які працюють на базі ШІ, щоб допомогти користувачам підвищити продуктивність і покращити якість їх контенту.",
+            "ja": "Toolsadayは、ユーザーが生産性を向上させ、コンテンツの質を改善するのを助けるために、AIによって強化されたライティングツールのスイートを提供しています。",
+            "es": "Toolsaday ofrece un conjunto de herramientas de escritura impulsadas por IA para ayudar a los usuarios a aumentar la productividad y mejorar la calidad de su contenido.",
+            "pt": "O Toolsaday oferece um conjunto de ferramentas de escrita impulsionadas por IA para ajudar os usuários a aumentar a produtividade e melhorar a qualidade de seu conteúdo.",
+            "fr": "Toolsaday propose une suite d'outils d'écriture alimentés par l'IA pour aider les utilisateurs à améliorer leur productivité et la qualité de leur contenu.",
+            "de": "Toolsaday bietet eine Suite von Schreibwerkzeugen, die von ШІ betrieben werden, um den Nutzern zu helfen, ihre Produktivität zu steigern und die Qualität ihrer Inhalte zu verbessern.",
+            "zh": "Toolsaday提供一套由ШІ驱动的写作工具，帮助用户提高生产力并改善其内容的质量。",
+            "it": "Toolsaday offre una suite di strumenti di scrittura alimentati da ШІ per aiutare gli utenti a migliorare la produttività e migliorare la qualità dei loro contenuti."
+        },
+        "features": {
+            "en": "Enhances writing productivity using powerful AI capabilities with premium support.",
+            "uk": "Підвищує продуктивність письма, використовуючи потужні можливості ШІ з преміум-підтримкою.",
+            "ja": "プレミアムサポートを備えた強力なAI機能を使用して、ライティングの生産性を向上させます。",
+            "es": "Mejora la productividad de la escritura utilizando potentes capacidades de IA con soporte premium.",
+            "pt": "Aumenta a produtividade da escrita usando poderosas capacidades de IA com suporte premium.",
+            "fr": "Renforce la productivité de l'écriture en utilisant des capacités puissantes d'IA avec un support premium.",
+            "de": "Steigert die Schreibleistung mithilfe leistungsstarker ШІ-Funktionen mit Premium-Support.",
+            "zh": "利用强大的ШІ能力增强写作生产力，并提供优质支持。",
+            "it": "Aumenta la produttività della scrittura utilizzando potenti capacità di ШІ con supporto premium."
+        },
+        "discount": {
+            "en": "$7.99",
+            "uk": "$7.99",
+            "ja": "7.99ドル",
+            "es": "$7.99",
+            "pt": "$7,99",
+            "fr": "7,99 $",
+            "de": "7,99 $",
+            "zh": "$7.99",
+            "it": "$7,99"
+        },
+        "pricing": {
+            "en": "$7.99/Month",
+            "uk": "$7,99/Місяць",
+            "ja": "月額7.99ドル",
+            "es": "$7.99/mes",
+            "pt": "$7,99/mês",
+            "fr": "7,99 $/mois",
+            "de": "7,99 $/Monat",
+            "zh": "$7.99/月",
+            "it": "$7,99/al mese"
+        }
+    },
+    "GlobalGPT": {
+        "description": {
+            "en": "GlobalGPT is a comprehensive platform that combines various AI models, including Perplexity, into a single workspace, enabling users to access multiple capabilities for diverse applications.",
+            "uk": "GlobalGPT — це всеосяжна платформа, яка об'єднує різні ШІ моделі, включаючи Perplexity, в одне робоче середовище, що дозволяє користувачам отримувати доступ до різноманітних можливостей для різних застосувань.",
+            "ja": "GlobalGPTは、Perplexityを含むさまざまなAIモデルを1つのワークスペースに統合し、ユーザーがさまざまなアプリケーションのための多様な機能にアクセスできる包括的なプラットフォームです。",
+            "es": "GlobalGPT es una plataforma integral que combina varios modelos de IA, incluido Perplexity, en un solo espacio de trabajo, lo que permite a los usuarios acceder a múltiples capacidades para diversas aplicaciones.",
+            "pt": "GlobalGPT é uma plataforma abrangente que combina vários modelos de IA, incluindo Perplexity, em um único espaço de trabalho, permitindo que os usuários acessem várias capacidades para diversas aplicações.",
+            "fr": "GlobalGPT est une plateforme complète qui regroupe divers modèles d'IA, y compris Perplexity, dans un seul espace de travail, permettant aux utilisateurs d'accéder à de multiples fonctionnalités pour diverses applications.",
+            "de": "GlobalGPT ist eine umfassende Plattform, die verschiedene KI-Modelle, einschließlich Perplexity, in einem einzigen Arbeitsbereich kombiniert, sodass Benutzer auf mehrere Funktionen für unterschiedliche Anwendungen zugreifen können.",
+            "zh": "GlobalGPT是一个综合平台，将各种人工智能模型（包括Perplexity）整合到一个工作区，使用户能够访问多种功能以满足不同的应用需求。",
+            "it": "GlobalGPT è una piattaforma completa che combina vari modelli di IA, incluso Perplexity, in un unico spazio di lavoro, consentendo agli utenti di accedere a più capacità per diverse applicazioni."
+        },
+        "features": {
+            "en": "All-in-one AI workspace with access to 100+ models including Perplexity.",
+            "uk": "Універсальне робоче середовище ШІ з доступом до понад 100 моделей, включаючи Perplexity.",
+            "ja": "Perplexityを含む100以上のモデルにアクセスできるオールインワンのAIワークスペース。",
+            "es": "Espacio de trabajo de IA todo en uno con acceso a más de 100 modelos, incluido Perplexity.",
+            "pt": "Espaço de trabalho de IA all-in-one com acesso a mais de 100 modelos, incluindo Perplexity.",
+            "fr": "Espace de travail IA tout-en-un avec accès à plus de 100 modèles, y compris Perplexity.",
+            "de": "All-in-One KI-Arbeitsbereich mit Zugriff auf über 100 Modelle, einschließlich Perplexity.",
+            "zh": "一体化的人工智能工作空间，访问超过100个模型，包括Perplexity。",
+            "it": "Spazio di lavoro AI tutto in uno con accesso a oltre 100 modelli, incluso Perplexity."
+        },
+        "discount": {
+            "en": "50% OFF",
+            "uk": "50% ЗНИЖКИ",
+            "ja": "50％OFF",
+            "es": "50% DE DESCUENTO",
+            "pt": "50% DE DESCONTO",
+            "fr": "50% DE RÉDUCTION",
+            "de": "50% RABATT",
+            "zh": "五折",
+            "it": "50% DI SCONTO"
+        },
+        "pricing": {
+            "en": "Annual plans offering significant discounts.",
+            "uk": "Річні плани з суттєвими знижками.",
+            "ja": "大幅な割引がある年間プラン。",
+            "es": "Planes anuales que ofrecen descuentos significativos.",
+            "pt": "Planos anuais que oferecem descontos significativos.",
+            "fr": "Plans annuels offrant des réductions significatives.",
+            "de": "Jahrespläne mit erheblichen Rabatten.",
+            "zh": "提供重大折扣的年度计划。",
+            "it": "Piani annuali con sconti significativi."
+        }
+    },
+    "GlassesUSA": {
+        "description": {
+            "en": "GlassesUSA is an online retailer specializing in affordable eyewear, offering various styles and brands. Users can apply various discount codes to receive promotional offers, including free glasses options.",
+            "uk": "GlassesUSA - це онлайн-мережа, що спеціалізується на доступних окулярах, пропонуючи різні стилі та бренди. Користувачі можуть використовувати різноманітні кодів знижок для отримання рекламних пропозицій, включаючи безкоштовні окуляри.",
+            "ja": "GlassesUSAは、手頃な価格の眼鏡を専門とするオンライン小売業者で、さまざまなスタイルとブランドを提供しています。ユーザーはさまざまな割引コードを適用して、無料の眼鏡オプションを含むプロモーションオファーを受けることができます。",
+            "es": "GlassesUSA es un minorista en línea que se especializa en gafas asequibles, ofreciendo varios estilos y marcas. Los usuarios pueden aplicar varios códigos de descuento para recibir ofertas promocionales, incluidas opciones de gafas gratuitas.",
+            "pt": "GlassesUSA é um varejista online especializado em óculos acessíveis, oferecendo vários estilos e marcas. Os usuários podem aplicar vários códigos de desconto para receber ofertas promocionais, incluindo opções de óculos gratis.",
+            "fr": "GlassesUSA est un détaillant en ligne spécialisé dans les lunettes abordables, offrant divers styles et marques. Les utilisateurs peuvent appliquer divers codes de réduction pour recevoir des offres promotionnelles, y compris des options de lunettes gratuites.",
+            "de": "GlassesUSA ist ein Online-Händler, der sich auf erschwingliche Brillen spezialisiert hat und verschiedene Stile und Marken anbietet. Benutzer können verschiedene Rabattcodes anwenden, um Werbeangebote zu erhalten, darunter auch kostenlose Brillen.",
+            "zh": "GlassesUSA是一家专门销售实惠眼镜的在线零售商，提供多种风格和品牌。用户可以应用各种折扣代码，以获得促销优惠，包括免费眼镜选项。",
+            "it": "GlassesUSA è un rivenditore online specializzato in occhiali accessibili, che offre vari stili e marchi. Gli utenti possono applicare vari codici sconto per ricevere offerte promozionali, comprese opzioni di occhiali gratuiti."
+        },
+        "features": {
+            "en": "Offers a range of eyewear with the ability to use coupons for discounts.",
+            "uk": "Пропонує широкий вибір окулярів з можливістю використання купонів для отримання знижок.",
+            "ja": "クーポンを使って割引を受けられる眼鏡の幅広い選択肢を提供しています。",
+            "es": "Ofrece una variedad de gafas con la posibilidad de utilizar cupones para descuentos.",
+            "pt": "Oferece uma variedade de óculos com a possibilidade de usar cupons para descontos.",
+            "fr": "Propose une gamme de lunettes avec la possibilité d'utiliser des coupons pour des réductions.",
+            "de": "Bietet eine Auswahl an Brillen mit der Möglichkeit, Coupons für Rabatte zu verwenden.",
+            "zh": "提供各种眼镜，并能够使用优惠券获取折扣。",
+            "it": "Offre una gamma di occhiali con la possibilità di utilizzare coupon per sconti."
+        },
+        "discount": {
+            "en": "Free Glasses",
+            "uk": "Безкоштовні окуляри",
+            "ja": "無料の眼鏡",
+            "es": "Gafas gratis",
+            "pt": "Óculos grátis",
+            "fr": "Lunettes gratuites",
+            "de": "Kostenlose Brillen",
+            "zh": "免费眼镜",
+            "it": "Occhiali gratuiti"
+        },
+        "pricing": {
+            "en": "Varies by selection",
+            "uk": "Варіюється в залежності від вибору",
+            "ja": "選択によって異なります",
+            "es": "Varía según la selección",
+            "pt": "Varia de acordo com a seleção",
+            "fr": "Varie selon la sélection",
+            "de": "Variiert je nach Auswahl",
+            "zh": "根据选择而异",
+            "it": "Varia in base alla selezione"
+        }
+    },
+    "Abercrombie": {
+        "description": {
+            "en": "Abercrombie is a popular clothing retailer known for its casual wear focused on young adults. The company frequently provides various discount codes and promotes seasonal sales to attract customers.",
+            "uk": "Abercrombie - популярний ритейлер одягу, відомий своєю повсякденною модою, орієнтованою на молодь. Компанія часто пропонує різноманітні кодів знижок і рекламує сезонні розпродажі для залучення клієнтів.",
+            "ja": "アバクロンビーは、若者向けのカジュアルウェアに特化した人気の衣料品小売業者です。同社は、顧客を惹きつけるためにさまざまな割引コードを提供し、季節ごとのセールを頻繁に宣伝しています。",
+            "es": "Abercrombie es un minorista de ropa popular conocido por su ropa casual enfocada en jóvenes adultos. La empresa proporciona frecuentemente varios códigos de descuento y promueve ventas estacionales para atraer a los clientes.",
+            "pt": "Abercrombie é um varejista de roupas popular conhecido por suas roupas casuais voltadas para jovens adultos. A empresa frequentemente fornece vários códigos de desconto e promove vendas sazonais para atrair clientes.",
+            "fr": "Abercrombie est un détaillant de vêtements populaire connu pour ses vêtements décontractés destinés aux jeunes adultes. L'entreprise propose fréquemment divers codes de réduction et promeut des soldes saisonnières pour attirer les clients.",
+            "de": "Abercrombie ist ein beliebter Bekleidungseinzelhändler, der für seine Freizeitkleidung für junge Erwachsene bekannt ist. Das Unternehmen bietet häufig verschiedene Rabattcodes an und bewirbt saisonale Verkäufe, um Kunden anzulocken.",
+            "zh": "Abercrombie 是一家知名的服装零售商，以面向年轻人的休闲服装而闻名。该公司经常提供各种折扣代码，并推广季节性促销以吸引客户。",
+            "it": "Abercrombie è un rivenditore di abbigliamento popolare noto per i suoi abiti casual rivolti ai giovani adulti. L'azienda fornisce frequentemente vari codici sconto e promuove vendite stagionali per attrarre clienti."
+        },
+        "features": {
+            "en": "Seasonal sales and promotional discounts available frequently.",
+            "uk": "Сезонні розпродажі та рекламні знижки доступні часто.",
+            "ja": "季節ごとのセールとプロモーション割引が頻繁に利用可能です。",
+            "es": "Ventas estacionales y descuentos promocionales disponibles con frecuencia.",
+            "pt": "Vendas sazonais e descontos promocionais disponíveis com frequência.",
+            "fr": "Ventes saisonnières et réductions promotionnelles disponibles fréquemment.",
+            "de": "Saisonale Verkäufe und häufig verfügbare Aktionsrabatte.",
+            "zh": "季节性促销和优惠折扣频繁提供。",
+            "it": "Vendite stagionali e sconti promozionali disponibili frequentemente."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Pricing varies based on items available.",
+            "uk": "Ціни залежать від доступних товарів.",
+            "ja": "価格は利用可能なアイテムに基づいて異なります。",
+            "es": "Los precios varían según los artículos disponibles.",
+            "pt": "Os preços variam com base nos itens disponíveis.",
+            "fr": "Les prix varient en fonction des articles disponibles.",
+            "de": "Die Preise variieren je nach verfügbaren Artikeln.",
+            "zh": "定价因可用商品而异。",
+            "it": "I prezzi variano in base agli articoli disponibili."
+        }
+    },
+    "Perplexity Education Pro": {
+        "description": {
+            "en": "Perplexity Education Pro offers advanced AI capabilities catered specifically to verified students and educators, allowing them to benefit from powerful tools at a lower cost.",
+            "uk": "Perplexity Education Pro пропонує розширені можливості ШІ, спеціально призначені для підтверджених студентів та викладачів, що дозволяє їм скористатися потужними інструментами за нижчою ціною.",
+            "ja": "Perplexity Education Proは、確認された学生と教育者向けに特化した高度なAI機能を提供し、低コストで強力なツールを利用できるようにします。",
+            "es": "Perplexity Education Pro ofrece capacidades avanzadas de IA dirigidas específicamente a estudiantes y educadores verificados, lo que les permite beneficiarse de herramientas poderosas a un costo más bajo.",
+            "pt": "Perplexity Education Pro oferece capacidades avançadas de IA direcionadas especificamente a estudantes e educadores verificados, permitindo-lhes beneficiar de ferramentas poderosas a um custo mais baixo.",
+            "fr": "Perplexity Education Pro offre des capacités avancées d'IA spécifiquement adaptées aux étudiants et éducateurs vérifiés, leur permettant de bénéficier d'outils puissants à un coût inférieur.",
+            "de": "Perplexity Education Pro bietet fortschrittliche KI-Funktionen, die speziell auf verifizierte Studenten und Lehrer zugeschnitten sind, sodass sie von leistungsstarken Tools zu geringeren Kosten profitieren können.",
+            "zh": "Perplexity Education Pro为经过验证的学生和教育工作者提供高级智能功能，使他们能够以更低的成本受益于强大的工具。",
+            "it": "Perplexity Education Pro offre capacità avanzate di IA specificamente dedicate a studenti e educatori verificati, consentendo loro di beneficiare di strumenti potenti a un costo inferiore."
+        },
+        "features": {
+            "en": "Enhanced AI functionalities available at discounted rates for eligible users.",
+            "uk": "Покращені функціональні можливості ШІ доступні за зниженими тарифами для кваліфікованих користувачів.",
+            "ja": "対象ユーザー向けに割引料金で利用できる高度なAI機能。",
+            "es": "Funcionalidades de IA mejoradas disponibles a tarifas con descuento para usuarios elegibles.",
+            "pt": "Funcionalidades avançadas de IA disponíveis a preços com desconto para usuários elegíveis.",
+            "fr": "Fonctionnalités améliorées d'IA disponibles à des tarifs réduits pour les utilisateurs éligibles.",
+            "de": "Erweiterte KI-Funktionen zu ermäßigten Preisen für berechtigte Benutzer erhältlich.",
+            "zh": "为符合条件的用户提供折扣率的增强AI功能。",
+            "it": "Funzionalità avanzate di IA disponibili a tariffe scontate per utenti idonei."
+        },
+        "discount": {
+            "en": "Student and educator discounts",
+            "uk": "Знижки для студентів та викладачів",
+            "ja": "学生と教育者向けの割引",
+            "es": "Descuentos para estudiantes y educadores",
+            "pt": "Descontos para estudantes e educadores",
+            "fr": "Remises pour les étudiants et les éducateurs",
+            "de": "Rabatte für Studenten und Lehrer",
+            "zh": "学生和教育工作者折扣",
+            "it": "Sconti per studenti ed educatori"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає даних",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "Instantly.ai": {
+        "description": {
+            "en": "Instantly.ai is an AI-driven outreach platform that integrates various channels like LinkedIn, Email, SMS, and Calls to enhance marketing efforts with a large database and personalized content.",
+            "uk": "Instantly.ai - це платформа залучення, що працює на базі ШІ, яка інтегрує різні канали, такі як LinkedIn, електронна пошта, SMS та дзвінки, для покращення маркетингових зусиль із великою базою даних та персоналізованим контентом.",
+            "ja": "Instantly.aiは、LinkedIn、メール、SMS、通話などのさまざまなチャネルを統合して、豊富なデータベースとパーソナライズされたコンテンツを用いたマーケティング活動を強化するAI駆動のアウトリーチプラットフォームです。",
+            "es": "Instantly.ai es una plataforma de alcance impulsada por IA que integra varios canales como LinkedIn, correo electrónico, SMS y llamadas para mejorar los esfuerzos de marketing con una gran base de datos y contenido personalizado.",
+            "pt": "Instantly.ai é uma plataforma de outreach impulsionada por IA que integra vários canais como LinkedIn, e-mail, SMS e chamadas para aprimorar os esforços de marketing com um grande banco de dados e conteúdo personalizado.",
+            "fr": "Instantly.ai est une plateforme de sensibilisation alimentée par l'IA qui intègre divers canaux tels que LinkedIn, e-mail, SMS et appels pour améliorer les efforts marketing avec une grande base de données et un contenu personnalisé.",
+            "de": "Instantly.ai ist eine KI-gesteuerte Outreach-Plattform, die verschiedene Kanäle wie LinkedIn, E-Mail, SMS und Anrufe integriert, um Marketingbemühungen mit einer großen Datenbank und personalisierten Inhalten zu verbessern.",
+            "zh": "Instantly.ai是一个基于人工智能的外展平台，它整合了LinkedIn、电子邮件、短信和电话等多个渠道，以通过庞大的数据库和个性化内容增强营销效果。",
+            "it": "Instantly.ai è una piattaforma di outreach guidata da IA che integra vari canali come LinkedIn, email, SMS e chiamate per migliorare gli sforzi di marketing con un ampio database e contenuti personalizzati."
+        },
+        "features": {
+            "en": "AI-Powered Omnichannel Outreach, 695M+ Database, Personalized Video",
+            "uk": "Омніканальне залучення на основі ШІ, база даних 695 млн+, персоналізоване відео",
+            "ja": "AI駆動のオムニチャネルアウトリーチ、6億9500万以上のデータベース、パーソナライズされたビデオ",
+            "es": "Alcance omnicanal impulsado por IA, base de datos de más de 695 millones, video personalizado",
+            "pt": "Alcance omnicanal impulsionado por IA, banco de dados com mais de 695 milhões, vídeo personalizado",
+            "fr": "Sensibilisation omnicanale alimentée par l'IA, base de données de plus de 695 millions, vidéo personnalisée",
+            "de": "KI-gestütztes Omnichannel-Outreach, über 695 Millionen Datenbank, personalisiertes Video",
+            "zh": "基于人工智能的全渠道外展，数据库超过6.95亿，个性化视频",
+            "it": "Raggiungimento omnicanale alimentato da IA, database di oltre 695 milioni, video personalizzato"
+        },
+        "discount": {
+            "en": "25% CASHBACK",
+            "uk": "25% КЕШБЕК",
+            "ja": "25% キャッシュバック",
+            "es": "25% DEVOLUCIÓN DE DINERO",
+            "pt": "25% DE VOLTA",
+            "fr": "25% REMBOURSEMENT",
+            "de": "25% RÜCKGABE",
+            "zh": "25% 现金返还",
+            "it": "25% RIMBORSO"
+        },
+        "pricing": {
+            "en": "Save up to $1,497/year",
+            "uk": "Зекономте до $1,497 на рік",
+            "ja": "年間$1,497の節約が可能",
+            "es": "Ahorra hasta $1,497/año",
+            "pt": "Economize até $1,497/ano",
+            "fr": "Économisez jusqu'à 1 497 $/an",
+            "de": "Sparen Sie bis zu 1.497 $/Jahr",
+            "zh": "每年可节省高达$1,497",
+            "it": "Risparmia fino a $1.497/anno"
+        }
     }
 }
