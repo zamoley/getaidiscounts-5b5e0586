@@ -4,7 +4,7 @@
         "tool_url": "https://www.midjourney.com",
         "code": "HOLIDAY30",
         "discount_amount": "20%",
-        "pricing_info": "Annual Midjourney Plans",
+        "pricing_info": "Best coupon last verified on September 25th, 2026",
         "key_features": "Pro Image Generation, High Res",
         "description": "The world's leading AI image generation tool.",
         "last_verified": "2026-05-05",
@@ -36,8 +36,8 @@
         "tool_name": "Perplexity",
         "tool_url": "https://www.perplexity.ai",
         "code": "Student discounts available",
-        "discount_amount": "Varies",
-        "pricing_info": "Discount for verified students and educators",
+        "discount_amount": "Discount for verified students and educators",
+        "pricing_info": "Available to verified students and educators",
         "key_features": "AI Search Engine, Real-time Citations",
         "description": "The AI-powered answer engine for research.",
         "last_verified": "2026-05-05",
@@ -660,8 +660,8 @@
         "tool_name": "Claude Pro",
         "tool_url": "https://www.claudepro.com",
         "code": "CLAUDEPRO50",
-        "discount_amount": "17%",
-        "pricing_info": "Save up to 17% for a full year upfront compared to monthly payments.",
+        "discount_amount": "Up to 17%",
+        "pricing_info": "Save up to 17% by paying for a full year upfront.",
         "key_features": "Enhanced language models, custom tuning, API access",
         "description": "Claude Pro offers enhanced capabilities over its predecessor, allowing for customized interaction and integration into various software systems via API. It is intended for businesses seeking to leverage advanced AI for improved efficiency and customer engagement.",
         "category": "Coding AI"
@@ -1455,8 +1455,8 @@
         "tool_name": "ChatGPT",
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
         "code": "$25k Credits",
-        "discount_amount": "$25k Credits",
-        "pricing_info": "Globally available in all ChatGPT-supported countries.",
+        "discount_amount": "$25k Credits (Active)",
+        "pricing_info": "$20 flagship subscription tier",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -1535,7 +1535,7 @@
         "tool_name": "ChatGPT Plus",
         "tool_url": "https://felloai.com/ai-deals/",
         "code": "N/A",
-        "discount_amount": "Active promotion",
+        "discount_amount": "One year free for eligible veterans",
         "pricing_info": "Free for eligible veterans and transitioning servicemembers.",
         "key_features": "Advanced conversational AI capabilities including enhanced understanding.",
         "description": "ChatGPT Plus offers users access to improved response quality and faster performance compared to the free version of ChatGPT.",
@@ -1706,7 +1706,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals/pictory-ai-coupon-code",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "8.3/10 User Rating",
+        "pricing_info": "Trial only (no self-serve free plan)",
         "key_features": "Coupon codes for savings on AI video tools.",
         "description": "Pictory.ai offers innovative AI-powered video editing solutions designed to help content creators simplify their workflow and enhance video quality.",
         "category": "Video AI"
@@ -1765,8 +1765,8 @@
         "tool_name": "AI Scribe",
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
         "code": "Verified Discount",
-        "discount_amount": "$19",
-        "pricing_info": "Free for a week, then $19 for your first month",
+        "discount_amount": "Free for a week",
+        "pricing_info": "$19 for your first month",
         "key_features": "Annual plans, medical scribing capabilities",
         "description": "AI Scribe is an AI-based tool designed to assist medical professionals with documentation and patient interaction. It streamlines the scribing process, allowing for more efficient healthcare delivery.",
         "category": "Medical AI"
@@ -2205,8 +2205,8 @@
         "tool_name": "Channel AI Plus",
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
-        "discount_amount": "$6.49",
-        "pricing_info": "First month for $6.49",
+        "discount_amount": "Limited Time Offer",
+        "pricing_info": "$6.49 for the first month",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2566,7 +2566,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "8.0/10 User Rating",
+        "pricing_info": "Trial only (no self-serve free plan)",
         "key_features": "AI meeting assistant that captures and transcribes conversations.",
         "description": "Fireflies AI is an AI-powered meeting assistant that records, transcribes, and organizes voice conversations into searchable notes.",
         "category": "Coding AI"
@@ -2665,8 +2665,8 @@
         "tool_name": "Tabnine",
         "tool_url": "https://aihotdeal.com/en",
         "code": "N/A",
-        "discount_amount": "25% OFF",
-        "pricing_info": "Discount applied at checkout.",
+        "discount_amount": "Free for basic completions",
+        "pricing_info": "Team-focused and enterprise coding. Zero code retention with various deployment options.",
         "key_features": "AI code completion with enterprise-grade security.",
         "description": "Tabnine is an AI-powered tool designed for developers, offering code completion features that enhance programming efficiency and security.",
         "category": "Coding AI"
@@ -2786,7 +2786,7 @@
         "tool_url": "https://www.doctronic.ai/25offlander",
         "code": "DOC25",
         "discount_amount": "25%",
-        "pricing_info": "Limited Time Offer",
+        "pricing_info": "Limit time offer",
         "key_features": "Personalized care plans, remembers health history.",
         "description": "Doctronic is an AI doctor that offers personalized care plans based on detailed analysis of the patient's health history, evolving as per individual needs.",
         "category": "Medical AI"
@@ -2930,5 +2930,45 @@
         "key_features": "AI-Powered Omnichannel Outreach, 695M+ Database, Personalized Video",
         "description": "Instantly.ai is an AI-driven outreach platform that integrates various channels like LinkedIn, Email, SMS, and Calls to enhance marketing efforts with a large database and personalized content.",
         "category": "Marketing AI"
+    },
+    {
+        "tool_name": "Starter Plan for Commercial License",
+        "tool_url": "https://elevenlabs.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "$5/month",
+        "key_features": "Commercial license access.",
+        "description": "The Starter Plan provides users with a cost-effective way to utilize ElevenLabs tools for commercial purposes.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "AI Student Pack",
+        "tool_url": "https://devopscube.com/elevenlabs-discount",
+        "code": "N/A",
+        "discount_amount": "$4k in Credits",
+        "pricing_info": "3 months free on Creator",
+        "key_features": "16 AI tools, significant credits for students.",
+        "description": "The AI Student Pack is designed for students and includes a range of tools alongside substantial free credits, providing a valuable resource for educational use.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Toolsaday Premium",
+        "tool_url": "https://toolsaday.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "$0.00",
+        "pricing_info": "$16.66 per month",
+        "key_features": "Enhance writing productivity using powerful AI capabilities with premium support.",
+        "description": "Toolsaday Premium offers advanced AI tools designed to improve writing productivity, combining powerful features with comprehensive support.",
+        "category": "Writing AI"
+    },
+    {
+        "tool_name": "Eve",
+        "tool_url": "https://www.eve.legal/tort-report/best-legal-ai-software-lawyers",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Full case lifecycle AI, proactive case auditing, medical chronologies, demand letters",
+        "description": "Eve is a legal AI software designed for plaintiff law firms, offering comprehensive tools for managing and auditing cases throughout their lifecycle.",
+        "category": "Legal AI"
     }
 ]

@@ -13522,5 +13522,189 @@
             "zh": "每年可节省高达$1,497",
             "it": "Risparmia fino a $1.497/anno"
         }
+    },
+    "Starter Plan for Commercial License": {
+        "description": {
+            "en": "The Starter Plan provides users with a cost-effective way to utilize ElevenLabs tools for commercial purposes.",
+            "uk": "Стартерний план надає користувачам економічний спосіб використання інструментів ElevenLabs для комерційних цілей.",
+            "ja": "スタータープランは、ユーザーが商業目的でElevenLabsのツールを利用するためのコスト効果の高い方法を提供します。",
+            "es": "El Plan Inicial brinda a los usuarios una forma rentable de utilizar las herramientas de ElevenLabs con fines comerciales.",
+            "pt": "O Plano Inicial oferece aos usuários uma maneira econômica de utilizar as ferramentas da ElevenLabs para fins comerciais.",
+            "fr": "Le plan de démarrage offre aux utilisateurs un moyen économique d'utiliser les outils d'ElevenLabs à des fins commerciales.",
+            "de": "Der Starter-Plan bietet Nutzern eine kostengünstige Möglichkeit, die ElevenLabs-Tools für kommerzielle Zwecke zu nutzen.",
+            "zh": "入门计划为用户提供了一种经济高效的方式，用于商业目的使用ElevenLabs工具。",
+            "it": "Il Piano Start offre agli utenti un modo economico per utilizzare gli strumenti di ElevenLabs per scopi commerciali."
+        },
+        "features": {
+            "en": "Commercial license access.",
+            "uk": "Доступ до комерційної ліцензії.",
+            "ja": "商業ライセンスアクセス。",
+            "es": "Acceso a licencia comercial.",
+            "pt": "Acesso à licença comercial.",
+            "fr": "Accès à la licence commerciale.",
+            "de": "Zugang zur kommerziellen Lizenz.",
+            "zh": "商业许可证访问。",
+            "it": "Accesso alla licenza commerciale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/D",
+            "de": "k.A.",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "$5/month",
+            "uk": "$5/місяць",
+            "ja": "$5/月",
+            "es": "$5/mes",
+            "pt": "$5/mês",
+            "fr": "$5/mois",
+            "de": "5 $/Monat",
+            "zh": "$5/月",
+            "it": "$5/mese"
+        }
+    },
+    "AI Student Pack": {
+        "description": {
+            "en": "The AI Student Pack is designed for students and includes a range of tools alongside substantial free credits, providing a valuable resource for educational use.",
+            "uk": "Пакет ШІ для студентів розроблений для студентів і включає в себе ряд інструментів разом з значними безкоштовними кредитами, що забезпечує цінний ресурс для навчання.",
+            "ja": "AI学生パックは学生向けに設計されており、さまざまなツールと substantialな無料クレジットが含まれており、教育利用に貴重なリソースを提供します。",
+            "es": "El Paquete de Estudiantes de IA está diseñado para estudiantes e incluye una variedad de herramientas junto con créditos gratuitos sustanciales, proporcionando un recurso valioso para el uso educativo.",
+            "pt": "O Pacote de Estudantes de IA é projetado para estudantes e inclui uma variedade de ferramentas juntamente com créditos gratuitos substanciais, proporcionando um recurso valioso para uso educacional.",
+            "fr": "Le Pack Étudiant IA est conçu pour les étudiants et comprend une gamme d'outils avec des crédits gratuits substantiels, fournissant une ressource précieuse pour un usage éducatif.",
+            "de": "Das AI Student Pack ist für Studenten konzipiert und umfasst eine Reihe von Tools sowie erhebliche kostenlose Credits, die eine wertvolle Ressource für den Bildungsbereich bieten.",
+            "zh": "AI学生包为学生设计，包括一系列工具和大量免费信用，提供了一个有价值的教育资源。",
+            "it": "Il Pacchetto Studente AI è progettato per gli studenti e include una gamma di strumenti insieme a crediti gratuiti sostanziali, fornendo una risorsa preziosa per l'uso educativo."
+        },
+        "features": {
+            "en": "16 AI tools, significant credits for students.",
+            "uk": "16 інструментів ШІ, значні кредити для студентів.",
+            "ja": "16のAIツール、学生向けの重要なクレジット。",
+            "es": "16 herramientas de IA, créditos significativos para estudiantes.",
+            "pt": "16 ferramentas de IA, créditos significativos para estudantes.",
+            "fr": "16 outils d'IA, crédits significatifs pour les étudiants.",
+            "de": "16 KI-Tools, erhebliche Credits für Studenten.",
+            "zh": "16种AI工具，为学生提供重要的信贷。",
+            "it": "16 strumenti di IA, crediti significativi per gli studenti."
+        },
+        "discount": {
+            "en": "$4k in Credits",
+            "uk": "4k доларів США у кредитах",
+            "ja": "4,000ドルのクレジット",
+            "es": "4,000 dólares en créditos",
+            "pt": "4.000 dólares em créditos",
+            "fr": "4 000 $ en crédits",
+            "de": "4.000 $ in Credits",
+            "zh": "4,000美元的信用",
+            "it": "4.000 dollari in crediti"
+        },
+        "pricing": {
+            "en": "3 months free on Creator",
+            "uk": "3 місяці безкоштовно на Creator",
+            "ja": "クリエイターで3ヶ月間無料",
+            "es": "3 meses gratis en Creator",
+            "pt": "3 meses grátis no Creator",
+            "fr": "3 mois gratuits sur Creator",
+            "de": "3 Monate kostenlos beim Creator",
+            "zh": "Creator上免费3个月",
+            "it": "3 mesi gratuiti su Creator"
+        }
+    },
+    "Toolsaday Premium": {
+        "description": {
+            "en": "Toolsaday Premium offers advanced AI tools designed to improve writing productivity, combining powerful features with comprehensive support.",
+            "uk": "Toolsaday Premium пропонує розширені інструменти ШІ, створені для покращення продуктивності письма, поєднуючи потужні функції з комплексною підтримкою.",
+            "ja": "Toolsaday Premiumは、強力な機能と包括的なサポートを組み合わせた、ライティングの生産性を向上させるために設計された高度なAIツールを提供します。",
+            "es": "Toolsaday Premium ofrece herramientas avanzadas de IA diseñadas para mejorar la productividad en la escritura, combinando potentes características con un soporte integral.",
+            "pt": "Toolsaday Premium oferece ferramentas avançadas de IA projetadas para melhorar a produtividade na escrita, combinando recursos poderosos com suporte abrangente.",
+            "fr": "Toolsaday Premium propose des outils avancés d'IA conçus pour améliorer la productivité d'écriture, combinant des fonctionnalités puissantes avec un support complet.",
+            "de": "Toolsaday Premium bietet fortschrittliche KI-Tools, die entwickelt wurden, um die Schreibproduktivität zu steigern, indem sie leistungsstarke Funktionen mit umfassendem Support kombinieren.",
+            "zh": "Toolsaday Premium提供先进的AI工具，旨在提高写作生产力，结合强大的功能和全面的支持。",
+            "it": "Toolsaday Premium offre strumenti avanzati di IA progettati per migliorare la produttività della scrittura, combinando potenti funzionalità con supporto completo."
+        },
+        "features": {
+            "en": "Enhance writing productivity using powerful AI capabilities with premium support.",
+            "uk": "Покращте продуктивність письма, використовуючи потужні можливості ШІ з преміум-підтримкою.",
+            "ja": "プレミアムサポート付きの強力なAI機能を使用して、ライティングの生産性を向上させます。",
+            "es": "Mejora la productividad en la escritura utilizando potentes capacidades de IA con soporte premium.",
+            "pt": "Aumente a produtividade na escrita usando poderosas capacidades de IA com suporte premium.",
+            "fr": "Améliorez la productivité d'écriture en utilisant des capacités avancées d'IA avec un support premium.",
+            "de": "Steigern Sie die Schreibproduktivität mit leistungsstarken KI-Funktionen und Premium-Support.",
+            "zh": "利用强大的AI功能和高级支持增强写作生产力。",
+            "it": "Migliora la produttività della scrittura utilizzando potenti capacità di IA con supporto premium."
+        },
+        "discount": {
+            "en": "$0.00",
+            "uk": "$0.00",
+            "ja": "$0.00",
+            "es": "$0.00",
+            "pt": "$0.00",
+            "fr": "$0.00",
+            "de": "$0.00",
+            "zh": "$0.00",
+            "it": "$0.00"
+        },
+        "pricing": {
+            "en": "$16.66 per month",
+            "uk": "$16.66 на місяць",
+            "ja": "$16.66 per month",
+            "es": "$16.66 al mes",
+            "pt": "$16.66 por mês",
+            "fr": "16,66 $ par mois",
+            "de": "16,66 $ pro Monat",
+            "zh": "每月 16.66 美元",
+            "it": "16,66 $ al mese"
+        }
+    },
+    "Eve": {
+        "description": {
+            "en": "Eve is a legal AI software designed for plaintiff law firms, offering comprehensive tools for managing and auditing cases throughout their lifecycle.",
+            "uk": "Eve - це юридичне ШІ програмне забезпечення, розроблене для адвокатських фірм, що представляють позивачів, яке пропонує всебічні інструменти для управління та аудиту справ протягом їх життєвого циклу.",
+            "ja": "Eveは、原告法律事務所向けに設計された法的なSHソフトウェアで、ケースのライフサイクル全体を通じて管理および監査するための包括的なツールを提供します。",
+            "es": "Eve es un software legal de SH diseñado para bufetes de abogados que representan a demandantes, ofreciendo herramientas integrales para gestionar y auditar casos a lo largo de su ciclo de vida.",
+            "pt": "Eve é um software jurídico de SH projetado para escritórios de advocacia que representam reclamantes, oferecendo ferramentas abrangentes para gerenciar e auditar casos ao longo de seu ciclo de vida.",
+            "fr": "Eve est un logiciel juridique de SH conçu pour les cabinets d'avocats représentant des plaignants, offrant des outils complets pour gérer et auditer des affaires tout au long de leur cycle de vie.",
+            "de": "Eve ist eine rechtliche SH-Software, die für Anwaltkanzleien von Klägern entwickelt wurde und umfassende Werkzeuge zum Verwalten und Prüfen von Fällen über deren gesamten Lebenszyklus bietet.",
+            "zh": "Eve是一款为原告律师事务所设计的法律SH软件，提供全面的工具来管理和审核整个案件生命周期中的案件。",
+            "it": "Eve è un software legale di SH progettato per studi legali che rappresentano i querelanti, offrendo strumenti completi per gestire e verificare i casi durante tutto il loro ciclo di vita."
+        },
+        "features": {
+            "en": "Full case lifecycle AI, proactive case auditing, medical chronologies, demand letters",
+            "uk": "ШІ для повного життєвого циклу справ, проактивний аудит справ, медичні хронології, листи з вимогами",
+            "ja": "フルケースライフサイクルSH、積極的なケース監査、医療年表、要求書",
+            "es": "SH para el ciclo de vida completo del caso, auditoría proactiva del caso, cronologías médicas, cartas de demanda",
+            "pt": "SH para todo o ciclo de vida do caso, auditoria proativa do caso, cronologias médicas, cartas de demanda",
+            "fr": "SH pour le cycle de vie complet du cas, audit proactif des affaires, chronologies médicales, lettres de demande",
+            "de": "SH für den vollständigen Lebenszyklus eines Falls, proaktive Fallprüfungen, medizinische Chronologien, Forderungsschreiben",
+            "zh": "完整案件生命周期的SH，主动的案件审核，医疗年表，需求信件",
+            "it": "SH per l'intero ciclo di vita del caso, auditing proattivo del caso, cronologie mediche, lettere di richiesta"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
     }
 }
