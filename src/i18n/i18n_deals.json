@@ -13706,5 +13706,51 @@
             "zh": "不适用",
             "it": "N/D"
         }
+    },
+    "AI Medical Scribe": {
+        "description": {
+            "en": "AI Medical Scribe utilizes artificial intelligence to assist healthcare professionals in documenting patient interactions, thereby enhancing productivity and accuracy in medical note-taking.",
+            "uk": "ШІ Медичний Сcribe використовує штучний інтелект, щоб допомогти медичним працівникам документувати взаємодії з пацієнтами, тим самим підвищуючи продуктивність та точність у веденні медичних записів.",
+            "ja": "AIメディカルスクライブは、医療専門家が患者とのインタラクションを文書化するのを支援するために人工知能を利用し、医療メモの記録における生産性と精度を向上させます。",
+            "es": "AI Medical Scribe utiliza inteligencia artificial para ayudar a los profesionales de la salud a documentar las interacciones con los pacientes, mejorando así la productividad y la precisión en la toma de notas médicas.",
+            "pt": "AI Medical Scribe utiliza inteligência artificial para ajudar os profissionais de saúde a documentar interações com os pacientes, aumentando assim a produtividade e a precisão na tomada de notas médicas.",
+            "fr": "AI Medical Scribe utilise l'intelligence artificielle pour aider les professionnels de la santé à documenter les interactions avec les patients, améliorant ainsi la productivité et la précision dans la prise de notes médicales.",
+            "de": "AI Medical Scribe nutzt künstliche Intelligenz, um medizinischen Fachkräften bei der Dokumentation von Patientenkontakten zu helfen, wodurch die Produktivität und Genauigkeit bei der medizinischen Notizenerstellung verbessert wird.",
+            "zh": "AI医疗书记利用人工智能帮助医疗专业人员记录患者互动，从而提高医疗笔记的生产力和准确性。",
+            "it": "AI Medical Scribe utilizza l'intelligenza artificiale per assistere i professionisti sanitari nella documentazione delle interazioni con i pazienti, migliorando così la produttività e l'accuratezza nella prende di note mediche."
+        },
+        "features": {
+            "en": "AI-powered transcription, medical-specific vocabulary, integration with EHR systems",
+            "uk": "Транскрипція на основі ШІ, медично специфічна лексику, інтеграція з системами ЕПР",
+            "ja": "AI駆動の文字起こし、医療特有の語彙、EHRシステムとの統合",
+            "es": "Transcripción impulsada por IA, vocabulario específico de medicina, integración con sistemas EHR",
+            "pt": "Transcrição impulsionada por IA, vocabulário específico de medicina, integração com sistemas EHR",
+            "fr": "Transcription alimentée par l'IA, vocabulaire spécifique à la médecine, intégration avec les systèmes EHR",
+            "de": "KI-gestützte Transkription, medizinisch spezifischer Wortschatz, Integration mit EHR-Systemen",
+            "zh": "基于AI的转录、医学特定词汇、与EHR系统的集成",
+            "it": "Trascrizione potenziata da IA, vocabolario specifico per la medicina, integrazione con i sistemi EHR"
+        },
+        "discount": {
+            "en": "45%",
+            "uk": "45%",
+            "ja": "45%",
+            "es": "45%",
+            "pt": "45%",
+            "fr": "45%",
+            "de": "45%",
+            "zh": "45%",
+            "it": "45%"
+        },
+        "pricing": {
+            "en": "Free for a week, then $19 for your first month",
+            "uk": "Безкоштовно на тиждень, потім $19 за перший місяць",
+            "ja": "1週間無料、それ以降は最初の月が19ドル",
+            "es": "Gratis durante una semana, luego $19 para tu primer mes",
+            "pt": "Gratuito por uma semana, depois $19 pelo seu primeiro mês",
+            "fr": "Gratuit pendant une semaine, puis 19 $ pour votre premier mois",
+            "de": "Eine Woche kostenlos, dann 19 $ für den ersten Monat",
+            "zh": "一周免费，然后您第一个月$19",
+            "it": "Gratis per una settimana, poi $19 per il tuo primo mese"
+        }
     }
 }

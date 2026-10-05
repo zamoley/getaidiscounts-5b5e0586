@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "Exclusive deal for all plans.": {
+  "Various plans available": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -65,7 +65,7 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "Available to verified students and educators": {
+  "Discounts available for verified students and educators.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1000,7 +1000,7 @@
     "zh": "免费访问",
     "it": "Accesso gratuito"
   },
-  "Per-million-token pricing starts from $1.": {
+  "As of September 2026, official per-million-token pricing runs from Claude Haiku 4.5 at $1.": {
     "en": "Free Tier Available",
     "uk": "Доступний безкоштовний рівень",
     "ja": "無料枠あり",
@@ -1231,7 +1231,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Free 1-Year Pro Plan ($240 Value)": {
+  "Free 12 months of Perplexity Pro ($240 Value)": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -2331,7 +2331,7 @@
     "zh": "每月3000美元",
     "it": "3000 dollari al mese"
   },
-  "$20/month for Plus Plan": {
+  "Access special savings for your ChatGPT Codex API Key.": {
     "en": "N/A",
     "uk": "Н/Д",
     "ja": "該当なし",
@@ -2969,7 +2969,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "$6.49 for the first month": {
+  "$6.49 for your first month": {
     "en": "$6.49 for the first month",
     "uk": "$6.49 за перший місяць",
     "ja": "最初の月は6.49ドル",
@@ -2980,7 +2980,7 @@
     "zh": "首月6.49美元",
     "it": "6,49 $ per il primo mese"
   },
-  "Limited Time Offer": {
+  "$6.49": {
     "en": "N/A",
     "uk": "Н/Д",
     "ja": "該当なし",
@@ -3068,7 +3068,7 @@
     "zh": "免费开始",
     "it": "Inizia gratuitamente"
   },
-  "$1500 in free credits": {
+  "Includes $1,500 in free credits": {
     "en": "$1,500 Free Credits",
     "uk": "$1,500 безкоштовних кредитів",
     "ja": "$1,500の無料クレジット",
@@ -3112,7 +3112,7 @@
     "zh": "免费3个月",
     "it": "3 mesi gratuiti"
   },
-  "Half price for high quality AI headshots.": {
+  "High quality AI headshots at half price.": {
     "en": "$61",
     "uk": "$61",
     "ja": "$61",
@@ -3199,6 +3199,17 @@
     "de": "N/A",
     "zh": "不适用",
     "it": "N/D"
+  },
+  "$5 Per Month": {
+    "en": "$6 per month",
+    "uk": "$6 на місяць",
+    "ja": "$6 per month",
+    "es": "$6 al mes",
+    "pt": "$6 por mês",
+    "fr": "$6 par mois",
+    "de": "$6 pro Monat",
+    "zh": "$6每月",
+    "it": "$6 al mese"
   },
   "12 months free (33 million characters of free access)": {
     "en": "12 months free (33 million characters of free access)",
@@ -3288,7 +3299,7 @@
     "zh": "基于订阅的定价。",
     "it": "Prezzi basati su abbonamento."
   },
-  "Subscription with various tiers.": {
+  "Coupon code available for the 2026 promotion.": {
     "en": "Subscription with various tiers.",
     "uk": "Підписка з різними рівнями.",
     "ja": "さまざまなレベルのサブスクリプション。",
@@ -3563,7 +3574,7 @@
     "zh": "200个免费搜索积分",
     "it": "200 crediti di ricerca gratuiti"
   },
-  "First month discount on the Creator plan": {
+  "$11 for the first month": {
     "en": "First month discount on the Creator plan",
     "uk": "Знижка на перший місяць підписки на план Creator",
     "ja": "Creatorプランの初月割引",
@@ -3716,6 +3727,17 @@
     "de": "$0.00",
     "zh": "$0.00",
     "it": "$0.00"
+  },
+  "Free for a week, then $19 for your first month": {
+    "en": "Free for a week, then $19 for your first month",
+    "uk": "Безкоштовно на тиждень, потім $19 за перший місяць",
+    "ja": "1週間無料、それ以降は最初の月が19ドル",
+    "es": "Gratis durante una semana, luego $19 para tu primer mes",
+    "pt": "Gratuito por uma semana, depois $19 pelo seu primeiro mês",
+    "fr": "Gratuit pendant une semaine, puis 19 $ pour votre premier mois",
+    "de": "Eine Woche kostenlos, dann 19 $ für den ersten Monat",
+    "zh": "一周免费，然后您第一个月$19",
+    "it": "Gratis per una settimana, poi $19 per il tuo primo mese"
   },
   "Midjourney": {
     "en": {
@@ -20403,6 +20425,62 @@
       "features": "SH per l'intero ciclo di vita del caso, auditing proattivo del caso, cronologie mediche, lettere di richiesta",
       "badge": "N/D",
       "pricing": "N/D"
+    }
+  },
+  "AI Medical Scribe": {
+    "en": {
+      "description": "AI Medical Scribe utilizes artificial intelligence to assist healthcare professionals in documenting patient interactions, thereby enhancing productivity and accuracy in medical note-taking.",
+      "features": "AI-powered transcription, medical-specific vocabulary, integration with EHR systems",
+      "badge": "45%",
+      "pricing": "Free for a week, then $19 for your first month"
+    },
+    "uk": {
+      "description": "ШІ Медичний Сcribe використовує штучний інтелект, щоб допомогти медичним працівникам документувати взаємодії з пацієнтами, тим самим підвищуючи продуктивність та точність у веденні медичних записів.",
+      "features": "Транскрипція на основі ШІ, медично специфічна лексику, інтеграція з системами ЕПР",
+      "badge": "45%",
+      "pricing": "Безкоштовно на тиждень, потім $19 за перший місяць"
+    },
+    "ja": {
+      "description": "AIメディカルスクライブは、医療専門家が患者とのインタラクションを文書化するのを支援するために人工知能を利用し、医療メモの記録における生産性と精度を向上させます。",
+      "features": "AI駆動の文字起こし、医療特有の語彙、EHRシステムとの統合",
+      "badge": "45%",
+      "pricing": "1週間無料、それ以降は最初の月が19ドル"
+    },
+    "es": {
+      "description": "AI Medical Scribe utiliza inteligencia artificial para ayudar a los profesionales de la salud a documentar las interacciones con los pacientes, mejorando así la productividad y la precisión en la toma de notas médicas.",
+      "features": "Transcripción impulsada por IA, vocabulario específico de medicina, integración con sistemas EHR",
+      "badge": "45%",
+      "pricing": "Gratis durante una semana, luego $19 para tu primer mes"
+    },
+    "pt": {
+      "description": "AI Medical Scribe utiliza inteligência artificial para ajudar os profissionais de saúde a documentar interações com os pacientes, aumentando assim a produtividade e a precisão na tomada de notas médicas.",
+      "features": "Transcrição impulsionada por IA, vocabulário específico de medicina, integração com sistemas EHR",
+      "badge": "45%",
+      "pricing": "Gratuito por uma semana, depois $19 pelo seu primeiro mês"
+    },
+    "fr": {
+      "description": "AI Medical Scribe utilise l'intelligence artificielle pour aider les professionnels de la santé à documenter les interactions avec les patients, améliorant ainsi la productivité et la précision dans la prise de notes médicales.",
+      "features": "Transcription alimentée par l'IA, vocabulaire spécifique à la médecine, intégration avec les systèmes EHR",
+      "badge": "45%",
+      "pricing": "Gratuit pendant une semaine, puis 19 $ pour votre premier mois"
+    },
+    "de": {
+      "description": "AI Medical Scribe nutzt künstliche Intelligenz, um medizinischen Fachkräften bei der Dokumentation von Patientenkontakten zu helfen, wodurch die Produktivität und Genauigkeit bei der medizinischen Notizenerstellung verbessert wird.",
+      "features": "KI-gestützte Transkription, medizinisch spezifischer Wortschatz, Integration mit EHR-Systemen",
+      "badge": "45%",
+      "pricing": "Eine Woche kostenlos, dann 19 $ für den ersten Monat"
+    },
+    "zh": {
+      "description": "AI医疗书记利用人工智能帮助医疗专业人员记录患者互动，从而提高医疗笔记的生产力和准确性。",
+      "features": "基于AI的转录、医学特定词汇、与EHR系统的集成",
+      "badge": "45%",
+      "pricing": "一周免费，然后您第一个月$19"
+    },
+    "it": {
+      "description": "AI Medical Scribe utilizza l'intelligenza artificiale per assistere i professionisti sanitari nella documentazione delle interazioni con i pazienti, migliorando così la produttività e l'accuratezza nella prende di note mediche.",
+      "features": "Trascrizione potenziata da IA, vocabolario specifico per la medicina, integrazione con i sistemi EHR",
+      "badge": "45%",
+      "pricing": "Gratis per una settimana, poi $19 per il tuo primo mese"
     }
   }
 }

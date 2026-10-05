@@ -26,7 +26,7 @@
         "tool_url": "https://www.heygen.com",
         "code": "JAMM20",
         "discount_amount": "60%",
-        "pricing_info": "Exclusive deal for all plans.",
+        "pricing_info": "Various plans available",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -37,7 +37,7 @@
         "tool_url": "https://www.perplexity.ai",
         "code": "Student discounts available",
         "discount_amount": "Discount for verified students and educators",
-        "pricing_info": "Available to verified students and educators",
+        "pricing_info": "Discounts available for verified students and educators.",
         "key_features": "AI Search Engine, Real-time Citations",
         "description": "The AI-powered answer engine for research.",
         "last_verified": "2026-05-05",
@@ -651,7 +651,7 @@
         "tool_url": "https://www.anthropic.com/claude",
         "code": "CLAUDE123",
         "discount_amount": "$5000 Credits",
-        "pricing_info": "Per-million-token pricing starts from $1.",
+        "pricing_info": "As of September 2026, official per-million-token pricing runs from Claude Haiku 4.5 at $1.",
         "key_features": "Advanced natural language understanding, Conversational AI capabilities, Flexible API integration",
         "description": "Claude is a state-of-the-art conversational AI developed by Anthropic. It is designed to assist users with a wide array of tasks, from answering questions to generating content in a human-like manner. With its advanced algorithms and training on diverse datasets, Claude aims to understand context and provide relevant, coherent responses. The AI can be utilized in various industries including customer support, content creation, and education.",
         "category": "No-Code AI"
@@ -821,7 +821,7 @@
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
         "discount_amount": "50% OFF",
-        "pricing_info": "Free 1-Year Pro Plan ($240 Value)",
+        "pricing_info": "Free 12 months of Perplexity Pro ($240 Value)",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1686,7 +1686,7 @@
         "tool_url": "https://chatgptcodex.startupworld.com",
         "code": "10% Off",
         "discount_amount": "various",
-        "pricing_info": "$20/month for Plus Plan",
+        "pricing_info": "Access special savings for your ChatGPT Codex API Key.",
         "key_features": "API access, automatic discount application.",
         "description": "ChatGPT Codex provides developers with access to OpenAI's GPT-3 capabilities through a flexible and functional API. This enhances the ability to build applications that leverage advanced natural language processing.",
         "category": "Coding AI"
@@ -2205,8 +2205,8 @@
         "tool_name": "Channel AI Plus",
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
-        "discount_amount": "Limited Time Offer",
-        "pricing_info": "$6.49 for the first month",
+        "discount_amount": "$6.49",
+        "pricing_info": "$6.49 for your first month",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2366,7 +2366,7 @@
         "tool_url": "https://devopscube.com/elevenlabs-discount",
         "code": "2026",
         "discount_amount": "$1500 Free Credits",
-        "pricing_info": "$1500 in free credits",
+        "pricing_info": "Includes $1,500 in free credits",
         "key_features": "Includes 16 AI tools, large discounts for students and educators.",
         "description": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
         "category": "All-in-One AI"
@@ -2395,8 +2395,8 @@
         "tool_name": "Try It On AI",
         "tool_url": "https://tryitonai.startupworld.com",
         "code": "N/A",
-        "discount_amount": "50%",
-        "pricing_info": "Half price for high quality AI headshots.",
+        "discount_amount": "15%",
+        "pricing_info": "High quality AI headshots at half price.",
         "key_features": "Create high-quality portraits, customize styles.",
         "description": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
         "category": "Image AI"
@@ -2446,7 +2446,7 @@
         "tool_url": "https://elevenlabs.vectortemplates.com",
         "code": "N/A",
         "discount_amount": "30%",
-        "pricing_info": "$6 per month",
+        "pricing_info": "$5 Per Month",
         "key_features": "Access to powerful text-to-speech tools.",
         "description": "The ElevenLabs Starter Plan provides users with essential text-to-speech capabilities at a low monthly cost, enabling the creation of professional-quality audio content quickly.",
         "category": "Voice AI"
@@ -2596,7 +2596,7 @@
         "tool_url": "https://wpism.com/deals",
         "code": "30% OFF Deal",
         "discount_amount": "30%",
-        "pricing_info": "Subscription with various tiers.",
+        "pricing_info": "Coupon code available for the 2026 promotion.",
         "key_features": "SEO tracking, keyword monitoring, site audits.",
         "description": "Nightwatch is an advanced SEO tool designed to track keyword rankings, site performance, and provide competitive analysis to optimize online visibility.",
         "category": "SEO AI"
@@ -2866,7 +2866,7 @@
         "tool_url": "https://elevenlabs.startupworld.com",
         "code": "N/A",
         "discount_amount": "50% OFF",
-        "pricing_info": "First month discount on the Creator plan",
+        "pricing_info": "$11 for the first month",
         "key_features": "Access powerful AI voice tools for content creation.",
         "description": "The ElevenLabs Creator Plan is a subscription service that provides access to advanced AI voice tools for content creation. It is ideal for creators looking to enhance their projects with high-quality text-to-speech capabilities.",
         "category": "Voice AI"
@@ -2970,5 +2970,15 @@
         "key_features": "Full case lifecycle AI, proactive case auditing, medical chronologies, demand letters",
         "description": "Eve is a legal AI software designed for plaintiff law firms, offering comprehensive tools for managing and auditing cases throughout their lifecycle.",
         "category": "Legal AI"
+    },
+    {
+        "tool_name": "AI Medical Scribe",
+        "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
+        "code": "N/A",
+        "discount_amount": "45%",
+        "pricing_info": "Free for a week, then $19 for your first month",
+        "key_features": "AI-powered transcription, medical-specific vocabulary, integration with EHR systems",
+        "description": "AI Medical Scribe utilizes artificial intelligence to assist healthcare professionals in documenting patient interactions, thereby enhancing productivity and accuracy in medical note-taking.",
+        "category": "Medical AI"
     }
 ]
