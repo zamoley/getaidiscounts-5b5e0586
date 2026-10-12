@@ -37,7 +37,7 @@
         "tool_url": "https://www.perplexity.ai",
         "code": "Student discounts available",
         "discount_amount": "Discount for verified students and educators",
-        "pricing_info": "Discounts available for verified students and educators.",
+        "pricing_info": "Discount available for verified students and educators.",
         "key_features": "AI Search Engine, Real-time Citations",
         "description": "The AI-powered answer engine for research.",
         "last_verified": "2026-05-05",
@@ -820,8 +820,8 @@
         "tool_name": "Perplexity AI",
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
-        "discount_amount": "50% OFF",
-        "pricing_info": "Free 12 months of Perplexity Pro ($240 Value)",
+        "discount_amount": "50%",
+        "pricing_info": "Best Discount: 50% OFF",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1261,7 +1261,7 @@
         "tool_url": "https://www.descript.com",
         "code": "DESCRIPT50",
         "discount_amount": "25% OFF",
-        "pricing_info": "Subscription Discount",
+        "pricing_info": "Score: 9.4",
         "key_features": "Audio editing, Overdub, Screen recording",
         "description": "Descript is an all-in-one audio and video editing software that makes content creation more accessible. It combines transcription and editing functionalities, allowing users to edit audio by editing text. Descript stands out with features like Overdub, which uses voice cloning technology to let users create new audio segments in their own voice.",
         "category": "Voice AI"
@@ -1606,7 +1606,7 @@
         "tool_url": "https://krater.ai/coupon/midjourney",
         "code": "N/A",
         "discount_amount": "25%",
-        "pricing_info": "Get 350+ AI models including Midjourney features for $20/mo with Krater.",
+        "pricing_info": "$20/month for access to 500+ AI models including Midjourney features.",
         "key_features": "Comprehensive access to AI models including Midjourney\u2019s features, affordable pricing.",
         "description": "Krater is a platform that provides a variety of AI models for creative applications, making advanced AI tools accessible for a low monthly fee.",
         "category": "Group-Buy & Sharing"
@@ -2205,8 +2205,8 @@
         "tool_name": "Channel AI Plus",
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
-        "discount_amount": "$6.49",
-        "pricing_info": "$6.49 for your first month",
+        "discount_amount": "$6.49 for first month",
+        "pricing_info": "$6.49 for first month",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2366,7 +2366,7 @@
         "tool_url": "https://devopscube.com/elevenlabs-discount",
         "code": "2026",
         "discount_amount": "$1500 Free Credits",
-        "pricing_info": "Includes $1,500 in free credits",
+        "pricing_info": "$1,500 Free Credits",
         "key_features": "Includes 16 AI tools, large discounts for students and educators.",
         "description": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
         "category": "All-in-One AI"
@@ -2386,7 +2386,7 @@
         "tool_url": "https://blog.nachonacho.com/best/elevenlabs-promo-codes",
         "code": "N/A",
         "discount_amount": "3 months free",
-        "pricing_info": "N/A",
+        "pricing_info": "3 months free on Creator with AI Student Pack",
         "key_features": "Includes a discount for new creator subscriptions.",
         "description": "ElevenLabs Creator provides users with tools for creativity and production, paired with incentives for new subscribers, enhancing the creative process.",
         "category": "All-in-One AI"
@@ -2466,7 +2466,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Discount codes available, check for active promotions.",
+        "pricing_info": "Score: 9.8",
         "key_features": "AI-powered writing assistant that helps in enhancing writing quality through paraphrasing, grammar checking, and more.",
         "description": "QuillBot is an AI writing tool designed to assist users in improving their text by providing grammar corrections, paraphrasing suggestions, and overall writing enhancement.",
         "category": "Writing AI"
@@ -2476,7 +2476,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Discount codes available, check for active promotions.",
+        "pricing_info": "Free for 10 projects and 10 minutes of voice generation. Creator plan at $29/month increases the limits to 100 projects and 2 hours of voice generation.",
         "key_features": "Voice generation software that allows users to create realistic voiceovers for presentations, videos, and more.",
         "description": "Murf AI is a voice generation platform that enables users to create high-quality voiceovers using advanced text-to-speech technology, making it suitable for various applications such as presentations and educational content.",
         "category": "Voice AI"
@@ -2595,8 +2595,8 @@
         "tool_name": "Nightwatch",
         "tool_url": "https://wpism.com/deals",
         "code": "30% OFF Deal",
-        "discount_amount": "30%",
-        "pricing_info": "Coupon code available for the 2026 promotion.",
+        "discount_amount": "30% OFF",
+        "pricing_info": "Featured Promo Code",
         "key_features": "SEO tracking, keyword monitoring, site audits.",
         "description": "Nightwatch is an advanced SEO tool designed to track keyword rankings, site performance, and provide competitive analysis to optimize online visibility.",
         "category": "SEO AI"
@@ -2876,7 +2876,7 @@
         "tool_url": "https://toolsaday.startupworld.com",
         "code": "N/A",
         "discount_amount": "$7.99",
-        "pricing_info": "$7.99/Month",
+        "pricing_info": "$16.66 per month",
         "key_features": "Enhances writing productivity using powerful AI capabilities with premium support.",
         "description": "Toolsaday offers a suite of writing tools powered by AI to help users enhance productivity and improve the quality of their content.",
         "category": "Writing AI"
@@ -2976,9 +2976,29 @@
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
         "code": "N/A",
         "discount_amount": "45%",
-        "pricing_info": "Free for a week, then $19 for your first month",
+        "pricing_info": "Free for a week, then $19 for your first month.",
         "key_features": "AI-powered transcription, medical-specific vocabulary, integration with EHR systems",
         "description": "AI Medical Scribe utilizes artificial intelligence to assist healthcare professionals in documenting patient interactions, thereby enhancing productivity and accuracy in medical note-taking.",
         "category": "Medical AI"
+    },
+    {
+        "tool_name": "EasyVid AI Video Studio",
+        "tool_url": "https://techjury.net/ai-coupons",
+        "code": "N/A",
+        "discount_amount": "33%",
+        "pricing_info": "Redeemable voucher",
+        "key_features": "Video editing and studio capabilities",
+        "description": "EasyVid AI Video Studio offers powerful tools for video editing and production, aiming to simplify the video creation process.",
+        "category": "Video AI"
+    },
+    {
+        "tool_name": "Everlaw",
+        "tool_url": "https://www.nexlaw.ai/blog/top-10-ai-legal-tools-us",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Integrated into Clio Manage subscription tiers.",
+        "key_features": "Cloud-based eDiscovery platform, AI processing, document review and analysis.",
+        "description": "Everlaw is a cloud-based eDiscovery platform that uses AI to process, review, and analyze large document sets.",
+        "category": "Legal AI"
     }
 ]

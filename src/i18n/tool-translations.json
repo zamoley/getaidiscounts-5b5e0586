@@ -65,7 +65,7 @@
     "zh": "25% 折扣",
     "it": "25% DI SCONTO"
   },
-  "Discounts available for verified students and educators.": {
+  "Discount available for verified students and educators.": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1231,7 +1231,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Free 12 months of Perplexity Pro ($240 Value)": {
+  "Best Discount: 50% OFF": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1241,17 +1241,6 @@
     "de": "Kostenlos oder 20 $/Monat Pro",
     "zh": "免费或 $20/月 Pro",
     "it": "Gratis o $20/mese Pro"
-  },
-  "50% OFF": {
-    "en": "Search Deal",
-    "uk": "Пошукова угода",
-    "ja": "サーチセール",
-    "es": "Oferta de búsqueda",
-    "pt": "Oferta de Busca",
-    "fr": "Offre de recherche",
-    "de": "Such-Deal",
-    "zh": "搜索优惠",
-    "it": "Offerta ricerca"
   },
   "Free basic plan, premium plans starting at $11.66/month.": {
     "en": "Free or $12/mo Premium",
@@ -1770,6 +1759,17 @@
     "zh": "10 美元/小时起",
     "it": "A partire da $10/ora"
   },
+  "Score: 9.4": {
+    "en": "Free Trial; Plans from $15/mo",
+    "uk": "Пробна версія; Плани від $15/міс",
+    "ja": "無料トライアルあり。プランは月額15ドルから",
+    "es": "Prueba gratuita; planes desde $15/mes",
+    "pt": "Teste Gratuito; Planos a partir de $15/mês",
+    "fr": "Essai gratuit ; Plans à partir de 15 $/mois",
+    "de": "Kostenlose Testversion; Abos ab 15 $/Monat",
+    "zh": "提供免费试用；套餐 15 美元/月起",
+    "it": "Prova gratuita; piani a partire da $15/mese"
+  },
   "25% OFF": {
     "en": "50% OFF",
     "uk": "50% знижки",
@@ -2199,7 +2199,7 @@
     "zh": "适用于所有计划。",
     "it": "Applicabile a tutti i piani."
   },
-  "Get 350+ AI models including Midjourney features for $20/mo with Krater.": {
+  "$20/month for access to 500+ AI models including Midjourney features.": {
     "en": "$7.50/month for access to over 350 AI models.",
     "uk": "$7.50/місяць за доступ до понад 350 моделей ШІ.",
     "ja": "350以上のAIモデルへのアクセスには月額7.50ドル。",
@@ -2881,6 +2881,17 @@
     "zh": "不适用",
     "it": "N/D"
   },
+  "50% OFF": {
+    "en": "50% OFF",
+    "uk": "Знижка 50%",
+    "ja": "50%オフ",
+    "es": "50% de descuento",
+    "pt": "50% de desconto",
+    "fr": "50% de réduction",
+    "de": "50% Rabatt",
+    "zh": "50%优惠",
+    "it": "50% di sconto"
+  },
   "$24/Month": {
     "en": "$24/Month",
     "uk": "$24/місяць",
@@ -2969,7 +2980,7 @@
     "zh": "不适用",
     "it": "N/D"
   },
-  "$6.49 for your first month": {
+  "$6.49 for first month": {
     "en": "$6.49 for the first month",
     "uk": "$6.49 за перший місяць",
     "ja": "最初の月は6.49ドル",
@@ -2979,17 +2990,6 @@
     "de": "6,49 $ für den ersten Monat",
     "zh": "首月6.49美元",
     "it": "6,49 $ per il primo mese"
-  },
-  "$6.49": {
-    "en": "N/A",
-    "uk": "Н/Д",
-    "ja": "該当なし",
-    "es": "N/D",
-    "pt": "N/A",
-    "fr": "N/A",
-    "de": "N/A",
-    "zh": "不适用",
-    "it": "N/D"
   },
   "Contact for pricing.": {
     "en": "Contact for pricing.",
@@ -3068,7 +3068,7 @@
     "zh": "免费开始",
     "it": "Inizia gratuitamente"
   },
-  "Includes $1,500 in free credits": {
+  "$1,500 Free Credits": {
     "en": "$1,500 Free Credits",
     "uk": "$1,500 безкоштовних кредитів",
     "ja": "$1,500の無料クレジット",
@@ -3100,6 +3100,17 @@
     "de": "Erstes Jahr des Jahresabonnements.",
     "zh": "年度订阅的第一年。",
     "it": "Primo anno di abbonamento annuale."
+  },
+  "3 months free on Creator with AI Student Pack": {
+    "en": "N/A",
+    "uk": "N/A",
+    "ja": "N/A",
+    "es": "N/A",
+    "pt": "N/A",
+    "fr": "N/A",
+    "de": "N/A",
+    "zh": "N/A",
+    "it": "N/A"
   },
   "3 months free": {
     "en": "3 months free",
@@ -3222,7 +3233,7 @@
     "zh": "12个月免费（3300万个字符的免费访问）",
     "it": "12 mesi gratuiti (33 milioni di caratteri di accesso gratuito)"
   },
-  "Discount codes available, check for active promotions.": {
+  "Score: 9.8": {
     "en": "N/A",
     "uk": "Н/Д",
     "ja": "該当なし",
@@ -3232,6 +3243,17 @@
     "de": "N/A",
     "zh": "N/A",
     "it": "N/A"
+  },
+  "Free for 10 projects and 10 minutes of voice generation. Creator plan at $29/month increases the limits to 100 projects and 2 hours of voice generation.": {
+    "en": "N/A",
+    "uk": "Н/Д",
+    "ja": "該当なし",
+    "es": "N/D",
+    "pt": "N/D",
+    "fr": "N/A",
+    "de": "k.A.",
+    "zh": "无",
+    "it": "N/D"
   },
   "Prized Lower by 20% This Month": {
     "en": "Prized Lower by 20% This Month",
@@ -3299,7 +3321,7 @@
     "zh": "基于订阅的定价。",
     "it": "Prezzi basati su abbonamento."
   },
-  "Coupon code available for the 2026 promotion.": {
+  "Featured Promo Code": {
     "en": "Subscription with various tiers.",
     "uk": "Підписка з різними рівнями.",
     "ja": "さまざまなレベルのサブスクリプション。",
@@ -3585,7 +3607,7 @@
     "zh": "Creator计划首月折扣",
     "it": "Sconto sul primo mese del piano Creator"
   },
-  "$7.99/Month": {
+  "$16.66 per month": {
     "en": "$7.99/Month",
     "uk": "$7,99/Місяць",
     "ja": "月額7.99ドル",
@@ -3706,17 +3728,6 @@
     "zh": "4,000美元的信用",
     "it": "4.000 dollari in crediti"
   },
-  "$16.66 per month": {
-    "en": "$16.66 per month",
-    "uk": "$16.66 на місяць",
-    "ja": "$16.66 per month",
-    "es": "$16.66 al mes",
-    "pt": "$16.66 por mês",
-    "fr": "16,66 $ par mois",
-    "de": "16,66 $ pro Monat",
-    "zh": "每月 16.66 美元",
-    "it": "16,66 $ al mese"
-  },
   "$0.00": {
     "en": "$0.00",
     "uk": "$0.00",
@@ -3728,7 +3739,7 @@
     "zh": "$0.00",
     "it": "$0.00"
   },
-  "Free for a week, then $19 for your first month": {
+  "Free for a week, then $19 for your first month.": {
     "en": "Free for a week, then $19 for your first month",
     "uk": "Безкоштовно на тиждень, потім $19 за перший місяць",
     "ja": "1週間無料、それ以降は最初の月が19ドル",
@@ -3738,6 +3749,39 @@
     "de": "Eine Woche kostenlos, dann 19 $ für den ersten Monat",
     "zh": "一周免费，然后您第一个月$19",
     "it": "Gratis per una settimana, poi $19 per il tuo primo mese"
+  },
+  "Redeemable voucher": {
+    "en": "Redeemable voucher",
+    "uk": "Промокод, що можна використати",
+    "ja": "使用可能なバウチャー",
+    "es": "Vale canjeable",
+    "pt": "Voucher resgatável",
+    "fr": "Bon d'achat remboursable",
+    "de": "Einlösbarer Gutschein",
+    "zh": "可兑换券",
+    "it": "Buono riscattabile"
+  },
+  "33%": {
+    "en": "33%",
+    "uk": "33%",
+    "ja": "33%",
+    "es": "33%",
+    "pt": "33%",
+    "fr": "33%",
+    "de": "33%",
+    "zh": "33%",
+    "it": "33%"
+  },
+  "Integrated into Clio Manage subscription tiers.": {
+    "en": "Integrated into Clio Manage subscription tiers.",
+    "uk": "Включено в рівні підписки Clio Manage.",
+    "ja": "Clio Manageのサブスクリプション tiersに統合されています。",
+    "es": "Integrado en los niveles de suscripción de Clio Manage.",
+    "pt": "Integrado nos níveis de assinatura do Clio Manage.",
+    "fr": "Intégré dans les niveaux d'abonnement Clio Manage.",
+    "de": "In die Clio Manage-Abonnementstufen integriert.",
+    "zh": "集成到Clio Manage订阅层中。",
+    "it": "Integrato nei livelli di abbonamento di Clio Manage."
   },
   "Midjourney": {
     "en": {
@@ -20481,6 +20525,118 @@
       "features": "Trascrizione potenziata da IA, vocabolario specifico per la medicina, integrazione con i sistemi EHR",
       "badge": "45%",
       "pricing": "Gratis per una settimana, poi $19 per il tuo primo mese"
+    }
+  },
+  "EasyVid AI Video Studio": {
+    "en": {
+      "description": "EasyVid AI Video Studio offers powerful tools for video editing and production, aiming to simplify the video creation process.",
+      "features": "Video editing and studio capabilities",
+      "badge": "33%",
+      "pricing": "Redeemable voucher"
+    },
+    "uk": {
+      "description": "EasyVid ШІ Відеостудія пропонує потужні інструменти для редагування та виробництва відео, спрямовані на спрощення процесу створення відео.",
+      "features": "Можливості редагування відео та студії",
+      "badge": "33%",
+      "pricing": "Промокод, що можна використати"
+    },
+    "ja": {
+      "description": "EasyVid AI Video Studioは、ビデオ編集と制作のための強力なツールを提供し、ビデオ制作プロセスを簡素化することを目指しています。",
+      "features": "ビデオ編集およびスタジオ機能",
+      "badge": "33%",
+      "pricing": "使用可能なバウチャー"
+    },
+    "es": {
+      "description": "EasyVid AI Video Studio ofrece herramientas potentes para la edición y producción de video, con el objetivo de simplificar el proceso de creación de video.",
+      "features": "Capacidades de edición de video y estudio",
+      "badge": "33%",
+      "pricing": "Vale canjeable"
+    },
+    "pt": {
+      "description": "EasyVid AI Video Studio oferece ferramentas poderosas para edição e produção de vídeo, visando simplificar o processo de criação de vídeo.",
+      "features": "Capacidades de edição de vídeo e estúdio",
+      "badge": "33%",
+      "pricing": "Voucher resgatável"
+    },
+    "fr": {
+      "description": "EasyVid AI Video Studio offre des outils puissants pour le montage et la production de vidéos, visant à simplifier le processus de création vidéo.",
+      "features": "Fonctionnalités de montage vidéo et de studio",
+      "badge": "33%",
+      "pricing": "Bon d'achat remboursable"
+    },
+    "de": {
+      "description": "EasyVid AI Video Studio bietet leistungsstarke Werkzeuge für die Videoerstellung und -produktion, um den Prozess der Videoproduktion zu vereinfachen.",
+      "features": "Video-Bearbeitungs- und Studiofunktionen",
+      "badge": "33%",
+      "pricing": "Einlösbarer Gutschein"
+    },
+    "zh": {
+      "description": "EasyVid AI 视频工作室提供强大的视频编辑和制作工具，旨在简化视频创建过程。",
+      "features": "视频编辑和工作室功能",
+      "badge": "33%",
+      "pricing": "可兑换券"
+    },
+    "it": {
+      "description": "EasyVid AI Video Studio offre strumenti potenti per il montaggio e la produzione video, con l'obiettivo di semplificare il processo di creazione video.",
+      "features": "Capacità di editing video e studio",
+      "badge": "33%",
+      "pricing": "Buono riscattabile"
+    }
+  },
+  "Everlaw": {
+    "en": {
+      "description": "Everlaw is a cloud-based eDiscovery platform that uses AI to process, review, and analyze large document sets.",
+      "features": "Cloud-based eDiscovery platform, AI processing, document review and analysis.",
+      "badge": "N/A",
+      "pricing": "Integrated into Clio Manage subscription tiers."
+    },
+    "uk": {
+      "description": "Everlaw - це хмарна платформа eDiscovery, яка використовує ШІ для обробки, перегляду та аналізу великих наборів документів.",
+      "features": "Хмарна платформа eDiscovery, обробка за допомогою ШІ, перегляд і аналіз документів.",
+      "badge": "Н/Д",
+      "pricing": "Включено в рівні підписки Clio Manage."
+    },
+    "ja": {
+      "description": "Everlawは、AIを使用して大規模なドキュメントセットを処理、レビュー、および分析するクラウドベースのeDiscoveryプラットフォームです。",
+      "features": "クラウドベースのeDiscoveryプラットフォーム、AI処理、ドキュメントのレビューと分析。",
+      "badge": "該当なし",
+      "pricing": "Clio Manageのサブスクリプション tiersに統合されています。"
+    },
+    "es": {
+      "description": "Everlaw es una plataforma de eDiscovery basada en la nube que utiliza IA para procesar, revisar y analizar grandes conjuntos de documentos.",
+      "features": "Plataforma de eDiscovery basada en la nube, procesamiento de IA, revisión y análisis de documentos.",
+      "badge": "N/A",
+      "pricing": "Integrado en los niveles de suscripción de Clio Manage."
+    },
+    "pt": {
+      "description": "Everlaw é uma plataforma de eDiscovery baseada na nuvem que utiliza IA para processar, revisar e analisar grandes conjuntos de documentos.",
+      "features": "Plataforma de eDiscovery baseada na nuvem, processamento de IA, revisão e análise de documentos.",
+      "badge": "N/A",
+      "pricing": "Integrado nos níveis de assinatura do Clio Manage."
+    },
+    "fr": {
+      "description": "Everlaw est une plateforme eDiscovery basée sur le cloud qui utilise l'IA pour traiter, examiner et analyser de grands ensembles de documents.",
+      "features": "Plateforme eDiscovery basée sur le cloud, traitement par IA, révision et analyse de documents.",
+      "badge": "N/A",
+      "pricing": "Intégré dans les niveaux d'abonnement Clio Manage."
+    },
+    "de": {
+      "description": "Everlaw ist eine cloudbasierte eDiscovery-Plattform, die KI verwendet, um große Dokumentensätze zu verarbeiten, zu überprüfen und zu analysieren.",
+      "features": "Cloudbasierte eDiscovery-Plattform, KI-Verarbeitung, Dokumentenüberprüfung und -analyse.",
+      "badge": "N/A",
+      "pricing": "In die Clio Manage-Abonnementstufen integriert."
+    },
+    "zh": {
+      "description": "Everlaw是一个基于云的电子发现平台，使用人工智能处理、审查和分析大量文档集。",
+      "features": "基于云的电子发现平台，AI处理，文档审查和分析。",
+      "badge": "不适用",
+      "pricing": "集成到Clio Manage订阅层中。"
+    },
+    "it": {
+      "description": "Everlaw è una piattaforma di eDiscovery basata su cloud che utilizza l'IA per elaborare, rivedere e analizzare grandi set di documenti.",
+      "features": "Piattaforma di eDiscovery basata su cloud, elaborazione con IA, revisione e analisi dei documenti.",
+      "badge": "N/A",
+      "pricing": "Integrato nei livelli di abbonamento di Clio Manage."
     }
   }
 }

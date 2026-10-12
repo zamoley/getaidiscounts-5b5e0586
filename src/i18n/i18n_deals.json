@@ -13752,5 +13752,97 @@
             "zh": "一周免费，然后您第一个月$19",
             "it": "Gratis per una settimana, poi $19 per il tuo primo mese"
         }
+    },
+    "EasyVid AI Video Studio": {
+        "description": {
+            "en": "EasyVid AI Video Studio offers powerful tools for video editing and production, aiming to simplify the video creation process.",
+            "uk": "EasyVid ШІ Відеостудія пропонує потужні інструменти для редагування та виробництва відео, спрямовані на спрощення процесу створення відео.",
+            "ja": "EasyVid AI Video Studioは、ビデオ編集と制作のための強力なツールを提供し、ビデオ制作プロセスを簡素化することを目指しています。",
+            "es": "EasyVid AI Video Studio ofrece herramientas potentes para la edición y producción de video, con el objetivo de simplificar el proceso de creación de video.",
+            "pt": "EasyVid AI Video Studio oferece ferramentas poderosas para edição e produção de vídeo, visando simplificar o processo de criação de vídeo.",
+            "fr": "EasyVid AI Video Studio offre des outils puissants pour le montage et la production de vidéos, visant à simplifier le processus de création vidéo.",
+            "de": "EasyVid AI Video Studio bietet leistungsstarke Werkzeuge für die Videoerstellung und -produktion, um den Prozess der Videoproduktion zu vereinfachen.",
+            "zh": "EasyVid AI 视频工作室提供强大的视频编辑和制作工具，旨在简化视频创建过程。",
+            "it": "EasyVid AI Video Studio offre strumenti potenti per il montaggio e la produzione video, con l'obiettivo di semplificare il processo di creazione video."
+        },
+        "features": {
+            "en": "Video editing and studio capabilities",
+            "uk": "Можливості редагування відео та студії",
+            "ja": "ビデオ編集およびスタジオ機能",
+            "es": "Capacidades de edición de video y estudio",
+            "pt": "Capacidades de edição de vídeo e estúdio",
+            "fr": "Fonctionnalités de montage vidéo et de studio",
+            "de": "Video-Bearbeitungs- und Studiofunktionen",
+            "zh": "视频编辑和工作室功能",
+            "it": "Capacità di editing video e studio"
+        },
+        "discount": {
+            "en": "33%",
+            "uk": "33%",
+            "ja": "33%",
+            "es": "33%",
+            "pt": "33%",
+            "fr": "33%",
+            "de": "33%",
+            "zh": "33%",
+            "it": "33%"
+        },
+        "pricing": {
+            "en": "Redeemable voucher",
+            "uk": "Промокод, що можна використати",
+            "ja": "使用可能なバウチャー",
+            "es": "Vale canjeable",
+            "pt": "Voucher resgatável",
+            "fr": "Bon d'achat remboursable",
+            "de": "Einlösbarer Gutschein",
+            "zh": "可兑换券",
+            "it": "Buono riscattabile"
+        }
+    },
+    "Everlaw": {
+        "description": {
+            "en": "Everlaw is a cloud-based eDiscovery platform that uses AI to process, review, and analyze large document sets.",
+            "uk": "Everlaw - це хмарна платформа eDiscovery, яка використовує ШІ для обробки, перегляду та аналізу великих наборів документів.",
+            "ja": "Everlawは、AIを使用して大規模なドキュメントセットを処理、レビュー、および分析するクラウドベースのeDiscoveryプラットフォームです。",
+            "es": "Everlaw es una plataforma de eDiscovery basada en la nube que utiliza IA para procesar, revisar y analizar grandes conjuntos de documentos.",
+            "pt": "Everlaw é uma plataforma de eDiscovery baseada na nuvem que utiliza IA para processar, revisar e analisar grandes conjuntos de documentos.",
+            "fr": "Everlaw est une plateforme eDiscovery basée sur le cloud qui utilise l'IA pour traiter, examiner et analyser de grands ensembles de documents.",
+            "de": "Everlaw ist eine cloudbasierte eDiscovery-Plattform, die KI verwendet, um große Dokumentensätze zu verarbeiten, zu überprüfen und zu analysieren.",
+            "zh": "Everlaw是一个基于云的电子发现平台，使用人工智能处理、审查和分析大量文档集。",
+            "it": "Everlaw è una piattaforma di eDiscovery basata su cloud che utilizza l'IA per elaborare, rivedere e analizzare grandi set di documenti."
+        },
+        "features": {
+            "en": "Cloud-based eDiscovery platform, AI processing, document review and analysis.",
+            "uk": "Хмарна платформа eDiscovery, обробка за допомогою ШІ, перегляд і аналіз документів.",
+            "ja": "クラウドベースのeDiscoveryプラットフォーム、AI処理、ドキュメントのレビューと分析。",
+            "es": "Plataforma de eDiscovery basada en la nube, procesamiento de IA, revisión y análisis de documentos.",
+            "pt": "Plataforma de eDiscovery baseada na nuvem, processamento de IA, revisão e análise de documentos.",
+            "fr": "Plateforme eDiscovery basée sur le cloud, traitement par IA, révision et analyse de documents.",
+            "de": "Cloudbasierte eDiscovery-Plattform, KI-Verarbeitung, Dokumentenüberprüfung und -analyse.",
+            "zh": "基于云的电子发现平台，AI处理，文档审查和分析。",
+            "it": "Piattaforma di eDiscovery basata su cloud, elaborazione con IA, revisione e analisi dei documenti."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Integrated into Clio Manage subscription tiers.",
+            "uk": "Включено в рівні підписки Clio Manage.",
+            "ja": "Clio Manageのサブスクリプション tiersに統合されています。",
+            "es": "Integrado en los niveles de suscripción de Clio Manage.",
+            "pt": "Integrado nos níveis de assinatura do Clio Manage.",
+            "fr": "Intégré dans les niveaux d'abonnement Clio Manage.",
+            "de": "In die Clio Manage-Abonnementstufen integriert.",
+            "zh": "集成到Clio Manage订阅层中。",
+            "it": "Integrato nei livelli di abbonamento di Clio Manage."
+        }
     }
 }
