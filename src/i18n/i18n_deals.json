@@ -13844,5 +13844,373 @@
             "zh": "集成到Clio Manage订阅层中。",
             "it": "Integrato nei livelli di abbonamento di Clio Manage."
         }
+    },
+    "SunoMV": {
+        "description": {
+            "en": "SunoMV is a platform that allows users to generate AI music and create accompanying music videos through a simple workflow.",
+            "uk": "SunoMV - це платформа, яка дозволяє користувачам генерувати музику за допомогою ШІ та створювати супутні музичні відео за допомогою простого робочого процесу.",
+            "ja": "SunoMVは、ユーザーが簡単なワークフローを通じてAI音楽を生成し、伴うミュージックビデオを作成できるプラットフォームです。",
+            "es": "SunoMV es una plataforma que permite a los usuarios generar música con IA y crear videos musicales acompañantes a través de un flujo de trabajo simple.",
+            "pt": "SunoMV é uma plataforma que permite aos usuários gerar músicas com IA e criar vídeos musicais acompanhantes através de um fluxo de trabalho simples.",
+            "fr": "SunoMV est une plateforme qui permet aux utilisateurs de générer de la musique par IA et de créer des vidéos musicales d'accompagnement grâce à un flux de travail simple.",
+            "de": "SunoMV ist eine Plattform, die es Benutzern ermöglicht, AI-Musik zu generieren und begleitende Musikvideos über einen einfachen Workflow zu erstellen.",
+            "zh": "SunoMV是一个平台，允许用户通过简单的工作流程生成AI音乐并创建伴随的音乐视频。",
+            "it": "SunoMV è una piattaforma che consente agli utenti di generare musica con IA e creare video musicali di accompagnamento attraverso un flusso di lavoro semplice."
+        },
+        "features": {
+            "en": "Create AI songs and turn them into music videos with an easy-to-use interface.",
+            "uk": "Створюйте пісні за допомогою ШІ та перетворюйте їх на музичні відео з простим у використанні інтерфейсом.",
+            "ja": "AIの曲を作成し、使いやすいインターフェースでミュージックビデオに変換します。",
+            "es": "Crea canciones con IA y conviértelas en videos musicales con una interfaz fácil de usar.",
+            "pt": "Crie músicas com IA e transforme-as em vídeos musicais com uma interface fácil de usar.",
+            "fr": "Créez des chansons avec IA et transformez-les en vidéos musicales avec une interface facile à utiliser.",
+            "de": "Erstellen Sie AI-Songs und verwandeln Sie sie mit einer benutzerfreundlichen Oberfläche in Musikvideos.",
+            "zh": "创建AI歌曲并通过易于使用的界面将其转换为音乐视频。",
+            "it": "Crea canzoni con IA e trasformale in video musicali con un'interfaccia facile da usare."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Keine Angabe",
+            "zh": "无",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Freemium model available",
+            "uk": "Доступна модель фріміум",
+            "ja": "フリーミアムモデルが利用可能です",
+            "es": "Modelo freemium disponible",
+            "pt": "Modelo freemium disponível",
+            "fr": "Modèle freemium disponible",
+            "de": "Freemium-Modell verfügbar",
+            "zh": "提供免费增值模式",
+            "it": "Modello freemium disponibile"
+        }
+    },
+    "Ironclad AI": {
+        "description": {
+            "en": "Ironclad AI offers a strong user experience in contract lifecycle management, enhanced by AI capabilities.",
+            "uk": "Ironclad ШІ пропонує потужний досвід користувача в управлінні життєвим циклом контрактів, покращений завдяки можливостям ШІ.",
+            "ja": "Ironclad AIは、契約ライフサイクル管理において、AI機能によって強化された優れたユーザーエクスペリエンスを提供します。",
+            "es": "Ironclad AI ofrece una experiencia de usuario sólida en la gestión del ciclo de vida de los contratos, mejorada por las capacidades de IA.",
+            "pt": "Ironclad AI oferece uma forte experiência do usuário na gestão do ciclo de vida de contratos, aprimorada por recursos de IA.",
+            "fr": "Ironclad AI offre une expérience utilisateur solide dans la gestion du cycle de vie des contrats, améliorée par les capacités de l'IA.",
+            "de": "Ironclad AI bietet eine starke Benutzererfahrung im Vertragslebenszyklusmanagement, verstärkt durch KI-Funktionen.",
+            "zh": "Ironclad AI在合同生命周期管理中提供了强大的用户体验，借助于人工智能的能力得到了增强。",
+            "it": "Ironclad AI offre un'esperienza utente solida nella gestione del ciclo di vita del contratto, migliorata dalle capacità dell'IA."
+        },
+        "features": {
+            "en": "Contract lifecycle management with AI assistance for redlining, drafting, and obligation extraction.",
+            "uk": "Управління життєвим циклом контрактів з допомогою ШІ для червоних ліній, складання та вилучення зобов'язань.",
+            "ja": "AIの支援による赤線引き、ドラフト作成、義務抽出を備えた契約ライフサイクル管理。",
+            "es": "Gestión del ciclo de vida del contrato con asistencia de IA para redlining, elaboración de borradores y extracción de obligaciones.",
+            "pt": "Gestão do ciclo de vida do contrato com assistência de IA para redlining, elaboração de contratos e extração de obrigações.",
+            "fr": "Gestion du cycle de vie des contrats avec l'assistance de l'IA pour le redlining, la rédaction et l'extraction des obligations.",
+            "de": "Vertragslebenszyklusmanagement mit KI-Unterstützung für Redlining, Entwurf und Verpflichtungsextraktion.",
+            "zh": "在红线修订、起草和义务提取方面提供AI协助的合同生命周期管理。",
+            "it": "Gestione del ciclo di vita del contratto con assistenza da parte dell'IA per il redlining, la redazione e l'estrazione di obblighi."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "Make Promo Code": {
+        "description": {
+            "en": "Make Promo Code provides users with productivity and development tools tailored for no-code environments, offering significant savings on team plans.",
+            "uk": "Make Promo Code пропонує користувачам інструменти продуктивності та розробки, спеціально підібрані для безкодових середовищ, пропонуючи значні знижки на командні плани.",
+            "ja": "Make Promo Codeは、ノーコード環境向けに特化した生産性と開発ツールをユーザーに提供し、チームプランでの大幅な節約を実現します。",
+            "es": "Make Promo Code proporciona a los usuarios herramientas de productividad y desarrollo adaptadas para entornos sin código, ofreciendo un ahorro significativo en los planes de equipo.",
+            "pt": "Make Promo Code oferece aos usuários ferramentas de produtividade e desenvolvimento adaptadas para ambientes sem código, proporcionando economias significativas em planos de equipe.",
+            "fr": "Make Promo Code fournit aux utilisateurs des outils de productivité et de développement adaptés aux environnements sans code, offrant des économies significatives sur les plans d'équipe.",
+            "de": "Make Promo Code bietet Benutzern Produktivitäts- und Entwicklungstools, die für No-Code-Umgebungen maßgeschneidert sind und erhebliche Einsparungen bei Teamplänen bieten.",
+            "zh": "Make Promo Code为用户提供针对无代码环境量身定制的生产力和开发工具，为团队计划提供显著的节省。",
+            "it": "Make Promo Code fornisce agli utenti strumenti di produttività e sviluppo su misura per ambienti senza codice, offrendo notevoli risparmi sui piani di squadra."
+        },
+        "features": {
+            "en": "Offers a Teams plan that includes a generous credit allocation for users.",
+            "uk": "Пропонує командний план, який включає щедре виділення кредитів для користувачів.",
+            "ja": "ユーザーに寛大なクレジット配分が含まれるチームプランを提供します。",
+            "es": "Ofrece un plan para equipos que incluye una generosa asignación de créditos para los usuarios.",
+            "pt": "Oferece um plano para equipes que inclui uma generosa alocação de créditos para os usuários.",
+            "fr": "Propose un plan Équipes qui comprend une généreuse allocation de crédits pour les utilisateurs.",
+            "de": "Bietet einen Teams-Plan an, der eine großzügige Kreditvergabe für Benutzer beinhaltet.",
+            "zh": "提供一个团队计划，为用户包括慷慨的信用分配。",
+            "it": "Offre un piano per team che include una generosa allocazione di crediti per gli utenti."
+        },
+        "discount": {
+            "en": "3 months free",
+            "uk": "3 місяці безкоштовно",
+            "ja": "3か月間無料",
+            "es": "3 meses gratis",
+            "pt": "3 meses grátis",
+            "fr": "3 mois gratuits",
+            "de": "3 Monate kostenlos",
+            "zh": "免费3个月",
+            "it": "3 mesi gratis"
+        },
+        "pricing": {
+            "en": "240k credits included",
+            "uk": "240 тисяч кредитів включено",
+            "ja": "240kクレジットが含まれています",
+            "es": "Se incluyen 240k créditos",
+            "pt": "240k créditos incluídos",
+            "fr": "240k crédits inclus",
+            "de": "240k Credits enthalten",
+            "zh": "包含240k积分",
+            "it": "Inclusi 240k crediti"
+        }
+    },
+    "fliki ai": {
+        "description": {
+            "en": "Fliki AI is a voice tool that specializes in voice cloning and supports AI avatars for enhancing personal branding. It is designed for users looking to create engaging and personalized audio content.",
+            "uk": "Fliki ШІ — це голосовий інструмент, який спеціалізується на клону голосу та підтримує ШІ аватари для покращення особистого брендингу. Він призначений для користувачів, які шукають можливості створення захоплюючого та індивідуального аудіоконтенту.",
+            "ja": "Fliki AIは、音声クローンに特化した音声ツールであり、パーソナルブランディングを強化するためのAIアバターをサポートしています。魅力的でパーソナライズされたオーディオコンテンツを作成したいユーザー向けに設計されています。",
+            "es": "Fliki AI es una herramienta de voz que se especializa en la clonación de voz y admite avatares de IA para mejorar la marca personal. Está diseñado para usuarios que buscan crear contenido de audio atractivo y personalizado.",
+            "pt": "Fliki AI é uma ferramenta de voz que se especializa em clonagem de voz e suporta avatares de IA para melhorar o branding pessoal. É projetado para usuários que desejam criar conteúdo de áudio envolvente e personalizado.",
+            "fr": "Fliki AI est un outil vocal qui se spécialise dans le clonage vocal et prend en charge les avatars IA pour améliorer le branding personnel. Il est conçu pour les utilisateurs cherchant à créer un contenu audio engageant et personnalisé.",
+            "de": "Fliki AI ist ein Sprachtool, das sich auf die Sprachklonung spezialisiert hat und KI-Avatare zur Verbesserung des Personal Branding unterstützt. Es richtet sich an Benutzer, die ansprechende und personalisierte Audioinhalte erstellen möchten.",
+            "zh": "Fliki AI 是一种声音工具，专门用于声音克隆，并支持 AI 头像以增强个人品牌。它旨在为希望创建引人入胜和个性化音频内容的用户设计。",
+            "it": "Fliki AI è uno strumento vocale che si specializza nel cloning vocale e supporta avatar AI per migliorare il branding personale. È progettato per gli utenti che desiderano creare contenuti audio coinvolgenti e personalizzati."
+        },
+        "features": {
+            "en": "Voice cloning and AI avatar support for personal branding.",
+            "uk": "Клону голосу та підтримка ШІ-аватарів для особистого брендингу.",
+            "ja": "音声クローンとパーソナルブランディングのためのAIアバターサポート。",
+            "es": "Clonación de voz y soporte de avatar de IA para la marca personal.",
+            "pt": "Clonagem de voz e suporte a avatar de IA para branding pessoal.",
+            "fr": "Clonage vocal et support d'avatar IA pour le branding personnel.",
+            "de": "Sprachklonung und Unterstützung von KI-Avataren für Personal Branding.",
+            "zh": "声音克隆和个人品牌的AI头像支持。",
+            "it": "Clonazione vocale e supporto per avatar AI per il branding personale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "WellSaid Labs": {
+        "description": {
+            "en": "WellSaid Labs provides advanced AI voice generation technology that delivers high-quality English voice realism while ensuring compliance and collaboration features for teams.",
+            "uk": "WellSaid Labs пропонує сучасну технологію генерації голосу на основі ШІ, яка забезпечує високу якість реалізму англійського голосу, забезпечуючи при цьому відповідність стандартам та інструменти для співпраці команд.",
+            "ja": "WellSaid Labsは、高品質な英語の声のリアリズムを提供する高度なAI音声生成技術を提供し、コンプライアンスとチームのコラボレーション機能を確保します。",
+            "es": "WellSaid Labs proporciona tecnología avanzada de generación de voz mediante IA que ofrece un alto realismo de la voz en inglés, asegurando al mismo tiempo características de cumplimiento y colaboración para equipos.",
+            "pt": "WellSaid Labs oferece uma tecnologia avançada de geração de voz por IA que proporciona um alto realismo de voz em inglês, garantindo conformidade e recursos de colaboração para as equipes.",
+            "fr": "WellSaid Labs fournit une technologie avancée de génération de voix par IA qui offre un réalisme vocal anglais de haute qualité tout en garantissant la conformité et des fonctionnalités de collaboration pour les équipes.",
+            "de": "WellSaid Labs bietet eine fortschrittliche KI-Sprachgenerierungstechnologie, die hochwertigen Realismus der englischen Stimme liefert und gleichzeitig Compliance und Zusammenarbeit für Teams sicherstellt.",
+            "zh": "WellSaid Labs提供先进的人工智能语音生成技术，能够提供高质量的英语语音真实感，同时确保合规性和团队协作功能。",
+            "it": "WellSaid Labs offre una tecnologia avanzata di generazione vocale tramite IA che fornisce un alto realismo della voce inglese, garantendo nel contempo conformità e strumenti di collaborazione per i team."
+        },
+        "features": {
+            "en": "Best-in-class English voice realism, SOC 2 compliance, and team collaboration tools.",
+            "uk": "Найкращий у своєму класі реалізм англійського голосу, відповідність SOC 2 та інструменти для співпраці в команді.",
+            "ja": "業界最高の英語の声のリアリズム、SOC 2準拠、チームコラボレーションツール。",
+            "es": "Realismo de voz en inglés de primera clase, cumplimiento de SOC 2 y herramientas de colaboración para equipos.",
+            "pt": "Realismo de voz em inglês de primeira linha, conformidade com SOC 2 e ferramentas de colaboração para equipes.",
+            "fr": "Réalisme vocal anglais de premier ordre, conformité SOC 2 et outils de collaboration d'équipe.",
+            "de": "Best-in-Class Realismus der englischen Stimme, SOC 2-Konformität und Werkzeuge zur Teamzusammenarbeit.",
+            "zh": "一流的英语声音真实感、SOC 2合规性和团队协作工具。",
+            "it": "Realismo vocale in inglese di qualità superiore, conformità SOC 2 e strumenti di collaborazione per il team."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "Murf": {
+        "description": {
+            "en": "Murf is an AI voice generator that allows users to create voice content quickly and efficiently with various plans suitable for different project volumes.",
+            "uk": "Murf - це генератор голосу ШІ, який дозволяє користувачам швидко та ефективно створювати голосовий контент з різними планами, що підходять для різних обсягів проєктів.",
+            "ja": "Murfは、ユーザーがさまざまなプロジェクトボリュームに適したプランを使用して、迅速かつ効率的に音声コンテンツを作成できるAIボイスジェネレーターです。",
+            "es": "Murf es un generador de voz AI que permite a los usuarios crear contenido de voz de manera rápida y eficiente con varios planes adecuados para diferentes volúmenes de proyectos.",
+            "pt": "Murf é um gerador de voz de IA que permite que os usuários criem conteúdo de voz de forma rápida e eficiente com vários planos adequados para diferentes volumes de projeto.",
+            "fr": "Murf est un générateur de voix IA qui permet aux utilisateurs de créer du contenu vocal rapidement et efficacement avec différents plans adaptés aux différents volumes de projets.",
+            "de": "Murf ist ein KI-Stimmengenerator, der es Benutzern ermöglicht, Sprachinhalte schnell und effizient mit verschiedenen Plänen zu erstellen, die für unterschiedliche Projektvolumen geeignet sind.",
+            "zh": "Murf是一种AI语音生成器，允许用户快速有效地创建语音内容，提供适合不同项目量的多种计划。",
+            "it": "Murf è un generatore di voce IA che consente agli utenti di creare contenuti vocali in modo rapido ed efficiente con diversi piani adatti a diversi volumi di progetto."
+        },
+        "features": {
+            "en": "Flexible project limits and scalable pricing for different usage needs.",
+            "uk": "Гнучкі межі проектів та масштабоване ціноутворення для різних потреб використання.",
+            "ja": "柔軟なプロジェクト制限と異なる使用ニーズに対応したスケーラブルな価格設定。",
+            "es": "Límites de proyecto flexibles y precios escalables para diferentes necesidades de uso.",
+            "pt": "Limites de projeto flexíveis e preços escaláveis para diferentes necessidades de uso.",
+            "fr": "Limites de projet flexibles et tarification évolutive pour différents besoins d'utilisation.",
+            "de": "Flexible Projektgrenzen und skalierbare Preisgestaltung für verschiedene Nutzungsbedürfnisse.",
+            "zh": "灵活的项目限制和适用于不同使用需求的可扩展定价。",
+            "it": "Limiti di progetto flessibili e prezzi scalabili per diverse esigenze di utilizzo."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "Nicht verfügbar",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Free for 10 projects and 10 minutes of voice generation; Creator plan at $29/month for 100 projects and 2 hours of voice generation.",
+            "uk": "Безкоштовно для 10 проектів та 10 хвилин генерації голосу; план Creator за $29/місяць для 100 проектів та 2 години генерації голосу.",
+            "ja": "10プロジェクトと10分の音声生成は無料; 100プロジェクトと2時間の音声生成のためのクリエータープランは29ドル/月。",
+            "es": "Gratis para 10 proyectos y 10 minutos de generación de voz; plan Creador a 29 dólares/mes para 100 proyectos y 2 horas de generación de voz.",
+            "pt": "Grátis para 10 projetos e 10 minutos de geração de voz; plano Creator a $29/mês para 100 projetos e 2 horas de geração de voz.",
+            "fr": "Gratuit pour 10 projets et 10 minutes de génération vocale ; plan Creator à 29 $/mois pour 100 projets et 2 heures de génération vocale.",
+            "de": "Kostenlos für 10 Projekte und 10 Minuten Sprachgenerierung; Creator-Plan für 29 $/Monat für 100 Projekte und 2 Stunden Sprachgenerierung.",
+            "zh": "免费提供10个项目和10分钟的语音生成；创作者计划为每月29美元，适用于100个项目和2小时的语音生成。",
+            "it": "Gratuito per 10 progetti e 10 minuti di generazione vocale; piano Creator a 29$/mese per 100 progetti e 2 ore di generazione vocale."
+        }
+    },
+    "Voice Agent": {
+        "description": {
+            "en": "The Voice Agent is a no-code platform that allows users to create voice applications easily, offering an initial free usage period and competitive pricing for ongoing use.",
+            "uk": "Voice Agent - це платформа без коду, яка дозволяє користувачам легко створювати голосові застосунки, пропонуючи початковий безкоштовний період використання та конкурентоспроможну ціну за подальше використання.",
+            "ja": "Voice Agentは、ユーザーが簡単に音声アプリケーションを作成できるノーコードプラットフォームで、最初の無料使用期間と継続的な使用に対する競争力のある価格を提供します。",
+            "es": "Voice Agent es una plataforma sin código que permite a los usuarios crear aplicaciones de voz fácilmente, ofreciendo un período inicial de uso gratuito y precios competitivos para el uso continuo.",
+            "pt": "O Voice Agent é uma plataforma sem código que permite aos usuários criar aplicativos de voz facilmente, oferecendo um período inicial de uso gratuito e preços competitivos para uso contínuo.",
+            "fr": "Le Voice Agent est une plateforme sans code qui permet aux utilisateurs de créer facilement des applications vocales, offrant une période d'utilisation gratuite initiale et des prix compétitifs pour une utilisation continue.",
+            "de": "Der Voice Agent ist eine No-Code-Plattform, die es den Nutzern ermöglicht, einfach Sprachanwendungen zu erstellen, und bietet eine anfängliche kostenlose Nutzungsperiode sowie wettbewerbsfähige Preise für die weitere Nutzung.",
+            "zh": "Voice Agent 是一个无代码平台，允许用户轻松创建语音应用程序，提供初始免费使用期和持续使用的竞争定价。",
+            "it": "Voice Agent è una piattaforma no-code che consente agli utenti di creare facilmente applicazioni vocali, offrendo un periodo iniziale di utilizzo gratuito e prezzi competitivi per l'uso continuativo."
+        },
+        "features": {
+            "en": "Cost-effective pricing model and no-code platform.",
+            "uk": "Ефективна з ціни модель та платформа без коду.",
+            "ja": "コスト効果の高い価格モデルとノーコードプラットフォーム。",
+            "es": "Modelo de precios rentable y plataforma sin código.",
+            "pt": "Modelo de preços econômico e plataforma sem código.",
+            "fr": "Modèle de tarification économique et plateforme sans code.",
+            "de": "Kosteneffizientes Preismodell und No-Code-Plattform.",
+            "zh": "经济高效的定价模式和无代码平台。",
+            "it": "Modello di prezzo conveniente e piattaforma no-code."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Free 30 minutes of usage; 5 cents per minute thereafter.",
+            "uk": "Безкоштовні 30 хвилин використання; 5 центів за хвилину після цього.",
+            "ja": "最初の30分は無料、その後は1分につき5セント。",
+            "es": "30 minutos de uso gratuito; 5 centavos por minuto después.",
+            "pt": "30 minutos de uso gratuito; 5 centavos por minuto a partir de então.",
+            "fr": "30 minutes d'utilisation gratuites ; 5 cents par minute par la suite.",
+            "de": "Kostenlose 30 Minuten Nutzung; danach 5 Cent pro Minute.",
+            "zh": "免费使用30分钟；之后每分钟5美分。",
+            "it": "30 minuti di utilizzo gratuiti; 5 centesimi al minuto successivamente."
+        }
+    },
+    "All-in-One AI Teams Plan": {
+        "description": {
+            "en": "A comprehensive AI toolkit designed to enhance productivity through automation, no-code development, and AI-driven business solutions.",
+            "uk": "Всебічний набір інструментів ШІ, розроблений для підвищення продуктивності через автоматизацію, безкодову розробку та бізнес-рішення на основі ШІ.",
+            "ja": "自動化、ノーコード開発、AI駆動のビジネスソリューションを通じて生産性を向上させるために設計された包括的なAIツールキットです。",
+            "es": "Un conjunto integral de herramientas de IA diseñado para mejorar la productividad a través de la automatización, el desarrollo sin código y soluciones comerciales impulsadas por IA.",
+            "pt": "Um conjunto abrangente de ferramentas de IA projetado para aumentar a produtividade por meio de automação, desenvolvimento sem código e soluções de negócios impulsionadas por IA.",
+            "fr": "Un ensemble complet d'outils d'IA conçu pour améliorer la productivité grâce à l'automatisation, au développement sans code et aux solutions commerciales alimentées par IA.",
+            "de": "Ein umfassendes KI-Toolkit, das entwickelt wurde, um die Produktivität durch Automatisierung, No-Code-Entwicklung und KI-gesteuerte Geschäftslösungen zu steigern.",
+            "zh": "一个全面的人工智能工具包，旨在通过自动化、无代码开发和人工智能驱动的商业解决方案来提高生产力。",
+            "it": "Un kit completo di strumenti di IA progettato per migliorare la produttività attraverso l'automazione, lo sviluppo senza codice e soluzioni aziendali guidate dall'IA."
+        },
+        "features": {
+            "en": "Productivity, No-Code Development, AI Productivity",
+            "uk": "Продуктивність, Безкодова розробка, Продуктивність ШІ",
+            "ja": "生産性、ノーコード開発、AI生産性",
+            "es": "Productividad, Desarrollo sin código, Productividad de IA",
+            "pt": "Produtividade, Desenvolvimento sem código, Produtividade de IA",
+            "fr": "Productivité, Développement sans code, Productivité par IA",
+            "de": "Produktivität, No-Code-Entwicklung, KI-Produktivität",
+            "zh": "生产力、无代码开发、人工智能生产力",
+            "it": "Produttività, Sviluppo senza codice, Produttività dell'IA"
+        },
+        "discount": {
+            "en": "3 months free",
+            "uk": "3 місяці безкоштовно",
+            "ja": "3か月間無料",
+            "es": "3 meses gratis",
+            "pt": "3 meses grátis",
+            "fr": "3 mois gratuits",
+            "de": "3 Monate kostenlos",
+            "zh": "免费3个月",
+            "it": "3 mesi gratis"
+        },
+        "pricing": {
+            "en": "240k credits included",
+            "uk": "включено 240 тис. кредитів",
+            "ja": "240000クレジットが含まれています",
+            "es": "240k créditos incluidos",
+            "pt": "240 mil créditos incluídos",
+            "fr": "240 000 crédits inclus",
+            "de": "240.000 Credits sind enthalten",
+            "zh": "包含24万积分",
+            "it": "240.000 crediti inclusi"
+        }
     }
 }

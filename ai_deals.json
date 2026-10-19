@@ -14,8 +14,8 @@
         "tool_name": "ElevenLabs",
         "tool_url": "https://elevenlabs.io",
         "code": "ELEVEN10",
-        "discount_amount": "100%",
-        "pricing_info": "12 months free access with 33 million characters.",
+        "discount_amount": "50%",
+        "pricing_info": "Initial discount on premium AI voice tools",
         "key_features": "Realistic Voice Cloning, Text-to-Speech",
         "description": "The most realistic AI voice generator available.",
         "last_verified": "2026-05-05",
@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "JAMM20",
-        "discount_amount": "60%",
-        "pricing_info": "Various plans available",
+        "discount_amount": "80%",
+        "pricing_info": "Limited time offer.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -37,7 +37,7 @@
         "tool_url": "https://www.perplexity.ai",
         "code": "Student discounts available",
         "discount_amount": "Discount for verified students and educators",
-        "pricing_info": "Discount available for verified students and educators.",
+        "pricing_info": "Discounts for verified students and educators.",
         "key_features": "AI Search Engine, Real-time Citations",
         "description": "The AI-powered answer engine for research.",
         "last_verified": "2026-05-05",
@@ -820,8 +820,8 @@
         "tool_name": "Perplexity AI",
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
-        "discount_amount": "50%",
-        "pricing_info": "Best Discount: 50% OFF",
+        "discount_amount": "50% OFF",
+        "pricing_info": "Average Savings of $133.88",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1261,7 +1261,7 @@
         "tool_url": "https://www.descript.com",
         "code": "DESCRIPT50",
         "discount_amount": "25% OFF",
-        "pricing_info": "Score: 9.4",
+        "pricing_info": "User Rating: 9.4",
         "key_features": "Audio editing, Overdub, Screen recording",
         "description": "Descript is an all-in-one audio and video editing software that makes content creation more accessible. It combines transcription and editing functionalities, allowing users to edit audio by editing text. Descript stands out with features like Overdub, which uses voice cloning technology to let users create new audio segments in their own voice.",
         "category": "Voice AI"
@@ -1456,7 +1456,7 @@
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
         "code": "$25k Credits",
         "discount_amount": "$25k Credits (Active)",
-        "pricing_info": "$20 flagship subscription tier",
+        "pricing_info": "Flagship subscription tier at $20.",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -1706,7 +1706,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals/pictory-ai-coupon-code",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Trial only (no self-serve free plan)",
+        "pricing_info": "Check website for pricing details.",
         "key_features": "Coupon codes for savings on AI video tools.",
         "description": "Pictory.ai offers innovative AI-powered video editing solutions designed to help content creators simplify their workflow and enhance video quality.",
         "category": "Video AI"
@@ -2205,8 +2205,8 @@
         "tool_name": "Channel AI Plus",
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
-        "discount_amount": "$6.49 for first month",
-        "pricing_info": "$6.49 for first month",
+        "discount_amount": "$6.49",
+        "pricing_info": "Full access for $6.49 for the first month.",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2394,9 +2394,9 @@
     {
         "tool_name": "Try It On AI",
         "tool_url": "https://tryitonai.startupworld.com",
-        "code": "N/A",
-        "discount_amount": "15%",
-        "pricing_info": "High quality AI headshots at half price.",
+        "code": "DEAL VERIFIED",
+        "discount_amount": "50%",
+        "pricing_info": "Upgrade your professional image at half price.",
         "key_features": "Create high-quality portraits, customize styles.",
         "description": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
         "category": "Image AI"
@@ -2466,7 +2466,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Score: 9.8",
+        "pricing_info": "User Rating: 9.8",
         "key_features": "AI-powered writing assistant that helps in enhancing writing quality through paraphrasing, grammar checking, and more.",
         "description": "QuillBot is an AI writing tool designed to assist users in improving their text by providing grammar corrections, paraphrasing suggestions, and overall writing enhancement.",
         "category": "Writing AI"
@@ -2476,7 +2476,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Free for 10 projects and 10 minutes of voice generation. Creator plan at $29/month increases the limits to 100 projects and 2 hours of voice generation.",
+        "pricing_info": "User Rating: 9.6",
         "key_features": "Voice generation software that allows users to create realistic voiceovers for presentations, videos, and more.",
         "description": "Murf AI is a voice generation platform that enables users to create high-quality voiceovers using advanced text-to-speech technology, making it suitable for various applications such as presentations and educational content.",
         "category": "Voice AI"
@@ -2566,7 +2566,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Trial only (no self-serve free plan)",
+        "pricing_info": "Check website for pricing details.",
         "key_features": "AI meeting assistant that captures and transcribes conversations.",
         "description": "Fireflies AI is an AI-powered meeting assistant that records, transcribes, and organizes voice conversations into searchable notes.",
         "category": "Coding AI"
@@ -2976,7 +2976,7 @@
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
         "code": "N/A",
         "discount_amount": "45%",
-        "pricing_info": "Free for a week, then $19 for your first month.",
+        "pricing_info": "Free for a week, then $19 for your first month",
         "key_features": "AI-powered transcription, medical-specific vocabulary, integration with EHR systems",
         "description": "AI Medical Scribe utilizes artificial intelligence to assist healthcare professionals in documenting patient interactions, thereby enhancing productivity and accuracy in medical note-taking.",
         "category": "Medical AI"
@@ -3000,5 +3000,85 @@
         "key_features": "Cloud-based eDiscovery platform, AI processing, document review and analysis.",
         "description": "Everlaw is a cloud-based eDiscovery platform that uses AI to process, review, and analyze large document sets.",
         "category": "Legal AI"
+    },
+    {
+        "tool_name": "SunoMV",
+        "tool_url": "https://suno.bi/en/blog/ai-song-generator-free-tools-2026",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Freemium model available",
+        "key_features": "Create AI songs and turn them into music videos with an easy-to-use interface.",
+        "description": "SunoMV is a platform that allows users to generate AI music and create accompanying music videos through a simple workflow.",
+        "category": "Music AI"
+    },
+    {
+        "tool_name": "Ironclad AI",
+        "tool_url": "https://www.legalfly.com/post/top-legal-ai-tools",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Contract lifecycle management with AI assistance for redlining, drafting, and obligation extraction.",
+        "description": "Ironclad AI offers a strong user experience in contract lifecycle management, enhanced by AI capabilities.",
+        "category": "Legal AI"
+    },
+    {
+        "tool_name": "Make Promo Code",
+        "tool_url": "https://www.joinsecret.com/make",
+        "code": "N/A",
+        "discount_amount": "3 months free",
+        "pricing_info": "240k credits included",
+        "key_features": "Offers a Teams plan that includes a generous credit allocation for users.",
+        "description": "Make Promo Code provides users with productivity and development tools tailored for no-code environments, offering significant savings on team plans.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "fliki ai",
+        "tool_url": "https://www.thinkdom.co/post/top-ai-voiceover-tools",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Voice cloning and AI avatar support for personal branding.",
+        "description": "Fliki AI is a voice tool that specializes in voice cloning and supports AI avatars for enhancing personal branding. It is designed for users looking to create engaging and personalized audio content.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "WellSaid Labs",
+        "tool_url": "https://www.thinkdom.co/post/top-ai-voiceover-tools",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Best-in-class English voice realism, SOC 2 compliance, and team collaboration tools.",
+        "description": "WellSaid Labs provides advanced AI voice generation technology that delivers high-quality English voice realism while ensuring compliance and collaboration features for teams.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "Murf",
+        "tool_url": "https://zapier.com/blog/best-ai-voice-generator",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Free for 10 projects and 10 minutes of voice generation; Creator plan at $29/month for 100 projects and 2 hours of voice generation.",
+        "key_features": "Flexible project limits and scalable pricing for different usage needs.",
+        "description": "Murf is an AI voice generator that allows users to create voice content quickly and efficiently with various plans suitable for different project volumes.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "Voice Agent",
+        "tool_url": "https://www.youtube.com/watch?v=-KTjgnP0-jI",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Free 30 minutes of usage; 5 cents per minute thereafter.",
+        "key_features": "Cost-effective pricing model and no-code platform.",
+        "description": "The Voice Agent is a no-code platform that allows users to create voice applications easily, offering an initial free usage period and competitive pricing for ongoing use.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "All-in-One AI Teams Plan",
+        "tool_url": "https://www.joinsecret.com/make",
+        "code": "N/A",
+        "discount_amount": "3 months free",
+        "pricing_info": "240k credits included",
+        "key_features": "Productivity, No-Code Development, AI Productivity",
+        "description": "A comprehensive AI toolkit designed to enhance productivity through automation, no-code development, and AI-driven business solutions.",
+        "category": "All-in-One AI"
     }
 ]
