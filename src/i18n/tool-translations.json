@@ -1,5 +1,5 @@
 {
-  "Best coupon last verified on September 25th, 2026": {
+  "Available for selected plans": {
     "en": "Starts at $10/mo",
     "uk": "Від $10/міс",
     "ja": "月額10ドルから",
@@ -43,7 +43,7 @@
     "zh": "10%折扣",
     "it": "10% di sconto"
   },
-  "Limited time offer.": {
+  "Details on plans not fully listed.": {
     "en": "Starts at $24/mo",
     "uk": "Від $24/міс",
     "ja": "月額24ドルから",
@@ -54,7 +54,7 @@
     "zh": "起价$24/月",
     "it": "Da $24/mese"
   },
-  "80%": {
+  "60%": {
     "en": "25% OFF",
     "uk": "ЗНИЖКА 25%",
     "ja": "25% オフ",
@@ -538,7 +538,7 @@
     "zh": "免费或 19.99 美元/月",
     "it": "Gratis o $19.99/mese"
   },
-  "Annual billing saves ~17% on the Chat plan": {
+  "$29 (5 users)": {
     "en": "Free or $36/mo Pro",
     "uk": "Безкоштовно або $36/міс Pro",
     "ja": "無料または月額36ドルのPro",
@@ -582,7 +582,7 @@
     "zh": "免费试用",
     "it": "Prova Gratuita"
   },
-  "Plans start at $29/month.": {
+  "$345 (5 users)": {
     "en": "$39/Month",
     "uk": "$39/місяць",
     "ja": "月額39ドル",
@@ -1011,7 +1011,7 @@
     "zh": "AI 助手",
     "it": "Assistente IA"
   },
-  "Save up to 17% by paying for a full year upfront.": {
+  "$20/month": {
     "en": "$20/month",
     "uk": "$20/місяць",
     "ja": "月額20ドル",
@@ -1022,7 +1022,7 @@
     "zh": "20 美元/月",
     "it": "20 $/mese"
   },
-  "Up to 17%": {
+  "50% off for 3 months": {
     "en": "Pro Deal",
     "uk": "Pro пропозиція",
     "ja": "Proセール",
@@ -1044,7 +1044,7 @@
     "zh": "联系以获取报价",
     "it": "Contattare per i prezzi"
   },
-  "Starting at $15/month": {
+  "Free and subscription options available.": {
     "en": "Free or €11/mo Pro",
     "uk": "Безкоштовно або €11/міс Pro",
     "ja": "無料または月額11ユーロのPro",
@@ -1109,17 +1109,6 @@
     "de": "Nur für Unternehmen",
     "zh": "仅限企业版",
     "it": "Solo per aziende"
-  },
-  "60%": {
-    "en": "Health Tech",
-    "uk": "Медтех",
-    "ja": "ヘルステック",
-    "es": "Tecnología de salud",
-    "pt": "Tecnologia em Saúde",
-    "fr": "Health Tech",
-    "de": "Health-Tech",
-    "zh": "医疗科技",
-    "it": "Health Tech"
   },
   "Free tier available, paid plans for premium usage": {
     "en": "Usage-based Pricing",
@@ -1231,7 +1220,7 @@
     "zh": "60 美元/月",
     "it": "60 $/mese"
   },
-  "Average Savings of $133.88": {
+  "$240 Value": {
     "en": "Free or $20/mo Pro",
     "uk": "Безкоштовно або $20/міс Pro",
     "ja": "無料または月額20ドルのPro",
@@ -1571,17 +1560,6 @@
     "de": "Kostenlose Stufe verfügbar",
     "zh": "提供免费档位",
     "it": "Livello gratuito disponibile"
-  },
-  "$20/month": {
-    "en": "$20/month",
-    "uk": "$20/місяць",
-    "ja": "月額20ドル",
-    "es": "$20/mes",
-    "pt": "$20/mês",
-    "fr": "20 $/mois",
-    "de": "20 $/Monat",
-    "zh": "20 美元/月",
-    "it": "20 $/mese"
   },
   "Monthly subscription for $10 with a 20% discount for the first three months.": {
     "en": "Starts at $10/mo",
@@ -2012,7 +1990,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Flagship subscription tier at $20.": {
+  "Flagship subscription tier costs $20.": {
     "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
     "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
     "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
@@ -2078,7 +2056,7 @@
     "zh": "2026年3月的7个有效AI律师促销代码。",
     "it": "7 codici promozionali attivi di AI Lawyer per marzo 2026."
   },
-  "10% off AI-Lawyer services with the discount code.": {
+  "Explore cutting-edge AI law enforcement solutions.": {
     "en": "15 active AI-Lawyer coupons & deals for May 2026.",
     "uk": "15 активних купонів та пропозицій AI-Lawyer на травень 2026 року.",
     "ja": "2026年5月のための15件の有効なAI-Lawyerクーポンとディール。",
@@ -2386,7 +2364,7 @@
     "zh": "起价3美元",
     "it": "A partire da 3$"
   },
-  "Check website for pricing details.": {
+  "User Rating: 8.3": {
     "en": "N/A",
     "uk": "Н/Д",
     "ja": "該当なし",
@@ -2441,7 +2419,7 @@
     "zh": "2025年12月的最佳交易。",
     "it": "Migliori offerte per dicembre 2025."
   },
-  "$19 for your first month": {
+  "Free for a week, then $19 for your first month": {
     "en": "$69/month",
     "uk": "$69/місяць",
     "ja": "月額69ドル",
@@ -2451,17 +2429,6 @@
     "de": "69 $/Monat",
     "zh": "每月69美元",
     "it": "69 dollari/mese"
-  },
-  "Free for a week": {
-    "en": "$30",
-    "uk": "$30",
-    "ja": "30ドル",
-    "es": "30 dólares",
-    "pt": "30 dólares",
-    "fr": "30 $",
-    "de": "30 $",
-    "zh": "30美元",
-    "it": "30 dollari"
   },
   "Offer valid for any plan during 3 months.": {
     "en": "Additional 20% off during 12 months",
@@ -3079,7 +3046,7 @@
     "zh": "免费开始",
     "it": "Inizia gratuitamente"
   },
-  "$1,500 Free Credits": {
+  "Includes 16 AI tools and large discounts": {
     "en": "$1,500 Free Credits",
     "uk": "$1,500 безкоштовних кредитів",
     "ja": "$1,500の無料クレジット",
@@ -3320,6 +3287,17 @@
     "de": "$24",
     "zh": "$24",
     "it": "$24"
+  },
+  "User Rating: 8.0": {
+    "en": "Various pricing models available.",
+    "uk": "Доступні різні моделі ціноутворення.",
+    "ja": "さまざまな価格モデルが利用可能です。",
+    "es": "Se encuentran disponibles varios modelos de precios.",
+    "pt": "Vários modelos de preços disponíveis.",
+    "fr": "Différents modèles de tarification disponibles.",
+    "de": "Verschiedene Preismodelle verfügbar.",
+    "zh": "提供多种定价模型。",
+    "it": "Vari modelli di prezzo disponibili."
   },
   "Subscription-based pricing.": {
     "en": "Subscription-based pricing.",
@@ -3607,7 +3585,7 @@
     "zh": "200个免费搜索积分",
     "it": "200 crediti di ricerca gratuiti"
   },
-  "$11 for the first month": {
+  "New Creator subscriptions": {
     "en": "First month discount on the Creator plan",
     "uk": "Знижка на перший місяць підписки на план Creator",
     "ja": "Creatorプランの初月割引",
@@ -3617,6 +3595,17 @@
     "de": "Rabatt auf den ersten Monat des Creator-Plans",
     "zh": "Creator计划首月折扣",
     "it": "Sconto sul primo mese del piano Creator"
+  },
+  "First-month discount": {
+    "en": "50% OFF",
+    "uk": "50% ЗНИЖКА",
+    "ja": "50%オフ",
+    "es": "50% de DESCUENTO",
+    "pt": "50% DE DESCONTO",
+    "fr": "50% DE REMISE",
+    "de": "50% RABATT",
+    "zh": "50%折扣",
+    "it": "50% DI SCONTO"
   },
   "$16.66 per month": {
     "en": "$7.99/Month",
@@ -3749,17 +3738,6 @@
     "de": "$0.00",
     "zh": "$0.00",
     "it": "$0.00"
-  },
-  "Free for a week, then $19 for your first month": {
-    "en": "Free for a week, then $19 for your first month",
-    "uk": "Безкоштовно на тиждень, потім $19 за перший місяць",
-    "ja": "1週間無料、それ以降は最初の月が19ドル",
-    "es": "Gratis durante una semana, luego $19 para tu primer mes",
-    "pt": "Gratuito por uma semana, depois $19 pelo seu primeiro mês",
-    "fr": "Gratuit pendant une semaine, puis 19 $ pour votre premier mois",
-    "de": "Eine Woche kostenlos, dann 19 $ für den ersten Monat",
-    "zh": "一周免费，然后您第一个月$19",
-    "it": "Gratis per una settimana, poi $19 per il tuo primo mese"
   },
   "Redeemable voucher": {
     "en": "Redeemable voucher",
@@ -21140,6 +21118,118 @@
       "features": "Produttività, Sviluppo senza codice, Produttività dell'IA",
       "badge": "3 mesi gratis",
       "pricing": "240.000 crediti inclusi"
+    }
+  },
+  "Higgsfield AI": {
+    "en": {
+      "description": "Higgsfield AI is a versatile platform designed for serious creative work, combining multiple AI tools into one comprehensive solution. It provides users access to a large collection of AI-generated content that supports various creative projects.",
+      "features": "Balanced all-in-one platform, huge catalogue of trending AI-generated content",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Higgsfield AI - це універсальна платформа, розроблена для серйозної творчої роботи, яка об'єднує кілька інструментів ШІ в одне комплексне рішення. Вона надає користувачам доступ до великої колекції контенту, згенерованого ШІ, що підтримує різні творчі проекти.",
+      "features": "Збалансована універсальна платформа, величезний каталог актуального контенту, згенерованого ШІ",
+      "badge": "Н/Д",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "Higgsfield AIは、真剣な創造的作業のために設計された多目的プラットフォームで、複数のAIツールを1つの包括的なソリューションに統合しています。さまざまな創造的プロジェクトをサポートするAI生成コンテンツの大規模なコレクションをユーザーに提供します。",
+      "features": "バランスの取れたオールインワンプラットフォーム、トレンディなAI生成コンテンツの巨大なカタログ",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Higgsfield AI es una plataforma versátil diseñada para un trabajo creativo serio, que combina múltiples herramientas de IA en una solución integral. Proporciona a los usuarios acceso a una gran colección de contenido generado por IA que apoya varios proyectos creativos.",
+      "features": "Plataforma equilibrada todo en uno, enorme catálogo de contenido generado por IA en tendencia",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "Higgsfield AI é uma plataforma versátil projetada para trabalho criativo sério, combinando várias ferramentas de IA em uma solução abrangente. Ele oferece aos usuários acesso a uma grande coleção de conteúdo gerado por IA que apoia vários projetos criativos.",
+      "features": "Plataforma tudo em um equilibrada, enorme catálogo de conteúdo gerado por IA em tendência",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Higgsfield AI est une plateforme polyvalente conçue pour un travail créatif sérieux, combinant plusieurs outils d'IA en une solution complète. Elle offre aux utilisateurs un accès à une grande collection de contenu généré par l'IA qui soutient divers projets créatifs.",
+      "features": "Plateforme tout-en-un équilibrée, énorme catalogue de contenu généré par l'IA tendance",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Higgsfield AI ist eine vielseitige Plattform, die für ernsthafte kreative Arbeiten entwickelt wurde und mehrere KI-Tools in einer umfassenden Lösung kombiniert. Sie bietet den Nutzern Zugang zu einer umfangreichen Sammlung von KI-generierten Inhalten, die verschiedene kreative Projekte unterstützen.",
+      "features": "Ausgewogene All-in-One-Plattform, riesiger Katalog von trendigen KI-generierten Inhalten",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "Higgsfield AI是一个多功能平台，专为严肃的创意工作而设计，将多个人工智能工具整合为一个综合解决方案。它为用户提供对大量AI生成内容的访问，支持各种创意项目。",
+      "features": "平衡的一体化平台，大型流行人工智能生成内容目录",
+      "badge": "不适用",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "Higgsfield AI è una piattaforma versatile progettata per un lavoro creativo serio, che combina più strumenti di intelligenza artificiale in un'unica soluzione completa. Offre agli utenti l'accesso a un'ampia collezione di contenuti generati da IA che supportano vari progetti creativi.",
+      "features": "Piattaforma equilibrata all-in-one, enorme catalogo di contenuti generati da IA di tendenza",
+      "badge": "N/D",
+      "pricing": "N/D"
+    }
+  },
+  "XpertCoding": {
+    "en": {
+      "description": "XpertCoding is an AI-driven medical coding solution that utilizes advanced algorithms to achieve high levels of accuracy in coding medical records, significantly improving efficiency for healthcare providers.",
+      "features": "99% accuracy, hybrid autonomous AI coding, feature-rich business intelligence tool.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "XpertCoding – це рішення для медичного кодування на основі ШІ, яке використовує сучасні алгоритми для досягнення високої точності кодування медичних записів, значно підвищуючи ефективність для медичних установ.",
+      "features": "99% точність, гібридне автономне кодування ШІ, інструмент бізнес-аналітики з багатими функціями.",
+      "badge": "Н/A",
+      "pricing": "Н/A"
+    },
+    "ja": {
+      "description": "XpertCodingは、医療記録のコーディングにおいて高い精度を実現するために高度なアルゴリズムを利用するAI駆動の医療コーディングソリューションであり、医療提供者の効率を大幅に改善します。",
+      "features": "99%の精度、ハイブリッド自律型AIコーディング、機能豊富なビジネスインテリジェンスツール。",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "XpertCoding es una solución de codificación médica impulsada por IA que utiliza algoritmos avanzados para lograr altos niveles de precisión en la codificación de registros médicos, mejorando significativamente la eficiencia para los proveedores de atención médica.",
+      "features": "99% de precisión, codificación autónoma híbrida impulsada por IA, herramienta de inteligencia empresarial rica en funciones.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "XpertCoding é uma solução de codificação médica orientada por IA que utiliza algoritmos avançados para alcançar altos níveis de precisão na codificação de registros médicos, melhorando significativamente a eficiência para os prestadores de serviços de saúde.",
+      "features": "99% de precisão, codificação autônoma híbrida com IA, ferramenta de inteligência de negócios rica em recursos.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "XpertCoding est une solution de codage médical pilotée par l'IA qui utilise des algorithmes avancés pour atteindre de hauts niveaux de précision dans le codage des dossiers médicaux, améliorant ainsi considérablement l'efficacité des prestataires de soins de santé.",
+      "features": "Précision de 99 %, codage autonome hybride assisté par IA, outil d'intelligence d'affaires riche en fonctionnalités.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "XpertCoding ist eine KI-gesteuerte medizinische Codierungslösung, die fortschrittliche Algorithmen nutzt, um hohe Genauigkeitsniveaus beim Codieren medizinischer Aufzeichnungen zu erreichen und die Effizienz für Gesundheitsdienstleister erheblich zu verbessern.",
+      "features": "99% Genauigkeit, hybrides autonomes KI-Codieren, funktionsreiches Business-Intelligence-Tool.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "XpertCoding是一款基于AI的医疗编码解决方案，利用先进的算法实现医疗记录编码的高准确性，显著提升医疗服务提供者的效率。",
+      "features": "99%的准确率，混合自主AI编码，功能丰富的商业智能工具。",
+      "badge": "不适用",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "XpertCoding è una soluzione di codifica medica basata sull'IA che utilizza algoritmi avanzati per ottenere alti livelli di precisione nella codifica delle cartelle cliniche, migliorando significativamente l'efficienza per i fornitori di assistenza sanitaria.",
+      "features": "Precisione del 99%, codifica autonoma ibrida con IA, strumento di business intelligence ricco di funzionalità.",
+      "badge": "N/A",
+      "pricing": "N/A"
     }
   }
 }

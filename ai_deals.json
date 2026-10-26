@@ -2,9 +2,9 @@
     {
         "tool_name": "Midjourney",
         "tool_url": "https://www.midjourney.com",
-        "code": "HOLIDAY30",
+        "code": "20% OFF",
         "discount_amount": "20%",
-        "pricing_info": "Best coupon last verified on September 25th, 2026",
+        "pricing_info": "Available for selected plans",
         "key_features": "Pro Image Generation, High Res",
         "description": "The world's leading AI image generation tool.",
         "last_verified": "2026-05-05",
@@ -25,8 +25,8 @@
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
         "code": "JAMM20",
-        "discount_amount": "80%",
-        "pricing_info": "Limited time offer.",
+        "discount_amount": "60%",
+        "pricing_info": "Details on plans not fully listed.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -365,7 +365,7 @@
         "tool_url": "https://www.copy.ai",
         "code": "COPYFREE",
         "discount_amount": "$240/yr",
-        "pricing_info": "Annual billing saves ~17% on the Chat plan",
+        "pricing_info": "$29 (5 users)",
         "key_features": "AI-generated copy, blog outline generator, multiple languages, collaboration tools.",
         "description": "Copy.ai harnesses the power of artificial intelligence to generate marketing copy, blog articles, and product descriptions within seconds. Its intuitive interface and versatile features make it an essential tool for marketers and writers who want to elevate their copywriting efficiency.",
         "category": "Writing AI"
@@ -386,7 +386,7 @@
         "tool_url": "https://www.jasper.ai",
         "code": "JSP100",
         "discount_amount": "100 credits free trial",
-        "pricing_info": "Plans start at $29/month.",
+        "pricing_info": "$345 (5 users)",
         "key_features": "AI-powered content generation, SEO integration, 25+ templates, multi-language support.",
         "description": "Jasper is an AI-powered content generation tool that assists users in creating high-quality written content quickly. With its vast array of templates and SEO features, Jasper is particularly useful for marketers, bloggers, and businesses looking to streamline their content creation process.",
         "category": "Writing AI"
@@ -660,8 +660,8 @@
         "tool_name": "Claude Pro",
         "tool_url": "https://www.claudepro.com",
         "code": "CLAUDEPRO50",
-        "discount_amount": "Up to 17%",
-        "pricing_info": "Save up to 17% by paying for a full year upfront.",
+        "discount_amount": "50% off for 3 months",
+        "pricing_info": "$20/month",
         "key_features": "Enhanced language models, custom tuning, API access",
         "description": "Claude Pro offers enhanced capabilities over its predecessor, allowing for customized interaction and integration into various software systems via API. It is intended for businesses seeking to leverage advanced AI for improved efficiency and customer engagement.",
         "category": "Coding AI"
@@ -681,7 +681,7 @@
         "tool_url": "https://www.aiva.ai/",
         "code": "AIVA123",
         "discount_amount": "20%",
-        "pricing_info": "Starting at $15/month",
+        "pricing_info": "Free and subscription options available.",
         "key_features": "Compose music, Customize styles, Generate sheet music",
         "description": "AIVA (Artificial Intelligence Virtual Artist) is an AI-driven music composition tool that allows users to create original music across various genres and styles. Leveraging advanced machine learning algorithms, AIVA can analyze existing compositions and generate new tracks based on user preferences, simplifying the music creation process for musicians and hobbyists alike.",
         "category": "Music AI"
@@ -821,7 +821,7 @@
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
         "discount_amount": "50% OFF",
-        "pricing_info": "Average Savings of $133.88",
+        "pricing_info": "$240 Value",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1456,7 +1456,7 @@
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
         "code": "$25k Credits",
         "discount_amount": "$25k Credits (Active)",
-        "pricing_info": "Flagship subscription tier at $20.",
+        "pricing_info": "Flagship subscription tier costs $20.",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -1495,8 +1495,8 @@
         "tool_name": "AI-Lawyer",
         "tool_url": "https://ailawyer.startupworld.com/",
         "code": "Discount Code",
-        "discount_amount": "10%",
-        "pricing_info": "10% off AI-Lawyer services with the discount code.",
+        "discount_amount": "35%",
+        "pricing_info": "Explore cutting-edge AI law enforcement solutions.",
         "key_features": "Verified by team before listing.",
         "description": "AI-Lawyer provides cutting-edge AI tools designed to support law firms with their legal practices, focusing on efficiency and accuracy.",
         "category": "Legal AI"
@@ -1706,7 +1706,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals/pictory-ai-coupon-code",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Check website for pricing details.",
+        "pricing_info": "User Rating: 8.3",
         "key_features": "Coupon codes for savings on AI video tools.",
         "description": "Pictory.ai offers innovative AI-powered video editing solutions designed to help content creators simplify their workflow and enhance video quality.",
         "category": "Video AI"
@@ -1765,8 +1765,8 @@
         "tool_name": "AI Scribe",
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
         "code": "Verified Discount",
-        "discount_amount": "Free for a week",
-        "pricing_info": "$19 for your first month",
+        "discount_amount": "Free for a week, then $19 for your first month",
+        "pricing_info": "Free for a week, then $19 for your first month",
         "key_features": "Annual plans, medical scribing capabilities",
         "description": "AI Scribe is an AI-based tool designed to assist medical professionals with documentation and patient interaction. It streamlines the scribing process, allowing for more efficient healthcare delivery.",
         "category": "Medical AI"
@@ -2366,7 +2366,7 @@
         "tool_url": "https://devopscube.com/elevenlabs-discount",
         "code": "2026",
         "discount_amount": "$1500 Free Credits",
-        "pricing_info": "$1,500 Free Credits",
+        "pricing_info": "Includes 16 AI tools and large discounts",
         "key_features": "Includes 16 AI tools, large discounts for students and educators.",
         "description": "The ElevenLabs AI Student Pack offers significant resources for students, featuring a collection of AI tools along with a substantial monetary credit for usage.",
         "category": "All-in-One AI"
@@ -2566,7 +2566,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "N/A",
-        "pricing_info": "Check website for pricing details.",
+        "pricing_info": "User Rating: 8.0",
         "key_features": "AI meeting assistant that captures and transcribes conversations.",
         "description": "Fireflies AI is an AI-powered meeting assistant that records, transcribes, and organizes voice conversations into searchable notes.",
         "category": "Coding AI"
@@ -2865,8 +2865,8 @@
         "tool_name": "ElevenLabs Creator Plan",
         "tool_url": "https://elevenlabs.startupworld.com",
         "code": "N/A",
-        "discount_amount": "50% OFF",
-        "pricing_info": "$11 for the first month",
+        "discount_amount": "First-month discount",
+        "pricing_info": "New Creator subscriptions",
         "key_features": "Access powerful AI voice tools for content creation.",
         "description": "The ElevenLabs Creator Plan is a subscription service that provides access to advanced AI voice tools for content creation. It is ideal for creators looking to enhance their projects with high-quality text-to-speech capabilities.",
         "category": "Voice AI"
@@ -3080,5 +3080,25 @@
         "key_features": "Productivity, No-Code Development, AI Productivity",
         "description": "A comprehensive AI toolkit designed to enhance productivity through automation, no-code development, and AI-driven business solutions.",
         "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Higgsfield AI",
+        "tool_url": "https://www.synthesia.io/post/ai-tools",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Balanced all-in-one platform, huge catalogue of trending AI-generated content",
+        "description": "Higgsfield AI is a versatile platform designed for serious creative work, combining multiple AI tools into one comprehensive solution. It provides users access to a large collection of AI-generated content that supports various creative projects.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "XpertCoding",
+        "tool_url": "https://www.rapidclaims.ai/blogs/top-10-ai-medical-coding-software",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "99% accuracy, hybrid autonomous AI coding, feature-rich business intelligence tool.",
+        "description": "XpertCoding is an AI-driven medical coding solution that utilizes advanced algorithms to achieve high levels of accuracy in coding medical records, significantly improving efficiency for healthcare providers.",
+        "category": "Coding AI"
     }
 ]

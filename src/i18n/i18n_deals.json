@@ -14212,5 +14212,97 @@
             "zh": "包含24万积分",
             "it": "240.000 crediti inclusi"
         }
+    },
+    "Higgsfield AI": {
+        "description": {
+            "en": "Higgsfield AI is a versatile platform designed for serious creative work, combining multiple AI tools into one comprehensive solution. It provides users access to a large collection of AI-generated content that supports various creative projects.",
+            "uk": "Higgsfield AI - це універсальна платформа, розроблена для серйозної творчої роботи, яка об'єднує кілька інструментів ШІ в одне комплексне рішення. Вона надає користувачам доступ до великої колекції контенту, згенерованого ШІ, що підтримує різні творчі проекти.",
+            "ja": "Higgsfield AIは、真剣な創造的作業のために設計された多目的プラットフォームで、複数のAIツールを1つの包括的なソリューションに統合しています。さまざまな創造的プロジェクトをサポートするAI生成コンテンツの大規模なコレクションをユーザーに提供します。",
+            "es": "Higgsfield AI es una plataforma versátil diseñada para un trabajo creativo serio, que combina múltiples herramientas de IA en una solución integral. Proporciona a los usuarios acceso a una gran colección de contenido generado por IA que apoya varios proyectos creativos.",
+            "pt": "Higgsfield AI é uma plataforma versátil projetada para trabalho criativo sério, combinando várias ferramentas de IA em uma solução abrangente. Ele oferece aos usuários acesso a uma grande coleção de conteúdo gerado por IA que apoia vários projetos criativos.",
+            "fr": "Higgsfield AI est une plateforme polyvalente conçue pour un travail créatif sérieux, combinant plusieurs outils d'IA en une solution complète. Elle offre aux utilisateurs un accès à une grande collection de contenu généré par l'IA qui soutient divers projets créatifs.",
+            "de": "Higgsfield AI ist eine vielseitige Plattform, die für ernsthafte kreative Arbeiten entwickelt wurde und mehrere KI-Tools in einer umfassenden Lösung kombiniert. Sie bietet den Nutzern Zugang zu einer umfangreichen Sammlung von KI-generierten Inhalten, die verschiedene kreative Projekte unterstützen.",
+            "zh": "Higgsfield AI是一个多功能平台，专为严肃的创意工作而设计，将多个人工智能工具整合为一个综合解决方案。它为用户提供对大量AI生成内容的访问，支持各种创意项目。",
+            "it": "Higgsfield AI è una piattaforma versatile progettata per un lavoro creativo serio, che combina più strumenti di intelligenza artificiale in un'unica soluzione completa. Offre agli utenti l'accesso a un'ampia collezione di contenuti generati da IA che supportano vari progetti creativi."
+        },
+        "features": {
+            "en": "Balanced all-in-one platform, huge catalogue of trending AI-generated content",
+            "uk": "Збалансована універсальна платформа, величезний каталог актуального контенту, згенерованого ШІ",
+            "ja": "バランスの取れたオールインワンプラットフォーム、トレンディなAI生成コンテンツの巨大なカタログ",
+            "es": "Plataforma equilibrada todo en uno, enorme catálogo de contenido generado por IA en tendencia",
+            "pt": "Plataforma tudo em um equilibrada, enorme catálogo de conteúdo gerado por IA em tendência",
+            "fr": "Plateforme tout-en-un équilibrée, énorme catalogue de contenu généré par l'IA tendance",
+            "de": "Ausgewogene All-in-One-Plattform, riesiger Katalog von trendigen KI-generierten Inhalten",
+            "zh": "平衡的一体化平台，大型流行人工智能生成内容目录",
+            "it": "Piattaforma equilibrata all-in-one, enorme catalogo di contenuti generati da IA di tendenza"
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "XpertCoding": {
+        "description": {
+            "en": "XpertCoding is an AI-driven medical coding solution that utilizes advanced algorithms to achieve high levels of accuracy in coding medical records, significantly improving efficiency for healthcare providers.",
+            "uk": "XpertCoding – це рішення для медичного кодування на основі ШІ, яке використовує сучасні алгоритми для досягнення високої точності кодування медичних записів, значно підвищуючи ефективність для медичних установ.",
+            "ja": "XpertCodingは、医療記録のコーディングにおいて高い精度を実現するために高度なアルゴリズムを利用するAI駆動の医療コーディングソリューションであり、医療提供者の効率を大幅に改善します。",
+            "es": "XpertCoding es una solución de codificación médica impulsada por IA que utiliza algoritmos avanzados para lograr altos niveles de precisión en la codificación de registros médicos, mejorando significativamente la eficiencia para los proveedores de atención médica.",
+            "pt": "XpertCoding é uma solução de codificação médica orientada por IA que utiliza algoritmos avançados para alcançar altos níveis de precisão na codificação de registros médicos, melhorando significativamente a eficiência para os prestadores de serviços de saúde.",
+            "fr": "XpertCoding est une solution de codage médical pilotée par l'IA qui utilise des algorithmes avancés pour atteindre de hauts niveaux de précision dans le codage des dossiers médicaux, améliorant ainsi considérablement l'efficacité des prestataires de soins de santé.",
+            "de": "XpertCoding ist eine KI-gesteuerte medizinische Codierungslösung, die fortschrittliche Algorithmen nutzt, um hohe Genauigkeitsniveaus beim Codieren medizinischer Aufzeichnungen zu erreichen und die Effizienz für Gesundheitsdienstleister erheblich zu verbessern.",
+            "zh": "XpertCoding是一款基于AI的医疗编码解决方案，利用先进的算法实现医疗记录编码的高准确性，显著提升医疗服务提供者的效率。",
+            "it": "XpertCoding è una soluzione di codifica medica basata sull'IA che utilizza algoritmi avanzati per ottenere alti livelli di precisione nella codifica delle cartelle cliniche, migliorando significativamente l'efficienza per i fornitori di assistenza sanitaria."
+        },
+        "features": {
+            "en": "99% accuracy, hybrid autonomous AI coding, feature-rich business intelligence tool.",
+            "uk": "99% точність, гібридне автономне кодування ШІ, інструмент бізнес-аналітики з багатими функціями.",
+            "ja": "99%の精度、ハイブリッド自律型AIコーディング、機能豊富なビジネスインテリジェンスツール。",
+            "es": "99% de precisión, codificación autónoma híbrida impulsada por IA, herramienta de inteligencia empresarial rica en funciones.",
+            "pt": "99% de precisão, codificação autônoma híbrida com IA, ferramenta de inteligência de negócios rica em recursos.",
+            "fr": "Précision de 99 %, codage autonome hybride assisté par IA, outil d'intelligence d'affaires riche en fonctionnalités.",
+            "de": "99% Genauigkeit, hybrides autonomes KI-Codieren, funktionsreiches Business-Intelligence-Tool.",
+            "zh": "99%的准确率，混合自主AI编码，功能丰富的商业智能工具。",
+            "it": "Precisione del 99%, codifica autonoma ibrida con IA, strumento di business intelligence ricco di funzionalità."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/A",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/A",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
     }
 }
