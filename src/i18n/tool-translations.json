@@ -1990,7 +1990,7 @@
     "zh": "50%",
     "it": "50%"
   },
-  "Flagship subscription tier costs $20.": {
+  "$20 flagship subscription tier": {
     "en": "Plus Plan Starts at $20/Month, Pro Plan $25/Month",
     "uk": "План Plus починається з $20 на місяць, план Pro - $25 на місяць.",
     "ja": "プラスプランは月額20ドル、プロプランは月額25ドルから始まります。",
@@ -3101,7 +3101,7 @@
     "zh": "免费3个月",
     "it": "3 mesi gratuiti"
   },
-  "Upgrade your professional image at half price.": {
+  "Expires Nov 16, 2026": {
     "en": "$61",
     "uk": "$61",
     "ja": "$61",
@@ -3475,7 +3475,7 @@
     "zh": "25% 现金返还",
     "it": "25% RIMBORSO"
   },
-  "$1,500 in free credits.": {
+  "$1,500 in free credits available.": {
     "en": "$1,500 in free credits.",
     "uk": "$1,500 у безкоштовних кредитах.",
     "ja": "$1,500 の無料クレジット。",
@@ -3585,7 +3585,7 @@
     "zh": "200个免费搜索积分",
     "it": "200 crediti di ricerca gratuiti"
   },
-  "New Creator subscriptions": {
+  "$6 per month for the Starter Plan, includes 3 months free on Creator.": {
     "en": "First month discount on the Creator plan",
     "uk": "Знижка на перший місяць підписки на план Creator",
     "ja": "Creatorプランの初月割引",
@@ -3596,7 +3596,7 @@
     "zh": "Creator计划首月折扣",
     "it": "Sconto sul primo mese del piano Creator"
   },
-  "First-month discount": {
+  "Discount in first month": {
     "en": "50% OFF",
     "uk": "50% ЗНИЖКА",
     "ja": "50%オフ",
@@ -3607,7 +3607,7 @@
     "zh": "50%折扣",
     "it": "50% DI SCONTO"
   },
-  "$16.66 per month": {
+  "$7.99 per month": {
     "en": "$7.99/Month",
     "uk": "$7,99/Місяць",
     "ja": "月額7.99ドル",
@@ -3728,6 +3728,17 @@
     "zh": "4,000美元的信用",
     "it": "4.000 dollari in crediti"
   },
+  "$16.66 per month": {
+    "en": "$16.66 per month",
+    "uk": "$16.66 на місяць",
+    "ja": "$16.66 per month",
+    "es": "$16.66 al mes",
+    "pt": "$16.66 por mês",
+    "fr": "16,66 $ par mois",
+    "de": "16,66 $ pro Monat",
+    "zh": "每月 16.66 美元",
+    "it": "16,66 $ al mese"
+  },
   "$0.00": {
     "en": "$0.00",
     "uk": "$0.00",
@@ -3815,6 +3826,50 @@
     "de": "Kostenlose 30 Minuten Nutzung; danach 5 Cent pro Minute.",
     "zh": "免费使用30分钟；之后每分钟5美分。",
     "it": "30 minuti di utilizzo gratuiti; 5 centesimi al minuto successivamente."
+  },
+  "Includes free tiers and discounts": {
+    "en": "Includes free tiers and discounts",
+    "uk": "Включає безкоштовні рівні та знижки",
+    "ja": "無料プランと割引が含まれています",
+    "es": "Incluye niveles gratuitos y descuentos",
+    "pt": "Inclui níveis gratuitos e descontos",
+    "fr": "Inclut des niveaux gratuits et des remises",
+    "de": "Beinhaltet kostenlose Stufen und Rabatte",
+    "zh": "包括免费层和折扣",
+    "it": "Include livelli gratuiti e sconti"
+  },
+  "Various": {
+    "en": "Various",
+    "uk": "Різноманітні",
+    "ja": "さまざまな",
+    "es": "Varios",
+    "pt": "Vários",
+    "fr": "Divers",
+    "de": "Verschiedene",
+    "zh": "多种",
+    "it": "Vari"
+  },
+  "26 deals available in the AI No-Code Builders category.": {
+    "en": "26 deals available in the AI No-Code Builders category.",
+    "uk": "26 угод доступні в категорії AI No-Code Builders.",
+    "ja": "AI ノーコードビルダーカテゴリには 26 の取引があります。",
+    "es": "26 ofertas disponibles en la categoría de creadores sin código de IA.",
+    "pt": "26 ofertas disponíveis na categoria AI No-Code Builders.",
+    "fr": "26 offres disponibles dans la catégorie des Créateurs No-Code IA.",
+    "de": "26 Angebote in der Kategorie AI No-Code-Bauern verfügbar.",
+    "zh": "AI 无代码构建者类别中提供 26 个交易。",
+    "it": "26 offerte disponibili nella categoria AI No-Code Builders."
+  },
+  "0 active promo codes": {
+    "en": "0 active promo codes",
+    "uk": "0 активних промокодів",
+    "ja": "0 稼働中のプロモーションコード",
+    "es": "0 códigos promocionales activos",
+    "pt": "0 códigos promocionais ativos",
+    "fr": "0 codes promo actifs",
+    "de": "0 aktive Promo-Codes",
+    "zh": "0 个有效的促销代码",
+    "it": "0 codici promozionali attivi"
   },
   "Midjourney": {
     "en": {
@@ -21230,6 +21285,174 @@
       "features": "Precisione del 99%, codifica autonoma ibrida con IA, strumento di business intelligence ricco di funzionalità.",
       "badge": "N/A",
       "pricing": "N/A"
+    }
+  },
+  "GitHub - codertesla/ai-coding-deals": {
+    "en": {
+      "description": "This GitHub repository offers a comprehensive guide to AI coding tools that includes free tiers, various discounts, and alternative options to save money.",
+      "features": "Money-saving guides, referral credits, open-source alternatives",
+      "badge": "Various",
+      "pricing": "Includes free tiers and discounts"
+    },
+    "uk": {
+      "description": "Цей репозиторій на GitHub пропонує всебічний посібник з інструментів програмування на основі ШІ, що включає безкоштовні рівні, різноманітні знижки та альтернативні варіанти для економії коштів.",
+      "features": "Посібники щодо економії коштів, реферальні кредити, альтернативи з відкритим кодом",
+      "badge": "Різноманітні",
+      "pricing": "Включає безкоштовні рівні та знижки"
+    },
+    "ja": {
+      "description": "このGitHubリポジトリは、無料プラン、さまざまな割引、そしてお金を節約するための代替オプションを含むAIコーディングツールの包括的なガイドを提供します。",
+      "features": "お金を節約するためのガイド、紹介クレジット、オープンソースの代替品",
+      "badge": "さまざまな",
+      "pricing": "無料プランと割引が含まれています"
+    },
+    "es": {
+      "description": "Este repositorio de GitHub ofrece una guía completa sobre herramientas de codificación de IA que incluye niveles gratuitos, varios descuentos y opciones alternativas para ahorrar dinero.",
+      "features": "Guías para ahorrar dinero, créditos por referencia, alternativas de código abierto",
+      "badge": "Varios",
+      "pricing": "Incluye niveles gratuitos y descuentos"
+    },
+    "pt": {
+      "description": "Este repositório do GitHub oferece um guia abrangente sobre ferramentas de codificação de IA que inclui níveis gratuitos, vários descontos e opções alternativas para economizar dinheiro.",
+      "features": "Guias de economia, créditos de referência, alternativas de código aberto",
+      "badge": "Vários",
+      "pricing": "Inclui níveis gratuitos e descontos"
+    },
+    "fr": {
+      "description": "Ce référentiel GitHub propose un guide complet des outils de codage IA qui inclut des niveaux gratuits, divers remises et des options alternatives pour économiser de l'argent.",
+      "features": "Guides d'économie d'argent, crédits de parrainage, alternatives open-source",
+      "badge": "Divers",
+      "pricing": "Inclut des niveaux gratuits et des remises"
+    },
+    "de": {
+      "description": "Dieses GitHub-Repository bietet einen umfassenden Leitfaden zu KI-Coding-Tools, der kostenlose Stufen, verschiedene Rabatte und alternative Optionen zur Geldersparnis umfasst.",
+      "features": "Geldsparende Guides, Empfehlungscredits, Open-Source-Alternativen",
+      "badge": "Verschiedene",
+      "pricing": "Beinhaltet kostenlose Stufen und Rabatte"
+    },
+    "zh": {
+      "description": "该GitHub仓库提供了一个有关人工智能编码工具的综合指南，其中包括免费层、各种折扣以及节省资金的替代选项。",
+      "features": "省钱指南、推荐信用、开源替代品",
+      "badge": "多种",
+      "pricing": "包括免费层和折扣"
+    },
+    "it": {
+      "description": "Questo repository GitHub offre una guida completa agli strumenti di codifica AI che include livelli gratuiti, vari sconti e opzioni alternative per risparmiare denaro.",
+      "features": "Guide per risparmiare denaro, crediti per referral, alternative open source",
+      "badge": "Vari",
+      "pricing": "Include livelli gratuiti e sconti"
+    }
+  },
+  "Make": {
+    "en": {
+      "description": "Make is an all-in-one platform designed for building applications without the need for coding, focusing on enhancing user productivity.",
+      "features": "Offers various deals but currently has no active promo codes.",
+      "badge": "0 active promo codes",
+      "pricing": "26 deals available in the AI No-Code Builders category."
+    },
+    "uk": {
+      "description": "Make – це універсальна платформа, призначена для створення застосунків без необхідності кодування, з акцентом на підвищення продуктивності користувачів.",
+      "features": "Пропонує різні угоди, але наразі немає активних промокодів.",
+      "badge": "0 активних промокодів",
+      "pricing": "26 угод доступні в категорії AI No-Code Builders."
+    },
+    "ja": {
+      "description": "Makeは、コーディングなしでアプリケーションを構築するために設計されたオールインワンプラットフォームであり、ユーザーの生産性の向上に重点を置いています。",
+      "features": "さまざまな取引を提供していますが、現在は有効なプロモコードはありません。",
+      "badge": "0 稼働中のプロモーションコード",
+      "pricing": "AI ノーコードビルダーカテゴリには 26 の取引があります。"
+    },
+    "es": {
+      "description": "Make es una plataforma todo en uno diseñada para construir aplicaciones sin necesidad de codificación, centrada en mejorar la productividad del usuario.",
+      "features": "Ofrece varias ofertas, pero actualmente no tiene códigos promocionales activos.",
+      "badge": "0 códigos promocionales activos",
+      "pricing": "26 ofertas disponibles en la categoría de creadores sin código de IA."
+    },
+    "pt": {
+      "description": "Make é uma plataforma tudo-em-um projetada para construir aplicações sem a necessidade de codificação, focando em aumentar a produtividade do usuário.",
+      "features": "Oferece vários negócios, mas atualmente não tem códigos promocionais ativos.",
+      "badge": "0 códigos promocionais ativos",
+      "pricing": "26 ofertas disponíveis na categoria AI No-Code Builders."
+    },
+    "fr": {
+      "description": "Make est une plateforme tout-en-un conçue pour créer des applications sans avoir besoin de coder, en se concentrant sur l'amélioration de la productivité des utilisateurs.",
+      "features": "Propose diverses offres, mais n'a actuellement aucun code promo actif.",
+      "badge": "0 codes promo actifs",
+      "pricing": "26 offres disponibles dans la catégorie des Créateurs No-Code IA."
+    },
+    "de": {
+      "description": "Make ist eine All-in-One-Plattform, die zum Erstellen von Anwendungen ohne Codierung entwickelt wurde und sich auf die Verbesserung der Produktivität der Benutzer konzentriert.",
+      "features": "Bietet verschiedene Angebote, hat aber derzeit keine aktiven Promo-Codes.",
+      "badge": "0 aktive Promo-Codes",
+      "pricing": "26 Angebote in der Kategorie AI No-Code-Bauern verfügbar."
+    },
+    "zh": {
+      "description": "Make 是一个一体化平台，旨在构建无需编码的应用程序，专注于提升用户生产力。",
+      "features": "提供多种交易，但目前没有有效的促销代码。",
+      "badge": "0 个有效的促销代码",
+      "pricing": "AI 无代码构建者类别中提供 26 个交易。"
+    },
+    "it": {
+      "description": "Make è una piattaforma tutto-in-uno progettata per costruire applicazioni senza la necessità di codificare, con un focus sul miglioramento della produttività degli utenti.",
+      "features": "Offre diverse promozioni, ma attualmente non ha codici promozionali attivi.",
+      "badge": "0 codici promozionali attivi",
+      "pricing": "26 offerte disponibili nella categoria AI No-Code Builders."
+    }
+  },
+  "Drafter AI": {
+    "en": {
+      "description": "Drafter AI is a no-code platform that empowers users to create applications through an intuitive interface without requiring programming knowledge.",
+      "features": "No-code AI platform facilitating easy application creation.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "uk": {
+      "description": "Drafter AI — це платформа без коду, яка дозволяє користувачам створювати програми через інтуїтивно зрозумілий інтерфейс без необхідності знань програмування.",
+      "features": "Платформа ШІ без коду, що сприяє легкому створенню додатків.",
+      "badge": "Н/Д",
+      "pricing": "Н/Д"
+    },
+    "ja": {
+      "description": "Drafter AIは、プログラミングの知識がなくても直感的なインターフェースを通じてアプリケーションを作成できるノーコードプラットフォームです。",
+      "features": "アプリケーションの簡単な作成を促進するノーコードAIプラットフォームです。",
+      "badge": "該当なし",
+      "pricing": "該当なし"
+    },
+    "es": {
+      "description": "Drafter AI es una plataforma sin código que permite a los usuarios crear aplicaciones a través de una interfaz intuitiva sin necesidad de conocimientos de programación.",
+      "features": "Plataforma de IA sin código que facilita la creación fácil de aplicaciones.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "pt": {
+      "description": "Drafter AI é uma plataforma sem código que capacita os usuários a criar aplicativos por meio de uma interface intuitiva, sem exigir conhecimento em programação.",
+      "features": "Plataforma de IA sem código que facilita a criação fácil de aplicativos.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "fr": {
+      "description": "Drafter AI est une plateforme sans code qui permet aux utilisateurs de créer des applications grâce à une interface intuitive sans nécessiter de connaissances en programmation.",
+      "features": "Plateforme d'IA sans code facilitant la création facile d'applications.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "de": {
+      "description": "Drafter AI ist eine No-Code-Plattform, die es Benutzern ermöglicht, Anwendungen über eine intuitive Benutzeroberfläche zu erstellen, ohne Programmierkenntnisse zu benötigen.",
+      "features": "No-Code-IA-Plattform, die die einfache Erstellung von Anwendungen erleichtert.",
+      "badge": "N/A",
+      "pricing": "N/A"
+    },
+    "zh": {
+      "description": "Drafter AI是一个无代码平台，使用户能够通过直观的界面创建应用程序，而无需编程知识。",
+      "features": "无代码AI平台，促进轻松的应用程序创建。",
+      "badge": "不适用",
+      "pricing": "不适用"
+    },
+    "it": {
+      "description": "Drafter AI è una piattaforma no-code che consente agli utenti di creare applicazioni tramite un'interfaccia intuitiva senza richiedere conoscenze di programmazione.",
+      "features": "Piattaforma AI senza codice che facilita la creazione semplice di applicazioni.",
+      "badge": "N/D",
+      "pricing": "N/D"
     }
   }
 }

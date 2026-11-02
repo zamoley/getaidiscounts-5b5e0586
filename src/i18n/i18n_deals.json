@@ -14304,5 +14304,143 @@
             "zh": "不适用",
             "it": "N/A"
         }
+    },
+    "GitHub - codertesla/ai-coding-deals": {
+        "description": {
+            "en": "This GitHub repository offers a comprehensive guide to AI coding tools that includes free tiers, various discounts, and alternative options to save money.",
+            "uk": "Цей репозиторій на GitHub пропонує всебічний посібник з інструментів програмування на основі ШІ, що включає безкоштовні рівні, різноманітні знижки та альтернативні варіанти для економії коштів.",
+            "ja": "このGitHubリポジトリは、無料プラン、さまざまな割引、そしてお金を節約するための代替オプションを含むAIコーディングツールの包括的なガイドを提供します。",
+            "es": "Este repositorio de GitHub ofrece una guía completa sobre herramientas de codificación de IA que incluye niveles gratuitos, varios descuentos y opciones alternativas para ahorrar dinero.",
+            "pt": "Este repositório do GitHub oferece um guia abrangente sobre ferramentas de codificação de IA que inclui níveis gratuitos, vários descontos e opções alternativas para economizar dinheiro.",
+            "fr": "Ce référentiel GitHub propose un guide complet des outils de codage IA qui inclut des niveaux gratuits, divers remises et des options alternatives pour économiser de l'argent.",
+            "de": "Dieses GitHub-Repository bietet einen umfassenden Leitfaden zu KI-Coding-Tools, der kostenlose Stufen, verschiedene Rabatte und alternative Optionen zur Geldersparnis umfasst.",
+            "zh": "该GitHub仓库提供了一个有关人工智能编码工具的综合指南，其中包括免费层、各种折扣以及节省资金的替代选项。",
+            "it": "Questo repository GitHub offre una guida completa agli strumenti di codifica AI che include livelli gratuiti, vari sconti e opzioni alternative per risparmiare denaro."
+        },
+        "features": {
+            "en": "Money-saving guides, referral credits, open-source alternatives",
+            "uk": "Посібники щодо економії коштів, реферальні кредити, альтернативи з відкритим кодом",
+            "ja": "お金を節約するためのガイド、紹介クレジット、オープンソースの代替品",
+            "es": "Guías para ahorrar dinero, créditos por referencia, alternativas de código abierto",
+            "pt": "Guias de economia, créditos de referência, alternativas de código aberto",
+            "fr": "Guides d'économie d'argent, crédits de parrainage, alternatives open-source",
+            "de": "Geldsparende Guides, Empfehlungscredits, Open-Source-Alternativen",
+            "zh": "省钱指南、推荐信用、开源替代品",
+            "it": "Guide per risparmiare denaro, crediti per referral, alternative open source"
+        },
+        "discount": {
+            "en": "Various",
+            "uk": "Різноманітні",
+            "ja": "さまざまな",
+            "es": "Varios",
+            "pt": "Vários",
+            "fr": "Divers",
+            "de": "Verschiedene",
+            "zh": "多种",
+            "it": "Vari"
+        },
+        "pricing": {
+            "en": "Includes free tiers and discounts",
+            "uk": "Включає безкоштовні рівні та знижки",
+            "ja": "無料プランと割引が含まれています",
+            "es": "Incluye niveles gratuitos y descuentos",
+            "pt": "Inclui níveis gratuitos e descontos",
+            "fr": "Inclut des niveaux gratuits et des remises",
+            "de": "Beinhaltet kostenlose Stufen und Rabatte",
+            "zh": "包括免费层和折扣",
+            "it": "Include livelli gratuiti e sconti"
+        }
+    },
+    "Make": {
+        "description": {
+            "en": "Make is an all-in-one platform designed for building applications without the need for coding, focusing on enhancing user productivity.",
+            "uk": "Make – це універсальна платформа, призначена для створення застосунків без необхідності кодування, з акцентом на підвищення продуктивності користувачів.",
+            "ja": "Makeは、コーディングなしでアプリケーションを構築するために設計されたオールインワンプラットフォームであり、ユーザーの生産性の向上に重点を置いています。",
+            "es": "Make es una plataforma todo en uno diseñada para construir aplicaciones sin necesidad de codificación, centrada en mejorar la productividad del usuario.",
+            "pt": "Make é uma plataforma tudo-em-um projetada para construir aplicações sem a necessidade de codificação, focando em aumentar a produtividade do usuário.",
+            "fr": "Make est une plateforme tout-en-un conçue pour créer des applications sans avoir besoin de coder, en se concentrant sur l'amélioration de la productivité des utilisateurs.",
+            "de": "Make ist eine All-in-One-Plattform, die zum Erstellen von Anwendungen ohne Codierung entwickelt wurde und sich auf die Verbesserung der Produktivität der Benutzer konzentriert.",
+            "zh": "Make 是一个一体化平台，旨在构建无需编码的应用程序，专注于提升用户生产力。",
+            "it": "Make è una piattaforma tutto-in-uno progettata per costruire applicazioni senza la necessità di codificare, con un focus sul miglioramento della produttività degli utenti."
+        },
+        "features": {
+            "en": "Offers various deals but currently has no active promo codes.",
+            "uk": "Пропонує різні угоди, але наразі немає активних промокодів.",
+            "ja": "さまざまな取引を提供していますが、現在は有効なプロモコードはありません。",
+            "es": "Ofrece varias ofertas, pero actualmente no tiene códigos promocionales activos.",
+            "pt": "Oferece vários negócios, mas atualmente não tem códigos promocionais ativos.",
+            "fr": "Propose diverses offres, mais n'a actuellement aucun code promo actif.",
+            "de": "Bietet verschiedene Angebote, hat aber derzeit keine aktiven Promo-Codes.",
+            "zh": "提供多种交易，但目前没有有效的促销代码。",
+            "it": "Offre diverse promozioni, ma attualmente non ha codici promozionali attivi."
+        },
+        "discount": {
+            "en": "0 active promo codes",
+            "uk": "0 активних промокодів",
+            "ja": "0 稼働中のプロモーションコード",
+            "es": "0 códigos promocionales activos",
+            "pt": "0 códigos promocionais ativos",
+            "fr": "0 codes promo actifs",
+            "de": "0 aktive Promo-Codes",
+            "zh": "0 个有效的促销代码",
+            "it": "0 codici promozionali attivi"
+        },
+        "pricing": {
+            "en": "26 deals available in the AI No-Code Builders category.",
+            "uk": "26 угод доступні в категорії AI No-Code Builders.",
+            "ja": "AI ノーコードビルダーカテゴリには 26 の取引があります。",
+            "es": "26 ofertas disponibles en la categoría de creadores sin código de IA.",
+            "pt": "26 ofertas disponíveis na categoria AI No-Code Builders.",
+            "fr": "26 offres disponibles dans la catégorie des Créateurs No-Code IA.",
+            "de": "26 Angebote in der Kategorie AI No-Code-Bauern verfügbar.",
+            "zh": "AI 无代码构建者类别中提供 26 个交易。",
+            "it": "26 offerte disponibili nella categoria AI No-Code Builders."
+        }
+    },
+    "Drafter AI": {
+        "description": {
+            "en": "Drafter AI is a no-code platform that empowers users to create applications through an intuitive interface without requiring programming knowledge.",
+            "uk": "Drafter AI — це платформа без коду, яка дозволяє користувачам створювати програми через інтуїтивно зрозумілий інтерфейс без необхідності знань програмування.",
+            "ja": "Drafter AIは、プログラミングの知識がなくても直感的なインターフェースを通じてアプリケーションを作成できるノーコードプラットフォームです。",
+            "es": "Drafter AI es una plataforma sin código que permite a los usuarios crear aplicaciones a través de una interfaz intuitiva sin necesidad de conocimientos de programación.",
+            "pt": "Drafter AI é uma plataforma sem código que capacita os usuários a criar aplicativos por meio de uma interface intuitiva, sem exigir conhecimento em programação.",
+            "fr": "Drafter AI est une plateforme sans code qui permet aux utilisateurs de créer des applications grâce à une interface intuitive sans nécessiter de connaissances en programmation.",
+            "de": "Drafter AI ist eine No-Code-Plattform, die es Benutzern ermöglicht, Anwendungen über eine intuitive Benutzeroberfläche zu erstellen, ohne Programmierkenntnisse zu benötigen.",
+            "zh": "Drafter AI是一个无代码平台，使用户能够通过直观的界面创建应用程序，而无需编程知识。",
+            "it": "Drafter AI è una piattaforma no-code che consente agli utenti di creare applicazioni tramite un'interfaccia intuitiva senza richiedere conoscenze di programmazione."
+        },
+        "features": {
+            "en": "No-code AI platform facilitating easy application creation.",
+            "uk": "Платформа ШІ без коду, що сприяє легкому створенню додатків.",
+            "ja": "アプリケーションの簡単な作成を促進するノーコードAIプラットフォームです。",
+            "es": "Plataforma de IA sin código que facilita la creación fácil de aplicaciones.",
+            "pt": "Plataforma de IA sem código que facilita a criação fácil de aplicativos.",
+            "fr": "Plateforme d'IA sans code facilitant la création facile d'applications.",
+            "de": "No-Code-IA-Plattform, die die einfache Erstellung von Anwendungen erleichtert.",
+            "zh": "无代码AI平台，促进轻松的应用程序创建。",
+            "it": "Piattaforma AI senza codice che facilita la creazione semplice di applicazioni."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
     }
 }

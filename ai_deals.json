@@ -1456,7 +1456,7 @@
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
         "code": "$25k Credits",
         "discount_amount": "$25k Credits (Active)",
-        "pricing_info": "Flagship subscription tier costs $20.",
+        "pricing_info": "$20 flagship subscription tier",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -2395,8 +2395,8 @@
         "tool_name": "Try It On AI",
         "tool_url": "https://tryitonai.startupworld.com",
         "code": "DEAL VERIFIED",
-        "discount_amount": "50%",
-        "pricing_info": "Upgrade your professional image at half price.",
+        "discount_amount": "10%",
+        "pricing_info": "Expires Nov 16, 2026",
         "key_features": "Create high-quality portraits, customize styles.",
         "description": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
         "category": "Image AI"
@@ -2756,7 +2756,7 @@
         "tool_url": "https://devopscube.com/elevenlabs-discount",
         "code": "N/A",
         "discount_amount": "$1,500",
-        "pricing_info": "$1,500 in free credits.",
+        "pricing_info": "$1,500 in free credits available.",
         "key_features": "Includes 16 AI tools, large discounts for students.",
         "description": "The ElevenLabs Student Pack provides students with access to a suite of AI tools, along with substantial free credits to support their projects and studies.",
         "category": "All-in-One AI"
@@ -2865,8 +2865,8 @@
         "tool_name": "ElevenLabs Creator Plan",
         "tool_url": "https://elevenlabs.startupworld.com",
         "code": "N/A",
-        "discount_amount": "First-month discount",
-        "pricing_info": "New Creator subscriptions",
+        "discount_amount": "Discount in first month",
+        "pricing_info": "$6 per month for the Starter Plan, includes 3 months free on Creator.",
         "key_features": "Access powerful AI voice tools for content creation.",
         "description": "The ElevenLabs Creator Plan is a subscription service that provides access to advanced AI voice tools for content creation. It is ideal for creators looking to enhance their projects with high-quality text-to-speech capabilities.",
         "category": "Voice AI"
@@ -2876,7 +2876,7 @@
         "tool_url": "https://toolsaday.startupworld.com",
         "code": "N/A",
         "discount_amount": "$7.99",
-        "pricing_info": "$16.66 per month",
+        "pricing_info": "$7.99 per month",
         "key_features": "Enhances writing productivity using powerful AI capabilities with premium support.",
         "description": "Toolsaday offers a suite of writing tools powered by AI to help users enhance productivity and improve the quality of their content.",
         "category": "Writing AI"
@@ -3100,5 +3100,35 @@
         "key_features": "99% accuracy, hybrid autonomous AI coding, feature-rich business intelligence tool.",
         "description": "XpertCoding is an AI-driven medical coding solution that utilizes advanced algorithms to achieve high levels of accuracy in coding medical records, significantly improving efficiency for healthcare providers.",
         "category": "Coding AI"
+    },
+    {
+        "tool_name": "GitHub - codertesla/ai-coding-deals",
+        "tool_url": "https://github.com/codertesla/ai-coding-deals",
+        "code": "N/A",
+        "discount_amount": "Various",
+        "pricing_info": "Includes free tiers and discounts",
+        "key_features": "Money-saving guides, referral credits, open-source alternatives",
+        "description": "This GitHub repository offers a comprehensive guide to AI coding tools that includes free tiers, various discounts, and alternative options to save money.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "Make",
+        "tool_url": "https://make.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "0 active promo codes",
+        "pricing_info": "26 deals available in the AI No-Code Builders category.",
+        "key_features": "Offers various deals but currently has no active promo codes.",
+        "description": "Make is an all-in-one platform designed for building applications without the need for coding, focusing on enhancing user productivity.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "Drafter AI",
+        "tool_url": "https://tavily.com/knowledge/company/qp1Hv4SIPTBN",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "No-code AI platform facilitating easy application creation.",
+        "description": "Drafter AI is a no-code platform that empowers users to create applications through an intuitive interface without requiring programming knowledge.",
+        "category": "No-Code AI"
     }
 ]
