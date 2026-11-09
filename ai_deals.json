@@ -24,8 +24,8 @@
     {
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
-        "code": "JAMM20",
-        "discount_amount": "60%",
+        "code": "20% OFF",
+        "discount_amount": "$100 Off",
         "pricing_info": "Details on plans not fully listed.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
@@ -493,7 +493,7 @@
         "tool_url": "https://claude.ai",
         "code": "CLAUDE50",
         "discount_amount": "50%",
-        "pricing_info": "3 Months Deal",
+        "pricing_info": "Promo codes may be recycled or fake.",
         "key_features": "Advanced NLU, Coding, Large Context",
         "description": "Anthropic\u2019s leading AI assistant for research, writing, and complex reasoning.",
         "last_verified": "2026-05-07",
@@ -821,7 +821,7 @@
         "tool_url": "https://perplexity.ai",
         "code": "3MonthsFree",
         "discount_amount": "50% OFF",
-        "pricing_info": "$240 Value",
+        "pricing_info": "FREE 1-YEAR PRO PLAN",
         "key_features": "AI-powered search, real-time answers, integrated sources",
         "description": "Perplexity AI is an advanced search engine that utilizes artificial intelligence to provide users with instant answers to their queries. It integrates various sources to compile concise and informative responses, aiming to improve the search experience by minimizing irrelevant information.",
         "category": "Search AI"
@@ -1536,7 +1536,7 @@
         "tool_url": "https://felloai.com/ai-deals/",
         "code": "N/A",
         "discount_amount": "One year free for eligible veterans",
-        "pricing_info": "Free for eligible veterans and transitioning servicemembers.",
+        "pricing_info": "Subscription-based",
         "key_features": "Advanced conversational AI capabilities including enhanced understanding.",
         "description": "ChatGPT Plus offers users access to improved response quality and faster performance compared to the free version of ChatGPT.",
         "category": "No-Code AI"
@@ -1766,7 +1766,7 @@
         "tool_url": "https://www.trytwofold.com/compare/ai-scribe-promo-code",
         "code": "Verified Discount",
         "discount_amount": "Free for a week, then $19 for your first month",
-        "pricing_info": "Free for a week, then $19 for your first month",
+        "pricing_info": "Free for a week, then $19 for the first month",
         "key_features": "Annual plans, medical scribing capabilities",
         "description": "AI Scribe is an AI-based tool designed to assist medical professionals with documentation and patient interaction. It streamlines the scribing process, allowing for more efficient healthcare delivery.",
         "category": "Medical AI"
@@ -2206,7 +2206,7 @@
         "tool_url": "https://www.bitdegree.org/ai/deals",
         "code": "N/A",
         "discount_amount": "$6.49",
-        "pricing_info": "Full access for $6.49 for the first month.",
+        "pricing_info": "$6.49 for the first month",
         "key_features": "Unlimited chats, faster video generation, ad-free experience",
         "description": "Channel AI Plus offers tools for enhanced video generation and user interaction, catering to users seeking a streamlined experience.",
         "category": "Video AI"
@@ -2395,8 +2395,8 @@
         "tool_name": "Try It On AI",
         "tool_url": "https://tryitonai.startupworld.com",
         "code": "DEAL VERIFIED",
-        "discount_amount": "10%",
-        "pricing_info": "Expires Nov 16, 2026",
+        "discount_amount": "15%",
+        "pricing_info": "Receive 15% off your initial order.",
         "key_features": "Create high-quality portraits, customize styles.",
         "description": "Try It On AI provides a professional AI Headshot Pro plan that helps users create personalized high-quality portraits for personal or business use.",
         "category": "Image AI"
@@ -2876,7 +2876,7 @@
         "tool_url": "https://toolsaday.startupworld.com",
         "code": "N/A",
         "discount_amount": "$7.99",
-        "pricing_info": "$7.99 per month",
+        "pricing_info": "$7.99/Month",
         "key_features": "Enhances writing productivity using powerful AI capabilities with premium support.",
         "description": "Toolsaday offers a suite of writing tools powered by AI to help users enhance productivity and improve the quality of their content.",
         "category": "Writing AI"
@@ -3130,5 +3130,65 @@
         "key_features": "No-code AI platform facilitating easy application creation.",
         "description": "Drafter AI is a no-code platform that empowers users to create applications through an intuitive interface without requiring programming knowledge.",
         "category": "No-Code AI"
+    },
+    {
+        "tool_name": "SEOwriting AI",
+        "tool_url": "https://www.youtube.com/watch?v=H0JzXy5DaD8",
+        "code": "BF30MONTH, BF40YEAR",
+        "discount_amount": "50%",
+        "pricing_info": "50% off with coupon code BF50",
+        "key_features": "Offers various coupon codes for discounts during promotional periods.",
+        "description": "SEOwriting AI is a specialized tool aimed at enhancing website content for search engine optimization, making it easier for users to improve their online visibility through quality writing.",
+        "category": "SEO AI"
+    },
+    {
+        "tool_name": "GitHub AI Coding Deals",
+        "tool_url": "https://github.com/codertesla/ai-coding-deals",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Offers information on free tiers, discounts, and referral credits.",
+        "key_features": "Money-saving guides for AI coding tools; includes open-source alternatives.",
+        "description": "GitHub's AI Coding Deals repository provides a comprehensive list of money-saving options for AI coding tools, including discounts and free alternatives.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "Fireflies.ai",
+        "tool_url": "https://course.aiadvisoryboard.me/en/promo",
+        "code": "N/A",
+        "discount_amount": "Free plan and discounts available",
+        "pricing_info": "Free plan",
+        "key_features": "AI meeting secretary that transcribes meetings by connecting to Zoom/Meet calls.",
+        "description": "Fireflies.ai acts as a virtual assistant for meetings, providing written transcripts of discussions to help teams stay organized and informed.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "Image AI",
+        "tool_url": "https://tavily.com/knowledge/company/yzQucupLjApT",
+        "code": "N/A",
+        "discount_amount": "15%",
+        "pricing_info": "Receive 15% off your initial order of professional AI Headshots.",
+        "key_features": "Professional AI generated headshots to enhance online presence.",
+        "description": "Image AI specializes in creating professional headshots using artificial intelligence to help individuals perfect their online presence with stunning photos.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "MakeBestMusic",
+        "tool_url": "https://www.aitoolsaver.com/tools/makebestmusic",
+        "code": "N/A",
+        "discount_amount": "65%",
+        "pricing_info": "Available from August 2026",
+        "key_features": "AI-powered song creation tools",
+        "description": "MakeBestMusic is a platform that provides tools for creating music using artificial intelligence, allowing users to generate songs quickly and effectively.",
+        "category": "Music AI"
+    },
+    {
+        "tool_name": "AI Song Generator",
+        "tool_url": "https://techjury.net/ai-coupons/ai-song-generator",
+        "code": "N/A",
+        "discount_amount": "33%",
+        "pricing_info": "Hand-Tested Coupons Available",
+        "key_features": "Transforms ideas into original compositions",
+        "description": "AI Song Generator is an innovative platform that assists creators in turning their musical ideas into original music efficiently, leveraging AI technology to streamline the creative process.",
+        "category": "Music AI"
     }
 ]

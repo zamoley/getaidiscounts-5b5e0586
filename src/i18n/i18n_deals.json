@@ -14442,5 +14442,281 @@
             "zh": "不适用",
             "it": "N/D"
         }
+    },
+    "SEOwriting AI": {
+        "description": {
+            "en": "SEOwriting AI is a specialized tool aimed at enhancing website content for search engine optimization, making it easier for users to improve their online visibility through quality writing.",
+            "uk": "SEOwriting ШІ - це спеціалізований інструмент, призначений для покращення контенту веб-сайту для оптимізації пошукових систем, що робить легшим для користувачів підвищити свою видимість в Інтернеті завдяки якісному написанню.",
+            "ja": "SEOwriting AIは、検索エンジン最適化のためのウェブサイトコンテンツを強化することを目的とした専門ツールであり、ユーザーが質の高いライティングを通じてオンラインの可視性を向上させやすくします。",
+            "es": "SEOwriting AI es una herramienta especializada destinada a mejorar el contenido de los sitios web para la optimización de motores de búsqueda, facilitando a los usuarios mejorar su visibilidad en línea a través de la escritura de calidad.",
+            "pt": "SEOwriting AI é uma ferramenta especializada voltada para aprimorar o conteúdo do site para otimização de mecanismos de busca, facilitando que os usuários melhorem sua visibilidade online por meio de escrita de qualidade.",
+            "fr": "SEOwriting AI est un outil spécialisé destiné à améliorer le contenu des sites Web pour l'optimisation des moteurs de recherche, facilitant ainsi aux utilisateurs l'amélioration de leur visibilité en ligne grâce à une écriture de qualité.",
+            "de": "SEOwriting AI ist ein spezialisiertes Tool zur Verbesserung des Website-Inhalts für die Suchmaschinenoptimierung, das es Benutzern erleichtert, ihre Online-Sichtbarkeit durch qualitativ hochwertiges Schreiben zu verbessern.",
+            "zh": "SEOwriting AI是一个专门的工具，旨在增强网站内容以进行搜索引擎优化，使用户更容易通过高质量的写作提高在线可见性。",
+            "it": "SEOwriting AI è uno strumento specializzato volto a migliorare il contenuto dei siti web per l'ottimizzazione dei motori di ricerca, rendendo più facile per gli utenti migliorare la propria visibilità online attraverso una scrittura di qualità."
+        },
+        "features": {
+            "en": "Offers various coupon codes for discounts during promotional periods.",
+            "uk": "Пропонує різні купонні коди для знижок під час промоційних періодів.",
+            "ja": "プロモーション期間中に割引のためのさまざまなクーポンコードを提供します。",
+            "es": "Ofrece varios códigos de cupón para descuentos durante períodos promocionales.",
+            "pt": "Oferece vários códigos de cupom para descontos durante períodos promocionais.",
+            "fr": "Propose divers codes de réduction pour des remises pendant les périodes promotionnelles.",
+            "de": "Bietet verschiedene Gutscheincodes für Rabatte während Aktionszeiträume an.",
+            "zh": "在促销期间提供各种优惠券代码以获取折扣。",
+            "it": "Offre vari codici coupon per sconti durante i periodi promozionali."
+        },
+        "discount": {
+            "en": "50%",
+            "uk": "50%",
+            "ja": "50%",
+            "es": "50%",
+            "pt": "50%",
+            "fr": "50%",
+            "de": "50%",
+            "zh": "50%",
+            "it": "50%"
+        },
+        "pricing": {
+            "en": "50% off with coupon code BF50",
+            "uk": "50% знижки з купонним кодом BF50",
+            "ja": "クーポンコードBF50で50%オフ",
+            "es": "50% de descuento con el código de cupón BF50",
+            "pt": "50% de desconto com o código de cupom BF50",
+            "fr": "50% de réduction avec le code promo BF50",
+            "de": "50% Rabatt mit dem Gutscheincode BF50",
+            "zh": "使用优惠券代码BF50享受50%的折扣",
+            "it": "50% di sconto con il codice coupon BF50"
+        }
+    },
+    "GitHub AI Coding Deals": {
+        "description": {
+            "en": "GitHub's AI Coding Deals repository provides a comprehensive list of money-saving options for AI coding tools, including discounts and free alternatives.",
+            "uk": "Репозиторій GitHub для угод з програмування ШІ пропонує всебічний список способів заощадження коштів на інструменти програмування ШІ, включаючи знижки та безкоштовні альтернативи.",
+            "ja": "GitHubのAIコーディングディールリポジトリは、割引や無料の代替手段を含むAIコーディングツールのための包括的な節約オプションのリストを提供します。",
+            "es": "El repositorio de Ofertas de Programación con IA de GitHub proporciona una lista completa de opciones para ahorrar dinero en herramientas de codificación de IA, incluidos descuentos y alternativas gratuitas.",
+            "pt": "O repositório de Ofertas de Codificação IA do GitHub oferece uma lista abrangente de opções para economizar dinheiro em ferramentas de codificação IA, incluindo descontos e alternativas gratuitas.",
+            "fr": "Le référentiel des offres de codage AI de GitHub fournit une liste complète d'options permettant d'économiser de l'argent sur les outils de codage AI, y compris des réductions et des alternatives gratuites.",
+            "de": "Das Repository von GitHub für AI-Coding-Deals bietet eine umfassende Liste von geldsparenden Optionen für AI-Coding-Tools, einschließlich Rabatten und kostenlosen Alternativen.",
+            "zh": "GitHub的AI编码交易库提供了一个全面的节省资金的选项列表，适用于AI编码工具，包括折扣和免费的替代品。",
+            "it": "Il repository delle Offerte di Codifica IA di GitHub fornisce un elenco completo di opzioni per risparmiare denaro sugli strumenti di codifica IA, comprese le offerte e le alternative gratuite."
+        },
+        "features": {
+            "en": "Money-saving guides for AI coding tools; includes open-source alternatives.",
+            "uk": "Посібники зі заощадження коштів для інструментів програмування ШІ; містить альтернативи з відкритим кодом.",
+            "ja": "AIコーディングツールのための節約ガイド; オープンソースの代替手段を含む。",
+            "es": "Guías para ahorrar dinero en herramientas de codificación IA; incluye alternativas de código abierto.",
+            "pt": "Guias de economia para ferramentas de codificação IA; inclui alternativas de código aberto.",
+            "fr": "Guides d'économie pour les outils de codage AI ; comprend des alternatives open-source.",
+            "de": "Geldsparende Leitfäden für AI-Coding-Tools; beinhaltet Open-Source-Alternativen.",
+            "zh": "用于AI编码工具的省钱指南；包括开源替代品。",
+            "it": "Guide per risparmiare denaro sugli strumenti di codifica IA; include alternative open-source."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/D",
+            "de": "Nicht verfügbar",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Offers information on free tiers, discounts, and referral credits.",
+            "uk": "Надає інформацію про безкоштовні рівні, знижки та реферальні кредити.",
+            "ja": "無料プラン、ディスカウント、および紹介クレジットに関する情報を提供します。",
+            "es": "Ofrece información sobre niveles gratuitos, descuentos y créditos de referencia.",
+            "pt": "Oferece informações sobre níveis gratuitos, descontos e créditos de referência.",
+            "fr": "Offre des informations sur les niveaux gratuits, les réductions et les crédits de parrainage.",
+            "de": "Bietet Informationen zu kostenlosen Tarifen, Rabatten und Empfehlungsprämien.",
+            "zh": "提供有关免费层、折扣和推荐信用的信息。",
+            "it": "Offre informazioni sui livelli gratuiti, sulle riduzioni e sui crediti di riferimento."
+        }
+    },
+    "Fireflies.ai": {
+        "description": {
+            "en": "Fireflies.ai acts as a virtual assistant for meetings, providing written transcripts of discussions to help teams stay organized and informed.",
+            "uk": "Fireflies.ai виступає у ролі віртуального асистента для зустрічей, надаючи письмові транскрипції обговорень, щоб допомогти командам залишатися організованими та проінформованими.",
+            "ja": "Fireflies.aiは会議のためのバーチャルアシスタントとして機能し、議論の書き起こしを提供してチームが整理され、情報を得られるようにします。",
+            "es": "Fireflies.ai actúa como un asistente virtual para reuniones, proporcionando transcripciones escritas de las discusiones para ayudar a los equipos a mantenerse organizados e informados.",
+            "pt": "Fireflies.ai atua como um assistente virtual para reuniões, fornecendo transcrições escritas das discussões para ajudar as equipes a se manterem organizadas e informadas.",
+            "fr": "Fireflies.ai agit en tant qu'assistant virtuel pour les réunions, fournissant des transcriptions écrites des discussions pour aider les équipes à rester organisées et informées.",
+            "de": "Fireflies.ai fungiert als virtueller Assistent für Meetings und bietet schriftliche Transkripte von Diskussionen, um Teams organisiert und informiert zu halten.",
+            "zh": "Fireflies.ai 充当会议的虚拟助手，提供讨论的书面记录，以帮助团队保持组织有序和知情。",
+            "it": "Fireflies.ai funge da assistente virtuale per le riunioni, fornendo trascrizioni scritte delle discussioni per aiutare i team a rimanere organizzati e informati."
+        },
+        "features": {
+            "en": "AI meeting secretary that transcribes meetings by connecting to Zoom/Meet calls.",
+            "uk": "ШІ-секретар нарада, який транскрибує зустрічі, підключаючись до дзвінків Zoom/Meet.",
+            "ja": "Zoom/Meet通話に接続して会議を文字起こしするAIミーティング秘書。",
+            "es": "Secretario de reuniones con IA que transcribe reuniones conectándose a llamadas de Zoom/Meet.",
+            "pt": "Secretário de reuniões com IA que transcreve reuniões conectando-se a chamadas do Zoom/Meet.",
+            "fr": "Secrétaire de réunion alimenté par IA qui transcrit les réunions en se connectant aux appels Zoom/Meet.",
+            "de": "KI-Meeting-Sekretär, der Meetings transkribiert, indem er sich mit Zoom/Meet-Anrufen verbindet.",
+            "zh": "通过连接到Zoom/Meet通话进行会议转录的人工智能会议秘书。",
+            "it": "Segretario di riunioni AI che trascrive le riunioni collegandosi a chiamate Zoom/Meet."
+        },
+        "discount": {
+            "en": "Free plan and discounts available",
+            "uk": "Безкоштовний план і доступні знижки",
+            "ja": "無料プランと割引があります",
+            "es": "Plan gratuito y descuentos disponibles",
+            "pt": "Plano gratuito e descontos disponíveis",
+            "fr": "Plan gratuit et remises disponibles",
+            "de": "Kostenloser Plan und Rabatte verfügbar",
+            "zh": "提供免费计划和折扣",
+            "it": "Piano gratuito e sconti disponibili"
+        },
+        "pricing": {
+            "en": "Free plan",
+            "uk": "Безкоштовний план",
+            "ja": "無料プラン",
+            "es": "Plan gratuito",
+            "pt": "Plano gratuito",
+            "fr": "Plan gratuit",
+            "de": "Kostenloser Plan",
+            "zh": "免费计划",
+            "it": "Piano gratuito"
+        }
+    },
+    "Image AI": {
+        "description": {
+            "en": "Image AI specializes in creating professional headshots using artificial intelligence to help individuals perfect their online presence with stunning photos.",
+            "uk": "Image AI спеціалізується на створенні професійних портретів за допомогою штучного інтелекту, щоб допомогти людям вдосконалити їх онлайн-присутність з вражаючими фотографіями.",
+            "ja": "Image AIは、人工知能を使用してプロフェッショナルなヘッドショットを作成することを専門としており、個人が素晴らしい写真でオンラインプレゼンスを完璧にする手助けをします。",
+            "es": "Image AI se especializa en crear retratos profesionales utilizando inteligencia artificial para ayudar a las personas a perfeccionar su presencia en línea con fotos impresionantes.",
+            "pt": "Image AI se especializa na criação de retratos profissionais usando inteligência artificial para ajudar indivíduos a aperfeiçoar sua presença online com fotos impressionantes.",
+            "fr": "Image AI se spécialise dans la création de portraits professionnels utilisant l'intelligence artificielle pour aider les individus à perfectionner leur présence en ligne avec des photos époustouflantes.",
+            "de": "Image AI spezialisiert sich auf die Erstellung professioneller Porträts mit künstlicher Intelligenz, um Einzelpersonen zu helfen, ihre Online-Präsenz mit atemberaubenden Fotos zu perfektionieren.",
+            "zh": "Image AI专注于使用人工智能创建专业头像，帮助个人通过惊艳的照片完善他们的在线形象。",
+            "it": "Image AI si specializza nella creazione di ritratti professionali utilizzando intelligenza artificiale per aiutare le persone a perfezionare la loro presenza online con foto straordinarie."
+        },
+        "features": {
+            "en": "Professional AI generated headshots to enhance online presence.",
+            "uk": "Професійні портрети, згенеровані ШІ, для покращення онлайн-присутності.",
+            "ja": "オンラインプレゼンスを強化するためのプロフェッショナルなAI生成のヘッドショット。",
+            "es": "Retratos profesionales generados por IA para mejorar la presencia en línea.",
+            "pt": "Retratos profissionais gerados por IA para melhorar a presença online.",
+            "fr": "Des portraits professionnels générés par l'IA pour améliorer la présence en ligne.",
+            "de": "Professionelle, von KI generierte Porträtfotos zur Verbesserung der Online-Präsenz.",
+            "zh": "专业的AI生成头像，以增强在线形象。",
+            "it": "Ritratti professionali generati dall'IA per migliorare la presenza online."
+        },
+        "discount": {
+            "en": "15%",
+            "uk": "15%",
+            "ja": "15%",
+            "es": "15%",
+            "pt": "15%",
+            "fr": "15%",
+            "de": "15%",
+            "zh": "15%",
+            "it": "15%"
+        },
+        "pricing": {
+            "en": "Receive 15% off your initial order of professional AI Headshots.",
+            "uk": "Отримайте 15% знижки на ваше перше замовлення професійних портретів ШІ.",
+            "ja": "プロフェッショナルなAIヘッドショットの初回注文で15%割引を受ける。",
+            "es": "Recibe un 15% de descuento en tu primer pedido de retratos profesionales generados por IA.",
+            "pt": "Receba 15% de desconto na sua primeira encomenda de retratos profissionais gerados por IA.",
+            "fr": "Recevez 15% de réduction sur votre première commande de portraits professionnels générés par l'IA.",
+            "de": "Erhalten Sie 15% Rabatt auf Ihre erste Bestellung professioneller KI-Porträts.",
+            "zh": "首次订购专业AI头像享受15%的折扣。",
+            "it": "Ricevi il 15% di sconto sul tuo primo ordine di ritratti professionali generati dall'IA."
+        }
+    },
+    "MakeBestMusic": {
+        "description": {
+            "en": "MakeBestMusic is a platform that provides tools for creating music using artificial intelligence, allowing users to generate songs quickly and effectively.",
+            "uk": "MakeBestMusic - це платформа, яка надає інструменти для створення музики за допомогою штучного інтелекту, дозволяючи користувачам швидко та ефективно генерувати пісні.",
+            "ja": "MakeBestMusicは、人工知能を使用して音楽を作成するためのツールを提供するプラットフォームであり、ユーザーが迅速かつ効果的に曲を生成できるようにします。",
+            "es": "MakeBestMusic es una plataforma que proporciona herramientas para crear música utilizando inteligencia artificial, permitiendo a los usuarios generar canciones de manera rápida y efectiva.",
+            "pt": "MakeBestMusic é uma plataforma que fornece ferramentas para criar música usando inteligência artificial, permitindo que os usuários gerem músicas de forma rápida e eficaz.",
+            "fr": "MakeBestMusic est une plateforme qui propose des outils pour créer de la musique en utilisant l'intelligence artificielle, permettant aux utilisateurs de générer des chansons rapidement et efficacement.",
+            "de": "MakeBestMusic ist eine Plattform, die Tools zur Erstellung von Musik mithilfe von künstlicher Intelligenz bereitstellt, sodass Benutzer schnell und effektiv Songs generieren können.",
+            "zh": "MakeBestMusic是一个提供使用人工智能创作音乐工具的平台，允许用户快速有效地生成歌曲。",
+            "it": "MakeBestMusic è una piattaforma che fornisce strumenti per creare musica utilizzando intelligenza artificiale, consentendo agli utenti di generare canzoni rapidamente ed efficacemente."
+        },
+        "features": {
+            "en": "AI-powered song creation tools",
+            "uk": "Інструменти для створення пісень на основі ШІ",
+            "ja": "AIによる曲作成ツール",
+            "es": "Herramientas de creación de canciones con inteligencia artificial",
+            "pt": "Ferramentas de criação de músicas com inteligência artificial",
+            "fr": "Outils de création de chansons alimentés par l'IA",
+            "de": "KI-gesteuerte Songerstellungstools",
+            "zh": "AI驱动的歌曲创作工具",
+            "it": "Strumenti di creazione di canzoni basati su intelligenza artificiale"
+        },
+        "discount": {
+            "en": "65%",
+            "uk": "65%",
+            "ja": "65%",
+            "es": "65%",
+            "pt": "65%",
+            "fr": "65%",
+            "de": "65%",
+            "zh": "65%",
+            "it": "65%"
+        },
+        "pricing": {
+            "en": "Available from August 2026",
+            "uk": "Доступно з серпня 2026 року",
+            "ja": "2026年8月から利用可能",
+            "es": "Disponible a partir de agosto de 2026",
+            "pt": "Disponível a partir de agosto de 2026",
+            "fr": "Disponible à partir d'août 2026",
+            "de": "Ab August 2026 verfügbar",
+            "zh": "2026年8月开始提供",
+            "it": "Disponibile da agosto 2026"
+        }
+    },
+    "AI Song Generator": {
+        "description": {
+            "en": "AI Song Generator is an innovative platform that assists creators in turning their musical ideas into original music efficiently, leveraging AI technology to streamline the creative process.",
+            "uk": "ШІ Генератор Пісень - це інноваційна платформа, яка допомагає творцям ефективно перетворювати свої музичні ідеї на оригінальну музику, використовуючи технології ШІ для оптимізації творчого процесу.",
+            "ja": "AIソングジェネレーターは、クリエイターが音楽的アイデアを効率的にオリジナル音楽に変えるのを支援する革新的なプラットフォームであり、AI技術を活用して創造的プロセスを合理化しています。",
+            "es": "AI Song Generator es una plataforma innovadora que asiste a los creadores en convertir sus ideas musicales en música original de manera eficiente, aprovechando la tecnología de la IA para optimizar el proceso creativo.",
+            "pt": "AI Song Generator é uma plataforma inovadora que ajuda os criadores a transformar suas ideias musicais em música original de forma eficiente, aproveitando a tecnologia da IA para simplificar o processo criativo.",
+            "fr": "AI Song Generator est une plateforme innovante qui aide les créateurs à transformer leurs idées musicales en musique originale de manière efficace, en utilisant la technologie IA pour simplifier le processus créatif.",
+            "de": "AI Song Generator ist eine innovative Plattform, die Kreativen hilft, ihre musikalischen Ideen effizient in originelle Musik umzuwandeln, indem sie KI-Technologie nutzt, um den kreativen Prozess zu optimieren.",
+            "zh": "AI歌曲生成器是一个创新的平台，帮助创作者高效地将音乐创意转化为原创音乐，利用AI技术简化创作过程。",
+            "it": "AI Song Generator è una piattaforma innovativa che assiste i creatori nel trasformare le loro idee musicali in musica originale in modo efficiente, sfruttando la tecnologia AI per semplificare il processo creativo."
+        },
+        "features": {
+            "en": "Transforms ideas into original compositions",
+            "uk": "Перетворює ідеї на оригінальні композиції",
+            "ja": "アイデアをオリジナル作品に変換します",
+            "es": "Transforma ideas en composiciones originales",
+            "pt": "Transforma ideias em composições originais",
+            "fr": "Transforme les idées en compositions originales",
+            "de": "Verwandelt Ideen in originale Kompositionen",
+            "zh": "将想法转化为原创作品",
+            "it": "Trasforma idee in composizioni originali"
+        },
+        "discount": {
+            "en": "33%",
+            "uk": "33%",
+            "ja": "33%",
+            "es": "33%",
+            "pt": "33%",
+            "fr": "33%",
+            "de": "33%",
+            "zh": "33%",
+            "it": "33%"
+        },
+        "pricing": {
+            "en": "Hand-Tested Coupons Available",
+            "uk": "Доступні купони, перевірені вручну",
+            "ja": "手動で検証されたクーポンが利用可能",
+            "es": "Cupones verificados disponibles",
+            "pt": "Cupons testados à mão disponíveis",
+            "fr": "Coupons testés à la main disponibles",
+            "de": "Händisch getestete Gutscheine verfügbar",
+            "zh": "提供手动验证的优惠券",
+            "it": "Coupon testati a mano disponibili"
+        }
     }
 }
