@@ -14718,5 +14718,603 @@
             "zh": "提供手动验证的优惠券",
             "it": "Coupon testati a mano disponibili"
         }
+    },
+    "Codex": {
+        "description": {
+            "en": "Codex is an AI tool from OpenAI, aimed at enhancing productivity for development teams by providing a range of coding capabilities.",
+            "uk": "Codex – це ШІ інструмент від OpenAI, спрямований на підвищення продуктивності команд розробників, надаючи ряд можливостей для кодування.",
+            "ja": "Codexは、OpenAIからのAIツールであり、コーディング機能の範囲を提供することで開発チームの生産性を向上させることを目的としています。",
+            "es": "Codex es una herramienta de IA de OpenAI, destinada a mejorar la productividad de los equipos de desarrollo al proporcionar una variedad de capacidades de codificación.",
+            "pt": "Codex é uma ferramenta de IA da OpenAI, destinada a aumentar a produtividade das equipes de desenvolvimento, fornecendo uma variedade de capacidades de codificação.",
+            "fr": "Codex est un outil d'IA d'OpenAI, visant à améliorer la productivité des équipes de développement en offrant une gamme de capacités de codage.",
+            "de": "Codex ist ein KI-Tool von OpenAI, das darauf abzielt, die Produktivität von Entwicklungsteams durch eine Vielzahl von Codierungsfähigkeiten zu steigern.",
+            "zh": "Codex是OpenAI的一种人工智能工具，旨在通过提供一系列编码能力来提高开发团队的生产力。",
+            "it": "Codex è uno strumento di intelligenza artificiale di OpenAI, destinato a migliorare la produttività dei team di sviluppo fornendo una gamma di capacità di codifica."
+        },
+        "features": {
+            "en": "OpenAI-first teams.",
+            "uk": "Команди OpenAI-First.",
+            "ja": "OpenAIファーストのチーム。",
+            "es": "Equipos de OpenAI primero.",
+            "pt": "Equipes do OpenAI primeiro.",
+            "fr": "Équipes OpenAI d'abord.",
+            "de": "OpenAI-zuerst-Teams.",
+            "zh": "OpenAI优先团队。",
+            "it": "Team OpenAI prima."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "v0 by Vercel": {
+        "description": {
+            "en": "v0 by Vercel is a tool focused on helping developers create visually appealing and polished user interfaces effortlessly.",
+            "uk": "v0 від Vercel – це інструмент, орієнтований на допомогу розробникам у створенні візуально привабливих і відшліфованих інтерфейсів користувача без зусиль.",
+            "ja": "Vercelのv0は、開発者が手間をかけずに視覚的に魅力的で洗練されたユーザーインターフェースを作成するのを支援するツールです。",
+            "es": "v0 de Vercel es una herramienta centrada en ayudar a los desarrolladores a crear interfaces de usuario atractivas y pulidas sin esfuerzo.",
+            "pt": "v0 da Vercel é uma ferramenta focada em ajudar os desenvolvedores a criar interfaces de usuário visualmente atraentes e polidas sem esforço.",
+            "fr": "v0 de Vercel est un outil axé sur l'aide aux développeurs pour créer des interfaces utilisateur visuellement attrayantes et soignées sans effort.",
+            "de": "v0 von Vercel ist ein Tool, das sich darauf konzentriert, Entwicklern zu helfen, mühelos ansprechende und raffinierte Benutzeroberflächen zu erstellen.",
+            "zh": "Vercel的v0是一个专注于帮助开发人员轻松创建视觉上吸引人且精致的用户界面的工具。",
+            "it": "v0 di Vercel è uno strumento focalizzato sull'aiutare gli sviluppatori a creare interfacce utente visivamente accattivanti e rifinite senza sforzo."
+        },
+        "features": {
+            "en": "Generating polished UI.",
+            "uk": "Генерація відшліфованих UI.",
+            "ja": "洗練されたUIの生成。",
+            "es": "Generación de UI pulidos.",
+            "pt": "Geração de UI polidos.",
+            "fr": "Génération d'interfaces utilisateur soignées.",
+            "de": "Erstellung von polierten UIs.",
+            "zh": "生成精致的用户界面。",
+            "it": "Generazione di UI rifinite."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "nxcode": {
+        "description": {
+            "en": "nxcode is an AI coding tool tailored for everyday use, especially useful for boilerplate code and small to medium-sized coding projects without a paid plan.",
+            "uk": "nxcode - це інструмент для написання коду на базі ШІ, спеціально розроблений для повсякденного використання, особливо корисний для шаблонного коду та малих і середніх проєктів без платного плану.",
+            "ja": "nxcodeは、日常的な使用のために特別に設計されたAIコーディングツールで、ボイラープレートコードや有料プランなしでの小中規模のコーディングプロジェクトに特に役立ちます。",
+            "es": "nxcode es una herramienta de codificación basada en IA diseñada para el uso diario, especialmente útil para código plantilla y proyectos de codificación pequeños a medianos sin un plan de pago.",
+            "pt": "nxcode é uma ferramenta de codificação baseada em IA voltada para o uso diário, especialmente útil para código boilerplate e projetos de codificação pequenos e médios sem um plano pago.",
+            "fr": "nxcode est un outil de codage basé sur l'IA conçu pour une utilisation quotidienne, particulièrement utile pour le code de base et les projets de codage petits à moyens sans plan payant.",
+            "de": "nxcode ist ein KI-Codierungswerkzeug, das für den täglichen Gebrauch entwickelt wurde und besonders nützlich für Boilerplate-Code sowie kleine bis mittelgroße Coding-Projekte ohne kostenpflichtigen Plan ist.",
+            "zh": "nxcode是一个基于人工智能的编码工具，专为日常使用量身定制，特别适合于无付费计划的小至中型编码项目和模板代码。",
+            "it": "nxcode è uno strumento di codifica basato su AI progettato per un uso quotidiano, particolarmente utile per codice boilerplate e progetti di codifica di piccole e medie dimensioni senza un piano a pagamento."
+        },
+        "features": {
+            "en": "Everyday coding, boilerplate, and small to medium projects.",
+            "uk": "Повсякденне кодування, шаблонний код та малі та середні проекти.",
+            "ja": "日常のコーディング、ボイラープレート、そして小中規模のプロジェクト。",
+            "es": "Codificación diaria, código plantilla y proyectos pequeños a medianos.",
+            "pt": "Codificação diária, código boilerplate e projetos pequenos a médios.",
+            "fr": "Codage quotidien, code de base et projets petits à moyens.",
+            "de": "Alltags-Codierung, Boilerplate und kleine bis mittlere Projekte.",
+            "zh": "日常编码、模板代码和小到中型项目。",
+            "it": "Codifica quotidiana, codice boilerplate e progetti di piccole e medie dimensioni."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає даних",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "N/A",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Free for everyday coding and small to medium projects.",
+            "uk": "Безкоштовно для повсякденного кодування та малих і середніх проектів.",
+            "ja": "日常のコーディングと小中規模のプロジェクトに対して無料です。",
+            "es": "Gratis para codificación diaria y proyectos pequeños a medianos.",
+            "pt": "Gratuito para codificação diária e projetos pequenos a médios.",
+            "fr": "Gratuit pour le codage quotidien et les projets petits à moyens.",
+            "de": "Kostenlos für alltägliches Codieren und kleine bis mittlere Projekte.",
+            "zh": "适用于日常编码和小至中型项目的免费使用。",
+            "it": "Gratuito per codifica quotidiana e progetti di piccole e medie dimensioni."
+        }
+    },
+    "Video Express AI": {
+        "description": {
+            "en": "Video Express AI provides an all-inclusive solution for generating videos using AI, aimed at simplifying the video production process for users.",
+            "uk": "Video Express ШІ надає всеохоплююче рішення для створення відео з використанням ШІ, яке має на меті спростити процес відеовиробництва для користувачів.",
+            "ja": "Video Express AIは、ユーザーのビデオ制作プロセスを簡素化することを目的とした、AIを使用したビデオ生成のための包括的なソリューションを提供します。",
+            "es": "Video Express AI ofrece una solución integral para generar videos utilizando IA, con el objetivo de simplificar el proceso de producción de videos para los usuarios.",
+            "pt": "O Video Express AI fornece uma solução completa para gerar vídeos usando IA, visando simplificar o processo de produção de vídeos para os usuários.",
+            "fr": "Video Express AI propose une solution tout-en-un pour générer des vidéos en utilisant l'IA, visant à simplifier le processus de production vidéo pour les utilisateurs.",
+            "de": "Video Express KI bietet eine umfassende Lösung zur Erstellung von Videos mit KI, die darauf abzielt, den Videoproduktionsprozess für die Benutzer zu vereinfachen.",
+            "zh": "Video Express AI 提供了一种使用人工智能生成视频的全面解决方案，旨在简化用户的视频制作过程。",
+            "it": "Video Express AI offre una soluzione completa per generare video utilizzando l'IA, mirata a semplificare il processo di produzione video per gli utenti."
+        },
+        "features": {
+            "en": "All-in-one AI video generator tool.",
+            "uk": "Універсальний інструмент для генерації відео на основі ШІ.",
+            "ja": "オールインワンのAIビデオ生成ツール。",
+            "es": "Herramienta generadora de vídeos con IA todo en uno.",
+            "pt": "Ferramenta de gerador de vídeo com IA tudo em um.",
+            "fr": "Outil générateur de vidéos AI tout-en-un.",
+            "de": "All-in-One KI-Video-Generator-Tool.",
+            "zh": "一体化AI视频生成工具。",
+            "it": "Strumento generatore di video AI tutto in uno."
+        },
+        "discount": {
+            "en": "30%",
+            "uk": "30%",
+            "ja": "30%",
+            "es": "30%",
+            "pt": "30%",
+            "fr": "30%",
+            "de": "30%",
+            "zh": "30%",
+            "it": "30%"
+        },
+        "pricing": {
+            "en": "Expiring soon, exclusive coupon.",
+            "uk": "Скоро закінчується, ексклюзивний купон.",
+            "ja": "期限が迫っています。特別クーポン。",
+            "es": "Caduca pronto, cupón exclusivo.",
+            "pt": "A expirar em breve, cupom exclusivo.",
+            "fr": "Expiration prochaine, coupon exclusif.",
+            "de": "Bald ablaufend, exklusiver Gutschein.",
+            "zh": "即将到期，独家优惠券。",
+            "it": "In scadenza presto, coupon esclusivo."
+        }
+    },
+    "Maverick AI": {
+        "description": {
+            "en": "Maverick AI offers resources and tools to help users find discount codes for various AI applications, including ChatGPT.",
+            "uk": "Maverick AI пропонує ресурси та інструменти, які допомагають користувачам знаходити знижкові коди для різних застосунків ШІ, включаючи ChatGPT.",
+            "ja": "Maverick AIは、ChatGPTを含むさまざまなAIアプリケーションの割引コードを見つけるためのリソースとツールを提供します。",
+            "es": "Maverick AI ofrece recursos y herramientas para ayudar a los usuarios a encontrar códigos de descuento para varias aplicaciones de IA, incluido ChatGPT.",
+            "pt": "O Maverick AI oferece recursos e ferramentas para ajudar os usuários a encontrar códigos de desconto para várias aplicações de IA, incluindo o ChatGPT.",
+            "fr": "Maverick AI propose des ressources et des outils pour aider les utilisateurs à trouver des codes de réduction pour diverses applications d'IA, y compris ChatGPT.",
+            "de": "Maverick AI bietet Ressourcen und Tools, die Nutzern helfen, Rabattcodes für verschiedene KI-Anwendungen, einschließlich ChatGPT, zu finden.",
+            "zh": "Maverick AI提供资源和工具，帮助用户找到各种AI应用程序的折扣代码，包括ChatGPT。",
+            "it": "Maverick AI offre risorse e strumenti per aiutare gli utenti a trovare codici sconto per varie applicazioni di IA, incluso ChatGPT."
+        },
+        "features": {
+            "en": "Provides a discount code finder for ChatGPT and other tools.",
+            "uk": "Надає засіб для знаходження знижкових кодів для ChatGPT та інших інструментів.",
+            "ja": "ChatGPTや他のツールの割引コードを見つけるための機能を提供します。",
+            "es": "Proporciona un buscador de códigos de descuento para ChatGPT y otras herramientas.",
+            "pt": "Oferece um localizador de códigos de desconto para o ChatGPT e outras ferramentas.",
+            "fr": "Fournit un outil de recherche de codes de réduction pour ChatGPT et d'autres outils.",
+            "de": "Bietet einen Rabattcode-Finder für ChatGPT und andere Tools.",
+            "zh": "提供 ChatGPT 和其他工具的折扣代码查找器。",
+            "it": "Fornisce un cercatore di codici sconto per ChatGPT e altri strumenti."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Free guides available",
+            "uk": "Доступні безкоштовні посібники",
+            "ja": "無料のガイドが利用可能",
+            "es": "Guías gratuitas disponibles",
+            "pt": "Guias gratuitos disponíveis",
+            "fr": "Guides gratuits disponibles",
+            "de": "Kostenlose Anleitungen verfügbar",
+            "zh": "提供免费指南",
+            "it": "Guide gratuite disponibili"
+        }
+    },
+    "Wispr Flow AI": {
+        "description": {
+            "en": "Wispr Flow AI is designed to streamline and optimize workflow processes using artificial intelligence, providing credits for users to enhance their experience.",
+            "uk": "Wispr Flow ШІ спроектований для спрощення та оптимізації робочих процесів за допомогою штучного інтелекту, надаючи кредити для користувачів, щоб покращити їхній досвід.",
+            "ja": "Wispr Flow AIは、人工知能を使用してワークフローを合理化し最適化するように設計されており、ユーザーが体験を向上させるためのクレジットを提供します。",
+            "es": "Wispr Flow AI está diseñado para agilizar y optimizar los procesos de trabajo utilizando inteligencia artificial, proporcionando créditos a los usuarios para mejorar su experiencia.",
+            "pt": "Wispr Flow AI é projetado para agilizar e otimizar processos de trabalho usando inteligência artificial, fornecendo créditos para os usuários melhorarem sua experiência.",
+            "fr": "Wispr Flow AI est conçu pour rationaliser et optimiser les processus de travail en utilisant l'intelligence artificielle, offrant des crédits aux utilisateurs pour améliorer leur expérience.",
+            "de": "Wispr Flow AI ist darauf ausgelegt, Arbeitsabläufe mithilfe von künstlicher Intelligenz zu optimieren und zu vereinfachen und bietet Benutzern Guthaben zur Verbesserung ihrer Erfahrung.",
+            "zh": "Wispr Flow AI旨在利用人工智能简化和优化工作流程，为用户提供积分以增强他们的体验。",
+            "it": "Wispr Flow AI è progettato per semplificare e ottimizzare i processi di lavoro utilizzando l'intelligenza artificiale, fornendo crediti agli utenti per migliorare la loro esperienza."
+        },
+        "features": {
+            "en": "AI-driven workflow management.",
+            "uk": "Управління робочими процесами на основі ШІ.",
+            "ja": "AI駆動のワークフロー管理。",
+            "es": "Gestión de flujo de trabajo impulsada por IA.",
+            "pt": "Gerenciamento de fluxo de trabalho impulsionado por IA.",
+            "fr": "Gestion des flux de travail alimentée par l'IA.",
+            "de": "KI-gestütztes Workflow-Management.",
+            "zh": "基于人工智能的工作流程管理。",
+            "it": "Gestione del flusso di lavoro guidata dall'IA."
+        },
+        "discount": {
+            "en": "$15",
+            "uk": "$15",
+            "ja": "$15",
+            "es": "$15",
+            "pt": "$15",
+            "fr": "$15",
+            "de": "$15",
+            "zh": "$15",
+            "it": "$15"
+        },
+        "pricing": {
+            "en": "Credit available.",
+            "uk": "Кредит доступний.",
+            "ja": "クレジット利用可能。",
+            "es": "Crédito disponible.",
+            "pt": "Crédito disponível.",
+            "fr": "Crédit disponible.",
+            "de": "Guthaben verfügbar.",
+            "zh": "信用可用。",
+            "it": "Credito disponibile."
+        }
+    },
+    "Recraft AI": {
+        "description": {
+            "en": "Recraft AI employs artificial intelligence to assist users in creating and refining design projects, offering substantial credits to help users maximize its features.",
+            "uk": "Recraft ШІ використовує штучний інтелект для допомоги користувачам у створенні та вдосконаленні дизайнерських проектів, пропонуючи значні кредити, щоб допомогти користувачам максимально використовувати його функції.",
+            "ja": "Recraft AIは、ユーザーがデザインプロジェクトを作成および洗練するのを支援するために人工知能を利用し、ユーザーが機能を最大限に活用できるように大幅なクレジットを提供します。",
+            "es": "Recraft AI emplea inteligencia artificial para ayudar a los usuarios a crear y perfeccionar proyectos de diseño, ofreciendo créditos sustanciales para ayudar a los usuarios a maximizar sus funciones.",
+            "pt": "Recraft AI emprega inteligência artificial para ajudar os usuários a criar e refinar projetos de design, oferecendo créditos substanciais para ajudar os usuários a maximizar seus recursos.",
+            "fr": "Recraft AI utilise l'intelligence artificielle pour aider les utilisateurs à créer et à affiner des projets de design, offrant des crédits substantiels pour aider les utilisateurs à maximiser ses fonctionnalités.",
+            "de": "Recraft AI setzt künstliche Intelligenz ein, um Benutzern bei der Erstellung und Verfeinerung von Designprojekten zu helfen, und bietet erhebliche Guthaben an, um Benutzern zu helfen, seine Funktionen optimal zu nutzen.",
+            "zh": "Recraft AI利用人工智能帮助用户创建和完善设计项目，提供大量积分帮助用户最大化其功能。",
+            "it": "Recraft AI impiega l'intelligenza artificiale per assistere gli utenti nella creazione e nel perfezionamento di progetti di design, offrendo crediti sostanziali per aiutare gli utenti a massimizzare le sue funzionalità."
+        },
+        "features": {
+            "en": "Creative AI solutions for design.",
+            "uk": "Креативні ШІ рішення для дизайну.",
+            "ja": "デザインのための創造的なAIソリューション。",
+            "es": "Soluciones creativas de IA para el diseño.",
+            "pt": "Soluções criativas de IA para design.",
+            "fr": "Solutions créatives d'IA pour le design.",
+            "de": "Kreative KI-Lösungen für das Design.",
+            "zh": "用于设计的创意AI解决方案。",
+            "it": "Soluzioni creative di IA per il design."
+        },
+        "discount": {
+            "en": "200",
+            "uk": "200",
+            "ja": "200",
+            "es": "200",
+            "pt": "200",
+            "fr": "200",
+            "de": "200",
+            "zh": "200",
+            "it": "200"
+        },
+        "pricing": {
+            "en": "Credits available.",
+            "uk": "Кредити доступні.",
+            "ja": "クレジットが利用可能です。",
+            "es": "Créditos disponibles.",
+            "pt": "Créditos disponíveis.",
+            "fr": "Crédits disponibles.",
+            "de": "Guthaben verfügbar.",
+            "zh": "可用积分。",
+            "it": "Crediti disponibili."
+        }
+    },
+    "Windsurf AI": {
+        "description": {
+            "en": "Windsurf AI provides innovative tools and insights for windsurfing enthusiasts, leveraging AI to improve performance and strategy with available credits.",
+            "uk": "Windsurf AI пропонує інноваційні інструменти та ідеї для фанатів віндсерфінгу, використовуючи ШІ для покращення виконання та стратегії з доступними кредитами.",
+            "ja": "Windsurf AIは、ウィンドサーフィン愛好者のために革新的なツールと洞察を提供し、利用可能なクレジットを使ってパフォーマンスと戦略を向上させるためにAIを活用しています。",
+            "es": "Windsurf AI proporciona herramientas e información innovadoras para entusiastas del windsurf, aprovechando la IA para mejorar el rendimiento y la estrategia con créditos disponibles.",
+            "pt": "Windsurf AI fornece ferramentas e insights inovadores para entusiastas do windsurf, aproveitando a IA para melhorar o desempenho e a estratégia com créditos disponíveis.",
+            "fr": "Windsurf AI fournit des outils et des informations innovants pour les passionnés de planche à voile, utilisant l'IA pour améliorer les performances et les stratégies avec les crédits disponibles.",
+            "de": "Windsurf AI bietet innovative Werkzeuge und Einblicke für Windsurfen-Begeisterte und nutzt KI, um die Leistung und Strategie mit verfügbaren Credits zu verbessern.",
+            "zh": "Windsurf AI为风帆冲浪爱好者提供创新的工具和洞察，利用人工智能改善性能和策略，并可获得积分。",
+            "it": "Windsurf AI fornisce strumenti e informazioni innovative per gli appassionati di windsurf, sfruttando l'IA per migliorare le performance e la strategia con crediti disponibili."
+        },
+        "features": {
+            "en": "AI-enhanced windsurfing tools.",
+            "uk": "Інструменти віндсерфінгу з покращенням за допомогою ШІ.",
+            "ja": "AIを強化したウィンドサーフィンツール。",
+            "es": "Herramientas de windsurf mejoradas con IA.",
+            "pt": "Ferramentas de windsurf aprimoradas por IA.",
+            "fr": "Outils de planche à voile améliorés par l'IA.",
+            "de": "KI-verbesserte Windsurfing-Tools.",
+            "zh": "增强AI的风帆冲浪工具。",
+            "it": "Strumenti per il windsurf potenziati dall'IA."
+        },
+        "discount": {
+            "en": "500",
+            "uk": "500",
+            "ja": "500",
+            "es": "500",
+            "pt": "500",
+            "fr": "500",
+            "de": "500",
+            "zh": "500",
+            "it": "500"
+        },
+        "pricing": {
+            "en": "Credits available.",
+            "uk": "Доступні кредити.",
+            "ja": "クレジットが利用可能です。",
+            "es": "Créditos disponibles.",
+            "pt": "Créditos disponíveis.",
+            "fr": "Crédits disponibles.",
+            "de": "Credits verfügbar.",
+            "zh": "可用积分。",
+            "it": "Crediti disponibili."
+        }
+    },
+    "ElevenLabs TTS": {
+        "description": {
+            "en": "ElevenLabs TTS offers high-quality text-to-speech services using advanced neural networks, allowing users to convert text into natural-sounding speech.",
+            "uk": "ElevenLabs TTS пропонує високоякісні послуги перетворення тексту в мовлення, використовуючи сучасні нейронні мережі, що дозволяє користувачам перетворювати текст на природно звучащу мову.",
+            "ja": "ElevenLabs TTSは、高品質なテキスト読み上げサービスを提供しており、高度なニューラルネットワークを使用して、ユーザーがテキストを自然な音声に変換できるようにします。",
+            "es": "ElevenLabs TTS ofrece servicios de alta calidad de texto a voz utilizando redes neuronales avanzadas, lo que permite a los usuarios convertir texto en un discurso que suena natural.",
+            "pt": "ElevenLabs TTS oferece serviços de conversão de texto em fala de alta qualidade utilizando redes neurais avançadas, permitindo aos usuários converter texto em fala com som natural.",
+            "fr": "ElevenLabs TTS propose des services de synthèse vocale de haute qualité utilisant des réseaux neuronaux avancés, permettant aux utilisateurs de convertir du texte en discours naturel.",
+            "de": "ElevenLabs TTS bietet hochwertige Text-zu-Sprache-Dienste mit fortschrittlichen neuronalen Netzwerken, die es den Benutzern ermöglichen, Text in natürlich klingende Sprache umzuwandeln.",
+            "zh": "ElevenLabs TTS 提供高质量的文本转语音服务，采用先进的神经网络，允许用户将文本转换为自然听起来的语音。",
+            "it": "ElevenLabs TTS offre servizi di sintesi vocale di alta qualità utilizzando reti neurali avanzate, consentendo agli utenti di convertire il testo in un discorso dal suono naturale."
+        },
+        "features": {
+            "en": "Text-to-speech capabilities using ШІ.",
+            "uk": "Можливості перетворення тексту в мовлення за допомогою ШІ.",
+            "ja": "ШІを利用したテキスト読み上げ機能。",
+            "es": "Capacidades de texto a voz utilizando ШІ.",
+            "pt": "Capacidades de conversão de texto em fala usando ШІ.",
+            "fr": "Fonctionnalités de synthèse vocale utilisant ШІ.",
+            "de": "Text-zu-Sprache-Funktionen mit ШІ.",
+            "zh": "使用ШІ的文本转语音功能。",
+            "it": "Funzionalità di sintesi vocale utilizzando ШІ."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/D"
+        }
+    },
+    "HAQQ": {
+        "description": {
+            "en": "HAQQ offers legal AI tools designed to streamline communications and manage legal workflows effectively.",
+            "uk": "HAQQ пропонує юридичні інструменти ШІ, розроблені для оптимізації комунікацій та ефективного управління юридичними робочими процесами.",
+            "ja": "HAQQは、コミュニケーションを円滑にし、法的ワークフローを効果的に管理するために設計された法的AIツールを提供します。",
+            "es": "HAQQ ofrece herramientas legales de IA diseñadas para optimizar las comunicaciones y gestionar los flujos de trabajo legales de manera efectiva.",
+            "pt": "HAQQ oferece ferramentas jurídicas de IA projetadas para otimizar as comunicações e gerenciar fluxos de trabalho legais de forma eficaz.",
+            "fr": "HAQQ propose des outils juridiques d'IA conçus pour rationaliser les communications et gérer efficacement les flux de travail juridiques.",
+            "de": "HAQQ bietet rechtliche KI-Tools, die entwickelt wurden, um die Kommunikation zu optimieren und rechtliche Arbeitsabläufe effektiv zu verwalten.",
+            "zh": "HAQQ提供法律AI工具，旨在简化沟通并有效管理法律工作流程。",
+            "it": "HAQQ offre strumenti legali di IA progettati per semplificare le comunicazioni e gestire efficacemente i flussi di lavoro legali."
+        },
+        "features": {
+            "en": "AI-driven legal chat capabilities and firm management tools.",
+            "uk": "Функції юридичного чату на базі ШІ та інструменти управління фірмою.",
+            "ja": "AI駆動の法律チャット機能と事務所管理ツール。",
+            "es": "Capacidades de chat legal impulsadas por IA y herramientas de gestión de despachos.",
+            "pt": "Recursos de chat jurídico impulsionados por IA e ferramentas de gestão de escritório.",
+            "fr": "Fonctionnalités de chat juridique alimentées par IA et outils de gestion de cabinet.",
+            "de": "KI-gestützte Funktionen für rechtliche Chats und Verwaltungswerkzeuge für Kanzleien.",
+            "zh": "AI驱动的法律聊天功能和事务所管理工具。",
+            "it": "Funzionalità di chat legale guidate da IA e strumenti di gestione dello studio."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/V",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "Chat from $30 a month, eFirm from $25 per user a month with a two-seat minimum.",
+            "uk": "Чат від 30 доларів на місяць, eFirm від 25 доларів на місяць за користувача при мінімумі двох місць.",
+            "ja": "チャットは月額30ドルから、eFirmは月額25ドルから、2席以上の最小利用が必要です。",
+            "es": "Chat desde $30 al mes, eFirm desde $25 por usuario al mes con un mínimo de dos asientos.",
+            "pt": "Chat a partir de $30 por mês, eFirm a partir de $25 por usuário por mês, com um mínimo de dois assentos.",
+            "fr": "Chat à partir de 30 $ par mois, eFirm à partir de 25 $ par utilisateur par mois avec un minimum de deux sièges.",
+            "de": "Chat ab 30 $ pro Monat, eFirm ab 25 $ pro Benutzer und Monat mit einem Mindestbedarf von zwei Plätzen.",
+            "zh": "聊天每月起价30美元，eFirm每用户每月起价25美元，最低需要两个座位。",
+            "it": "Chat a partire da 30 dollari al mese, eFirm a partire da 25 dollari per utente al mese con un minimo di due posti."
+        }
+    },
+    "GC AI": {
+        "description": {
+            "en": "GC AI provides AI tools for legal research designed to enhance access to legal information and streamline case law investigations.",
+            "uk": "GC ШІ надає інструменти ШІ для юридичних досліджень, які покликані поліпшити доступ до юридичної інформації та спростити розслідування прецедентного права.",
+            "ja": "GC AIは、法的情報へのアクセスを強化し、判例法の調査を効率化するために設計された法務研究のためのAIツールを提供します。",
+            "es": "GC AI proporciona herramientas de IA para la investigación legal diseñadas para mejorar el acceso a la información legal y agilizar las investigaciones de jurisprudencia.",
+            "pt": "GC AI fornece ferramentas de IA para pesquisa jurídica, projetadas para melhorar o acesso à informação legal e simplificar investigações de jurisprudência.",
+            "fr": "GC AI fournit des outils d'IA pour la recherche juridique, conçus pour améliorer l'accès à l'information juridique et rationaliser les enquêtes sur la jurisprudence.",
+            "de": "GC AI bietet KI-gestützte Werkzeuge für die juristische Forschung, die darauf abzielen, den Zugang zu rechtlichen Informationen zu verbessern und die Untersuchung von Rechtsprechung zu optimieren.",
+            "zh": "GC AI提供法律研究的人工智能工具，旨在增强对法律信息的访问并简化案例法调查。",
+            "it": "GC AI fornisce strumenti di intelligenza artificiale per la ricerca legale progettati per migliorare l'accesso alle informazioni legali e semplificare le indagini sulla giurisprudenza."
+        },
+        "features": {
+            "en": "Access to legal databases and AI-powered research capabilities.",
+            "uk": "Доступ до юридичних баз даних та функціональність досліджень на основі ШІ.",
+            "ja": "法的データベースへのアクセスとAIによる研究機能。",
+            "es": "Acceso a bases de datos legales y capacidades de investigación impulsadas por IA.",
+            "pt": "Acesso a bancos de dados jurídicos e capacidades de pesquisa impulsionadas por IA.",
+            "fr": "Accès à des bases de données juridiques et capacités de recherche alimentées par l'IA.",
+            "de": "Zugang zu juristischen Datenbanken und KI-gestützte Forschungskapazitäten.",
+            "zh": "访问法律数据库和人工智能驱动的研究能力。",
+            "it": "Accesso a database legali e capacità di ricerca potenziate dall'intelligenza artificiale."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Немає",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "无",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "Individual plan costs $500 per month; Team pricing available on request.",
+            "uk": "Індивідуальний план коштує 500 доларів США на місяць; ціни для команди доступні за запитом.",
+            "ja": "個人プランは月500ドルです。チーム料金はリクエストに応じて利用可能です。",
+            "es": "El plan individual cuesta $500 por mes; la información de precios para equipos está disponible a solicitud.",
+            "pt": "O plano individual custa $500 por mês; preços para equipes disponíveis sob solicitação.",
+            "fr": "Le plan individuel coûte 500 $ par mois; les tarifs d'équipe sont disponibles sur demande.",
+            "de": "Der Einzelplan kostet 500 $ pro Monat; Teampreise auf Anfrage erhältlich.",
+            "zh": "个人计划每月费用为500美元；团队定价可根据要求提供。",
+            "it": "Il piano individuale costa 500 dollari al mese; i prezzi per il team sono disponibili su richiesta."
+        }
+    },
+    "Manus": {
+        "description": {
+            "en": "Manus's AI coupon finder is designed to automatically search for and retrieve verified discount codes and promotional offers across various products and stores, enhancing the online shopping experience.",
+            "uk": "ШІ-інструмент Manus для пошуку купонів призначений для автоматичного пошуку та отримання підтверджених кодів знижок і промо-пропозицій для різних продуктів і магазинів, покращуючи досвід онлайн-шопінгу.",
+            "ja": "ManusのAIクーポンファインダーは、さまざまな製品や店舗の検証済み割引コードとプロモーションオファーを自動的に検索して取得するように設計されており、オンラインショッピング体験を向上させます。",
+            "es": "El buscador de cupones AI de Manus está diseñado para buscar y recuperar automáticamente códigos de descuento verificados y ofertas promocionales en una variedad de productos y tiendas, mejorando la experiencia de compra en línea.",
+            "pt": "O localizador de cupons de IA da Manus foi projetado para buscar e recuperar automaticamente códigos de desconto verificados e ofertas promocionais em diversos produtos e lojas, melhorando a experiência de compras online.",
+            "fr": "Le chercheur de coupons AI de Manus est conçu pour rechercher et récupérer automatiquement des codes de réduction et des offres promotionnelles vérifiés dans divers produits et magasins, améliorant ainsi l'expérience de shopping en ligne.",
+            "de": "Der KI-Gutscheinfinder von Manus wurde entwickelt, um automatisch nach verifizierten Rabattcodes und Werbeaktionen für verschiedene Produkte und Geschäfte zu suchen und diese abzurufen, um das Online-Shopping-Erlebnis zu verbessern.",
+            "zh": "Manus的人工智能优惠券查找器旨在自动搜索并获取各种产品和商店的验证折扣码和促销优惠，从而增强在线购物体验。",
+            "it": "Il cercatore di coupon AI di Manus è progettato per cercare e recuperare automaticamente codici sconto e offerte promozionali verificati su vari prodotti e negozi, migliorando l'esperienza di acquisto online."
+        },
+        "features": {
+            "en": "Automatic coupon finder; intelligent tool for discovering verified discount codes and promotions.",
+            "uk": "Автоматичний пошук купонів; розумний інструмент для виявлення підтверджених кодів знижок і промоцій.",
+            "ja": "自動クーポンファインダー; 検証済みの割引コードとプロモーションを発見するためのインテリジェントなツール。",
+            "es": "Buscador de cupones automático; herramienta inteligente para descubrir códigos de descuento y promociones verificados.",
+            "pt": "Localizador de cupons automático; ferramenta inteligente para descobrir códigos de desconto e promoções verificados.",
+            "fr": "Chercheur de coupons automatique ; outil intelligent pour découvrir des codes de réduction et des promotions vérifiées.",
+            "de": "Automatischer Gutscheinfinder; intelligentes Werkzeug zur Entdeckung von verifizierten Rabattcodes und Aktionen.",
+            "zh": "自动优惠券查找器；发现验证过的折扣码和促销的智能工具。",
+            "it": "Cercatore di coupon automatico; strumento intelligente per scoprire codici sconto e promozioni verificati."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        },
+        "pricing": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/A",
+            "pt": "N/A",
+            "fr": "N/A",
+            "de": "N/A",
+            "zh": "不适用",
+            "it": "N/A"
+        }
+    },
+    "Simplified": {
+        "description": {
+            "en": "Simplified provides AI-based tools and features for writing, language processing, and more, designed to streamline and enhance content creation.",
+            "uk": "Simplified надає інструменти та функції на основі ШІ для написання, обробки мов та інших завдань, розроблені для спрощення та покращення створення контенту.",
+            "ja": "Simplifiedは、執筆、言語処理などのためのAIベースのツールと機能を提供し、コンテンツ作成を効率化し向上させることを目的としています。",
+            "es": "Simplified ofrece herramientas y funciones basadas en IA para la escritura, el procesamiento del lenguaje y más, diseñadas para optimizar y mejorar la creación de contenido.",
+            "pt": "Simplified fornece ferramentas e recursos baseados em IA para escrita, processamento de linguagem e mais, projetados para agilizar e melhorar a criação de conteúdo.",
+            "fr": "Simplified fournit des outils et des fonctionnalités basés sur l'IA pour l'écriture, le traitement du langage et plus encore, conçus pour rationaliser et améliorer la création de contenu.",
+            "de": "Simplified bietet KI-gestützte Werkzeuge und Funktionen für das Schreiben, die Sprachverarbeitung und mehr, die darauf ausgelegt sind, die Erstellung von Inhalten zu optimieren und zu verbessern.",
+            "zh": "Simplified 提供基于 AI 的工具和功能，用于写作、语言处理等，旨在简化和增强内容创作。",
+            "it": "Simplified offre strumenti e funzionalità basati su IA per la scrittura, l'elaborazione del linguaggio e altro ancora, progettati per semplificare e migliorare la creazione di contenuti."
+        },
+        "features": {
+            "en": "Comprehensive tool offerings including writing and language processing.",
+            "uk": "Широкий спектр інструментів, включаючи написання та обробку мов.",
+            "ja": "執筆や言語処理を含む包括的なツールの提供。",
+            "es": "Ofertas de herramientas completas que incluyen escritura y procesamiento del lenguaje.",
+            "pt": "Ofertas abrangentes de ferramentas, incluindo escrita e processamento de linguagem.",
+            "fr": "Offres d'outils complets incluant l'écriture et le traitement du langage.",
+            "de": "Umfassende Werkzeugangebote, einschließlich Schreiben und Sprachverarbeitung.",
+            "zh": "综合工具提供，包括写作和语言处理。",
+            "it": "Offerte di strumenti completi che includono scrittura e elaborazione del linguaggio."
+        },
+        "discount": {
+            "en": "N/A",
+            "uk": "Н/Д",
+            "ja": "該当なし",
+            "es": "N/D",
+            "pt": "N/D",
+            "fr": "S/N",
+            "de": "k.A.",
+            "zh": "不适用",
+            "it": "N/D"
+        },
+        "pricing": {
+            "en": "27 Verified Offers",
+            "uk": "27 перевірених пропозицій",
+            "ja": "27の確認済みオファー",
+            "es": "27 ofertas verificadas",
+            "pt": "27 ofertas verificadas",
+            "fr": "27 offres vérifiées",
+            "de": "27 verifiziert Angebote",
+            "zh": "27个经过验证的报价",
+            "it": "27 offerte verificate"
+        }
     }
 }

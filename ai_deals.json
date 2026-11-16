@@ -15,7 +15,7 @@
         "tool_url": "https://elevenlabs.io",
         "code": "ELEVEN10",
         "discount_amount": "50%",
-        "pricing_info": "Initial discount on premium AI voice tools",
+        "pricing_info": "First month for $11 with discount, two free months on annual plans.",
         "key_features": "Realistic Voice Cloning, Text-to-Speech",
         "description": "The most realistic AI voice generator available.",
         "last_verified": "2026-05-05",
@@ -24,9 +24,9 @@
     {
         "tool_name": "HeyGen",
         "tool_url": "https://www.heygen.com",
-        "code": "20% OFF",
-        "discount_amount": "$100 Off",
-        "pricing_info": "Details on plans not fully listed.",
+        "code": "22% Off - 2026",
+        "discount_amount": "22%",
+        "pricing_info": "Offer applicable on annual plans.",
         "key_features": "AI Avatars, Video Translation",
         "description": "Create professional AI videos with digital avatars.",
         "last_verified": "2026-05-05",
@@ -492,8 +492,8 @@
         "tool_name": "Claude",
         "tool_url": "https://claude.ai",
         "code": "CLAUDE50",
-        "discount_amount": "50%",
-        "pricing_info": "Promo codes may be recycled or fake.",
+        "discount_amount": "$5000 Credits",
+        "pricing_info": "No valid codes currently exist",
         "key_features": "Advanced NLU, Coding, Large Context",
         "description": "Anthropic\u2019s leading AI assistant for research, writing, and complex reasoning.",
         "last_verified": "2026-05-07",
@@ -1455,8 +1455,8 @@
         "tool_name": "ChatGPT",
         "tool_url": "https://www.grabon.in/chatgpt-coupons/",
         "code": "$25k Credits",
-        "discount_amount": "$25k Credits (Active)",
-        "pricing_info": "$20 flagship subscription tier",
+        "discount_amount": "$2,500",
+        "pricing_info": "Active promo for OpenAI for Startups",
         "key_features": "Top discounts available for subscription plans.",
         "description": "ChatGPT is a versatile AI model developed by OpenAI, used for generating human-like text based on provided prompts and questions.",
         "category": "All-in-One AI"
@@ -1466,7 +1466,7 @@
         "tool_url": "https://stackedreview.com/perplexity-pro-free-trial/",
         "code": "N/A",
         "discount_amount": "20%",
-        "pricing_info": "Original Price: $20/month, Discounted Price: $16.67/month, Annual Savings: $40",
+        "pricing_info": "Free trial for 12 months with referral program for discounts afterwards.",
         "key_features": "Access to premium features with discounted rates after trial.",
         "description": "Perplexity Pro is an advanced version of the Perplexity AI platform, providing users with enhanced capabilities for data analysis and search efficiency, ideal for professionals seeking in-depth insights.",
         "category": "Search AI"
@@ -3190,5 +3190,135 @@
         "key_features": "Transforms ideas into original compositions",
         "description": "AI Song Generator is an innovative platform that assists creators in turning their musical ideas into original music efficiently, leveraging AI technology to streamline the creative process.",
         "category": "Music AI"
+    },
+    {
+        "tool_name": "Codex",
+        "tool_url": "https://zapier.com/blog/ai-coding-tools",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "OpenAI-first teams.",
+        "description": "Codex is an AI tool from OpenAI, aimed at enhancing productivity for development teams by providing a range of coding capabilities.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "v0 by Vercel",
+        "tool_url": "https://zapier.com/blog/ai-coding-tools",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Generating polished UI.",
+        "description": "v0 by Vercel is a tool focused on helping developers create visually appealing and polished user interfaces effortlessly.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "nxcode",
+        "tool_url": "https://github.com/orgs/community/discussions/187143",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Free for everyday coding and small to medium projects.",
+        "key_features": "Everyday coding, boilerplate, and small to medium projects.",
+        "description": "nxcode is an AI coding tool tailored for everyday use, especially useful for boilerplate code and small to medium-sized coding projects without a paid plan.",
+        "category": "Coding AI"
+    },
+    {
+        "tool_name": "Video Express AI",
+        "tool_url": "https://www.youtube.com/watch?v=2sQ6yRA73QI",
+        "code": "30% OFF",
+        "discount_amount": "30%",
+        "pricing_info": "Expiring soon, exclusive coupon.",
+        "key_features": "All-in-one AI video generator tool.",
+        "description": "Video Express AI provides an all-inclusive solution for generating videos using AI, aimed at simplifying the video production process for users.",
+        "category": "All-in-One AI"
+    },
+    {
+        "tool_name": "Maverick AI",
+        "tool_url": "https://mavgpt.ai/resources/chatgpt-discount-code-finder-2026",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Free guides available",
+        "key_features": "Provides a discount code finder for ChatGPT and other tools.",
+        "description": "Maverick AI offers resources and tools to help users find discount codes for various AI applications, including ChatGPT.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "Wispr Flow AI",
+        "tool_url": "https://www.youtube.com/watch?v=Zu3qTmbh9HY",
+        "code": "N/A",
+        "discount_amount": "$15",
+        "pricing_info": "Credit available.",
+        "key_features": "AI-driven workflow management.",
+        "description": "Wispr Flow AI is designed to streamline and optimize workflow processes using artificial intelligence, providing credits for users to enhance their experience.",
+        "category": "No-Code AI"
+    },
+    {
+        "tool_name": "Recraft AI",
+        "tool_url": "https://www.youtube.com/watch?v=Zu3qTmbh9HY",
+        "code": "N/A",
+        "discount_amount": "200",
+        "pricing_info": "Credits available.",
+        "key_features": "Creative AI solutions for design.",
+        "description": "Recraft AI employs artificial intelligence to assist users in creating and refining design projects, offering substantial credits to help users maximize its features.",
+        "category": "Image AI"
+    },
+    {
+        "tool_name": "Windsurf AI",
+        "tool_url": "https://www.youtube.com/watch?v=Zu3qTmbh9HY",
+        "code": "N/A",
+        "discount_amount": "500",
+        "pricing_info": "Credits available.",
+        "key_features": "AI-enhanced windsurfing tools.",
+        "description": "Windsurf AI provides innovative tools and insights for windsurfing enthusiasts, leveraging AI to improve performance and strategy with available credits.",
+        "category": "Sports AI"
+    },
+    {
+        "tool_name": "ElevenLabs TTS",
+        "tool_url": "https://www.youtube.com/watch?v=Zu3qTmbh9HY",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Text-to-speech capabilities using AI.",
+        "description": "ElevenLabs TTS offers high-quality text-to-speech services using advanced neural networks, allowing users to convert text into natural-sounding speech.",
+        "category": "Voice AI"
+    },
+    {
+        "tool_name": "HAQQ",
+        "tool_url": "https://www.haqq.ai/blog/best-legal-ai-tools-2026",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Chat from $30 a month, eFirm from $25 per user a month with a two-seat minimum",
+        "key_features": "AI-driven legal chat capabilities and firm management tools.",
+        "description": "HAQQ offers legal AI tools designed to streamline communications and manage legal workflows effectively.",
+        "category": "Legal AI"
+    },
+    {
+        "tool_name": "GC AI",
+        "tool_url": "https://gc.ai/blog/best-ai-tools-for-legal-research",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "Individual plan costs $500 per month; Team pricing available on request.",
+        "key_features": "Access to legal databases and AI-powered research capabilities.",
+        "description": "GC AI provides AI tools for legal research designed to enhance access to legal information and streamline case law investigations.",
+        "category": "Legal AI"
+    },
+    {
+        "tool_name": "Manus",
+        "tool_url": "https://manus.im/playbook/coupon-finder",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "N/A",
+        "key_features": "Automatic coupon finder; intelligent tool for discovering verified discount codes and promotions.",
+        "description": "Manus's AI coupon finder is designed to automatically search for and retrieve verified discount codes and promotional offers across various products and stores, enhancing the online shopping experience.",
+        "category": "Search AI"
+    },
+    {
+        "tool_name": "Simplified",
+        "tool_url": "https://simplified.startupworld.com",
+        "code": "N/A",
+        "discount_amount": "N/A",
+        "pricing_info": "27 Verified Offers",
+        "key_features": "Comprehensive tool offerings including writing and language processing.",
+        "description": "Simplified provides AI-based tools and features for writing, language processing, and more, designed to streamline and enhance content creation.",
+        "category": "Writing AI"
     }
 ]
